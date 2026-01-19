@@ -1,0 +1,34 @@
+## Editor de código
+.idx/
+.vscode/
+.cursor/
+.windsurf/
+.continue/
+
+## Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+## Entornos virtuales
+venv/
+env/
+.venv/
+
+## Sistemas operativos
+desktop.ini
+.DS_Store
+Thumbs.db
+
+## Respaldos y temporales
+*~
+.bak
+.tmp
+*.swp
+*.swo
+
+## Depuración
+debug/
+
+## Información sensible
+ModProject/ModData.cache
+ModProject/ModProject.cache
