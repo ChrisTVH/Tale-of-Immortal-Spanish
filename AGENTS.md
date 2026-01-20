@@ -104,7 +104,7 @@ ModProject/
 ## Common Translation Patterns
 
 - **UI**: Confirmar, Cancelar, Aceptar, Sí, No, Nombre, Género, Raza
-- **Attributes**: Vitalidad, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Longevidad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
+- **Attributes**: Vida, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Longevidad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
 - **Elements**: Fuego, Agua, Rayo, Viento, Tierra, Madera
 - **Cultivation**: Refinación de Qi, Fundación de Qi, Condensación de Qi, Núcleo Dorado, Origen de Espíritu, Infante Primordial, Recreación de Alma, Iluminación, Reconstitución, Ascensión
 - **Relations**: Maestro, Aprendiz, Pareja, Casado
