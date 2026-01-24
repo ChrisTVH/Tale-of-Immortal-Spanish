@@ -8,6 +8,8 @@ Este mod funciona de tal manera que sobreescribe el idioma inglés al español.
 También se podrían traducir las imágenes al español, pero si viste el
 "ModProjectPreview.png" te darás cuenta de que tengo cero habilidad con ello.
 
+¿Tiene dudas o problemas sobre el juego? [Vea aquí](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/wiki/Problemas-frecuentes).
+
 ## Archivos de Traducción - v1.2.111.259
 
 | Archivo | Descripción |
@@ -21,8 +23,8 @@ También se podrían traducir las imágenes al español, pero si viste el
 
 ## ¿Cómo contribuir al proyecto?
 
-Puedes abrir un **Issue** y reportar fallos gramaticales o incoherencias;
-también puedes hacer un **Fork** y enviar **Pull requests** con tus propias
+Puedes abrir un [**Issue**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/issues) y reportar fallos gramaticales o incoherencias;
+también puedes hacer un **Fork** y enviar [**Pull requests**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/pulls) con tus propias
 correcciones.
 
 Puedes encontrar los archivos de localización originales desde la carpeta raíz

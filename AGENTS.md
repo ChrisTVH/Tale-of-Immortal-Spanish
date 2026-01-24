@@ -1,48 +1,80 @@
-# Tale of Immortal Spanish Mod - Agent Guide
+# Guía de Agentes del Mod en Español de Tale of Immortal
 
-Spanish translation mod for "Tale of Immortal" (鬼谷八荒). JSON localization files that translate game text from Chinese to Spanish.
+Guía de localización para la traducción del juego Tale of Immortal (鬼谷八荒). Archivos JSON de localización que traducen textos del chino al español.
 
-## Build/Development Commands
+Índice
+- Flujo de trabajo
+- Validación
+- Pruebas
+- Git y commits
+- PRs
+- Guía de edición
+- Estilo y convenciones
+- Seguridad
 
-### Validation (Lint)
-```bash
-# Validate all JSON files
-for file in **/*.json; do jq empty "$file" && echo "✓ $file valid" || echo "✗ $file error"; done
+## Flujo de trabajo
+  - Define el objetivo de la tarea; identifica los archivos afectados.
+- Trabaja en ramas temáticas y evita commits grandes en una sola rama.
+- Prioriza cambios pequeños y reproducibles; evita cambios masivos sin verificación previa.
+- Mantén la consistencia con el repositorio y el proyecto.
 
-# Validate single file
-jq empty LocalText.json && echo "✓ LocalText.json valid"
+## Validación
+- Validación JSON/UTF-8:
+  ```bash
+  # Validar sintaxis JSON en todos los archivos JSON
+  for file in **/*.json; do jq empty "$file" && echo "\u2713 $file válido" || echo "\u2717 $file error"; done
 
-# Check for duplicate IDs
-jq 'group_by(.id) | map(select(length > 1)) | length' LocalText.json
-```
+  # Validar un archivo individual
+  jq empty LocalText.json && echo "\u2713 LocalText.json válido"
 
-### Testing Translations (Test)
-```bash
-# Run single test: validate JSON syntax
-jq empty LocalText.json && echo "✓ LocalText.json valid"
+  # Comprobar duplicados de IDs
+  jq 'group_by(.id) | map(select(length > 1)) | length' LocalText.json
+  ```
+- Codificación UTF-8 sin BOM:
+  ```bash
+  iconv -f UTF-8 -t UTF-8 LocalText.json > /dev/null && echo "\u2713 Codificación OK"
+  ```
+- Revisión de nombres y claves: claves en snake_case; IDs como cadenas; estructuras JSON válidas.
 
-# Count entries in file
-jq 'length' LocalText.json
+## Pruebas
+- Pruebas de traducción (Test) según la guía existente.
+- Comprobación de que el archivo LocalText.json tenga estructura y campos obligatorios.
 
-# Validate UTF-8 encoding
-iconv -f UTF-8 -t UTF-8 LocalText.json > /dev/null && echo "✓ encoding OK"
-```
+## Git y commits
+- Evita realizar cambios destructivos sin confirmación explícita.
+- Antes de un commit: revisar estado, diff y log reciente.
+- Plantilla de mensaje de commit enfocada en el porqué; 1–2 oraciones.
+- Reglas de seguridad: no modificar hooks, no reescribir historial a menos que se solicite expresamente.
+- Si hay cambios no deseados, ignóralos; no revertir cambios que no hayas hecho.
 
-### File Organization
-```bash
-# List JSON files by size
-ls -la **/*.json | sort -k5 -n
-```
+## PRs
+- Crear PRs con descripción clara de cambios y contexto.
+- Verificar que la rama esté sincronizada con remotos y base antes de crear PR.
+- Incluir resumen de cambios y impacto esperado.
 
-## Code Style Guidelines
+## Guía de edición
+- Formatos y convenciones de LocalText.json, RoleLogLocal.json, etc.
+- Mantener caracteres UTF-8, uso correcto de tildes y signos de apertura de exclamación.
+- Preservar etiquetas de juego (<r>, <g>, <b>, <color>, </color>, <size>, </size>, <align>, </align>, <indent>, </indent>, <y>, </y>) en las traducciones.
+- Mantener consistencia con nombres de archivos y estructuras de directorios descritas.
 
-### JSON Structure Standards
+## Estilo y convenciones
+- IDs: cadenas numéricas secuenciales a partir de '1'.
+- Claves: snake_case; entradas ordenadas alfabéticamente por clave en LocalText.json.
+- Codificación: UTF-8 sin BOM, caracteres especiales en español.
+- Evitar traducciones literales; mantener fluidez natural.
 
-1. **File Format**: Valid JSON arrays of objects
-2. **Object Structure**:
-   - `id`: Unique identifier (string, quotes required)
-   - `key`: Translation key (string, snake_case)
-   - `en`: Spanish translation (string, UTF-8)
+## Seguridad
+- No revelar secretos; no incluir credenciales en textos traducidos.
+- Verificar que no se introduzcan datos sensibles en archivos modificados.
+
+### Estructura JSON
+
+1. Formato de archivo: arreglos JSON válidos de objetos
+2. Estructura de objeto:
+   - id: Identificador único (cadena, entre comillas)
+   - key: Clave de traducción (cadena, snake_case)
+   - en: Traducción (UTF-8)
 
 ```json
 [
@@ -54,46 +86,45 @@ ls -la **/*.json | sort -k5 -n
 ]
 ```
 
-### Formatting
+### Formato
 
-- 2-space indentation, no trailing whitespace, LF line endings
-- IDs as strings (not integers) per existing convention
-- Keys in snake_case, descriptive and unique
-- Objects ordered alphabetically by `key` (LocalText.json) or `keyID` (RoleLogLocal.json)
+- Indentación de 2 espacios, sin espacios en blanco al final, finales de línea LF
+- IDs como cadenas (no enteros) según la convención existente
+- Claves en snake_case, descriptivas y únicas
+- Objetos ordenados alfabéticamente por `key` (LocalText.json) o `keyID` (RoleLogLocal.json)
 
-### Translation Guidelines
+### Directrices de traducción
 
-- UTF-8 encoding without BOM
-- Spanish characters: á, é, í, ó, ú, ü, ñ, Ñ, ¿, ¡
-- Keep translations concise for UI space
-- Use consistent gaming terminology
-- **Preserve game tags**: Always keep `<r>`, `<g>`, `<b>`, `<color>`, `</color>`, `<size>`, `</size>`, `<align>`, `</align>`, `<indent>`, `</indent>`, `<y>`, `</y>` tags in translations as they format game text (colors, sizes, alignment, indentation, highlighting)
-- **Grammar corrections (RAE rules)**:
-  - Add missing `¡` before exclamations (e.g., `¡Hola!`, not `¡Hola`)
-  - Fix accent marks on words (é, á, í, ó, ú, ná, más, pero, etc.)
-  - Use proper diacritics on `ü` when needed (vergüenza, but pingüino)
-  - Remove periods before closing parentheses (use `(texto).` not `(texto.)`)
-  - Use comma before `etc.` when applicable
-  - Correct verb conjugations and subject-verb agreement
-  - Apply personal `a` before direct objects referring to people (ver a alguien)
-  - Use consistent verb tense matching the original text
-  - Avoid literal translations that sound unnatural in Spanish
-  - Ensure coherent sentence structure and logical flow
+- Codificación UTF-8 sin BOM
+- Caracteres en español: á, é, í, ó, ú, ñ, Ñ, ¿, ¡
+- Mantener las traducciones concisas para el espacio de la UI
+- Usar terminología de juegos coherente
+- Mantener las etiquetas del juego: siempre conservar <r>, <g>, <b>, <color>, </color>, <size>, </size>, <align>, </align>, <indent>, </indent>, <y>, </y> en las traducciones
+- Reglas de gramática (RAE):
+   - Añadir la apertura de la exclamación al inicio de las exclamaciones (p. ej., ¡Hola!; no ¡Hola, ni Hola!).
+  - Corregir acentos en palabras (á, é, í, ó, ú, etc.).
+  - Eliminar puntos al final de palabras antes del paréntesis de cierre (usar (texto).).
+  - Usar coma antes de etc.
+  - Corregir conjugaciones verbales y concordancia sujeto-verbo
+  - Aplicar la preposición personal a antes de objetos directos que se refieren a personas (ver a alguien).
+  - Usar tiempos verbales consistentes con el texto original.
+  - Evitar traducciones literales que suenen poco naturales en español.
+  - Asegurar una estructura de oración coherente y un flujo lógico.
 
-### Naming Conventions
+### Convenciones de nombres
 
-- **Files**: PascalCase (`LocalText.json`, `NpcNameFirst.json`)
-- **Keys**: snake_case (`common_shi`, `role_character_name1`)
-- **IDs**: Sequential numeric strings, starting from "1"
+- Archivos: PascalCase (`LocalText.json`, `NpcNameFirst.json`)
+- Claves: snake_case
+- IDs: Cadenas numéricas secuenciales, que comienzan en "1"
 
-## File Organization
+## Organización de archivos
 
 ```
 ModProject/
 └── ModExcel/
     ├── LocalText.json              # General UI text
-    ├── RoleLogLocal.json           # Character logs
-    ├── Npcs/                       # Character names
+    ├── RoleLogLocal.json           # Registros de personajes
+    ├── Npcs/                       # Nombres de personajes
     │   ├── NpcNameFirst.json
     │   ├── NpcNameLast.json
     │   └── HerdNPCNameFirst.json
@@ -101,37 +132,37 @@ ModProject/
         └── BattleSkillPrefixName.json
 ```
 
-## Common Translation Patterns
+### Patrones comunes de traducción
 
-- **UI**: Confirmar, Cancelar, Aceptar, Sí, No, Nombre, Género, Raza
-- **Attributes**: Vida, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Longevidad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
-- **Elements**: Fuego, Agua, Rayo, Viento, Tierra, Madera
-- **Cultivation**: Refinación de Qi, Fundación de Qi, Condensación de Qi, Núcleo Dorado, Origen de Espíritu, Infante Primordial, Recreación de Alma, Iluminación, Reconstitución, Ascensión
-- **Relations**: Maestro, Aprendiz, Pareja, Casado
+- UI: Confirmar, Cancelar, Aceptar, Sí, No, Nombre, Género, Raza
+- Atributos: Vida, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Longevidad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
+- Elementos: Fuego, Agua, Rayo, Viento, Tierra, Madera
+- Cultivo: Refinación de Qi, Fundación de Qi, Condensación de Qi, Núcleo Dorado, Origen de Espíritu, Infante Primordial, Recreación de Alma, Iluminación, Reconstitución, Ascensión
+- Relaciones: Maestro, Aprendiz, Pareja, Casado
 
-## Validation Checklist
+## Checklist de validación
 
-Before committing:
-- [ ] JSON syntax valid
-- [ ] All entries have id, key, en
-- [ ] IDs unique per file
-- [ ] Spanish characters correct
-- [ ] No trailing whitespace
+Antes de confirmar:
+- [ ] Sintaxis JSON válida
+- [ ] Todas las entradas tienen id, key, en
+- [ ] IDs únicos por archivo
+- [ ] Caracteres en español correctos
+- [ ] Sin espacios en blanco al final
 
-## Adding New Entries
+## Añadir nuevas entradas
 
-When adding translations, follow these steps:
-1. Use the next sequential ID as a string.
-2. Use a descriptive snake_case key.
-3. Keep Spanish translations natural and concise.
-4. Place entries in the correct ID order.
+Al añadir traducciones, sigue estos pasos:
+1. Usa la siguiente ID secuencial como cadena.
+2. Usa una clave descriptiva en snake_case.
+3. Mantén las traducciones al español naturales y concisas.
+4. Coloca las entradas en el orden correcto de IDs.
 
-## Common Errors to Avoid
+## Errores comunes a evitar
 
-- Missing quotes around id field
-- Duplicate IDs within the same file
-- Trailing commas in JSON objects
-- Incorrect character encoding (use UTF-8 without BOM)
-- Literal translations that sound unnatural in Spanish
-- Paths with spaces not properly quoted in commands
-- Modifying files without first checking if paths contain spaces
+- Falta de comillas alrededor del campo id
+- IDs duplicados dentro del mismo archivo
+- Comas finales en objetos JSON
+- Codificación incorrecta (usar UTF-8 sin BOM)
+- Traducciones literales que suenen poco naturales en español
+- Rutas con espacios no entre comillas en comandos
+- Modificar archivos sin comprobar previamente si las rutas contienen espacios
