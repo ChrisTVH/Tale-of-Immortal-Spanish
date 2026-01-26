@@ -135,7 +135,7 @@ ModProject/
 ### Patrones comunes de traducción
 
 - UI: Confirmar, Cancelar, Aceptar, Sí, No, Nombre, Género, Raza
-- Atributos: Vida, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Longevidad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
+- Atributos: Vida, Energía, Suerte, Enfoque, Perspicacia, Reputación, Carisma, Edad, Humor, Salud, Resistencia, ATQ, DEF, Movimiento, Res marcial, Res espiritual, CRIT, RES CRIT, Agilidad, CRIT ATQ, CRIT RD, Hoja, Lanza, Espada, Puño, Palma, Dedo, Fuego, Agua, Rayo, Viento, Tierra, Madera, Alquimia, Forja, Feng Shui, Talismanes, Herbología, Minería
 - Elementos: Fuego, Agua, Rayo, Viento, Tierra, Madera
 - Cultivo: Refinación de Qi, Fundación de Qi, Condensación de Qi, Núcleo Dorado, Origen de Espíritu, Infante Primordial, Recreación de Alma, Iluminación, Reconstitución, Ascensión
 - Relaciones: Maestro, Aprendiz, Pareja, Casado
