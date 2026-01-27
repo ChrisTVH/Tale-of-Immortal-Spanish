@@ -30,7 +30,8 @@ correcciones.
 Puedes encontrar los archivos de localización originales desde la carpeta raíz
 del juego siguiendo esta ruta: "`\Mod\modFQA\配置修改教程\配置（只读）Json格式\`".
 
-“LocalText.json” y "RoleLogLocal.json" se ordenan por secciones en orden alfabético.
-Puedes encontrar su equivalente mediante la "id" o "key".
+En el proyecto las herramientas se guardan en `ModProject/Scripts/` puedes añadir los archivos
+originales a la carpeta `Default` y procesarlos con **process_json_files.py** y añadir las
+nuevas entradas al proyecto principal con **update_project_files.py**.
 
 Los que hagan aportaciones directas podrán ser añadidos a la cadena `ID | 22170 |`.
