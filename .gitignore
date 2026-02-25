@@ -30,6 +30,8 @@ Thumbs.db
 debug/
 ModProject/Scripts/Default/*
 ModProject/Scripts/Output/*
+!ModProject/Scripts/Default/.gitkeep
+!ModProject/Scripts/Output/.gitkeep
 
 ## Información sensible
 ModProject/ModData.cache

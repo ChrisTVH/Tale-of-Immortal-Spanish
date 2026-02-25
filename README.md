@@ -10,7 +10,7 @@ También se podrían traducir las imágenes al español, pero si viste el
 
 ¿Tiene dudas o problemas sobre el juego? [Vea aquí](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/wiki/Problemas-frecuentes).
 
-## Archivos de Traducción - v1.2.112.259 - 26/01/2026
+## Archivos de Traducción - v1.2.113.259 - 06/02/2026
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -24,7 +24,7 @@ También se podrían traducir las imágenes al español, pero si viste el
 ## ¿Cómo contribuir al proyecto?
 
 Puedes abrir un [**Issue**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/issues) y reportar fallos gramaticales o incoherencias;
-también puedes hacer un **Fork** y enviar [**Pull requests**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/pulls) con tus propias
+también puedes hacer un **Fork** y enviar [**PRs**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/pulls) con tus propias
 correcciones.
 
 Puedes encontrar los archivos de localización originales desde la carpeta raíz
