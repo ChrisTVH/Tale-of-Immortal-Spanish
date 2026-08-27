@@ -1,0 +1,9 @@
+!*.cs
+!*.json
+
+!/*.csproj
+!/*.sln
+
+!dll/**/*.dll
+
+obj/*

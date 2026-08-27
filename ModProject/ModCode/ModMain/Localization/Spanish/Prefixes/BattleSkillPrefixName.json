@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "1",
+    "es": "Flotante"
+  },
+  {
+    "id": "2",
+    "es": "Bailarín"
+  },
+  {
+    "id": "3",
+    "es": "Soplador"
+  },
+  {
+    "id": "4",
+    "es": "Caído"
+  },
+  {
+    "id": "5",
+    "es": "Errante"
+  },
+  {
+    "id": "6",
+    "es": "Cortador"
+  },
+  {
+    "id": "7",
+    "es": "Tomado"
+  },
+  {
+    "id": "8",
+    "es": "Pensador"
+  },
+  {
+    "id": "9",
+    "es": "Devastador"
+  },
+  {
+    "id": "10",
+    "es": "Portador"
+  },
+  {
+    "id": "11",
+    "es": "Rebanador"
+  },
+  {
+    "id": "12",
+    "es": "Reparador"
+  },
+  {
+    "id": "13",
+    "es": "Retornado"
+  },
+  {
+    "id": "14",
+    "es": "Forjador"
+  },
+  {
+    "id": "15",
+    "es": "Incendiario"
+  },
+  {
+    "id": "16",
+    "es": "Acaecido"
+  },
+  {
+    "id": "17",
+    "es": "Vidente"
+  },
+  {
+    "id": "18",
+    "es": "Quietud"
+  },
+  {
+    "id": "19",
+    "es": "Guerrero"
+  },
+  {
+    "id": "20",
+    "es": "Sello"
+  },
+  {
+    "id": "21",
+    "es": "Luna"
+  },
+  {
+    "id": "22",
+    "es": "Dragón"
+  },
+  {
+    "id": "23",
+    "es": "Estrella"
+  },
+  {
+    "id": "24",
+    "es": "Nube"
+  },
+  {
+    "id": "25",
+    "es": "Sangre"
+  },
+  {
+    "id": "26",
+    "es": "Espíritu"
+  },
+  {
+    "id": "27",
+    "es": "Demonio"
+  },
+  {
+    "id": "28",
+    "es": "Celeste"
+  },
+  {
+    "id": "29",
+    "es": "Inframundo"
+  },
+  {
+    "id": "30",
+    "es": "Bruto"
+  },
+  {
+    "id": "31",
+    "es": "Locura"
+  },
+  {
+    "id": "32",
+    "es": "Control"
+  },
+  {
+    "id": "33",
+    "es": "Hambre"
+  },
+  {
+    "id": "34",
+    "es": "Giro"
+  },
+  {
+    "id": "35",
+    "es": "Muerte"
+  },
+  {
+    "id": "36",
+    "es": "Vacío"
+  },
+  {
+    "id": "37",
+    "es": "Desterrado"
+  },
+  {
+    "id": "38",
+    "es": "Errante"
+  },
+  {
+    "id": "39",
+    "es": "Trampa"
+  },
+  {
+    "id": "40",
+    "es": "Escombros"
+  },
+  {
+    "id": "41",
+    "es": "Ciudad"
+  },
+  {
+    "id": "42",
+    "es": "Canal"
+  },
+  {
+    "id": "43",
+    "es": "Ladrón"
+  },
+  {
+    "id": "44",
+    "es": "Triturador"
+  },
+  {
+    "id": "45",
+    "es": "Arruinador"
+  },
+  {
+    "id": "46",
+    "es": "Pluma"
+  },
+  {
+    "id": "47",
+    "es": "Finalizador"
+  },
+  {
+    "id": "48",
+    "es": "Sombrío"
+  },
+  {
+    "id": "49",
+    "es": "Cobalto"
+  },
+  {
+    "id": "50",
+    "es": "Sangriento"
+  },
+  {
+    "id": "51",
+    "es": "Dorado"
+  },
+  {
+    "id": "52",
+    "es": "Obsidiana"
+  },
+  {
+    "id": "53",
+    "es": "Rubí"
+  },
+  {
+    "id": "54",
+    "es": "Plata"
+  },
+  {
+    "id": "55",
+    "es": "Sellador"
+  },
+  {
+    "id": "56",
+    "es": "Condenado"
+  },
+  {
+    "id": "57",
+    "es": "Cielo"
+  },
+  {
+    "id": "58",
+    "es": "Espejismo"
+  },
+  {
+    "id": "59",
+    "es": "Presteza"
+  },
+  {
+    "id": "60",
+    "es": "Ira"
+  },
+  {
+    "id": "61",
+    "es": "Destello"
+  },
+  {
+    "id": "62",
+    "es": "Éter"
+  },
+  {
+    "id": "63",
+    "es": "Tintero"
+  },
+  {
+    "id": "64",
+    "es": "Encadenador"
+  },
+  {
+    "id": "65",
+    "es": "Portador"
+  },
+  {
+    "id": "66",
+    "es": "Desertor"
+  },
+  {
+    "id": "67",
+    "es": "Destino"
+  },
+  {
+    "id": "68",
+    "es": "Mal"
+  },
+  {
+    "id": "69",
+    "es": "Despojo"
+  },
+  {
+    "id": "70",
+    "es": "Roedor"
+  },
+  {
+    "id": "71",
+    "es": "Silencio"
+  },
+  {
+    "id": "72",
+    "es": "Estallador"
+  },
+  {
+    "id": "73",
+    "es": "Desgarrador"
+  },
+  {
+    "id": "74",
+    "es": "Sufrimiento"
+  },
+  {
+    "id": "75",
+    "es": "Perforador"
+  },
+  {
+    "id": "76",
+    "es": "Temblor"
+  },
+  {
+    "id": "77",
+    "es": "Místico"
+  },
+  {
+    "id": "78",
+    "es": "Jade"
+  },
+  {
+    "id": "79",
+    "es": "Violeta"
+  },
+  {
+    "id": "80",
+    "es": "Miasma"
+  },
+  {
+    "id": "81",
+    "es": "Expulsor"
+  },
+  {
+    "id": "82",
+    "es": "Rey"
+  },
+  {
+    "id": "83",
+    "es": "Buscador"
+  },
+  {
+    "id": "84",
+    "es": "Origen"
+  },
+  {
+    "id": "85",
+    "es": "Fundidor"
+  },
+  {
+    "id": "86",
+    "es": "Explosivo"
+  },
+  {
+    "id": "87",
+    "es": "Solitario"
+  },
+  {
+    "id": "88",
+    "es": "Refracción"
+  },
+  {
+    "id": "89",
+    "es": "Sol"
+  },
+  {
+    "id": "90",
+    "es": "Lluvia"
+  },
+  {
+    "id": "91",
+    "es": "Perseguidor"
+  },
+  {
+    "id": "92",
+    "es": "Lavador"
+  },
+  {
+    "id": "93",
+    "es": "Noche"
+  },
+  {
+    "id": "94",
+    "es": "Devorador"
+  },
+  {
+    "id": "95",
+    "es": "Prisa"
+  },
+  {
+    "id": "96",
+    "es": "Infierno"
+  },
+  {
+    "id": "97",
+    "es": "Navaja"
+  },
+  {
+    "id": "98",
+    "es": "Llamarada"
+  },
+  {
+    "id": "99",
+    "es": "Sombra"
+  },
+  {
+    "id": "100",
+    "es": "Emperador"
+  },
+  {
+    "id": "101",
+    "es": "Filo"
+  },
+  {
+    "id": "102",
+    "es": "Asesino"
+  },
+  {
+    "id": "103",
+    "es": "Bendito"
+  },
+  {
+    "id": "104",
+    "es": "Rugido"
+  },
+  {
+    "id": "105",
+    "es": "Jinete"
+  },
+  {
+    "id": "106",
+    "es": "Miedo"
+  },
+  {
+    "id": "107",
+    "es": "Lamentador"
+  },
+  {
+    "id": "108",
+    "es": "Bloqueador"
+  },
+  {
+    "id": "109",
+    "es": "Forastero"
+  },
+  {
+    "id": "110",
+    "es": "Muerto"
+  },
+  {
+    "id": "111",
+    "es": "Impulsor"
+  },
+  {
+    "id": "112",
+    "es": "Corredor"
+  },
+  {
+    "id": "113",
+    "es": "Carpa"
+  },
+  {
+    "id": "114",
+    "es": "Viento"
+  },
+  {
+    "id": "115",
+    "es": "Tierra"
+  },
+  {
+    "id": "116",
+    "es": "Metal"
+  },
+  {
+    "id": "117",
+    "es": "Fuego"
+  },
+  {
+    "id": "118",
+    "es": "Agua"
+  },
+  {
+    "id": "119",
+    "es": "Esencia"
+  },
+  {
+    "id": "120",
+    "es": "Perla"
+  },
+  {
+    "id": "121",
+    "es": "Ira"
+  },
+  {
+    "id": "122",
+    "es": "Envidia"
+  },
+  {
+    "id": "123",
+    "es": "Lujuria"
+  },
+  {
+    "id": "124",
+    "es": "Codicia"
+  },
+  {
+    "id": "125",
+    "es": "Soberbia"
+  },
+  {
+    "id": "126",
+    "es": "Gula"
+  },
+  {
+    "id": "127",
+    "es": "Pereza"
+  },
+  {
+    "id": "128",
+    "es": "Prudencia"
+  },
+  {
+    "id": "129",
+    "es": "Justicia"
+  },
+  {
+    "id": "130",
+    "es": "Fortaleza"
+  },
+  {
+    "id": "131",
+    "es": "Templanza"
+  },
+  {
+    "id": "132",
+    "es": "Castidad"
+  },
+  {
+    "id": "133",
+    "es": "Caridad"
+  },
+  {
+    "id": "134",
+    "es": "Diligencia"
+  },
+  {
+    "id": "135",
+    "es": "Paciencia"
+  },
+  {
+    "id": "136",
+    "es": "Humildad"
+  },
+  {
+    "id": "137",
+    "es": "Misericordia"
+  },
+  {
+    "id": "138",
+    "es": "Valentía"
+  },
+  {
+    "id": "139",
+    "es": "Pureza"
+  },
+  {
+    "id": "140",
+    "es": "Sacrificio"
+  },
+  {
+    "id": "141",
+    "es": "Sabiduría"
+  },
+  {
+    "id": "142",
+    "es": "Vitalidad"
+  },
+  {
+    "id": "143",
+    "es": "Fuerza"
+  },
+  {
+    "id": "144",
+    "es": "Destreza"
+  },
+  {
+    "id": "145",
+    "es": "Encanto"
+  },
+  {
+    "id": "146",
+    "es": "Fidelidad"
+  },
+  {
+    "id": "147",
+    "es": "Decoro"
+  },
+  {
+    "id": "148",
+    "es": "Armonía"
+  },
+  {
+    "id": "149",
+    "es": "Integridad"
+  },
+  {
+    "id": "150",
+    "es": "Tortuga"
+  },
+  {
+    "id": "151",
+    "es": "Rostro"
+  },
+  {
+    "id": "152",
+    "es": "Herrero"
+  },
+  {
+    "id": "153",
+    "es": "Ceremonia"
+  },
+  {
+    "id": "154",
+    "es": "Gobernante"
+  },
+  {
+    "id": "155",
+    "es": "Sabio"
+  },
+  {
+    "id": "156",
+    "es": "Cristal"
+  },
+  {
+    "id": "157",
+    "es": "Polvo estelar"
+  },
+  {
+    "id": "158",
+    "es": "Caída lunar"
+  },
+  {
+    "id": "159",
+    "es": "Físico"
+  },
+  {
+    "id": "160",
+    "es": "Alma"
+  },
+  {
+    "id": "161",
+    "es": "Necio"
+  },
+  {
+    "id": "162",
+    "es": "Alquimista"
+  },
+  {
+    "id": "163",
+    "es": "Triturador"
+  },
+  {
+    "id": "164",
+    "es": "Restaurador"
+  },
+  {
+    "id": "165",
+    "es": "Doppler"
+  },
+  {
+    "id": "166",
+    "es": "Veracidad"
+  },
+  {
+    "id": "167",
+    "es": "Ondulador"
+  },
+  {
+    "id": "168",
+    "es": "Milenario"
+  },
+  {
+    "id": "169",
+    "es": "Cenizo"
+  },
+  {
+    "id": "170",
+    "es": "Tomador"
+  },
+  {
+    "id": "171",
+    "es": "Trinidad"
+  },
+  {
+    "id": "172",
+    "es": "Sendero"
+  },
+  {
+    "id": "173",
+    "es": "Intención"
+  },
+  {
+    "id": "174",
+    "es": "Juventud"
+  },
+  {
+    "id": "175",
+    "es": "Brillo"
+  },
+  {
+    "id": "176",
+    "es": "Espacio"
+  },
+  {
+    "id": "177",
+    "es": "Modelador"
+  },
+  {
+    "id": "178",
+    "es": "Observador"
+  },
+  {
+    "id": "179",
+    "es": "Nirvana"
+  },
+  {
+    "id": "180",
+    "es": "Carbón"
+  },
+  {
+    "id": "181",
+    "es": "Apertor"
+  },
+  {
+    "id": "182",
+    "es": "Franqueza"
+  },
+  {
+    "id": "183",
+    "es": "Caos"
+  },
+  {
+    "id": "184",
+    "es": "Espectador"
+  },
+  {
+    "id": "185",
+    "es": "Divisor"
+  },
+  {
+    "id": "186",
+    "es": "Gemelo"
+  },
+  {
+    "id": "187",
+    "es": "Paso"
+  },
+  {
+    "id": "188",
+    "es": "Nihil"
+  },
+  {
+    "id": "189",
+    "es": "Afilador"
+  },
+  {
+    "id": "190",
+    "es": "Mordedor"
+  },
+  {
+    "id": "191",
+    "es": "Azotador"
+  },
+  {
+    "id": "192",
+    "es": "Atador"
+  },
+  {
+    "id": "193",
+    "es": "Dispersión"
+  },
+  {
+    "id": "194",
+    "es": "Libertad"
+  },
+  {
+    "id": "195",
+    "es": "Oculto"
+  },
+  {
+    "id": "196",
+    "es": "Eón"
+  },
+  {
+    "id": "197",
+    "es": "Verdad"
+  },
+  {
+    "id": "198",
+    "es": "Apocalipsis"
+  },
+  {
+    "id": "199",
+    "es": "Removedor"
+  },
+  {
+    "id": "200",
+    "es": "Memoria"
+  },
+  {
+    "id": "201",
+    "es": "Nublado"
+  },
+  {
+    "id": "202",
+    "es": "Acorado"
+  },
+  {
+    "id": "203",
+    "es": "Ahogado"
+  },
+  {
+    "id": "204",
+    "es": "Congelado"
+  },
+  {
+    "id": "205",
+    "es": "Petalado"
+  },
+  {
+    "id": "206",
+    "es": "Estrellado"
+  },
+  {
+    "id": "207",
+    "es": "Iluminado por la luna"
+  },
+  {
+    "id": "208",
+    "es": "Cerúleo"
+  },
+  {
+    "id": "209",
+    "es": "Vacío"
+  },
+  {
+    "id": "210",
+    "es": "Animado"
+  },
+  {
+    "id": "211",
+    "es": "Helado"
+  },
+  {
+    "id": "212",
+    "es": "Vigoroso"
+  },
+  {
+    "id": "213",
+    "es": "Original"
+  },
+  {
+    "id": "214",
+    "es": "Aireado"
+  },
+  {
+    "id": "215",
+    "es": "Soleado"
+  },
+  {
+    "id": "216",
+    "es": "Afilado"
+  },
+  {
+    "id": "217",
+    "es": "Inframundo"
+  },
+  {
+    "id": "218",
+    "es": "Etéreo"
+  },
+  {
+    "id": "219",
+    "es": "Sombrío"
+  },
+  {
+    "id": "220",
+    "es": "Empolvado"
+  },
+  {
+    "id": "221",
+    "es": "Tintineante"
+  },
+  {
+    "id": "222",
+    "es": "Iluminado por el sol"
+  },
+  {
+    "id": "223",
+    "es": "Herido"
+  },
+  {
+    "id": "224",
+    "es": "Dracónico"
+  },
+  {
+    "id": "225",
+    "es": "Sangriento"
+  },
+  {
+    "id": "226",
+    "es": "Filoso"
+  },
+  {
+    "id": "227",
+    "es": "Sincero"
+  },
+  {
+    "id": "228",
+    "es": "Montañoso"
+  },
+  {
+    "id": "229",
+    "es": "Oscuro"
+  },
+  {
+    "id": "230",
+    "es": "Alado"
+  },
+  {
+    "id": "231",
+    "es": "Soñador"
+  },
+  {
+    "id": "232",
+    "es": "Luminoso"
+  },
+  {
+    "id": "233",
+    "es": "Floreciente"
+  },
+  {
+    "id": "234",
+    "es": "Mundano"
+  },
+  {
+    "id": "235",
+    "es": "Demoníaco"
+  },
+  {
+    "id": "236",
+    "es": "Graznador"
+  },
+  {
+    "id": "237",
+    "es": "Vinculante"
+  },
+  {
+    "id": "238",
+    "es": "Maligno"
+  },
+  {
+    "id": "239",
+    "es": "Ahumado"
+  },
+  {
+    "id": "240",
+    "es": "Tinto"
+  },
+  {
+    "id": "241",
+    "es": "Atronador"
+  },
+  {
+    "id": "242",
+    "es": "Cerezo"
+  },
+  {
+    "id": "243",
+    "es": "Nocturno"
+  },
+  {
+    "id": "244",
+    "es": "Jade"
+  },
+  {
+    "id": "245",
+    "es": "Frío"
+  },
+  {
+    "id": "246",
+    "es": "Amenazante"
+  },
+  {
+    "id": "247",
+    "es": "Pedregoso"
+  },
+  {
+    "id": "248",
+    "es": "Veraz"
+  },
+  {
+    "id": "249",
+    "es": "Tigris"
+  },
+  {
+    "id": "250",
+    "es": "Elevado"
+  },
+  {
+    "id": "251",
+    "es": "Vigoroso"
+  },
+  {
+    "id": "252",
+    "es": "Miasmático"
+  },
+  {
+    "id": "253",
+    "es": "Equilibrado"
+  },
+  {
+    "id": "254",
+    "es": "Velado"
+  },
+  {
+    "id": "255",
+    "es": "Esforzado"
+  },
+  {
+    "id": "256",
+    "es": "Formativo"
+  },
+  {
+    "id": "257",
+    "es": "Profundo"
+  },
+  {
+    "id": "258",
+    "es": "Divino"
+  },
+  {
+    "id": "259",
+    "es": "Fantasmal"
+  },
+  {
+    "id": "260",
+    "es": "Brillante"
+  },
+  {
+    "id": "261",
+    "es": "Elevado"
+  },
+  {
+    "id": "262",
+    "es": "Palpitante"
+  },
+  {
+    "id": "263",
+    "es": "Danzante"
+  },
+  {
+    "id": "264",
+    "es": "Resplandeciente"
+  },
+  {
+    "id": "265",
+    "es": "Sumergido"
+  },
+  {
+    "id": "266",
+    "es": "Errante"
+  },
+  {
+    "id": "267",
+    "es": "Concentrado"
+  },
+  {
+    "id": "268",
+    "es": "Puro"
+  },
+  {
+    "id": "269",
+    "es": "Mortífero"
+  },
+  {
+    "id": "270",
+    "es": "Deslizante"
+  },
+  {
+    "id": "271",
+    "es": "Rugiente"
+  },
+  {
+    "id": "272",
+    "es": "Escalofriante"
+  },
+  {
+    "id": "273",
+    "es": "Defectuoso"
+  },
+  {
+    "id": "274",
+    "es": "Prísmico"
+  },
+  {
+    "id": "275",
+    "es": "Pensante"
+  },
+  {
+    "id": "276",
+    "es": "Azul"
+  },
+  {
+    "id": "277",
+    "es": "Tormentoso"
+  },
+  {
+    "id": "278",
+    "es": "Ruinoso"
+  },
+  {
+    "id": "279",
+    "es": "Quebrantado"
+  },
+  {
+    "id": "280",
+    "es": "Transformado"
+  },
+  {
+    "id": "281",
+    "es": "Brumoso"
+  },
+  {
+    "id": "282",
+    "es": "Cantor"
+  },
+  {
+    "id": "283",
+    "es": "Decadente"
+  },
+  {
+    "id": "284",
+    "es": "Caído"
+  },
+  {
+    "id": "285",
+    "es": "Global"
+  },
+  {
+    "id": "286",
+    "es": "Nacido del vacío"
+  },
+  {
+    "id": "287",
+    "es": "Arenoso"
+  },
+  {
+    "id": "288",
+    "es": "Mareal"
+  },
+  {
+    "id": "289",
+    "es": "Ondulante"
+  },
+  {
+    "id": "290",
+    "es": "Húmedo"
+  },
+  {
+    "id": "291",
+    "es": "Onduloso"
+  },
+  {
+    "id": "292",
+    "es": "Sombrío"
+  },
+  {
+    "id": "293",
+    "es": "Amaneciente"
+  },
+  {
+    "id": "294",
+    "es": "Conectado"
+  },
+  {
+    "id": "295",
+    "es": "Valle"
+  },
+  {
+    "id": "296",
+    "es": "Empinado"
+  },
+  {
+    "id": "297",
+    "es": "Encumbrado"
+  },
+  {
+    "id": "298",
+    "es": "Transmisor"
+  },
+  {
+    "id": "299",
+    "es": "Fluyente"
+  },
+  {
+    "id": "300",
+    "es": "Río en curso"
+  },
+  {
+    "id": "301",
+    "es": "Absorto"
+  },
+  {
+    "id": "302",
+    "es": "Oceánico"
+  },
+  {
+    "id": "303",
+    "es": "Simbólico"
+  },
+  {
+    "id": "304",
+    "es": "Repicante"
+  },
+  {
+    "id": "305",
+    "es": "Abarcado"
+  },
+  {
+    "id": "306",
+    "es": "Maravilloso"
+  },
+  {
+    "id": "307",
+    "es": "Demoníaco"
+  },
+  {
+    "id": "308",
+    "es": "Inmortal"
+  },
+  {
+    "id": "309",
+    "es": "Marcial"
+  },
+  {
+    "id": "310",
+    "es": "Aviar"
+  },
+  {
+    "id": "311",
+    "es": "Irónico"
+  },
+  {
+    "id": "312",
+    "es": "Arrollador"
+  },
+  {
+    "id": "313",
+    "es": "Trasero"
+  },
+  {
+    "id": "314",
+    "es": "Terrenal"
+  },
+  {
+    "id": "315",
+    "es": "Corporal"
+  },
+  {
+    "id": "316",
+    "es": "Salvaje"
+  },
+  {
+    "id": "317",
+    "es": "Moviente"
+  },
+  {
+    "id": "318",
+    "es": "Acorazado"
+  },
+  {
+    "id": "319",
+    "es": "Peligroso"
+  },
+  {
+    "id": "320",
+    "es": "Sabio"
+  },
+  {
+    "id": "321",
+    "es": "Arce"
+  },
+  {
+    "id": "322",
+    "es": "Anserino"
+  },
+  {
+    "id": "323",
+    "es": "Brumoso"
+  },
+  {
+    "id": "324",
+    "es": "Ventoso"
+  },
+  {
+    "id": "325",
+    "es": "Unido"
+  },
+  {
+    "id": "326",
+    "es": "Solitario"
+  },
+  {
+    "id": "327",
+    "es": "Venidero"
+  },
+  {
+    "id": "328",
+    "es": "Aspectado"
+  },
+  {
+    "id": "329",
+    "es": "Vigoroso"
+  },
+  {
+    "id": "330",
+    "es": "Ritual"
+  },
+  {
+    "id": "331",
+    "es": "Fenomenal"
+  },
+  {
+    "id": "332",
+    "es": "Trigramático"
+  },
+  {
+    "id": "333",
+    "es": "Militar"
+  },
+  {
+    "id": "334",
+    "es": "Reflejante"
+  },
+  {
+    "id": "335",
+    "es": "Suave"
+  },
+  {
+    "id": "336",
+    "es": "Pacífico"
+  },
+  {
+    "id": "337",
+    "es": "Firmante"
+  },
+  {
+    "id": "338",
+    "es": "Material"
+  },
+  {
+    "id": "339",
+    "es": "Final"
+  },
+  {
+    "id": "340",
+    "es": "Flameante"
+  },
+  {
+    "id": "341",
+    "es": "Brillante"
+  },
+  {
+    "id": "342",
+    "es": "Palaciego"
+  },
+  {
+    "id": "343",
+    "es": "Defectuoso"
+  },
+  {
+    "id": "344",
+    "es": "Caminante"
+  },
+  {
+    "id": "345",
+    "es": "Belicoso"
+  },
+  {
+    "id": "346",
+    "es": "Asesino"
+  },
+  {
+    "id": "347",
+    "es": "Afilado"
+  },
+  {
+    "id": "348",
+    "es": "Definitivo"
+  },
+  {
+    "id": "349",
+    "es": "Cortante"
+  },
+  {
+    "id": "350",
+    "es": "Perla"
+  },
+  {
+    "id": "351",
+    "es": "Agrupador"
+  },
+  {
+    "id": "352",
+    "es": "Cegador"
+  },
+  {
+    "id": "353",
+    "es": "Aéreo"
+  },
+  {
+    "id": "354",
+    "es": "Combativo"
+  },
+  {
+    "id": "355",
+    "es": "Único"
+  },
+  {
+    "id": "356",
+    "es": "Conocedor"
+  },
+  {
+    "id": "357",
+    "es": "Marfil"
+  },
+  {
+    "id": "358",
+    "es": "Crepúsculo"
+  },
+  {
+    "id": "359",
+    "es": "Frondoso"
+  },
+  {
+    "id": "360",
+    "es": "Roedor"
+  },
+  {
+    "id": "361",
+    "es": "Voluntarioso"
+  },
+  {
+    "id": "362",
+    "es": "Deducción"
+  },
+  {
+    "id": "363",
+    "es": "Umbral"
+  },
+  {
+    "id": "364",
+    "es": "Amoroso"
+  },
+  {
+    "id": "365",
+    "es": "Nacarado"
+  },
+  {
+    "id": "366",
+    "es": "Sedoso"
+  },
+  {
+    "id": "367",
+    "es": "Universal"
+  },
+  {
+    "id": "368",
+    "es": "Líquido"
+  },
+  {
+    "id": "369",
+    "es": "Sólido"
+  },
+  {
+    "id": "370",
+    "es": "Atrapado"
+  },
+  {
+    "id": "371",
+    "es": "Místico"
+  },
+  {
+    "id": "372",
+    "es": "Nacimiento"
+  },
+  {
+    "id": "373",
+    "es": "Primero"
+  },
+  {
+    "id": "374",
+    "es": "Llave"
+  },
+  {
+    "id": "375",
+    "es": "Celeste"
+  },
+  {
+    "id": "376",
+    "es": "Acorralador"
+  },
+  {
+    "id": "377",
+    "es": "Poderoso"
+  },
+  {
+    "id": "378",
+    "es": "Forjador"
+  },
+  {
+    "id": "379",
+    "es": "Meteorico"
+  },
+  {
+    "id": "380",
+    "es": "Corrupto"
+  },
+  {
+    "id": "381",
+    "es": "Kármico"
+  },
+  {
+    "id": "382",
+    "es": "Gemelo"
+  },
+  {
+    "id": "383",
+    "es": "Tranquilo"
+  },
+  {
+    "id": "384",
+    "es": "Amontonado"
+  },
+  {
+    "id": "385",
+    "es": "Viviente"
+  },
+  {
+    "id": "386",
+    "es": "Instantáneo"
+  },
+  {
+    "id": "387",
+    "es": "Adornado"
+  },
+  {
+    "id": "388",
+    "es": "Ardiente"
+  },
+  {
+    "id": "389",
+    "es": "Emplumado"
+  },
+  {
+    "id": "390",
+    "es": "Atractivo"
+  },
+  {
+    "id": "391",
+    "es": "Mínimo"
+  },
+  {
+    "id": "392",
+    "es": "Primaveral"
+  },
+  {
+    "id": "393",
+    "es": "Cardinal"
+  },
+  {
+    "id": "394",
+    "es": "Aterrizado"
+  },
+  {
+    "id": "395",
+    "es": "Ventoso"
+  },
+  {
+    "id": "396",
+    "es": "Granizado"
+  },
+  {
+    "id": "397",
+    "es": "Sureño"
+  },
+  {
+    "id": "398",
+    "es": "Norteño"
+  },
+  {
+    "id": "399",
+    "es": "Oriental"
+  },
+  {
+    "id": "400",
+    "es": "Otoñal"
+  }
+]

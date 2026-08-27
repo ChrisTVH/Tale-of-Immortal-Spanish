@@ -1,38 +1,16 @@
-## Editor de código
-.idx/
-.vscode/
-.cursor/
-.windsurf/
-.continue/
+*
 
-## Sublime Text
-*.sublime-workspace
-*.sublime-project
+!*/
+!*.gitignore
+!*.gitkeep
 
-## Entornos virtuales
-venv/
-env/
-.venv/
+!docs/**/*.md
+!/*.md
+!/*.sh
+!/*.py
 
-## Sistemas operativos
-desktop.ini
-.DS_Store
-Thumbs.db
+!/LICENSE
 
-## Respaldos y temporales
-*~
-.bak
-.tmp
-*.swp
-*.swo
-
-## Depuración y desarrollo
-debug/
-ModProject/Scripts/Default/*
-ModProject/Scripts/Output/*
-!ModProject/Scripts/Default/.gitkeep
-!ModProject/Scripts/Output/.gitkeep
-
-## Información sensible
-ModProject/ModData.cache
-ModProject/ModProject.cache
+# Ignore debug artifacts (even though whitelisted above)
+debug
+obj

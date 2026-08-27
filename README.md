@@ -1,37 +1,87 @@
-# Tale of Immortal - Traducción al Español
+# Tale of Immortal - Traducción al español
 
-Mod de localización que traduce el texto del juego "Tale of Immortal" (鬼谷八荒)
-del chino al español.
+Mod de localización que traduce al español el texto del juego **Tale of Immortal** (鬼谷八荒).
 
-Este mod funciona de tal manera que sobreescribe el idioma inglés al español.
+El mod carga los archivos JSON como recursos integrados en una DLL de C# y aplica la traducción mediante parches de localización. En la configuración de idioma del juego aparece como una opción independiente de español.
 
-También se podrían traducir las imágenes al español, pero si viste el
-"ModProjectPreview.png" te darás cuenta de que tengo cero habilidad con ello.
+## Estado
 
-¿Tiene dudas o problemas sobre el juego? [Vea aquí](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/wiki/Problemas-frecuentes).
+- **Versión del juego:** `v1.2.113.259`
+- **Última actualización de contenido:** `06/02/2026`
 
-## Archivos de Traducción - v1.2.113.259 - 06/02/2026
+## Instalación y uso
+
+El mod está disponible en los canales oficiales:
+
+- [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3646970035)
+- [Releases de GitHub](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/releases)
+
+Después de instalarlo, abre la configuración de idioma del juego y selecciona **Español**. La selección se conserva para usos posteriores.
+
+Al activar el mod, es necesario reiniciar el juego para que el idioma cambie por completo.
+
+Para consultar dudas o problemas frecuentes, visita la [wiki del proyecto](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/wiki/Problemas-frecuentes).
+
+## Archivos de traducción
+
+Los recursos de localización se encuentran en `ModProject/ModCode/ModMain/Localization/Spanish/`:
 
 | Archivo | Descripción |
 |---------|-------------|
-| `ModExcel/LocalText.json` | Interfaz general del juego |
-| `ModExcel/RoleLogLocal.json` | Registros de personajes |
-| `ModExcel/Npcs/NpcNameFirst.json` | Nombres de pila de NPCs |
-| `ModExcel/Npcs/NpcNameLast.json` | Apellidos de NPCs |
-| `ModExcel/Npcs/HerdNPCNameFirst.json` | Nombres de NPCs de manada |
-| `ModExcel/Prefixes/BattleSkillPrefixName.json` | Prefijos de habilidades de combate |
+| `LocalText.json` | Interfaz general del juego |
+| `RoleLogLocal.json` | Registros de personajes |
+| `Npcs/NpcNameFirst.json` | Nombres de pila de NPCs |
+| `Npcs/NpcNameLast.json` | Apellidos de NPCs |
+| `Npcs/HerdNPCNameFirst.json` | Nombres de NPCs |
+| `Prefixes/BattleSkillPrefixName.json` | Prefijos de habilidades de combate |
 
-## ¿Cómo contribuir al proyecto?
+Los nombres de `Npcs/` y `Prefixes/` se mantienen como pinyin o transliteración del juego.
 
-Puedes abrir un [**Issue**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/issues) y reportar fallos gramaticales o incoherencias;
-también puedes hacer un **Fork** y enviar [**PRs**](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/pulls) con tus propias
-correcciones.
+## Estructura del proyecto
 
-Puedes encontrar los archivos de localización originales desde la carpeta raíz
-del juego siguiendo esta ruta: "`\Mod\modFQA\配置修改教程\配置（只读）Json格式\`".
+```text
+Scripts/
+├── Default/                  # Archivos originales de entrada
+└── Output/Processed/         # Archivos procesados y validados
 
-En el proyecto las herramientas se guardan en `ModProject/Scripts/` puedes añadir los archivos
-originales a la carpeta `Default` y procesarlos con **process_json_files.py** y añadir las
-nuevas entradas al proyecto principal con **update_project_files.py**.
+ModProject/ModCode/ModMain/
+├── Localization/Spanish/     # Recursos de la traducción
+└── bin/Release/              # DLL compilada
+```
 
-Los que hagan aportaciones directas podrán ser añadidos a la cadena `ID | 22170 |`.
+## Actualizar archivos de traducción
+
+Los archivos originales pueden encontrarse en la carpeta raíz del juego siguiendo esta ruta:
+`\Mod\modFQA\配置修改教程\配置（只读）Json格式\`.
+
+Copia los archivos de entrada en `Scripts/Default/` y ejecuta los scripts desde la raíz del repositorio:
+
+```bash
+python3 Scripts/process_json_files.py --dry-run
+python3 Scripts/process_json_files.py
+
+python3 Scripts/update_project_files.py --dry-run
+python3 Scripts/update_project_files.py
+```
+
+`process_json_files.py` valida y transforma los archivos en `Scripts/Output/Processed/`. Después, `update_project_files.py` incorpora las entradas nuevas a `Localization/Spanish/`. Este último script no reemplaza automáticamente las traducciones existentes.
+
+## Compilar el mod
+
+La compilación requiere `dotnet`, .NET Framework 4.7.2 y las bibliotecas de MelonLoader y del juego. Si la ruta del juego no coincide con la configurada en el proyecto, indícala mediante `GameRoot`:
+
+```bash
+python3 build.py /p:GameRoot="RUTA_AL_JUEGO"
+```
+
+La DLL se genera en:
+
+```text
+ModProject/ModCode/ModMain/bin/Release/MOD_pzAi9g.dll
+```
+
+## Contribuir
+
+Puedes [abrir un issue](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/issues) para reportar errores gramaticales, incoherencias o problemas de visualización, o enviar una pull request al repositorio principal.
+
+Antes de contribuir, consulta las [reglas de traducción](translation_guidelines.md), el [glosario](glossary.md) y la [licencia](LICENSE.md). Conserva los identificadores, las claves, los placeholders, las etiquetas y los espacios intencionales. Las aportaciones directas pueden añadirse a la cadena de créditos `ID | 22170 |`.
