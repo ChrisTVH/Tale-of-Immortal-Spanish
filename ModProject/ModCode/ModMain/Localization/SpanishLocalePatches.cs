@@ -2,6 +2,21 @@ using HarmonyLib;
 
 namespace MOD_pzAi9g.Localization
 {
+    internal static class SpanishLocaleTextFormatter
+    {
+        private const int DefaultBackgroundType = 1;
+
+        internal static string Format(string value)
+        {
+            return Format(value, DefaultBackgroundType);
+        }
+
+        internal static string Format(string value, int backgroundType)
+        {
+            return GameTool.TextToData(value, backgroundType);
+        }
+    }
+
     [HarmonyPatch(typeof(GameTool), "LS", new[] { typeof(string) })]
     internal static class GameToolLsPatch
     {
@@ -9,7 +24,7 @@ namespace MOD_pzAi9g.Localization
         {
             string value;
             if (SpanishLocale.TryLocalText(keys, out value))
-                __result = value;
+                __result = SpanishLocaleTextFormatter.Format(value);
             else if (keys == "ui_game_yingwen")
                 __result = "English";
         }
@@ -22,7 +37,7 @@ namespace MOD_pzAi9g.Localization
         {
             string value;
             if (SpanishLocale.TryLocalText(keys, out value))
-                __result = value;
+                __result = SpanishLocaleTextFormatter.Format(value, bgType);
             else if (keys == "ui_game_yingwen")
                 __result = "English";
         }
@@ -35,7 +50,7 @@ namespace MOD_pzAi9g.Localization
         {
             string value;
             if (SpanishLocale.TryLocalText(item, out value))
-                __result = value;
+                __result = SpanishLocaleTextFormatter.Format(value);
             else if (item != null && item.key == "ui_game_yingwen")
                 __result = "English";
         }
@@ -48,7 +63,7 @@ namespace MOD_pzAi9g.Localization
         {
             string value;
             if (SpanishLocale.TryRoleLog(item, out value))
-                __result = value;
+                __result = SpanishLocaleTextFormatter.Format(value);
         }
     }
 

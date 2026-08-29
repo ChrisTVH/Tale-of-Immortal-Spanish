@@ -317,8 +317,9 @@ def update_role_log_local(output_path, main_path, dry_run=False):
         "RoleLogLocal.json",
         structural_field="keyID",
         required_fields=("id", "keyID", "en"),
-        main_required_fields=("id", "keyID", "en"),
+        main_required_fields=("id", "keyID", "es"),
         sort_key=lambda x: natural_sort_key(x.get("keyID", "")),
+        entry_transform=to_localization_entry,
         dry_run=dry_run,
     )
 
@@ -355,9 +356,9 @@ def build_files_config(output_dir, localization_dir):
             "id_field": "id",
             "structural_field": "keyID",
             "required_fields": ("id", "keyID", "en"),
-            "main_required_fields": ("id", "keyID", "en"),
+            "main_required_fields": ("id", "keyID", "es"),
             "sort_key": lambda x: natural_sort_key(x.get("keyID", "")),
-            "entry_transform": None,
+            "entry_transform": to_localization_entry,
         },
         {
             "filename": "BattleSkillPrefixName.json",

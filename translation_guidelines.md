@@ -7,7 +7,7 @@
 - Usar correctamente tildes, ñ, ¿ y ¡; evitar traducciones literales poco naturales.
 - Aplicar la gramática española: concordancia, conjugaciones correctas, preposición personal «a» y coma antes de «etc.».
 - Mantener los archivos en UTF-8 sin BOM, con finales de línea LF y sin espacios finales.
-- Usar arreglos JSON de objetos con `id`, el campo estructural (`key` o `keyID`) y el campo de texto (`en` en los espejos procesados y en `RoleLogLocal.json`; `es` en los demás recursos de localización).
+- Usar arreglos JSON de objetos con `id`, el campo estructural (`key` o `keyID`) y el campo de texto: `en` en los espejos procesados y `es` en todos los recursos de localización del mod.
 - Mantener los `id` como cadenas numéricas únicas y secuenciales; usar claves descriptivas en `snake_case`.
 - Ordenar las entradas por `key` en `LocalText.json` y por `keyID` en `RoleLogLocal.json`.
 - Preservar espacios intencionales, sintaxis y abreviaturas: la fuente en chino no usa espacios o dispone de espacio muy limitado en UI; no añadir ni eliminar espacios de forma innecesaria y conservar abreviaturas como `ATQ`, `DEF`, `PV`, `Pmáx`, `U. Dao` si aportan concisión.
