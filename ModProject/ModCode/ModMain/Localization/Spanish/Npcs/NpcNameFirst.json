@@ -113,7 +113,7 @@
   },
   {
     "id": "29",
-    "es": "Mu"
+    "es": "Murong"
   },
   {
     "id": "30",
@@ -165,7 +165,7 @@
   },
   {
     "id": "42",
-    "es": "Xia"
+    "es": "Xiahou"
   },
   {
     "id": "43",
@@ -177,7 +177,7 @@
   },
   {
     "id": "45",
-    "es": "Zhong"
+    "es": "Zhongsun"
   },
   {
     "id": "46",
@@ -213,11 +213,11 @@
   },
   {
     "id": "54",
-    "es": "Tuo"
+    "es": "Tuoba"
   },
   {
     "id": "55",
-    "es": "Ao"
+    "es": "E"
   },
   {
     "id": "56",
@@ -273,11 +273,11 @@
   },
   {
     "id": "69",
-    "es": "Xuan"
+    "es": "Xuanyuan"
   },
   {
     "id": "70",
-    "es": "Gong"
+    "es": "Gongsun"
   },
   {
     "id": "71",
@@ -321,7 +321,7 @@
   },
   {
     "id": "81",
-    "es": "Shang"
+    "es": "Shangguan"
   },
   {
     "id": "82",
@@ -329,7 +329,7 @@
   },
   {
     "id": "83",
-    "es": "Zhong"
+    "es": "Zhongli"
   },
   {
     "id": "84",
@@ -353,7 +353,7 @@
   },
   {
     "id": "89",
-    "es": "Yu"
+    "es": "Yuwen"
   },
   {
     "id": "90",
@@ -365,7 +365,7 @@
   },
   {
     "id": "92",
-    "es": "Chun"
+    "es": "Chunyu"
   },
   {
     "id": "93",
@@ -389,7 +389,7 @@
   },
   {
     "id": "98",
-    "es": "Bao"
+    "es": "Bo"
   },
   {
     "id": "99",
@@ -557,7 +557,7 @@
   },
   {
     "id": "140",
-    "es": "Hu"
+    "es": "Huyan"
   },
   {
     "id": "141",
@@ -573,7 +573,7 @@
   },
   {
     "id": "144",
-    "es": "Huang"
+    "es": "Huangfu"
   },
   {
     "id": "145",
@@ -669,7 +669,7 @@
   },
   {
     "id": "168",
-    "es": "Bai li"
+    "es": "Baili"
   },
   {
     "id": "169",
@@ -677,7 +677,7 @@
   },
   {
     "id": "170",
-    "es": "Nan"
+    "es": "Nangong"
   },
   {
     "id": "171",
@@ -777,7 +777,7 @@
   },
   {
     "id": "195",
-    "es": "Ou"
+    "es": "Ouyang"
   },
   {
     "id": "196",
@@ -949,7 +949,7 @@
   },
   {
     "id": "238",
-    "es": "Si"
+    "es": "Sikong"
   },
   {
     "id": "239",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": "263",
-    "es": "Wen"
+    "es": "Wenren"
   },
   {
     "id": "264",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "269",
-    "es": "Xi"
+    "es": "Ximen"
   },
   {
     "id": "270",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "273",
-    "es": "Zhang"
+    "es": "Zhangsun"
   },
   {
     "id": "274",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "276",
-    "es": "Nan"
+    "es": "Nangong"
   },
   {
     "id": "277",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "279",
-    "es": "Wu"
+    "es": "Wuma"
   },
   {
     "id": "280",
@@ -1317,7 +1317,7 @@
   },
   {
     "id": "330",
-    "es": "Ling"
+    "es": "Linghu"
   },
   {
     "id": "331",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "335",
-    "es": "Dong"
+    "es": "Dongfang"
   },
   {
     "id": "336",
@@ -1365,7 +1365,7 @@
   },
   {
     "id": "342",
-    "es": "Miu"
+    "es": "Miao"
   },
   {
     "id": "343",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": "344",
-    "es": "Si tu"
+    "es": "Situ"
   },
   {
     "id": "345",
@@ -1449,7 +1449,7 @@
   },
   {
     "id": "363",
-    "es": "Xiu"
+    "es": "Su"
   },
   {
     "id": "364",
@@ -1485,7 +1485,7 @@
   },
   {
     "id": "372",
-    "es": "Nan"
+    "es": "Nanmen"
   },
   {
     "id": "373",
@@ -1509,7 +1509,7 @@
   },
   {
     "id": "378",
-    "es": "Zhu"
+    "es": "Zhuge"
   },
   {
     "id": "379",
@@ -1517,7 +1517,7 @@
   },
   {
     "id": "380",
-    "es": "Pu"
+    "es": "Puyang"
   },
   {
     "id": "381",
@@ -1565,7 +1565,7 @@
   },
   {
     "id": "392",
-    "es": "Xi"
+    "es": "Ji"
   },
   {
     "id": "393",
@@ -1629,246 +1629,246 @@
   },
   {
     "id": "408",
-    "es": "Tai"
+    "es": "Taishi"
   },
   {
     "id": "409",
-    "es": "Duan"
+    "es": "Duanmu"
   },
   {
     "id": "410",
-    "es": "Si"
+    "es": "Sima"
   },
   {
     "id": "411",
-    "es": "Du"
+    "es": "Dugu"
   },
   {
     "id": "412",
-    "es": "Mo"
+    "es": "Moqi"
   },
   {
     "id": "413",
-    "es": "Yu"
+    "es": "Yuchi"
   },
   {
     "id": "414",
-    "es": "Gong"
+    "es": "Gongyang"
   },
   {
     "id": "415",
-    "es": "He"
+    "es": "Helian"
   },
   {
     "id": "416",
-    "es": "Tan"
+    "es": "Dantai"
   },
   {
     "id": "417",
-    "es": "Zong"
+    "es": "Zongzheng"
   },
   {
     "id": "418",
-    "es": "Gong"
+    "es": "Gongye"
   },
   {
     "id": "419",
-    "es": "Tai"
+    "es": "Taishu"
   },
   {
     "id": "420",
-    "es": "Shen"
+    "es": "Shentu"
   },
   {
     "id": "421",
-    "es": "Xian"
+    "es": "Xianyu"
   },
   {
     "id": "422",
-    "es": "Lu"
+    "es": "Luqiu"
   },
   {
     "id": "423",
-    "es": "Zi"
+    "es": "Ziche"
   },
   {
     "id": "424",
-    "es": "Qi"
+    "es": "Qiguan"
   },
   {
     "id": "425",
-    "es": "Si"
+    "es": "Sikou"
   },
   {
     "id": "426",
-    "es": "Gong"
+    "es": "Gongxi"
   },
   {
     "id": "427",
-    "es": "Zhuan"
+    "es": "Zhuansun"
   },
   {
     "id": "428",
-    "es": "Rang"
+    "es": "Rangsi"
   },
   {
     "id": "429",
-    "es": "Jie"
+    "es": "Gongliang"
   },
   {
     "id": "430",
-    "es": "Qi"
+    "es": "Qidiao"
   },
   {
     "id": "431",
-    "es": "Yue"
+    "es": "Yuezheng"
   },
   {
     "id": "432",
-    "es": "Zai"
+    "es": "Zaifu"
   },
   {
     "id": "433",
-    "es": "Gu"
+    "es": "Guliang"
   },
   {
     "id": "434",
-    "es": "Tuo"
+    "es": "Tuoba"
   },
   {
     "id": "435",
-    "es": "Jia"
+    "es": "Jiagu"
   },
   {
     "id": "436",
-    "es": "Duan"
+    "es": "Duangan"
   },
   {
     "id": "437",
-    "es": "Dong"
+    "es": "Dongguo"
   },
   {
     "id": "438",
-    "es": "Yang"
+    "es": "Yangshe"
   },
   {
     "id": "439",
-    "es": "Wei"
+    "es": "Weisheng"
   },
   {
     "id": "440",
-    "es": "Xing"
+    "es": "Gonghu"
   },
   {
     "id": "441",
-    "es": "Jia"
+    "es": "Gongyu"
   },
   {
     "id": "442",
-    "es": "Ming"
+    "es": "Gongyi"
   },
   {
     "id": "443",
-    "es": "Liang"
+    "es": "Liangqiu"
   },
   {
     "id": "444",
-    "es": "Bai"
+    "es": "Gongzhong"
   },
   {
     "id": "445",
-    "es": "Wan"
+    "es": "Gongshang"
   },
   {
     "id": "446",
-    "es": "Lin"
+    "es": "Gongmen"
   },
   {
     "id": "447",
-    "es": "Shang"
+    "es": "Gongshan"
   },
   {
     "id": "448",
-    "es": "Sha"
+    "es": "Gongjian"
   },
   {
     "id": "449",
-    "es": "Zuo"
+    "es": "Zuoqiu"
   },
   {
     "id": "450",
-    "es": "Qie"
+    "es": "Gongbo"
   },
   {
     "id": "451",
-    "es": "Gong"
+    "es": "Gongzu"
   },
   {
     "id": "452",
-    "es": "Di wu"
+    "es": "Diwu"
   },
   {
     "id": "453",
-    "es": "Lang"
+    "es": "Gongcheng"
   },
   {
     "id": "454",
-    "es": "Guan"
+    "es": "Guanqiu"
   },
   {
     "id": "455",
-    "es": "Gong"
+    "es": "Gongxi"
   },
   {
     "id": "456",
-    "es": "Nan"
+    "es": "Nanrong"
   },
   {
     "id": "457",
-    "es": "Juan"
+    "es": "Dongli"
   },
   {
     "id": "458",
-    "es": "Dan"
+    "es": "Donggong"
   },
   {
     "id": "459",
-    "es": "Zhong"
+    "es": "Zhongchang"
   },
   {
     "id": "460",
-    "es": "Zi"
+    "es": "Zishu"
   },
   {
     "id": "461",
-    "es": "Zi"
+    "es": "Zisang"
   },
   {
     "id": "462",
-    "es": "Ji"
+    "es": "Jimo"
   },
   {
     "id": "463",
-    "es": "Da"
+    "es": "Daxi"
   },
   {
     "id": "464",
-    "es": "Chu"
+    "es": "Chushi"
   },
   {
     "id": "465",
-    "es": "Wu"
+    "es": "Wuming"
   },
   {
     "id": "466",
-    "es": "Na"
+    "es": "Nalan"
   },
   {
     "id": "467",
-    "es": "Gui"
+    "es": "Guihai"
   },
   {
     "id": "468",
-    "es": "Liu"
+    "es": "Liufu"
   }
 ]
