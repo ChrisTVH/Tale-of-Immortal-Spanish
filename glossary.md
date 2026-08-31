@@ -254,7 +254,7 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | Concepto | Traducción preferida |
 | --- | --- |
 | Holy Spring | Manantial Sagrado |
-| Bagua Jade Point | Punto Jade Bagua |
+| Bagua Jade Point | Puntos de Jade Bagua |
 | Celestial Eye | Ojo Celestial |
 | Spirit Fruits G4 | Frutas espirituales G4 |
 | Guigu Studio | Guigu Studio |
@@ -305,9 +305,9 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | 赤魂玫瑰 / Crimson Rose | Rosa Carmesí |
 | 向天草 / Sky Grass | Hierba Celeste |
 | 谷箻桑 / Avian Berry | Baya Aviana |
-| 万年白茯神 / Millennium Yam | Ñame Milenario |
+| 万年白茯神 / Millennium Yam | Ñame del Milenio |
 | 九曲灵参 / Melody Ginseng | Ginseng Melódico |
-| 复盆麦门冬 / Dwarf Lilyturf | Lirio Enano |
+| 复盆麦门冬 / Dwarf Lilyturf | Lirio enano |
 | 泪玉之瞳 / Tear Jade Eye | Ojo de Jade Lagrimal |
 | 当扈 / Danghu | Danghu |
 | 獙獙 / Bibi | Bibi |
@@ -393,3 +393,152 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | 破格 / Rule Breaker | Rompe-Reglas |
 | 缚命仙祠 / Destiny Catcher shrine | Santuario del Destino Atado |
 | 固本肉苁蓉 / Desert Broomrape | jopo del desierto |
+
+## Terminología añadida en la primera unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 正 / town name | Zheng (nombre de pueblo) |
+| 真火 / Samadhi Flame (forja) | Llama Samadhi |
+| 小小 / Lil' / little | Pequeño (en nombres de mazmorra) |
+| 龙脉 / Dragon Vein | Vena de Dragón |
+| 流沙之域 / Quicksand's Reach | Tierras de Arenas Movedizas |
+| 炙炎之域 / Blazing Lands | Tierras Ardientes |
+| 极寒之地 / Arctic Field | Campo Ártico |
+| 雷罚之地 / Lightning Lands | Tierras del Rayo |
+| 暴风山谷 / Stormvale | Valle de la Tormenta |
+| 醉花林境 / Drunk Flower Forest | Bosque de Flores Borrachas |
+| 灵糠 / Spirit Bran | Salvado Espiritual |
+| 龙女 / Dragon Girl | Chica Dragón (personaje femenino) |
+| 六道灵珠 / Qi Orb | orbe de Qi |
+| 六道灵斗气 / Condensed Qi | Qi condensado |
+| 六道灵斗珠 / Condensed Qi Orb | orbe de Qi condensado |
+| 坛子 / jar | vasija |
+| 山猪 / mountain pig | jabalí |
+| 心得 / insight | conocimiento o comprensión según el contexto |
+| 进益 / progress | progreso |
+
+## Terminología añadida en la segunda unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 蕴魂蒲阳 / Soul Basis Vine | vid de base del alma |
+| 疾影 / Swift Shadow | Sombra veloz |
+| 潮涌 / Tidal Surge | Marejada |
+| 草木皆兵 / Flora Minions | Plantas belicosas |
+| 烈风喷涌 / Gust Gush | Oleada de vendaval |
+| 雷球 / Lightning Ball | orbe de Rayo |
+| 天翎剑意 / Empyrean Edge | Filo empíreo |
+| 裂魂 / Soul Break | Alma rota |
+| 狂暴 / Berserk | Frenesí |
+| 赤阳丹 / Scarlet Sun Elixir | Elixir del sol escarlata |
+| 玉器 / Jadeware | objetos de jade |
+| 龙璃灵金 / Dragonglass Gold | Oro de Vidriodragón |
+| 小跟屁龙 / Small Follower Dragon | Pequeño Dragón Seguidor |
+| 壶妖 / Gourd Imp | bestia calabaza |
+| 壶妖修为丹 / Imp EXP Elixir | Elixir de EXP de bestia |
+| 灼龙族 / Flaming Dragon clan | Clan del Dragón Llameante |
+
+## Terminología ampliada en la revisión de la segunda unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 于儿神 / Yu'er Shen | Yu'er Shen (criatura) |
+| 溟霖鼎 / Water Dragon Cauldron | Caldero del Dragón de Agua |
+| 极意化瘀丹 | Elixir de Vida refinado |
+| 极意培元丹 | Elixir de nutrición refinado |
+| 兀蛇族 | Clan de la Serpiente Vudú |
+| 蛮豚族 | Clan del Jabalí Salvaje |
+| 成蛟 / Jiao dragon | Dragón Jiao |
+| 东方沐晴 / Dongfang Muqing | Dongfang Muqing (personaje femenino) |
+| 沁圭 / Qingui | Qingui (guqin) |
+| 陶埙 / clay xun | ocarina de barro |
+| 暴击倍数 / critical multiplier | multiplicador de golpe crítico |
+| 鲮鱼 / Lingyu | Carpia |
+| 草木牵引 / Flora Attraction | Atracción de plantas |
+| 跟屁虫 / follower bug | insecto seguidor |
+| 龙鸾 / Dragon-Luan | clanes del Dragón y del Pájaro de Jade |
+
+## Terminología añadida en la tercera unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 李四 / Li Si | Li Si (personaje masculino) |
+| 风萍末 / Feng Pingmo | Feng Pingmo (personaje femenino) |
+| 大妖兽 / greater demon beast | bestia demoníaca mayor |
+| 符谱 / talisman manual | manual de talismán |
+| 技艺栏 / skills tab | pestaña de técnicas |
+| 霓裳草 / Silk Grass | Hierba de seda |
+| 天光七叶莲 / Sky Ray Schefflera | Rayo Celeste de Esqueflera |
+| 融血阳芝 / Blood Sun Lingzhi | Sol de sangre Lingzhi |
+| 血魂麝香 / Blood Musk Mallow | Malva almizclera de sangre |
+| 金阳火榴果 / Blazing Sun Berry | Baya del Sol Ardiente |
+| 复盆麦门冬 / Dwarf Lilyturf | Lirio enano |
+| 鸓 / Fly Mouse | Ratón volador |
+| 两足犬 / Bipedal Hound | Sabueso bípedo |
+| 牢笼僵尸 / Cage Zombie | Zombi de Jaula |
+| 狐灵玉 / Vixen Jade | Zorra Jade |
+| 三品玄元丹 / Unity Elixir G3 | Elixir de unidad G3 |
+| 阳王丹炉 / Sun Crow Furnace | Horno del Rey Sol |
+| 云锦素绢 / Brocade Silk | Seda Brocada |
+| 冰羽石像 | Estatua de Plumas de Hielo |
+| 镇元锁灵阵 / Spiritlock Array | formación de bloqueo espiritual que suprime el Yuan |
+| 念力 / Focus | Enfoque |
+
+## Terminología añadida en la cuarta unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 驻颜果 / Beauty Fruit | Fruta de belleza |
+| 天葵鸟尾草 / Begonia Grass | Hierba begonia |
+| 阳炎精金 / Sun Flame | Llama del Sol |
+| 破魂飞剑 / Soulbreak Flying Sword | Espada voladora Rompealmas |
+| 青空重瞳 / Sky Double Pupils | Pupilas dobles del cielo |
+| 轰天拳 / Skyblast Fist | Puño Explosivo del Cielo |
+| 骤天剑 / Skyfall Sword | Espada de Caída del Cielo |
+| 裂天风涌 / Skybreak Storm | Tormenta Rompecielos |
+| 残天式 / Move of Broken Sky | Movimiento del Cielo Roto |
+| 霸王盾 / Overlord's Shield | Escudo del Señor Supremo |
+| 小小左 / Lil' Left | Pequeño Izquierdo |
+| 木精 / Wood Sprite | espíritu de madera |
+
+## Terminología añadida en la quinta unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 断筋刺 / Piercing Sting | Picadura perforadora |
+| 破体箭 / Sundering Arrow | Flecha desgarradora |
+| 飞芒 / Sharp Edge | Vanguardia |
+| 啸斩 / Roaring Slash | Tajo rugiente |
+| 断筋 / Hamstring | Bíceps femoral |
+| 水意冰 / Flowing Ice | Hielo Fluyente |
+| 魔印掌 / Demonic Mark Palm | Palma de marca demoníaca |
+| 落石 / Falling Rock | Roca que cae |
+| 炼体丹 / Physique Elixir | Elixir físico |
+| 拘灵符 / Soul Cage Talisman | Talismán de la jaula del alma |
+| 甘露符 / Manna Talisman | Talismán de maná |
+| 诱兽符 / Monster Lure Talisman | Talismán de señuelo de monstruos |
+| 浴火石 / Flameward Stone | Piedra bañada en fuego |
+| 云中丹 / Cloud Elixir | Elixir de nube |
+| 四品蜕骨丹 / G4 Golden Bone Elixir | Elixir de hueso dorado G4 |
+| 三品复生丹 / G3 Revival Elixir | Elixir de avivamiento G3 |
+| 四品子午丹 / G4 Meridian Elixir | Elixir del meridiano G4 |
+| 阳炎晶金 / Sunfire Crystal | Cristal de Fuego Solar |
+| 妄象 | Espejismo |
+| 玄召 | Invocación arcana |
+| 蚤妖 | demonio pulga |
+| 戾斑族 / Brute Mark Clan | Clan de la Marca Fiera |
+| 灵流术 / Spiritual Torrent | Flujo Espiritual |
+| 魅壤 / Tempting Soil | Tierra Tentadora |
+
+## Terminología ampliada en la revisión de la quinta unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 辰火硫骨 / Dawnfire Husk | Hueso de azufre del Fuego del Alba |
+| 掌身法 / Palm Movement Technique | habilidad de movimiento de palma |
+| 火意拳 / Fire-Intent Fist | Puño Ardiente |
+| 冥意剑 / Nether-Intent Sword | Espada Abisal |
+| 冰风之眼 / Ice Wind Eye | Ojo Helado Celestial |
+| 冰霜风暴 / Frost Storm | Tormenta de Hielo |
+| 分裂箭 / Split Arrow | Flecha que se divide |

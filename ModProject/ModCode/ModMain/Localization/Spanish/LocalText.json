@@ -5492,7 +5492,7 @@
   {
     "id": "30817",
     "key": "artifactShape_fireWhereGet",
-    "es": "Samadhi Flames se puede canjear en el Pabellón del Tesoro de tu secta."
+    "es": "La Llama Samadhi se puede obtener mediante canje en el Pabellón del Tesoro de tu secta."
   },
   {
     "id": "30818",
@@ -6242,7 +6242,7 @@
   {
     "id": "6067",
     "key": "battle_dungeon_desc4705",
-    "es": "Arenas Movedizas aparece periódicamente en el suelo en Arenas Movedizas's Reach."
+    "es": "En Tierras de Arenas Movedizas aparecen periódicamente arenas movedizas en el suelo."
   },
   {
     "id": "6068",
@@ -6747,17 +6747,17 @@
   {
     "id": "5990",
     "key": "battle_dungeon_info2013",
-    "es": "Venganza: Lil' Correcto"
+    "es": "Venganza: Pequeño Derecho"
   },
   {
     "id": "5991",
     "key": "battle_dungeon_info2014",
-    "es": "Venganza: Lil Este"
+    "es": "Venganza: Pequeño Este"
   },
   {
     "id": "5992",
     "key": "battle_dungeon_info2015",
-    "es": "Venganza: Lil Oeste"
+    "es": "Venganza: Pequeño Oeste"
   },
   {
     "id": "5993",
@@ -7582,7 +7582,7 @@
   {
     "id": "5737",
     "key": "battle_dungeon_name2001",
-    "es": "Vulpus codicioso"
+    "es": "Zorro codicioso"
   },
   {
     "id": "5738",
@@ -7642,17 +7642,17 @@
   {
     "id": "5749",
     "key": "battle_dungeon_name2013",
-    "es": "Venganza: Lil' Correcto"
+    "es": "Venganza: Pequeño Derecho"
   },
   {
     "id": "5750",
     "key": "battle_dungeon_name2014",
-    "es": "Venganza: Lil Este"
+    "es": "Venganza: Pequeño Este"
   },
   {
     "id": "5751",
     "key": "battle_dungeon_name2015",
-    "es": "Venganza: Lil Oeste"
+    "es": "Venganza: Pequeño Oeste"
   },
   {
     "id": "5752",
@@ -8032,7 +8032,7 @@
   {
     "id": "5827",
     "key": "battle_dungeon_name4705",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5828",
@@ -8062,7 +8062,7 @@
   {
     "id": "5833",
     "key": "battle_dungeon_name4711",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5834",
@@ -8092,7 +8092,7 @@
   {
     "id": "5839",
     "key": "battle_dungeon_name4717",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5840",
@@ -8122,7 +8122,7 @@
   {
     "id": "5845",
     "key": "battle_dungeon_name4723",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5846",
@@ -8162,7 +8162,7 @@
   {
     "id": "5853",
     "key": "battle_dungeon_name4731",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5854",
@@ -8627,7 +8627,7 @@
   {
     "id": "32776",
     "key": "battle_dungeon_name100301",
-    "es": "Adquisición de Small Vena de Dragón"
+    "es": "Batalla por la captura de una pequeña Vena de Dragón"
   },
   {
     "id": "32777",
@@ -12597,7 +12597,7 @@
   {
     "id": "39470",
     "key": "battleAbility_suitDesc1_10020",
-    "es": "El alcance de Palma de Tormenta se duplica y rastrea a los enemigos automáticamente dentro del alcance. Cada lanzamiento de Palma de Tormenta aumenta el daño de Palma de Tormenta en un 5% durante la duración de una habilidad de movimiento de Palm"
+    "es": "El alcance de Palma de Tormenta se duplica y rastrea automáticamente a los enemigos dentro del alcance. Mientras dure la habilidad de movimiento de palma, cada lanzamiento de Palma de Tormenta aumenta su daño un 5%."
   },
   {
     "id": "39471",
@@ -12627,7 +12627,7 @@
   {
     "id": "39476",
     "key": "battleAbility_suitDesc1_10026",
-    "es": "Cuando tienes más del 50 % de energía, Spiritual Torrent consume un 0,25 % de energía máxima por segundo para obtener misiles de penetración mejorados y causar un 100 % más de daño"
+    "es": "Cuando tienes más del 50 % de energía, Flujo Espiritual consume un 0,25 % de la energía máxima por segundo para mejorar sus proyectiles, lo que les permite perforar y aumenta su daño un 100 %."
   },
   {
     "id": "39477",
@@ -12812,7 +12812,7 @@
   {
     "id": "39390",
     "key": "battleAbility_suitName10004",
-    "es": "Movimiento de Broken Sky"
+    "es": "Movimiento del Cielo Roto"
   },
   {
     "id": "39391",
@@ -13672,7 +13672,7 @@
   {
     "id": "5491",
     "key": "building1001Name5",
-    "es": "Tierras de Roca y Arena"
+    "es": "Tierras de Arenas Movedizas"
   },
   {
     "id": "5492",
@@ -15557,7 +15557,7 @@
   {
     "id": "39608",
     "key": "chickenskillname_2821051",
-    "es": "Estatua Minions"
+    "es": "Estatua de Plumas de Hielo"
   },
   {
     "id": "39609",
@@ -24417,7 +24417,7 @@
   {
     "id": "8073",
     "key": "drama_dialogue610386",
-    "es": "(Parece que si quiero ayudar a los aldeanos, necesitaré encontrar a Siempreverde y tomar su Orbe del Alma...)"
+    "es": "(Parece que si quiero ayudar a los aldeanos, necesitaré encontrar a Siempreverde y tomar su Orbe del Alma…)"
   },
   {
     "id": "8074",
@@ -26007,7 +26007,7 @@
   {
     "id": "8395",
     "key": "drama_dialogue610789",
-    "es": "Si tienes el Cloud Elixir, puedes usarlo para avanzar hasta la etapa G4 Núcleo Dorado."
+    "es": "Si consigues el Elixir de nube, podrás avanzar al reino Núcleo Dorado G4."
   },
   {
     "id": "8396",
@@ -26097,7 +26097,7 @@
   {
     "id": "8413",
     "key": "drama_dialogue610807",
-    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de Qi en 6 Qi. Puedes encontrar los fragmentos en Blazing Lands, Arctic Field, Tierras del Rayo, Valle de la Tormenta, Arenas Movedizas's Reach o Drunk Flower Forest."
+    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de Qi y obtener 6 Qi. Puedes encontrar los fragmentos en los alrededores de la ciudad, en Tierras Ardientes, Campo Ártico, Tierras del Rayo, Valle de la Tormenta, Tierras de Arenas Movedizas o Bosque de Flores Borrachas."
   },
   {
     "id": "8414",
@@ -26107,7 +26107,7 @@
   {
     "id": "8415",
     "key": "drama_dialogue610809",
-    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de orbes de Qi en 6 orbes de Qi. Puedes encontrar los fragmentos por la ciudad en Blazing Lands, Arctic Field, Tierras del Rayo, Valle de la Tormenta, Arenas Movedizas's Reach o Bosque de Flores Borrachas."
+    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de orbes de Qi y obtener 6 orbes de Qi. Puedes encontrar los fragmentos en los alrededores de la ciudad, en Tierras Ardientes, Campo Ártico, Tierras del Rayo, Valle de la Tormenta, Tierras de Arenas Movedizas o Bosque de Flores Borrachas."
   },
   {
     "id": "8416",
@@ -26127,7 +26127,7 @@
   {
     "id": "8419",
     "key": "drama_dialogue610813",
-    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de Qi condensado en 6 Qi condensados. Puedes encontrar los fragmentos en la ciudad en Blazing Lands, Arctic Field, Tierras del Rayo, Valle de la Tormenta, Arenas Movedizas's Reach o Bosque de Flores Borrachas."
+    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de Qi condensado y obtener 6 Qi condensados. Puedes encontrar los fragmentos en los alrededores de la ciudad, en Tierras Ardientes, Campo Ártico, Tierras del Rayo, Valle de la Tormenta, Tierras de Arenas Movedizas o Bosque de Flores Borrachas."
   },
   {
     "id": "8420",
@@ -26137,7 +26137,7 @@
   {
     "id": "8421",
     "key": "drama_dialogue610815",
-    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de orbes de Qi condensados en 6 orbes de Qi condensados. Puedes encontrar los fragmentos por la ciudad en Blazing Lands, Arctic Field, Tierras del Rayo, Valle de la Tormenta, Arenas Movedizas's Reach o Bosque de Flores Borrachas."
+    "es": "Dirígete a los talleres de la ciudad para combinar 6 fragmentos de orbes de Qi condensado y obtener 6 orbes de Qi condensado. Puedes encontrar los fragmentos en los alrededores de la ciudad, en Tierras Ardientes, Campo Ártico, Tierras del Rayo, Valle de la Tormenta, Tierras de Arenas Movedizas o Bosque de Flores Borrachas."
   },
   {
     "id": "8422",
@@ -30297,7 +30297,7 @@
   {
     "id": "9009",
     "key": "drama_dialogue760483",
-    "es": "Jimeng dice que si puedes recolectar <g>3</g> piezas de <r>Jadeware</r> para él, te prestará el <r>Caldero del Dragón de Agua</r>."
+    "es": "Jimeng te promete que, si puedes reunir <g>3</g> <r>objetos de jade</r> para él, te prestará el <r>Caldero del Dragón de Agua</r>."
   },
   {
     "id": "9010",
@@ -30312,7 +30312,7 @@
   {
     "id": "9012",
     "key": "drama_dialogue760511",
-    "es": "Jimeng se alegra mucho cuando le das el objeto de jade y él te presta el <r>Caldero del Dragón de Agua</r>. Toma el <r>Caldero del Dragón de Agua</r> y te vas."
+    "es": "Jimeng se alegra mucho después de obtener los objetos de jade y te presta el <r>Caldero del Dragón de Agua</r>. Guardas el <r>Caldero del Dragón de Agua</r> y te vas."
   },
   {
     "id": "9013",
@@ -31737,7 +31737,7 @@
   {
     "id": "31275",
     "key": "drama_dialogue880701",
-    "es": "Mengyi está muy feliz de escuchar tu petición. Rápidamente te maquilla y te sientes como la Cultivadora más hermosa del mundo en este momento"
+    "es": "Mengyi está muy feliz de escuchar tu petición. Rápidamente te maquilla y te sientes como la Cultivadora más hermosa del mundo en este momento."
   },
   {
     "id": "31276",
@@ -33542,17 +33542,17 @@
   {
     "id": "34394",
     "key": "drama_dialogue1220031",
-    "es": "Haces circular tu energía y abres el altar con 'Spirit Bran' En él. Cáscaras de grano espesas con Qi brotan de él, y una gran cantidad de cerdos de montaña corren hacia el comedero desde todos encima."
+    "es": "Haces circular tu energía y abres la vasija con la inscripción 'Salvado Espiritual'. De ella brotan cáscaras de grano cargadas de Qi, y un gran número de jabalíes corre hacia el comedero desde todas partes."
   },
   {
     "id": "34395",
     "key": "drama_dialogue1220041",
-    "es": "Haces circular tu energía y abres el altar con 'Spirit Bran' En él. Cáscaras de grano espesas con Qi brotan de él, y una gran cantidad de cerdos de montaña corren hacia el comedero desde todos encima."
+    "es": "Haces circular tu energía y abres la vasija con la inscripción 'Salvado Espiritual'. De ella brotan cáscaras de grano cargadas de Qi, y un gran número de jabalíes corre hacia el comedero desde todas partes."
   },
   {
     "id": "34396",
     "key": "drama_dialogue1220051",
-    "es": "Haces circular tu energía y abres el altar con 'Spirit Bran' En él. Cáscaras de grano espesas con Qi brotan de él, y una gran cantidad de cerdos de montaña corren hacia el comedero desde todos encima."
+    "es": "Haces circular tu energía y abres la vasija con la inscripción 'Salvado Espiritual'. De ella brotan cáscaras de grano cargadas de Qi, y un gran número de jabalíes corre hacia el comedero desde todas partes."
   },
   {
     "id": "34397",
@@ -35752,7 +35752,7 @@
   {
     "id": "36640",
     "key": "drama_dialogue1305031",
-    "es": "Chica Dragon te imparte el conocimiento sobre tus artes marciales tal como lo recuerda, y te beneficias mucho."
+    "es": "La Chica Dragón comparte contigo sus conocimientos, basados en sus recuerdos, sobre las técnicas que has aprendido y, gracias a ello, progresas."
   },
   {
     "id": "36641",
@@ -36997,7 +36997,7 @@
   {
     "id": "36853",
     "key": "drama_dialogue2000163",
-    "es": "Seguido por Mariposa Amarga...\\n¿Qué elección deberías tomar?"
+    "es": "Seguido por Mariposa Amarga…\\n¿Qué elección deberías tomar?"
   },
   {
     "id": "36831",
@@ -38352,47 +38352,47 @@
   {
     "id": "37736",
     "key": "drama_dialogue2002105",
-    "es": "Mientras viajaba por el mundo, obtuve una Seda Brocada mágica que puede escuchar el corazón. Esta preciosa seda puede ayudarte a contactar a Feng Pingmo. Por favor, echa un vistazo, Cultivador"
+    "es": "Cuando recorría los Ocho Yermos, obtuve una Seda Brocada mágica capaz de escuchar los pensamientos de las personas. Esta preciosa seda puede ayudarte a contactar con Feng Pingmo. Mira, cultivador."
   },
   {
     "id": "37737",
     "key": "drama_dialogue2002106",
-    "es": "Jo te da el Brocade Silk y escuchas instantáneamente una fuerte voz de mujer en tus oídos."
+    "es": "Li Si te entrega la Seda Brocada. Sientes un fuerte zumbido en el oído y, efectivamente, la voz de una mujer te llega al oído."
   },
   {
     "id": "37738",
     "key": "drama_dialogue2002107",
-    "es": "Ayuda… Es… ella!"
+    "es": "¡Ayúdame…! Esta voz… ¡es ella!"
   },
   {
     "id": "37739",
     "key": "drama_dialogue2002108",
-    "es": "Jo señala el Brocade Silk en tu palma. Han aparecido palabras en él…"
+    "es": "Li Si señala la Seda Brocada que tienes en la palma de la mano; en ella aparecen palabras…"
   },
   {
     "id": "37740",
     "key": "drama_dialogue2002109",
-    "es": "Has establecido contacto con la persona que pidió ayuda con Brocade Silk. Ahora sólo necesitas la intención de hacer preguntas. Date prisa y pregunta el nombre de la persona y su condición actual."
+    "es": "Ya estableciste contacto con quien pidió ayuda mediante la Seda Brocada. Ahora solo tienes que pensar en la pregunta; ¡confirma cuanto antes la identidad y procedencia de esa persona!"
   },
   {
     "id": "37741",
     "key": "drama_dialogue2002110",
-    "es": "Sigues las instrucciones de Jo y aparecen algunas palabras nuevas en el Brocade Silk. Dice: ¿Hola? Soy Feng Pingmo! ¿Puedes oírme? Estoy atrapado dentro de las Montañas Abisales! ¡Ayúdame!"
+    "es": "Sigues las instrucciones de Li Si y la Seda Brocada vuelve a mostrar unas palabras. En ella se lee: ¿Quién habla? ¡Soy Feng Pingmo! ¿Me oyes? ¡Estoy atrapada dentro de las Montañas Abisales! ¡Ayúdame! ¡Ayúdame…!"
   },
   {
     "id": "37742",
     "key": "drama_dialogue2002111",
-    "es": "De repente, la seda estalla en llamas por sí sola. Jo rápidamente apaga el fuego con habilidad, pero la mitad de la seda ha sido destruida."
+    "es": "La Seda Brocada se incendia de repente sin motivo. Li Si lanza un hechizo para apagar el fuego de inmediato, pero la mitad ya ha quedado destruida."
   },
   {
     "id": "37743",
     "key": "drama_dialogue2002112",
-    "es": "Terminaremos el día. El Qi en este Brocade Silk se ha agotado y se quemará si continuamos. Si necesita comunicarse con Feng Pingmo nuevamente, recuerde no enviar demasiados mensajes a la vez."
+    "es": "Por hoy basta. La energía espiritual de esta Seda Brocada se ha agotado, y volver a usarla podría hacer que se queme. Cuando vuelvas a comunicarte con Feng Pingmo, recuerda no enviar demasiados mensajes de una sola vez."
   },
   {
     "id": "37744",
     "key": "drama_dialogue2002113",
-    "es": "Ya que eres el único que puede escuchar la voz de Feng Pingmo, debes conservar esto. La Seda Brocado tarda algún tiempo en recuperar el Qi, tal vez diez días o hasta dos meses. Luego puedes ,Contáctala nuevamente. En ese momento, por favor pregúntale en detalle cómo cayó en las Montañas Abisales. En ese caso, conoceré la situación interna"
+    "es": "Como eres la única persona que puede oír las peticiones de ayuda de Feng Pingmo, te confío esta Seda Brocada. Su energía espiritual tardará en recuperarse: entre diez días y dos meses. Después podrás volver a contactar con ella. Entonces, pregúntale con detalle todo lo ocurrido desde que cayó en las Montañas Abisales; así podré calcular con precisión la situación en su interior."
   },
   {
     "id": "37745",
@@ -38405,9 +38405,9 @@
     "es": "¿Puedes oírme? Soy Feng Pingmo. Estoy atrapado en las Montañas Abisales. ¿Puedes salvarme?"
   },
   {
-    "id": "37747",
-    "key": "drama_dialogue2002151",
-    "es": "Um… Brocade Silk ha recuperado el Qi… Jo me instó a preguntarle sobre la situación interna lo antes posible."
+     "id": "37747",
+     "key": "drama_dialogue2002151",
+     "es": "Um… la Seda Brocada ha recuperado el Qi… Li Si me pidió que preguntara cuanto antes a esta persona mayor sobre la situación en el interior de las Montañas Abisales."
   },
   {
     "id": "37748",
@@ -38600,9 +38600,9 @@
     "es": "En realidad, los otros hermanos y hermanas de la tribu escucharon la historia del Mentor Feng y quieren transmitirle sus saludos."
   },
   {
-    "id": "37786",
-    "key": "drama_dialogue2002450",
-    "es": "Sabemos que el uso diario de Brocade Silk es limitado, pero también queremos transmitirle nuestros saludos y esperamos que pueda seguir aguantando. Siempre podemos salvarla!"
+     "id": "37786",
+     "key": "drama_dialogue2002450",
+     "es": "Sabemos que el uso diario de la Seda Brocada es limitado, pero también queremos hacerle llegar nuestro apoyo y esperamos que pueda seguir resistiendo. ¡Siempre podemos salvarla!"
   },
   {
     "id": "37787",
@@ -39362,7 +39362,7 @@
   {
     "id": "38358",
     "key": "drama_dialogue2010028",
-    "es": "Has comprobado la ubicación del Banco de arena desolada. También hay una mina de Sun Flame marcada en el mapa."
+    "es": "Has comprobado la ubicación del Banco de arena desolada. También hay una mina de Llama del Sol marcada en el mapa."
   },
   {
     "id": "38359",
@@ -39627,12 +39627,12 @@
   {
     "id": "38398",
     "key": "drama_dialogue2010252",
-    "es": "¿Colocar Fuego Solar Crystal en la fuente del mercurio que fluye?"
+    "es": "¿Colocar el Cristal de Fuego Solar en el origen del mercurio que fluye?"
   },
   {
     "id": "38399",
     "key": "drama_dialogue2010253",
-    "es": "Colocas Fuego Solar Crystal en la fuente del mercurio que fluye para dejar que sea lavado por el mercurio. Después de un tiempo. El cristal se evapora y se disuelve, convirtiendo el mercurio en un estado peculiar que finalmente se condensa en un cristal sólido de plata. …Pero tan pronto como tomas el cristal de mercurio, se derrite en un líquido frío y se filtra a través de la piel de tus dedos"
+    "es": "Colocas el Cristal de Fuego Solar en el origen del mercurio y dejas que este lo bañe. En unos instantes, el cristal empieza a humear y luego se disuelve; el mercurio que tienes delante adopta formas extrañas y, finalmente, se condensa en un cristal sólido de color plateado. Sin embargo, en cuanto retiras la fuente de mercurio, este objeto vuelve a convertirse en un líquido frío que se filtra por las huellas dactilares de tus dedos y desaparece en un abrir y cerrar de ojos."
   },
   {
     "id": "38400",
@@ -39777,7 +39777,7 @@
   {
     "id": "39352",
     "key": "drama_dialogue2010309",
-    "es": "Sigues el mapa y te adentras en una veta mineral. Pronto llegas a una mina de oro Sun Flame…"
+    "es": "Sigues el mapa y te adentras en una veta mineral. Pronto llegas a una mina de Llama del Sol…"
   },
   {
     "id": "39353",
@@ -42955,9 +42955,9 @@
     "es": "Wow. Sé que un Cultivador tan extraordinario como tú no perecerá en la Montaña. Vamos, dime ¿qué está pasando allí?"
   },
   {
-    "id": "47369",
-    "key": "drama_dialogue2202001",
-    "es": "Lluvia Nocturna… Ella es la discípula principal del Maestro del Pabellón… Sus Sky Double Pupils son tan especiales en el mundo…"
+     "id": "47369",
+     "key": "drama_dialogue2202001",
+    "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
     "id": "47370",
@@ -43075,9 +43075,9 @@
     "es": "¿Por qué… vienes aquí? ¿Quién… quién soy yo…"
   },
   {
-    "id": "47393",
-    "key": "drama_dialogue2202151",
-    "es": "Lluvia Nocturna… Ella es la discípula principal del Maestro del Pabellón… Sus Sky Double Pupils son tan especiales en el mundo…"
+     "id": "47393",
+     "key": "drama_dialogue2202151",
+    "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
     "id": "47394",
@@ -43950,9 +43950,9 @@
     "es": "Más dudas y mi Maestro y todas las criaturas de este mundo sufrirán."
   },
   {
-    "id": "47568",
-    "key": "drama_dialogue2210331",
-    "es": "Has tomado la decisión equivocada! Bien, ahora tendré que mostrarte de lo que son capaces mis Sky Double Pupils!"
+     "id": "47568",
+     "key": "drama_dialogue2210331",
+    "es": "¡Has tomado la decisión equivocada! Bien, ahora tendré que mostrarte el verdadero poder de mis Pupilas dobles del cielo!"
   },
   {
     "id": "47569",
@@ -44060,9 +44060,9 @@
     "es": "Dejé una talla de madera en mi antigua residencia en Hua Feng y me gustaría recuperarla. Pero no puedo abandonar esta montaña por ahora. ¿Podrías traerla a la cima de Tian Yuan? ¿Montaña y dármelo después de que nuestro Maestro lograra su ambición?"
   },
   {
-    "id": "47590",
-    "key": "drama_dialogue2211023",
-    "es": "La horquilla de madera fue dejada en mi antigua residencia junto con algunas piedras de jade, en las que inyecté el poder de mis Sky Double Pupils. Una vez que detectan cualquier motivo oculto en un visitante, liberarán Energía y matarán al persona."
+     "id": "47590",
+     "key": "drama_dialogue2211023",
+    "es": "La horquilla de madera quedó en mi antigua residencia, junto con algunas piedras de jade en las que infundí el poder de mis Pupilas dobles del cielo. Si detectan malas intenciones en cualquier visitante, liberarán energía espiritual y lo matarán."
   },
   {
     "id": "47591",
@@ -44235,9 +44235,9 @@
     "es": "Introduces la horquilla y la brújula se va desplegando poco a poco, revelando una residencia idéntica a la que te encuentras ahora."
   },
   {
-    "id": "47625",
-    "key": "drama_dialogue2211191",
-    "es": "Lluvia Nocturna, tus Sky Double Pupils son realmente extraordinarios. Me permiten ver este mundo a través de una lente diferente. Sin embargo, no tengo esa increíble visión tuya, así que voy a presentar tus pensamientos. en mi cabeza como imágenes flotantes para que las veas."
+     "id": "47625",
+     "key": "drama_dialogue2211191",
+    "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
     "id": "47626",
@@ -44350,9 +44350,9 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-    "id": "47648",
-    "key": "drama_dialogue2211236",
-    "es": "Solía mirar con mis Sky Double Pupils y podía ver este mundo dirigiéndose a la destrucción… Ahora la única salida es partir hacia los reinos superiores y lograr la ascensión."
+     "id": "47648",
+     "key": "drama_dialogue2211236",
+    "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
     "id": "47649",
@@ -44435,9 +44435,9 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-    "id": "47665",
-    "key": "drama_dialogue2211279",
-    "es": "Tu cultivo y Sky Double Pupils te ayudarán a ascender fácilmente. No creo que necesites mi ayuda."
+     "id": "47665",
+     "key": "drama_dialogue2211279",
+    "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
     "id": "47666",
@@ -44775,9 +44775,9 @@
     "es": "Ves a Lluvia Nocturna escondida en un rincón con una curiosa horquilla en sus manos.stá mirando la horquilla con una expresión cálida nunca antes vista. Intentas entender la extraña escena, pero la horquilla brilla de repente. Clips de imágenes se despliegan ante ti."
   },
   {
-    "id": "47733",
-    "key": "drama_dialogue2211850",
-    "es": "Lluvia Nocturna, tus Sky Double Pupils son realmente extraordinarios. Me permiten ver este mundo a través de una lente diferente. Sin embargo, no tengo esa increíble visión tuya, así que voy a presentar tus pensamientos. en mi cabeza como imágenes flotantes para que las veas."
+     "id": "47733",
+     "key": "drama_dialogue2211850",
+    "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
     "id": "47734",
@@ -44890,9 +44890,9 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica, el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-    "id": "47756",
-    "key": "drama_dialogue2211905",
-    "es": "Solía mirar con mis Sky Double Pupils y podía ver este mundo dirigiéndose a la destrucción… Ahora la única salida es partir hacia los reinos superiores y lograr la ascensión."
+     "id": "47756",
+     "key": "drama_dialogue2211905",
+    "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
     "id": "47757",
@@ -45035,9 +45035,9 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-    "id": "47785",
-    "key": "drama_dialogue2212008",
-    "es": "Tu cultivo y Sky Double Pupils te ayudarán a ascender fácilmente. No creo que necesites mi ayuda."
+     "id": "47785",
+     "key": "drama_dialogue2212008",
+    "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
     "id": "47786",
@@ -45145,9 +45145,9 @@
     "es": "Sacas la horquilla de madera para inspeccionarla, pero de repente emite un brillo extraño. Se muestran clips de imágenes ante ti."
   },
   {
-    "id": "47807",
-    "key": "drama_dialogue2212150",
-    "es": "Lluvia Nocturna, tus Sky Double Pupils son realmente extraordinarios. Me permiten ver este mundo a través de una lente diferente. Sin embargo, no tengo esa increíble visión tuya, así que voy a presentar tus pensamientos. en mi cabeza como imágenes flotantes para que las veas."
+     "id": "47807",
+     "key": "drama_dialogue2212150",
+    "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
     "id": "47808",
@@ -45260,9 +45260,9 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica, el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-    "id": "47830",
-    "key": "drama_dialogue2212205",
-    "es": "Solía mirar con mis Sky Double Pupils y podía ver este mundo dirigiéndose a la destrucción… Ahora la única salida es partir hacia los reinos superiores y lograr la ascensión."
+     "id": "47830",
+     "key": "drama_dialogue2212205",
+    "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
     "id": "47831",
@@ -45405,9 +45405,9 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-    "id": "47859",
-    "key": "drama_dialogue2212308",
-    "es": "Tu cultivo y Sky Double Pupils te ayudarán a ascender fácilmente. No creo que necesites mi ayuda."
+     "id": "47859",
+     "key": "drama_dialogue2212308",
+    "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
     "id": "47860",
@@ -45530,9 +45530,9 @@
     "es": "Ella se detiene en algún lugar lejos de ti, dejándote a sus espaldas. Parece estar mirando una horquilla con ternura, y pronto, las vistas comienzan a surgir del curioso objeto y se desarrollan en la nada."
   },
   {
-    "id": "47884",
-    "key": "drama_dialogue2212404",
-    "es": "Lluvia Nocturna, tus Sky Double Pupils son realmente extraordinarios. Me permiten ver este mundo a través de una lente diferente. Sin embargo, no tengo esa increíble visión tuya, así que voy a presentar tus pensamientos. en mi cabeza como imágenes flotantes para que las veas."
+     "id": "47884",
+     "key": "drama_dialogue2212404",
+    "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
     "id": "47885",
@@ -45645,9 +45645,9 @@
     "es": "Estás pensando en el siguiente paso mientras la horquilla de Lluvia Nocturna brilla de repente. Las imágenes flotan en el aire y ves un clip del pasado desplegarse ante ti"
   },
   {
-    "id": "47907",
-    "key": "drama_dialogue2212472",
-    "es": "Lluvia Nocturna, tus Sky Double Pupils son realmente extraordinarios. Me permiten ver este mundo a través de una lente diferente. Sin embargo, no tengo esa increíble visión tuya, así que voy a presentar tus pensamientos. en mi cabeza como imágenes flotantes para que las veas."
+     "id": "47907",
+     "key": "drama_dialogue2212472",
+    "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
     "id": "47908",
@@ -46752,7 +46752,7 @@
   {
     "id": "48097",
     "key": "drama_dialogue2230082",
-    "es": "Mi amigo, Zhang San, me confió una misión importante. Esperaba que yo vigilara este lugar y mantuviera el sello, además de expulsar a los minions del Pabellón Manual"
+    "es": "Mi antiguo amigo Zhang San me encomendó repetidamente que protegiera este lugar, mantuviera el sello y repeliera a quienes vinieran del Pabellón Langya a rescatarla."
   },
   {
     "id": "48098",
@@ -48210,9 +48210,9 @@
     "es": "Wow. Sé que un Cultivador tan extraordinario como tú no perecerá en la Montaña. Vamos, dime ¿qué está pasando allí?"
   },
   {
-    "id": "48389",
-    "key": "drama_dialogue2270102",
-    "es": "Lluvia Nocturna… Ella es la discípula principal del Maestro del Pabellón… Sus Sky Double Pupils son tan especiales en el mundo…"
+     "id": "48389",
+     "key": "drama_dialogue2270102",
+    "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
     "id": "48390",
@@ -48330,9 +48330,9 @@
     "es": "¿Por qué… vienes aquí? ¿Quién… quién soy yo…"
   },
   {
-    "id": "48413",
-    "key": "drama_dialogue2270401",
-    "es": "Lluvia Nocturna… Ella es la discípula principal del Maestro del Pabellón… Sus Sky Double Pupils son tan especiales en el mundo…"
+     "id": "48413",
+     "key": "drama_dialogue2270401",
+    "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
     "id": "48414",
@@ -48557,7 +48557,7 @@
   {
     "id": "50054",
     "key": "drama_dialogue2300050",
-    "es": "Aquí está Llanura de Hielo Eterno. En medio del vasto y frío blanco, encuentras una tienda de campaña no muy lejos de ti en medio del viento cortante. Una Cultivadora envuelve con energía a una niña inconsciente en el suelo, con una espada larga en su espalda. Entonces reconoces a la chica, ella es Xi"
+    "es": "Aquí está Llanura de Hielo Eterno. En medio del vasto y frío blanco, encuentras una tienda de campaña no muy lejos de ti en medio del viento cortante. Una Cultivadora envuelve con energía a una niña inconsciente en el suelo, con una espada larga en su espalda. Entonces reconoces a la chica, ella es Xi."
   },
   {
     "id": "50055",
@@ -55112,7 +55112,7 @@
   {
     "id": "21415",
     "key": "drama_dialogue6002022",
-    "es": "Ella dice que es una Cultivadora rebelde que vive no lejos de aquí y que se llama Jun Yuanzhi. Desea que vayas a su residencia a tomar el té para mostrarle su gratitud. Aceptas su invitación"
+    "es": "Ella dice que es una Cultivadora rebelde que vive no lejos de aquí y que se llama Jun Yuanzhi. Desea que vayas a su residencia a tomar el té para mostrarle su gratitud. Aceptas su invitación."
   },
   {
     "id": "21416",
@@ -62112,12 +62112,12 @@
   {
     "id": "40283",
     "key": "drama_dialogue8005009",
-    "es": "Tal vez sentí el rastro de los compañeros del Brute Mark Clan."
+    "es": "Tal vez percibí el aura de un miembro joven del Clan de la Marca Fiera."
   },
   {
     "id": "40284",
     "key": "drama_dialogue8005010",
-    "es": "¿Y bien? ¿Por qué no los llevas a la batalla también?"
+    "es": "¿Eh? ¿Por qué no llevas también al miembro joven del Clan de la Marca Fiera a la batalla?"
   },
   {
     "id": "40285",
@@ -62182,7 +62182,7 @@
   {
     "id": "40297",
     "key": "drama_dialogue8005107",
-    "es": "Hmph… No entiendo por qué un miembro del Brute Mark Clan te tiene tanto cariño."
+    "es": "Hmph… No entiendo por qué el miembro joven del Clan de la Marca Fiera te protege tanto."
   },
   {
     "id": "40298",
@@ -65977,7 +65977,7 @@
   {
     "id": "46748",
     "key": "drama_dialogue8103105",
-    "es": "Perdón por mi temeridad. También conozco la técnica de comandar monstruos, y antes creé un minion parecido a una pulga. La pequeña criatura encontrará una bestia que vivirá en ellos durante tres meses antes de morir, que puede usarse como mi guía para rastrear monstruos"
+    "es": "Perdona mi descortesía. También he estudiado la técnica de control de monstruos. El demonio pulga que refino parasita a una bestia demoníaca durante tres meses y muere cuando se agota su esperanza de vida. Normalmente lo uso para encontrar monstruos."
   },
   {
     "id": "46749",
@@ -66177,22 +66177,22 @@
   {
     "id": "46788",
     "key": "drama_dialogue8103321",
-    "es": "Estás aquí, amigo mío! Solo quiero encontrarte! Atrapé a un Yu'er Shen en el reino del Núcleo Dorado en mi gran conjunto. Ahora, ¿quieres convocar a algunos bestias y tener una competencia con Te enseñaré cómo preparar Imp EXP Elixir si tus bestias pueden ganar!"
+    "es": "¡Qué coincidencia, amigo mío! Justo iba a buscarte. Engañé a un Yu'er Shen del reino del Núcleo Dorado para que entrara en mi gran formación. ¿Quieres que tus bestias calabaza se enfrenten a él? Si logran vencerlo, ¡te enseñaré a preparar el Elixir de EXP de bestia!"
   },
   {
     "id": "46789",
     "key": "drama_dialogue8103322",
-    "es": "Ya veo. Lo mantendré en la trampa durante algunos días y podrás regresar aquí en cualquier momento una vez que estés preparado."
+    "es": "De acuerdo. Lo mantendré atrapado unos días; cuando estés preparado, vuelve a buscarme aquí."
   },
   {
     "id": "46790",
     "key": "drama_dialogue8103323",
-    "es": "Estás aquí, amigo mío! Solo quiero encontrarte! Atrapé a un Yu'er Shen en el reino del Núcleo Dorado en mi gran conjunto. Ahora, ¿quieres convocar a algunos bestias y tener una competencia con Te daré 20 elixires refinados de Huayu y 30 elixires refinados de nutrición si tus bestias pudieran ganar!"
+    "es": "¡Qué coincidencia, amigo mío! Justo iba a buscarte. Engañé a un Yu'er Shen del reino del Núcleo Dorado para que entrara en mi gran formación. ¿Quieres que tus bestias calabaza se enfrenten a él? Si logran vencerlo, ¡te daré 20 Elixires de Vida refinados y 30 Elixires de nutrición refinados!"
   },
   {
     "id": "46791",
     "key": "drama_dialogue8103324",
-    "es": "Amigo mío, tal vez tus bestias todavía necesiten entrenamiento. Mantendré a la bestia en la trampa durante algunos días y podrás regresar aquí en cualquier momento una vez que estés preparado."
+    "es": "Amigo mío, tus bestias calabaza aún necesitan entrenarse un poco más. Mantendré a la bestia atrapada unos días; cuando estés preparado, vuelve a buscarme aquí."
   },
   {
     "id": "46792",
@@ -67427,7 +67427,7 @@
   {
     "id": "49074",
     "key": "drama_dialogue8150101",
-    "es": "Levántate! Spiritlock Array que aplasta Yuan!"
+    "es": "¡Actívate! ¡Formación de bloqueo espiritual que suprime el Yuan!"
   },
   {
     "id": "49075",
@@ -67697,7 +67697,7 @@
   {
     "id": "49417",
     "key": "drama_dialogue8200052",
-    "es": "Primero, necesitas aprender las Cartas de tu inventario. Luego ve a Talismanes en la interfaz de Fabricación y selecciona un amuleto para hacerlo. Recuerda preparar suficientes materiales para ellos. Una vez que se haya creado un amuleto, puedes Úselo siempre y cuando su Focus cumpla con sus requisitos, lo cual es diferente de otros productos elaborados con artesanía"
+    "es": "Abre la pestaña de objetos de tu inventario y aprende los manuales de talismán que hayas obtenido. Después, entra en la interfaz de dibujo de talismanes desde la pestaña de técnicas, selecciona el talismán que quieras elaborar y accede a la interfaz de elaboración. Antes de elaborarlo, debes preparar los materiales necesarios. A diferencia de otros métodos, solo necesitas elaborar el talismán y tener suficiente Enfoque para usarlo."
   },
   {
     "id": "49418",
@@ -72032,7 +72032,7 @@
   {
     "id": "10195",
     "key": "drama_option6102092",
-    "es": "Regresa y mata al Duende del Bosque Lil' Left"
+     "es": "Regresa y mata al espíritu de madera Pequeño Izquierdo"
   },
   {
     "id": "10196",
@@ -102177,12 +102177,12 @@
   {
     "id": "26751",
     "key": "fieldSkillDesc22",
-    "es": "Cada vez que lanzas una habilidad especial, infligirás una acumulación de Soul Break a todos los enemigos dentro del campo: DEF &322002_jsfy& por cada acumulación (hasta &322002_djcs& acumulaciones). Cuando finalice esta habilidad de campo, todas Las acumulaciones de Soul Break serán eliminadas de los enemigos"
+    "es": "Cada vez que usas una habilidad especial, puedes aplicar una acumulación del efecto Alma rota a todos los enemigos del campo (cada acumulación reduce su DEF en &322002_jsfy& puntos; se acumula hasta &322002_djcs& veces. Al terminar la habilidad de campo, también se elimina este efecto de todos los enemigos)."
   },
   {
     "id": "26752",
     "key": "fieldSkillDesc23",
-    "es": "Cada vez que lanzas una habilidad especial, infligirás una acumulación de Soul Break a todos los enemigos dentro del campo: DEF &322003_jsfy& por cada acumulación (hasta &322003_djcs& acumulaciones). Cuando finalice esta habilidad de campo, todas Las acumulaciones de Soul Break serán eliminadas de los enemigos"
+    "es": "Cada vez que usas una habilidad especial, puedes aplicar una acumulación del efecto Alma rota a todos los enemigos del campo (cada acumulación reduce su DEF en &322003_jsfy& puntos; se acumula hasta &322003_djcs& veces. Al terminar la habilidad de campo, también se elimina este efecto de todos los enemigos)."
   },
   {
     "id": "26753",
@@ -107017,7 +107017,7 @@
   {
     "id": "37366",
     "key": "GodEyeSkills_name_72141",
-    "es": "Gust Gush"
+    "es": "Oleada de vendaval"
   },
   {
     "id": "37421",
@@ -107382,7 +107382,7 @@
   {
     "id": "48933",
     "key": "group_name6092050",
-    "es": "Talismán de jaula de almas"
+    "es": "Talismán de la jaula del alma"
   },
   {
     "id": "48934",
@@ -107407,7 +107407,7 @@
   {
     "id": "48938",
     "key": "group_name6093060",
-    "es": "Talismán señuelo monstruo"
+    "es": "Talismán de señuelo de monstruos"
   },
   {
     "id": "48733",
@@ -109852,7 +109852,7 @@
   {
     "id": "48942",
     "key": "item_desc2_6092050",
-    "es": "Úselo para conectarse a las venas de la Tierra y formar una jaula de almas. Las unidades dentro de la jaula serán capturadas y atacarán a sus enemigos durante un tiempo."
+    "es": "Usa el poder del talismán para conectar con las venas de la Tierra y formar una jaula del alma que capture parte del poder espiritual de las criaturas dentro del área y las haga atacar automáticamente a tus enemigos durante un tiempo."
   },
   {
     "id": "48943",
@@ -113842,7 +113842,7 @@
   {
     "id": "5067",
     "key": "item_desc2021052",
-    "es": "Después de aprender esta Receta, podrás identificar Silk Grass, que se puede recolectar en <g>{#areaName3}</g>. Aprender su Receta también aumenta la cantidad de caída cuando matas monstruos."
+    "es": "Después de aprender la receta de la Hierba de seda, podrás identificarla y recolectarla en <g>{#areaName3}</g>. Además, aumentará la cantidad de Hierba de seda que obtienes al matar monstruos."
   },
   {
     "id": "5068",
@@ -114012,7 +114012,7 @@
   {
     "id": "5099",
     "key": "item_desc2021375",
-    "es": "Después de aprender esta Receta, podrás identificar Blood Sun Lingzhi, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matas monstruos."
+    "es": "Después de aprender la receta del Sol de sangre Lingzhi, podrás identificarlo y recolectarlo en <g>{#areaName8} y {#areaName9}</g>. Además, aumentará la cantidad de Sol de sangre Lingzhi que obtienes al matar monstruos."
   },
   {
     "id": "5100",
@@ -114022,7 +114022,7 @@
   {
     "id": "5101",
     "key": "item_desc2021395",
-    "es": "Después de aprender esta Receta, podrás identificar Blood Musk Mallow, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matas monstruos."
+    "es": "Después de aprender la receta de la Malva almizclera de sangre, podrás identificarla y recolectarla en <g>{#areaName8} y {#areaName9}</g>. Además, aumentará la cantidad de Malva almizclera de sangre que obtienes al matar monstruos."
   },
   {
     "id": "5102",
@@ -114037,7 +114037,7 @@
   {
     "id": "5104",
     "key": "item_desc2021425",
-    "es": "Después de aprender esta Receta, podrás identificar Blazing Sun Berry, que se puede recolectar en <g>{#areaName9}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matar monstruos."
+    "es": "Después de aprender la receta de la Baya del Sol Ardiente, podrás identificarla y recolectarla en <g>{#areaName9}</g>. Además, aumentará la cantidad de Baya del Sol Ardiente que obtienes al matar monstruos."
   },
   {
     "id": "5105",
@@ -114052,12 +114052,12 @@
   {
     "id": "5107",
     "key": "item_desc2021455",
-    "es": "Después de aprender esta receta, podrás identificar el Ñame Milenario, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
+    "es": "Después de aprender esta receta, podrás identificar el Ñame del Milenio, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
-    "id": "5108",
-    "key": "item_desc2021465",
-    "es": "Después de aprender esta Receta, podrás identificar Beauty Fruit, que se puede recolectar en <g>{#areaName9}</g>. Aprender su Receta también aumenta la cantidad de caída cuando matas monstruos."
+     "id": "5108",
+     "key": "item_desc2021465",
+     "es": "Después de aprender esta receta, podrás identificar la Fruta de belleza, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
     "id": "5109",
@@ -114075,14 +114075,14 @@
     "es": "Después de aprender esta Receta, podrás identificar la Estalactita de Primavera Sagrada, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matas monstruos."
   },
   {
-    "id": "5112",
-    "key": "item_desc2021505",
-    "es": "Después de aprender esta Receta, podrás identificar Begonia Grass, que se puede recolectar en <g>{#areaName9}</g>. Aprender su Receta también aumenta la cantidad de caída cuando matas monstruos."
+     "id": "5112",
+     "key": "item_desc2021505",
+     "es": "Después de aprender esta receta, podrás identificar la Hierba begonia, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
     "id": "5115",
     "key": "item_desc2021506",
-    "es": "Después de aprender esta Receta, podrás identificar Soul Basis Vine, que se puede recolectar en <g>{#areaName10} y {#areaName11}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matas monstruos."
+    "es": "Después de aprender esta receta, podrás identificar la vid de base del alma, que se puede recolectar en <g>{#areaName10} y {#areaName11}</g>. Aprender su receta también aumenta la cantidad de vid de base del alma que obtienes al matar monstruos."
   },
   {
     "id": "5116",
@@ -114132,7 +114132,7 @@
   {
     "id": "5125",
     "key": "item_desc2021606",
-    "es": "Después de aprender esta Receta, podrás identificar Sky Ray Schefflera, que se puede recolectar en <g>{#areaName11}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matar monstruos."
+    "es": "Después de aprender la receta del Rayo Celeste de Esqueflera, podrás identificarlo y recolectarlo en <g>{#areaName11}</g>. Además, aumentará la cantidad de Rayo Celeste de Esqueflera que obtienes al matar monstruos."
   },
   {
     "id": "5126",
@@ -121532,12 +121532,12 @@
   {
     "id": "3976",
     "key": "item_desc5301102",
-    "es": "Un viejo trozo de madera con muchas aplicaciones, muy admirado por el clan Jade Bird."
+    "es": "Un trozo de madera de aspecto antiguo y robusto, con muchos usos, muy apreciado por el Clan Pájaro de Jade."
   },
   {
     "id": "3977",
     "key": "item_desc5301103",
-    "es": "Los restos de una criatura desconocida de las Montañas Abisales, envueltos en luz de fuego y energía etérea, traen alegría al clan Brute Mark."
+    "es": "Los restos de una criatura desconocida de las Montañas Abisales, envueltos en luz de fuego y energía etérea, traen alegría al Clan de la Marca Fiera."
   },
   {
     "id": "3978",
@@ -121927,7 +121927,7 @@
   {
     "id": "4049",
     "key": "item_desc6051371",
-    "es": "Un conjunto de instrucciones para preparar el Physique Elixir.\\nPhysique Elixir: Un Elixir imprescindible si quieres mejorar tu físico al extremo. Úsalo para aumentar la Vida Máxima en una cantidad media."
+    "es": "Un conjunto de instrucciones para preparar el Elixir físico.\\nElixir físico: un elixir imprescindible si quieres llevar tu físico al límite. Úsalo para aumentar la Resistencia máxima en cierta cantidad."
   },
   {
     "id": "4050",
@@ -123157,7 +123157,7 @@
   {
     "id": "48917",
     "key": "item_desc6092050",
-    "es": "Documentos sobre cómo dibujar el Soul Cage Talisman."
+    "es": "Documentos sobre cómo dibujar el talismán de la jaula del alma."
   },
   {
     "id": "48924",
@@ -123172,7 +123172,7 @@
   {
     "id": "48926",
     "key": "item_desc6093030",
-    "es": "Documentos sobre cómo dibujar el Manna Talisman."
+    "es": "Documentos sobre cómo dibujar el talismán de maná."
   },
   {
     "id": "48927",
@@ -123187,7 +123187,7 @@
   {
     "id": "48929",
     "key": "item_desc6093060",
-    "es": "Documentos sobre cómo dibujar el Monster Lure Talisman."
+    "es": "Documentos sobre cómo dibujar el talismán de señuelo de monstruos."
   },
   {
     "id": "4005",
@@ -124757,7 +124757,7 @@
   {
     "id": "38504",
     "key": "item_desc7000166",
-    "es": "En los primeros días después de la creación del mundo, el Aire Abisal en la caverna obligó a las montañas a presionarse unas contra otras, desgarrando un Reino Místico con Qi puro en un valle de rift. Conectado a la caverna subterránea de Aire Abisal, esta grieta El valle fue influenciado tanto por Aire Abisal como por Qi, dejando espacio para la generación de un suelo muy especial que se puede amasar en cualquier forma. Esta propiedad y el nombre del Valle Tentador llevaron al Cultivador que lo descubrió a llamarlo Tempting Soil."
+    "es": "Al formarse los Ocho Yermos, la acción del Aire Abisal de la caverna hizo que las montañas de la región se comprimieran entre sí y desgarraran un reino secreto de Qi puro, convirtiéndolo en un valle de grieta. Este valle está conectado en secreto con la caverna subterránea de Aire Abisal; al interactuar el Qi claro y el turbio, se formaron numerosos suelos especiales. Este suelo tiene propiedades extraordinarias: puede adoptar formas redondas o cuadradas y moldearse en cualquier forma. El cultivador que lo descubrió, debido a su naturaleza misteriosa y extraordinaria y a que solo se encuentra en el Valle Tentador, lo llamó Tierra Tentadora."
   },
   {
     "id": "38506",
@@ -124967,7 +124967,7 @@
   {
     "id": "41456",
     "key": "item_desc7000311",
-    "es": "Una flor cultivada en Arctic Field."
+     "es": "Una flor que crece en el Campo Ártico."
   },
   {
     "id": "41457",
@@ -130062,7 +130062,7 @@
   {
     "id": "32070",
     "key": "item_name1081008",
-    "es": "Espada voladora Soulbreak"
+    "es": "Espada voladora Rompealmas"
   },
   {
     "id": "32071",
@@ -130342,7 +130342,7 @@
   {
     "id": "4756",
     "key": "item_name2021052",
-    "es": "Receta de hierba de seda"
+    "es": "Receta de Hierba de seda"
   },
   {
     "id": "4757",
@@ -130392,7 +130392,7 @@
   {
     "id": "4784",
     "key": "item_name2021143",
-    "es": "Receta de Sky Grass"
+    "es": "Receta de Hierba Celeste"
   },
   {
     "id": "4785",
@@ -130512,7 +130512,7 @@
   {
     "id": "4788",
     "key": "item_name2021375",
-    "es": "Receta de Blood Sun Lingzhi"
+    "es": "Receta de Sol de sangre Lingzhi"
   },
   {
     "id": "4789",
@@ -130522,7 +130522,7 @@
   {
     "id": "4790",
     "key": "item_name2021395",
-    "es": "Receta de malva almizclera de sangre"
+    "es": "Receta de Malva almizclera de sangre"
   },
   {
     "id": "4791",
@@ -130537,7 +130537,7 @@
   {
     "id": "4793",
     "key": "item_name2021425",
-    "es": "Receta de Bayas del Sol Ardiente"
+    "es": "Receta de Baya del Sol Ardiente"
   },
   {
     "id": "4794",
@@ -130552,12 +130552,12 @@
   {
     "id": "4796",
     "key": "item_name2021455",
-    "es": "Receta de ñame milenario"
+    "es": "Receta de Ñame del Milenio"
   },
   {
     "id": "4797",
     "key": "item_name2021465",
-    "es": "Receta de frutas de belleza"
+    "es": "Receta de Fruta de belleza"
   },
   {
     "id": "4798",
@@ -130577,7 +130577,7 @@
   {
     "id": "4801",
     "key": "item_name2021505",
-    "es": "Receta de hierba begonia"
+    "es": "Receta de Hierba begonia"
   },
   {
     "id": "4804",
@@ -130587,7 +130587,7 @@
   {
     "id": "4805",
     "key": "item_name2021516",
-    "es": "Receta de Lilyturf enano"
+    "es": "Receta de Lirio enano"
   },
   {
     "id": "4806",
@@ -130632,7 +130632,7 @@
   {
     "id": "4814",
     "key": "item_name2021606",
-    "es": "Receta de Sky Ray Schefflera"
+    "es": "Receta de Rayo Celeste de Esqueflera"
   },
   {
     "id": "4815",
@@ -136227,7 +136227,7 @@
   {
     "id": "2367",
     "key": "item_name5031163",
-    "es": "Cielo hierba"
+    "es": "Hierba Celeste"
   },
   {
     "id": "2368",
@@ -137907,7 +137907,7 @@
   {
     "id": "2554",
     "key": "item_name5241104",
-    "es": "Dragonglass Oro"
+    "es": "Oro de Vidriodragón"
   },
   {
     "id": "2555",
@@ -138037,7 +138037,7 @@
   {
     "id": "2580",
     "key": "item_name5301103",
-    "es": "Cáscara de Fuego del Alba"
+     "es": "Hueso de azufre del Fuego del Alba"
   },
   {
     "id": "2581",
@@ -139227,7 +139227,7 @@
   {
     "id": "2803",
     "key": "item_name6061291",
-    "es": "Horno Sun Crow"
+    "es": "Horno del Rey Sol"
   },
   {
     "id": "2804",
@@ -139657,7 +139657,7 @@
   {
     "id": "48913",
     "key": "item_name6092050",
-    "es": "Tabla de talismán de la jaula del alma"
+    "es": "Tabla del talismán de la jaula del alma"
   },
   {
     "id": "48918",
@@ -139672,7 +139672,7 @@
   {
     "id": "48920",
     "key": "item_name6093030",
-    "es": "Gráfico de talismán de maná"
+    "es": "Gráfico del talismán de maná"
   },
   {
     "id": "48921",
@@ -139687,7 +139687,7 @@
   {
     "id": "48923",
     "key": "item_name6093060",
-    "es": "Tabla de talismanes de señuelos de monstruos"
+    "es": "Tabla del talismán de señuelo de monstruos"
   },
   {
     "id": "2608",
@@ -139717,7 +139717,7 @@
   {
     "id": "4371",
     "key": "item_name6121036",
-    "es": "Piedra Flameward"
+    "es": "Piedra bañada en fuego"
   },
   {
     "id": "4372",
@@ -144547,7 +144547,7 @@
   {
     "id": "26746",
     "key": "jiyuyuqi1",
-    "es": "Elige 3 piezas de Jadeware"
+    "es": "Elige 3 objetos de jade cualesquiera"
   },
   {
     "id": "35533",
@@ -175132,7 +175132,7 @@
   {
     "id": "51597",
     "key": "prefixNameS11201",
-    "es": "Espejismo Minion"
+    "es": "Espejismo"
   },
   {
     "id": "51598",
@@ -175457,7 +175457,7 @@
   {
     "id": "51727",
     "key": "prefixNameS11501",
-    "es": "Minion sostenido"
+    "es": "Invocación arcana"
   },
   {
     "id": "51728",
@@ -178217,7 +178217,7 @@
   {
     "id": "11992",
     "key": "resurgeInfo_tishi",
-    "es": "Puedes revivir siempre que tengas Jade Bagua Points.\\nPuedes escuchar un susurro proveniente del jade: Mantente con vida y busca tu camino."
+    "es": "Puedes revivir siempre que tengas Puntos de Jade Bagua.\\nPuedes escuchar un susurro proveniente del jade: Mantente con vida y busca tu camino."
   },
   {
     "id": "20432",
@@ -183577,7 +183577,7 @@
   {
     "id": "23038",
     "key": "role_feature_postnatal_name9110",
-    "es": "Berserk"
+    "es": "Frenesí"
   },
   {
     "id": "23039",
@@ -184667,7 +184667,7 @@
   {
     "id": "15610",
     "key": "role_feature_postnatal_name700126",
-    "es": "Dragon Seguidor IV"
+    "es": "Pequeño Dragón Seguidor"
   },
   {
     "id": "15611",
@@ -187387,7 +187387,7 @@
   {
     "id": "15169",
     "key": "role_feature_postnatal_tips8010",
-    "es": "Se recuperan 100 Focus cada mes"
+    "es": "Recuperas 100 de Enfoque cada mes"
   },
   {
     "id": "15170",
@@ -187452,7 +187452,7 @@
   {
     "id": "15182",
     "key": "role_feature_postnatal_tips8030",
-    "es": "Se recuperan 250 Focus cada mes"
+    "es": "Cada mes se recuperan 250 de Enfoque"
   },
   {
     "id": "15183",
@@ -187517,7 +187517,7 @@
   {
     "id": "15195",
     "key": "role_feature_postnatal_tips8050",
-    "es": "Se recuperan 800 Focus cada mes"
+    "es": "Cada mes se recuperan 800 de Enfoque"
   },
   {
     "id": "15196",
@@ -187582,7 +187582,7 @@
   {
     "id": "15208",
     "key": "role_feature_postnatal_tips8070",
-    "es": "Se recuperan 1200 Focus cada mes"
+    "es": "Cada mes se recuperan 1200 de Enfoque"
   },
   {
     "id": "15209",
@@ -187647,7 +187647,7 @@
   {
     "id": "15221",
     "key": "role_feature_postnatal_tips8090",
-    "es": "Se recuperan 3000 Focus cada mes"
+    "es": "Cada mes se recuperan 3000 de Enfoque"
   },
   {
     "id": "15222",
@@ -191652,7 +191652,7 @@
   {
     "id": "7317",
     "key": "role_hobby_desc1210",
-    "es": "Mejor humor al usar una pieza de jade, que se puede comprar en los mercados de ciertas ciudades."
+    "es": "Tu ánimo mejora al usar un objeto de jade. Puedes comprar objetos de jade en los mercados de algunas ciudades."
   },
   {
     "id": "7318",
@@ -191742,7 +191742,7 @@
   {
     "id": "7299",
     "key": "role_hobby_name210",
-    "es": "Jadeware"
+    "es": "Objetos de jade"
   },
   {
     "id": "7300",
@@ -195262,7 +195262,7 @@
   {
     "id": "18950",
     "key": "s_35111_range",
-    "es": "Área de daño del escudo de Overlord &35111_range&"
+     "es": "Área de daño del Escudo del Señor Supremo &35111_range&."
   },
   {
     "id": "19299",
@@ -196062,7 +196062,7 @@
   {
     "id": "18589",
     "key": "s_45112_ddbl",
-    "es": "Área de daño de Falling Rock &45112_ddbl&"
+    "es": "Área de daño de Roca que cae: &45112_ddbl&."
   },
   {
     "id": "18481",
@@ -215777,7 +215777,7 @@
   {
     "id": "44686",
     "key": "skill_attack_desc7214",
-    "es": "Dangkang escupe un fuerte chorro de ráfaga hacia los enemigos."
+    "es": "Dangkang abre su enorme boca y lanza un potente vendaval contra los enemigos."
   },
   {
     "id": "44687",
@@ -216987,7 +216987,7 @@
   {
     "id": "44955",
     "key": "skill_attack_desc8361",
-    "es": "Lanza Arte Celestial - Swift Shadow y genera un duplicado con las mismas atributos."
+    "es": "Lanza el Arte Celestial Sombra veloz y crea un doble con la misma fuerza que el original."
   },
   {
     "id": "44956",
@@ -217237,7 +217237,7 @@
   {
     "id": "45016",
     "key": "skill_attack_desc8613",
-    "es": "Puño Ardiente: lanza puños ardientes hacia un área en forma de abanico.\\nFlowing Ice: congela a los enemigos en un área en forma de abanico hacia adelante con el poder del agua.\\nEspada Abisal: emite espadas voladoras imbuidas de Aire Abisale para infligir daño a los enemigos en un área en forma de abanico"
+    "es": "Puño Ardiente: lanza numerosos puños de fuego que golpean a los enemigos en un área cónica frontal.\\nHielo Fluyente: concentra el poder del hielo para congelar a los enemigos en un área cónica frontal.\\nEspada Abisal: lanza espadas voladoras imbuidas de Aire Abisal para atacar a los enemigos en un área cónica frontal."
   },
   {
     "id": "45017",
@@ -217837,7 +217837,7 @@
   {
     "id": "6689",
     "key": "skill_attack_desc16112",
-    "es": "Desata Cloudshift Palm &16112_ddsl& veces hacia adelante (rango: &16112_range&), causando &16112_dmg& $s_zhang$ daño."
+    "es": "Lanza hacia delante &16112_ddsl& Palmas Despejanubes de alcance &16112_range&, que infligen &16112_dmg& $s_zhang$ de daño a los enemigos."
   },
   {
     "id": "6690",
@@ -218282,7 +218282,7 @@
   {
     "id": "6698",
     "key": "skill_attack_desc36112",
-    "es": "Golpear a un enemigo con una habilidad marcial $s_zhang$ con efecto $s_neishang$ tiene una probabilidad de infligir $s_neishang$. Cada vez que un enemigo con $s_neishang$ muere, dejará un $s_mozhang$ en el suelo. Cuando haya &36112_conditionValue& $s_mozhang$s, todos los $s_mozhang$s se activarán uno por uno. Cada $s_mozhang$ activado desata una fila de Demonic Mark Palms (rango: &36112_range&) en dirección a un enemigo cercano. Cada uno La palma demoníaca de Mark inflige &36112_dmg& $s_zhang$ daño."
+    "es": "Al golpear a un enemigo con una habilidad marcial que tenga el efecto $s_neishang$ y sea de tipo $s_zhang$, tienes una probabilidad de aplicarle $s_neishang$. Cada vez que muere un enemigo con $s_neishang$, deja un $s_mozhang$ en el suelo. Cuando haya &36112_conditionValue& $s_mozhang$s, todos los $s_mozhang$s se activarán uno por uno. Cada $s_mozhang$ activado hará caer una fila de Palmas de marca demoníaca (alcance: &36112_range&) hacia un enemigo cercano. Cada Palma de marca demoníaca inflige &36112_dmg& $s_zhang$ de daño."
   },
   {
     "id": "6721",
@@ -218577,7 +218577,7 @@
   {
     "id": "6769",
     "key": "skill_attack_desc62111",
-    "es": "Golpear a un enemigo con una habilidad espiritual $s_shui$ con efecto $s_hanshuang$ tiene una probabilidad de infligir $s_hanshuang$. Golpear a un enemigo con una habilidad especial de agua con efecto $s_dongjie$ inflige $s_dongjie$. Cada vez Si matas a un enemigo al que se le ha infligido $s_hanshuang$ o $s_dongjie$, recibirás una acumulación de $s_bingyan$. Puedes lanzar esta habilidad definitiva cuando tengas &62111_conditionValue& acumulaciones de $s_bingyan$: invoca un ojo helado celestial en el ubicación del objetivo. El Ojo Helado Celestial generará &62111_mbsl|x62111_fbbs|f0& Tormentas de Hielo (rango: &62111_fbsc&) que se mueven desde el centro hacia el exterior. Cada Tormenta de Hielo causa &62111_dmg& $s_shui$ daño a cada enemigo que golpea y reduce el objetivo 's Agility en &62111_jdys&% y dura &62111_jssj&s."
+    "es": "Al golpear a un enemigo con una habilidad espiritual que tenga el efecto $s_hanshuang$ de $s_shui$, tienes una probabilidad de aplicarle $s_hanshuang$. Una habilidad definitiva de Agua con el efecto $s_dongjie$ puede aplicar $s_dongjie$ a los enemigos. Cada vez que matas a un enemigo con $s_hanshuang$ o afectado por $s_dongjie$, obtienes una acumulación de $s_bingyan$. Cuando tengas &62111_conditionValue& acumulaciones de $s_bingyan$, puedes lanzar esta habilidad definitiva: invoca un Ojo Helado Celestial en la ubicación del objetivo. El Ojo Helado Celestial generará un total de &62111_mbsl|x62111_fbbs|f0& Tormentas de Hielo (alcance: &62111_fbsc&) que se desplazarán desde el centro hacia afuera. Cada Tormenta de Hielo inflige &62111_dmg& $s_shui$ de daño a cada enemigo con el que colisiona y reduce su velocidad de movimiento en &62111_jdys&% durante &62111_jssj&s."
   },
   {
     "id": "6770",
@@ -218637,7 +218637,7 @@
   {
     "id": "44882",
     "key": "skill_attack_desc79431",
-    "es": "Se vuelve loco y obtiene una mejora considerable en ciertas habilidades si su Vida es demasiado baja."
+    "es": "Cuando su resistencia es insuficiente, entra en Frenesí y algunas de sus habilidades obtienen una gran mejora."
   },
   {
     "id": "44936",
@@ -220352,7 +220352,7 @@
   {
     "id": "27900",
     "key": "skill_desc91042",
-    "es": "Ningshuang se vuelve loca cada &91041_pgcs& veces que se lanza Piercing Sting. Lanzará &91041_khpg& ataques normales seguidos, y cada ataque adicionalmente causa &91041_ewsh& daño fijo."
+    "es": "Ningshuang entra en frenesí cada vez que se lanza Picadura perforadora &91041_pgcs& veces. Realizará &91041_khpg& ataques normales consecutivos, y cada uno infligirá además &91041_ewsh& de daño fijo."
   },
   {
     "id": "27901",
@@ -220427,7 +220427,7 @@
   {
     "id": "27909",
     "key": "skill_desc92012",
-    "es": "Disponible una vez que Tidal Surge se haya lanzado &92011_pgcs& veces. Yunling te otorga Explosión de energía que dura &92011_cxsj&s. Por cada &92011_llbl&% de energía que tengas, tu daño aumentará en &92011_tssh&%s."
+    "es": "Después de usar Marejada &92011_pgcs& veces, puedes lanzar esta habilidad para aplicar al propietario del artefacto el efecto Explosión de energía. Por cada &92011_llbl&% de energía espiritual actual, el daño aumenta en &92011_tssh&% durante &92011_cxsj&s."
   },
   {
     "id": "27910",
@@ -220452,7 +220452,7 @@
   {
     "id": "27914",
     "key": "skill_desc92032",
-    "es": "Disponible una vez que Sundering Arrow se haya lanzado &92031_pgcs& veces. El número de proyectiles de Sundering Arrow aumentará a &92031_jssl&."
+    "es": "Puede lanzarse después de usar Flecha desgarradora &92031_pgcs& veces. La cantidad de proyectiles de Flecha desgarradora aumentará a &92031_jssl&."
   },
   {
     "id": "27915",
@@ -220467,12 +220467,12 @@
   {
     "id": "27917",
     "key": "skill_desc92051",
-    "es": "Sharp Edge deja su arma en el campo de batalla después de cada ataque."
+    "es": "Vanguardia deja su arma en el campo de batalla después de cada ataque."
   },
   {
     "id": "27918",
     "key": "skill_desc92052",
-    "es": "Disponible una vez que &92051_pgcs& armas se dejan en el campo de batalla. Sharp Edge recupera todas las armas y luego las libera de una vez. Las armas causan daño a cada enemigo que golpean cuando son recuperadas y liberadas."
+    "es": "Puede lanzarse cuando haya &92051_pgcs& armas en el campo de batalla. Vanguardia recupera todas las armas y luego las lanza de una vez. Las armas infligen daño a cada enemigo que golpean tanto al recuperarse como al lanzarse."
   },
   {
     "id": "27919",
@@ -220572,7 +220572,7 @@
   {
     "id": "27941",
     "key": "skill_desc92142",
-    "es": "Disponible una vez que Roaring Slash se ha lanzado &92141_pgcs& veces. Feiming lanza una alabarda que dura &92141_zjsj&s en tu ubicación actual. Los aliados dentro del área de la alabarda causarán un &92141_zjsh&% más de daño."
+    "es": "Puede lanzarse después de usar Tajo rugiente &92141_pgcs& veces. Lanza una alabarda a tu ubicación actual que dura &92141_zjsj&s. Los aliados dentro del área de la alabarda infligen un &92141_zjsh&% más de daño."
   },
   {
     "id": "27942",
@@ -220592,7 +220592,7 @@
   {
     "id": "27945",
     "key": "skill_desc92162",
-    "es": "Disponible una vez que Hamstring se ha lanzado &92161_lxcs& veces. Sharpclaw lanza &92161_pgsl& ataques normales seguidos contra un enemigo aleatorio."
+    "es": "Puede lanzarse después de usar Bíceps femoral &92161_lxcs& veces para realizar &92161_pgsl& ataques normales consecutivos contra un enemigo aleatorio."
   },
   {
     "id": "27946",
@@ -221577,12 +221577,12 @@
   {
     "id": "44255",
     "key": "skill_name_middle7194",
-    "es": "Flora gravedad"
+    "es": "Atracción de plantas"
   },
   {
     "id": "44256",
     "key": "skill_name_middle7195",
-    "es": "Flora Minions"
+    "es": "Plantas belicosas"
   },
   {
     "id": "44257",
@@ -221622,7 +221622,7 @@
   {
     "id": "44264",
     "key": "skill_name_middle7214",
-    "es": "Gust Gush"
+    "es": "Oleada de vendaval"
   },
   {
     "id": "44265",
@@ -222457,7 +222457,7 @@
   {
     "id": "44459",
     "key": "skill_name_middle7943",
-    "es": "Berserk"
+    "es": "Frenesí"
   },
   {
     "id": "44461",
@@ -223677,7 +223677,7 @@
   {
     "id": "6678",
     "key": "skill_name_middle16112",
-    "es": "Palma Cloudshift"
+    "es": "Palma Despejanubes"
   },
   {
     "id": "6679",
@@ -223997,7 +223997,7 @@
   {
     "id": "6661",
     "key": "skill_name_middle25116",
-    "es": "Puño Skyblast"
+    "es": "Puño Explosivo del Cielo"
   },
   {
     "id": "6680",
@@ -224097,7 +224097,7 @@
   {
     "id": "6638",
     "key": "skill_name_middle34111",
-    "es": "Espada Skyfall"
+    "es": "Espada de Caída del Cielo"
   },
   {
     "id": "6639",
@@ -224107,7 +224107,7 @@
   {
     "id": "6662",
     "key": "skill_name_middle35111",
-    "es": "Escudo de Overlord"
+    "es": "Escudo del Señor Supremo"
   },
   {
     "id": "6663",
@@ -224477,7 +224477,7 @@
   {
     "id": "44460",
     "key": "skill_name_middle79431",
-    "es": "Berserk"
+    "es": "Frenesí"
   },
   {
     "id": "6857",
@@ -224652,7 +224652,7 @@
   {
     "id": "27747",
     "key": "skill_name_middle91023",
-    "es": "Tormenta Skybreak"
+    "es": "Tormenta Rompecielos"
   },
   {
     "id": "27748",
@@ -224772,7 +224772,7 @@
   {
     "id": "27765",
     "key": "skill_name_middle92031",
-    "es": "Flecha que se divide"
+    "es": "Flecha desgarradora"
   },
   {
     "id": "27766",
@@ -226082,12 +226082,12 @@
   {
     "id": "51208",
     "key": "skillDescS1303",
-    "es": "Suelta las Eferas de Rayo que persiguen hacia adelante. Las Eferas de Rayo rebotarán entre los enemigos.\\nDaño de habilidad: &1303_dmg&\\nCantidad de Lightning Ball: &1303_num&\\nTiempos de rebote: &1303_catapultNum&"
+    "es": "Lanza orbes de Rayo hacia adelante; los orbes persiguen automáticamente a los enemigos y pueden rebotar entre ellos.\\nDaño de habilidad: &1303_dmg&\\nCantidad de orbes de Rayo: &1303_num&\\nTiempos de rebote: &1303_catapultNum&"
   },
   {
     "id": "51224",
     "key": "skillDescS1401",
-    "es": "Invoca un torbellino que gira a tu alrededor, con la posibilidad de derribar a los enemigos afectados y la posibilidad de liberar una Hoja de viento al atacar a los enemigos.\\nDaño de habilidad: &1401_dmg&\\nProbabilidad de retroceso: &1401_beatbackProb&\\nKnock -Distancia de retroceso: &1401_beatbackRange&\\nProbabilidad de hoja de viento: &1401_windKnight&%"
+    "es": "El viento gira continuamente a tu alrededor, con una probabilidad de hacer retroceder a los enemigos que toca y, al atacar a los enemigos, una probabilidad de lanzarles una hoja de viento. Las habilidades de viento avanzadas aumentan el poder de la hoja de viento.\\nDaño de habilidad: &1401_dmg&\\nProbabilidad de retroceso: &1401_beatbackProb&\\nDistancia de retroceso: &1401_beatbackRange&\\nProbabilidad de hoja de viento: &1401_windKnight&%"
   },
   {
     "id": "51240",
@@ -235192,7 +235192,7 @@
   {
     "id": "49563",
     "key": "SpecificSkillAttackName24111",
-    "es": "Empyrean Edge - Sin sombras"
+    "es": "Filo empíreo - Sin sombras"
   },
   {
     "id": "49562",
@@ -235277,7 +235277,7 @@
   {
     "id": "27811",
     "key": "sprite_1003_skill_name_3",
-    "es": "Tormenta Skybreak"
+    "es": "Tormenta Rompecielos"
   },
   {
     "id": "27812",
@@ -235357,7 +235357,7 @@
   {
     "id": "27827",
     "key": "sprite_2003_skill_name_1",
-    "es": "Flecha que se divide"
+    "es": "Flecha desgarradora"
   },
   {
     "id": "27828",
@@ -237622,7 +237622,7 @@
   {
     "id": "27665",
     "key": "spriteSub_1007009",
-    "es": "Nosotros, los Flaming Dragons, somos una raza de alta autoestima y vanidad con nuestros talentos superiores, y hemos vivido una vida desenfrenada en el cielo, creando innumerables enemigos para nosotros mismos. Es demasiado tarde para cambiarlo, y Nuestro dominio no durará mucho."
+    "es": "Nosotros, el clan del Dragón Llameante, somos una raza orgullosa y arrogante, convencida de sus talentos excepcionales. Hemos campado a nuestras anchas por el reino celestial y nos hemos creado innumerables enemigos. Ya es demasiado tarde para cambiar, y nuestro dominio no durará mucho."
   },
   {
     "id": "27666",
@@ -238932,7 +238932,7 @@
   {
     "id": "28018",
     "key": "spriteTalent_unlockDesc100145",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28019",
@@ -239982,7 +239982,7 @@
   {
     "id": "28228",
     "key": "spriteTalent_unlockDesc100543",
-    "es": "Requiere Vixen Jade x{0}/5."
+    "es": "Requiere Zorra Jade x{0}/5."
   },
   {
     "id": "28229",
@@ -240497,7 +240497,7 @@
   {
     "id": "30493",
     "key": "spriteTalent_unlockDesc100740",
-    "es": "Mata a {0}/1 Fly Mouse para desbloquearlo. (Bestia mítica: posibilidad de encontrarla en la ola de monstruos)"
+    "es": "Derrota al Ratón volador (bestia demoníaca mayor) {0}/1 vez para desbloquearlo. (Tiene una alta probabilidad de aparecer en la Ola de Monstruos)"
   },
   {
     "id": "30494",
@@ -240512,7 +240512,7 @@
   {
     "id": "30496",
     "key": "spriteTalent_unlockDesc100743",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30497",
@@ -240602,12 +240602,12 @@
   {
     "id": "30514",
     "key": "spriteTalent_unlockDesc100808",
-    "es": "Requiere Dwarf Lilyturf x{0}/3."
+    "es": "Requiere Lirio enano: {0}/3."
   },
   {
     "id": "30515",
     "key": "spriteTalent_unlockDesc100809",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30516",
@@ -240652,7 +240652,7 @@
   {
     "id": "30524",
     "key": "spriteTalent_unlockDesc100818",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30525",
@@ -240907,7 +240907,7 @@
   {
     "id": "28307",
     "key": "spriteTalent_unlockDesc200116",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28308",
@@ -241442,7 +241442,7 @@
   {
     "id": "28414",
     "key": "spriteTalent_unlockDesc200341",
-    "es": "Mata a Cage Zombie (monstruo normal) x{0}/20 para desbloquear."
+    "es": "Mata a Zombi de Jaula (monstruo normal) x{0}/20 para desbloquear."
   },
   {
     "id": "28415",
@@ -241522,7 +241522,7 @@
   {
     "id": "28430",
     "key": "spriteTalent_unlockDesc200416",
-    "es": "Requiere G3 Unity Elixir x{0}/2."
+    "es": "Requiere Elixir de unidad G3: {0}/2."
   },
   {
     "id": "28431",
@@ -242502,7 +242502,7 @@
   {
     "id": "28626",
     "key": "spriteTalent_unlockDesc200907",
-    "es": "Mata a Cage Zombie (monstruo normal) x{0}/20 para desbloquear."
+    "es": "Derrota al Zombi de Jaula (monstruo normal) {0}/20 veces para desbloquearlo."
   },
   {
     "id": "28627",
@@ -242752,7 +242752,7 @@
   {
     "id": "28676",
     "key": "spriteTalent_unlockDesc201016",
-    "es": "Requiere G4 Golden Bone Elixir x{0}/1."
+    "es": "Requiere Elixir de hueso dorado G4: {0}/1."
   },
   {
     "id": "28677",
@@ -242832,7 +242832,7 @@
   {
     "id": "28692",
     "key": "spriteTalent_unlockDesc201032",
-    "es": "Requiere G3 Revival Elixir x{0}/2."
+    "es": "Requiere Elixir de avivamiento G3: {0}/2."
   },
   {
     "id": "28693",
@@ -242922,7 +242922,7 @@
   {
     "id": "28710",
     "key": "spriteTalent_unlockDesc201109",
-    "es": "Requiere Vixen Jade x{0}/5."
+    "es": "Requiere Zorra Jade x{0}/5."
   },
   {
     "id": "28711",
@@ -243437,7 +243437,7 @@
   {
     "id": "28813",
     "key": "spriteTalent_unlockDesc201330",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28814",
@@ -243497,7 +243497,7 @@
   {
     "id": "28825",
     "key": "spriteTalent_unlockDesc201401",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28826",
@@ -243567,7 +243567,7 @@
   {
     "id": "28839",
     "key": "spriteTalent_unlockDesc201415",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28840",
@@ -243657,7 +243657,7 @@
   {
     "id": "28857",
     "key": "spriteTalent_unlockDesc201433",
-    "es": "Requiere Vixen Jade x{0}/5."
+    "es": "Requiere Zorra Jade x{0}/5."
   },
   {
     "id": "28858",
@@ -243927,7 +243927,7 @@
   {
     "id": "28911",
     "key": "spriteTalent_unlockDesc201605",
-    "es": "Mata a Cage Zombie (monstruo normal) x{0}/20 para desbloquear."
+    "es": "Mata a Zombi de Jaula (monstruo normal) x{0}/20 para desbloquear."
   },
   {
     "id": "28912",
@@ -243942,7 +243942,7 @@
   {
     "id": "28914",
     "key": "spriteTalent_unlockDesc201608",
-    "es": "Requiere G4 Meridian Elixir x{0}/1."
+    "es": "Requiere Elixir del meridiano G4: {0}/1."
   },
   {
     "id": "28915",
@@ -244042,7 +244042,7 @@
   {
     "id": "28934",
     "key": "spriteTalent_unlockDesc201628",
-    "es": "Requiere G4 Scarlet Sun Elixir x{0}/1."
+    "es": "Requiere el Elixir del sol escarlata G4 x{0}/1."
   },
   {
     "id": "28935",
@@ -244527,7 +244527,7 @@
   {
     "id": "30561",
     "key": "spriteTalent_unlockDesc201902",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30562",
@@ -244557,7 +244557,7 @@
   {
     "id": "30567",
     "key": "spriteTalent_unlockDesc201908",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30568",
@@ -244962,7 +244962,7 @@
   {
     "id": "30648",
     "key": "spriteTalent_unlockDesc202107",
-    "es": "Requiere Dwarf Lilyturf x{0}/3."
+    "es": "Requiere Lirio enano x{0}/3."
   },
   {
     "id": "30649",
@@ -245072,7 +245072,7 @@
   {
     "id": "30670",
     "key": "spriteTalent_unlockDesc202129",
-    "es": "Requiere Blazing Sun Berry x{0}/10."
+    "es": "Requiere Baya del Sol Ardiente x{0}/10."
   },
   {
     "id": "30671",
@@ -245087,12 +245087,12 @@
   {
     "id": "30673",
     "key": "spriteTalent_unlockDesc202132",
-    "es": "Requiere Millennium Yam x{0}/10."
+    "es": "Requiere Ñame del Milenio x{0}/10."
   },
   {
     "id": "30674",
     "key": "spriteTalent_unlockDesc202133",
-    "es": "Requiere Beauty Fruit x{0}/10."
+    "es": "Requiere Fruta de belleza x{0}/10."
   },
   {
     "id": "30675",
@@ -245337,7 +245337,7 @@
   {
     "id": "30723",
     "key": "spriteTalent_unlockDesc202241",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30724",
@@ -245372,7 +245372,7 @@
   {
     "id": "30730",
     "key": "spriteTalent_unlockDesc202307",
-    "es": "Requiere Dwarf Lilyturf x{0}/3."
+    "es": "Requiere Césped de lirio enano x{0}/3."
   },
   {
     "id": "30731",
@@ -245617,7 +245617,7 @@
   {
     "id": "30779",
     "key": "spriteTalent_unlockDesc202415",
-    "es": "Mata a {0}/1 Bipedal Hound para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 Sabueso bípedo para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Obtener pergaminos (Misión de la Alianza) y Ola de monstruos)"
   },
   {
     "id": "30780",
@@ -246797,7 +246797,7 @@
   {
     "id": "29239",
     "key": "spriteTalentDesc100451",
-    "es": "Cuando estás equipado con un Artefacto combinado con este Espíritu de Artefacto, cada vez que recuperas Energía, también recuperarás &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2&x Vitality. El efecto anterior se sobrescribirá."
+    "es": "Cuando tienes equipado un artefacto combinado con este espíritu de artefacto, cada vez que recuperas energía, también recuperarás &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2& veces la Resistencia. Este efecto sustituye al anterior."
   },
   {
     "id": "29240",
@@ -248322,7 +248322,7 @@
   {
     "id": "29438",
     "key": "spriteTalentDesc200309",
-    "es": "{#skill_name_middle92032} aumenta el número de proyectiles de Sundering Arrow en un &92031_jssl%1+1& adicional."
+    "es": "La habilidad {#skill_name_middle92032} aumenta en &92031_jssl%1+1& la cantidad de proyectiles de su Flecha que se divide."
   },
   {
     "id": "29439",
@@ -248442,7 +248442,7 @@
   {
     "id": "29462",
     "key": "spriteTalentDesc200333",
-    "es": "{#skill_name_middle92032} aumenta el número de proyectiles de Sundering Arrow en un &92031_jssl%2+1& adicional."
+    "es": "La habilidad {#skill_name_middle92032} aumenta la cantidad de proyectiles de Flecha que se divide en &92031_jssl%2+1&."
   },
   {
     "id": "29463",
@@ -248482,7 +248482,7 @@
   {
     "id": "29470",
     "key": "spriteTalentDesc200341",
-    "es": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%4+1|x0.01|f2&x Vitality."
+    "es": "El efecto de recuperación de {#sprite_race_1_passive_1} aumenta adicionalmente &95011_nxsh%4+1|x0.01|f2& veces."
   },
   {
     "id": "29471",
@@ -258697,22 +258697,22 @@
   {
     "id": "13729",
     "key": "taskDesc2110109",
-    "es": "Para mejorar la condición del río Wei, necesitas conseguir el trípode del dragón de agua de Jimeng.\\nRealiza geomancia cerca de la ubicación objetivo para determinar la ubicación exacta de la cueva de Jimeng."
+    "es": "Para que el río Wei vuelva a ser habitable, consigue el artefacto divino de Jimeng.\\nUsa geomancia cerca de la ubicación objetivo para determinar la ubicación exacta de la cueva de Jimeng."
   },
   {
     "id": "13730",
     "key": "taskDesc2110110",
-    "es": "Derrota a Jimeng y obtén el trípode del Dragón de Agua."
+    "es": "Para ayudar a las Carpias a pedir lluvia, derrota a Jimeng y arrebátale el Caldero del Dragón de Agua."
   },
   {
     "id": "13731",
     "key": "taskDesc2110111",
-    "es": "Dale a Jimeng lo que quiere para que te preste el trípode del Dragón de Agua.\\nRecoge 3 piezas de <r>Jadeware</r> para Jimeng."
+    "es": "Dale a Jimeng lo que quiere para que te preste el Caldero del Dragón de Agua.\\nEntrégale 3 <r>objetos de jade</r> cualesquiera."
   },
   {
     "id": "13732",
     "key": "taskDesc2110112",
-    "es": "Regresa al río Wei y luego usa el trípode del Dragón de Agua para invocar la lluvia."
+    "es": "Regresa a la orilla del río Wei y usa el Caldero del Dragón de Agua para pedir lluvia para Muxianzhou."
   },
   {
     "id": "13733",
@@ -259107,7 +259107,7 @@
   {
     "id": "39351",
     "key": "taskDesc2110612",
-    "es": "En el mapa está marcada una mina subterránea de Sun Flame. Ve allí para obtenerla."
+    "es": "En el mapa está marcada una mina subterránea de Llama del Sol. Ve allí para obtenerla."
   },
   {
     "id": "38905",
@@ -259227,7 +259227,7 @@
   {
     "id": "37987",
     "key": "taskDesc2110660",
-    "es": "Feng Pingmo confiesa la verdad sobre lo que sucedió y la situación actual dentro de las Montañas Abisales. Es tan culpable que deliberadamente envía mensajes para sobrecargar el Brocade Silk y quemarlo. Debes apresurarte a informar al Jefe Feng de esto. mensaje."
+     "es": "Feng Pingmo confiesa la verdad sobre lo que sucedió y la situación actual dentro de las Montañas Abisales. Se siente tan culpable que deliberadamente envía mensajes para quemar la Seda Brocada. Debes apresurarte a informar al Jefe Feng de este mensaje."
   },
   {
     "id": "37989",
@@ -265672,7 +265672,7 @@
   {
     "id": "13968",
     "key": "townName111",
-    "es": "Righteous"
+    "es": "Zheng"
   },
   {
     "id": "13969",
@@ -267466,7 +267466,7 @@
   {
     "id": "44073",
     "key": "ui_potmonList_TipsGrade",
-    "es": "Después de obtener suficiente EXP, la bestia calabaza puede avanzar al siguiente reino. El avance requiere un objeto especial: <r>Elixir del reino dla bestia</r> (que se puede obtener en la aventura dla bestia). Los bestias pueden obtener EXP de aventura, o usando el <r>Imp EXP Elixir</r> (que se puede obtener en la aventura de Imp)"
+    "es": "Después de obtener suficiente EXP, la bestia calabaza puede avanzar al siguiente reino. Para hacerlo, necesita el objeto exclusivo <r>Elixir del reino de la bestia calabaza</r>, que se obtiene en las aventuras de la bestia calabaza. La bestia calabaza puede obtener EXP en aventuras o usar el <r>Elixir de EXP de bestia</r>, obtenido durante las aventuras."
   },
   {
     "id": "44020",
@@ -273981,37 +273981,37 @@
   {
     "id": "41341",
     "key": "wushe_1",
-    "es": "Clan de la serpiente vudú"
+    "es": "Clan de la Serpiente Vudú"
   },
   {
     "id": "41342",
     "key": "wushe_2",
-    "es": "Leng Jingtang, el joven maestro del Clan de la Serpiente Vudú. Nacido contrarrestado por el Clan del Jabalí, que lleva la sangre demoníaca innata, Jingtang fue salvado por muchos de los miembros de su tribu a costa de sus vidas en los momentos más críticos. momento. Luego, sin conocer su pasado, emprende voluntariamente la misión de luchar contra sus enemigos naturales, y sabe que las leyes de la naturaleza que oprimen a su clan sólo pueden ser destrozadas por su fuerza como dragón. Para lograrlo, Jingtang sigue el antiguo leyendas del clan y se propone recolectar sangre de todas las razas en el Reino Inmortal. Aunque los enemigos demoníacos de su clan oponente siempre intentan detenerlo, y el poder de los miembros de su tribu nunca podría compararse con los de Flaming Dragon y Jade Bird, él Continúa su viaje con total determinación."
+    "es": "Leng Jingtang, joven maestro del Clan de la Serpiente Vudú. Por naturaleza, el Clan de la Serpiente Vudú está en desventaja frente al Clan del Jabalí Salvaje, que posee sangre demoníaca innata. Cuando nació Jingtang, sobrevivió a una situación de vida o muerte gracias al sacrificio de innumerables miembros de su clan. Sin saber nada sobre su origen, asumió por iniciativa propia la misión de enfrentarse a su enemigo natural: solo al convertirse primero en un Dragón Jiao y después en dragón podrá cambiar las leyes del Cielo y la Tierra. Para cambiar el trágico destino de su raza, Jingtang sigue las antiguas leyendas de su clan y emprende el camino de recolectar la sangre de todas las razas del Reino Inmortal. El enemigo natural, con su sangre demoníaca, le bloquea el paso y, además, los clanes del Dragón Llameante y del Pájaro de Jade son rivales inigualables. Aun así, avanza con determinación inquebrantable."
   },
   {
     "id": "41343",
     "key": "wushe_3",
-    "es": "Mi sed de sangre me está devorando… ¡Qué está pasando!"
+    "es": "Cada vez me cuesta más contener la sed de sangre… Yo… ¿qué me está pasando?"
   },
   {
     "id": "41344",
     "key": "wushe_4",
-    "es": "¡No mueran, dense prisa y váyanse! ¿Por qué, por qué pasó esto?"
+    "es": "¡No mueran, váyanse rápido! ¿Por qué, por qué está pasando esto?"
   },
   {
     "id": "41345",
     "key": "wushe_5",
-    "es": "Qué campaña tan maravillosa entre dragones y pájaros. Si nosotros, las serpientes, pudiéramos luchar contra los jabalíes sólo una vez, nuestro clan no quedaría atrapado en ese destino despreciable…"
+    "es": "La batalla entre los clanes del Dragón y del Pájaro de Jade fue realmente espectacular. Si mi clan y el Clan del Jabalí Salvaje también fuéramos enemigos jurados, mi clan no habría caído tan bajo…"
   },
   {
     "id": "41346",
     "key": "wushe_6",
-    "es": "General Jiu, usted es un oponente respetable. Vengo aquí por la sangre de su clan… y ahora, tal vez… muera pronto…"
+    "es": "¡Qué emocionante fue luchar contra el general Jiu! Aunque para obtener la sangre del Clan del Jabalí Salvaje… quizá… tenga que morir…"
   },
   {
     "id": "41347",
     "key": "wushe_7",
-    "es": "Este cobertizo será mi legado… y espero que, el día en que los miembros de mi tribu lo encuentren, puedan vivir seguros bajo el cielo."
+    "es": "Esta piel de serpiente heredará mi voluntad… Espero que, cuando los miembros de mi clan la encuentren, ya puedan vivir libremente bajo la luz del sol."
   },
   {
     "id": "20419",
@@ -274726,17 +274726,17 @@
   {
     "id": "30854",
     "key": "yuluan_2",
-    "es": "Muqing es una chica misteriosa del clan Jade Bird. Se fue con su abuelo a una edad temprana para vagar por el reino celestial. Después de heredar Qingi, un famoso guqin, se enamoró de la música y comenzó a viajar en su propia. Siguió los pasos de su abuelo y visitó muchos de los majestuosos sitios del reino mientras componía música. Tuvo cierto éxito, pero descubrió que había algo que faltaba en su música. Un día, el sonido de una flauta despertó la competitividad en ella y la derritió. aleja su inquietud de esperar a su abuelo. Mientras un Rayo de luz cae del cielo, Muqing está lista para su último viaje musical"
+    "es": "Dongfang Muqing, una chica misteriosa del Clan Pájaro de Jade, se alejó de su clan desde pequeña para vagar por el Reino Celestial junto a su abuelo. Tras heredar el famoso guqin Qingui, se enamoró de la música y emprendió un viaje en solitario. Siguió las enseñanzas de su abuelo y recorrió las innumerables maravillas del Reino Celestial, expresando sus sentimientos mediante la música hasta alcanzar un dominio modesto. Sin embargo, Muqing descubrió que a su música siempre le faltaba un antiguo encanto melancólico. Aquel día, el misterioso sonido de una flauta fuera del valle despertó su espíritu competitivo y disipó en silencio la ansiedad que sentía mientras esperaba a su abuelo. Cuando un rayo de luz surcó el cielo, Muqing también emprendió el viaje final de regreso en busca del Dao de la música."
   },
   {
     "id": "30855",
     "key": "yuluan_3",
-    "es": "Mi abuelo dijo una vez que la música transmite significado. Nada es mejor que cantar en el viento mientras se tocan las cuerdas."
+    "es": "Mi abuelo decía que la música expresa lo que uno quiere decir y que las melodías transmiten el Dao. Cantarle al viento y contemplar la luna, mientras se hace poesía sobre las cuerdas: ese es el estado sublime."
   },
   {
     "id": "30856",
     "key": "yuluan_4",
-    "es": "Si pudiera ver todo en el mundo, entonces podría tocar cada nota que existe."
+    "es": "Si pudiera contemplar todas las cosas del mundo, supongo que ninguna melodía de guqin se me resistiría."
   },
   {
     "id": "30857",
@@ -274746,12 +274746,12 @@
   {
     "id": "30858",
     "key": "yuluan_6",
-    "es": "¡Este es un demonio iluminado! ¡Y miente!"
+    "es": "¡Esta ocarina de barro resulta ser un demonio y además sabe engañar a la gente!"
   },
   {
     "id": "30859",
     "key": "yuluan_7",
-    "es": "Me encantaría volver a tocar junto a la flauta…"
+    "es": "Si pudiera volver a tocar una melodía en armonía con esa flauta, no tendría ningún pesar…"
   },
   {
     "id": "32038",
