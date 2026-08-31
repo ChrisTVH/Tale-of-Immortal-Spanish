@@ -99,7 +99,9 @@ Preserve nesting and closing order. The inspected source contains known malforme
 - Several `<size=130%>`/`<size=100%>` blocks around lines 207880, 266620, 266625, 269795, and 269800 have no explicit closing tag.
 - `<root0>` through `<root4>` are game-specific tags, not colors.
 - `<blod>` appears to be a possible typo, but must be confirmed before correction.
-- Five `<秋枫夜话琉璃盏>` matches appear to be content delimiters rather than rich-text tags.
+- The validator recognizes only known game markup names. Other angle-bracketed
+  content is visible text and may be translated, such as
+  `<秋枫夜话琉璃盏>` becoming `<Historia de la Lámpara del Alma>`.
 
 ## Brackets, delimiters, and escapes
 
