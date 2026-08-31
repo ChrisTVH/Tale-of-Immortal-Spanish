@@ -28,6 +28,24 @@ for file in Scripts/Output/Processed/*.json ModProject/ModCode/ModMain/Localizat
 done
 ```
 
+## Formateo final de JSON
+
+En cada nuevo despliegue, después de terminar las traducciones y antes de la validación final, formatear todos los JSON de localización modificados con `jq`. Usar un archivo temporal para no dejar el recurso truncado si el formateo falla:
+
+```bash
+file="ModProject/ModCode/ModMain/Localization/Spanish/LocalText.json"
+tmp="$(mktemp "${file}.tmp.XXXXXX")"
+trap 'rm -f "$tmp"' EXIT
+if jq --indent 2 . "$file" > "$tmp"; then
+  mv "$tmp" "$file"
+  trap - EXIT
+else
+  exit 1
+fi
+```
+
+Repetir el comando para cada JSON modificado, inspeccionar `git diff --check` y ejecutar después el checker global. No aplicar el formateador a `Scripts/Output/Processed/` ni a los caches protegidos salvo autorización explícita.
+
 ## Estructura relativa de carpetas
 
 ```text

@@ -10467,7 +10467,7 @@
   {
     "id": "5522",
     "key": "battle_unit_name510",
-    "es": "Simio terrible"
+    "es": "Simio feroz"
   },
   {
     "id": "5523",
@@ -17202,7 +17202,7 @@
   {
     "id": "53145",
     "key": "D_playerInfoDesc_shanbi",
-    "es": "Indica tu probabilidad de evadir un ataque inminente. Limitado al 70%."
+    "es": "Porcentaje de evasión del personaje; el límite de este atributo es 60%, y cualquier exceso no surtirá efecto."
   },
   {
     "id": "53165",
@@ -31037,7 +31037,7 @@
   {
     "id": "38111",
     "key": "drama_dialogue770001",
-    "es": "Después de entrar a la caverna, sientes una sensación extraña antes de vaporizarte en la Ilusión del Mar Mental. Ves masas interminables de aire abisal emergiendo cerca, tan espeluznantes que sientes que tu vida estará en peligro si te quedas aquí…"
+    "es": "Después de entrar en la caverna abisal, sientes una extraña sensación y enseguida entras en la ilusión del Mar Mental. En la ilusión, ves grupos de energía abisal surgir continuamente a tu alrededor. La escena ante tus ojos es muy extraña; si permaneces en este lugar, podrías sufrir una desgracia…"
   },
   {
     "id": "38128",
@@ -38405,9 +38405,9 @@
     "es": "¿Puedes oírme? Soy Feng Pingmo. Estoy atrapado en las Montañas Abisales. ¿Puedes salvarme?"
   },
   {
-     "id": "37747",
-     "key": "drama_dialogue2002151",
-     "es": "Um… la Seda Brocada ha recuperado el Qi… Li Si me pidió que preguntara cuanto antes a esta persona mayor sobre la situación en el interior de las Montañas Abisales."
+    "id": "37747",
+    "key": "drama_dialogue2002151",
+    "es": "Um… la Seda Brocada ha recuperado el Qi… Li Si me pidió que preguntara cuanto antes a esta persona mayor sobre la situación en el interior de las Montañas Abisales."
   },
   {
     "id": "37748",
@@ -38600,9 +38600,9 @@
     "es": "En realidad, los otros hermanos y hermanas de la tribu escucharon la historia del Mentor Feng y quieren transmitirle sus saludos."
   },
   {
-     "id": "37786",
-     "key": "drama_dialogue2002450",
-     "es": "Sabemos que el uso diario de la Seda Brocada es limitado, pero también queremos hacerle llegar nuestro apoyo y esperamos que pueda seguir resistiendo. ¡Siempre podemos salvarla!"
+    "id": "37786",
+    "key": "drama_dialogue2002450",
+    "es": "Sabemos que el uso diario de la Seda Brocada es limitado, pero también queremos hacerle llegar nuestro apoyo y esperamos que pueda seguir resistiendo. ¡Siempre podemos salvarla!"
   },
   {
     "id": "37787",
@@ -38882,7 +38882,7 @@
   {
     "id": "37842",
     "key": "drama_dialogue2002651",
-    "es": "Ya sabes cómo terminé aquí, así que no lo explicaré nuevamente. Después de caer dentro de las Montañas Abisales, me encontré en un espacio abierto con mucho Aire Abisal alrededor. Una vez vi Los monstruos mueren después de inhalar demasiado Aire Abisal, así que contuve la respiración y sobreviví"
+    "es": "……"
   },
   {
     "id": "37843",
@@ -39417,7 +39417,7 @@
   {
     "id": "38369",
     "key": "drama_dialogue2010052",
-    "es": "Después de entrar a la caverna, sientes una sensación extraña antes de vaporizarte en el Reino del Mar de la Mente. Ves masas interminables de aire abisal en la caverna, tan espeluznantes que sientes que tu vida estará en peligro si te quedas en este reino…"
+    "es": "Después de entrar en la caverna, sientes algo extraño y, acto seguido, entras en el Reino del Mar Mental. En este reino, ves cómo a tu alrededor aparecen continuamente masas de Aire Abisal. La escena es muy extraña. Si permaneces aquí, podrías correr peligro…"
   },
   {
     "id": "38370",
@@ -39437,7 +39437,7 @@
   {
     "id": "38373",
     "key": "drama_dialogue2010102",
-    "es": "Después de entrar a la caverna, una sensación extraña te invade antes de vaporizarte en la Ilusión del Mar Mental. Ves masas interminables de aire abisal en la caverna, tan espeluznantes que sientes que tu vida estará en peligro si te quedas aquí…"
+    "es": "Después de entrar en la caverna, sientes algo extraño y, acto seguido, entras en la Ilusión del Mar Mental. En la ilusión, ves cómo a tu alrededor aparecen continuamente masas de Aire Abisal. La escena es muy extraña. Si permaneces aquí, podrías correr peligro…"
   },
   {
     "id": "38374",
@@ -39492,7 +39492,7 @@
   {
     "id": "38378",
     "key": "drama_dialogue2010153",
-    "es": "Después de entrar a la caverna, sientes una sensación extraña antes de vaporizarte en el Reino del Mar de la Mente. Ves masas interminables de aire abisal en la caverna, tan espeluznantes que sientes que tu vida estará en peligro si te quedas en este reino…"
+    "es": "Después de entrar en la caverna, sientes algo extraño y, acto seguido, entras en el Reino del Mar Mental. En este reino, ves cómo a tu alrededor aparecen continuamente masas de Aire Abisal. La escena es muy extraña. Si permaneces aquí, podrías correr peligro…"
   },
   {
     "id": "38379",
@@ -39532,7 +39532,7 @@
   {
     "id": "38386",
     "key": "drama_dialogue2010202",
-    "es": "Después de entrar a la caverna, una sensación extraña te invade antes de vaporizarte en la Ilusión del Mar Mental. Ves masas interminables de aire abisal en la caverna, tan espeluznantes que sientes que tu vida estará en peligro si te quedas aquí…"
+    "es": "Después de entrar en la caverna, sientes algo extraño y, acto seguido, entras en la Ilusión del Mar Mental. En la ilusión, ves cómo a tu alrededor aparecen continuamente masas de Aire Abisal. La escena es muy extraña. Si permaneces aquí, podrías correr peligro…"
   },
   {
     "id": "38387",
@@ -39637,7 +39637,7 @@
   {
     "id": "38400",
     "key": "drama_dialogue2010254",
-    "es": "Después de entrar a la caverna, sientes una sensación extraña antes de vaporizarte en el Reino del Mar de la Mente. Ves masas interminables de aire abisal en la caverna, tan espeluznantes que sientes que tu vida estará en peligro si te quedas en este reino…"
+    "es": "Después de entrar en la caverna, sientes algo extraño y, acto seguido, entras en el Reino del Mar Mental. En este reino, ves cómo a tu alrededor aparecen continuamente masas de Aire Abisal. La escena es muy extraña. Si permaneces aquí, podrías correr peligro…"
   },
   {
     "id": "38401",
@@ -42632,67 +42632,67 @@
   {
     "id": "47304",
     "key": "drama_dialogue2201323",
-    "es": "Después de que dividí mi alma en tres, ambos tendrán su propia experiencia única. Pueden convertirse en personas completamente diferentes a mí, y aquí, me disculpo por cualquier injusticia causada por ello."
+    "es": "Lo siento mucho; al final no pude derrotar a Hengtian de un solo golpe. Ahora solo queda arriesgarse y esperar que quienes vengan después derroten a Hengtian. A continuación, usaré mi propio cuerpo como medio para establecer una barrera de sellado que encierre a Hengtian y, al mismo tiempo, bloquearé temporalmente el canal de la Montaña Tian Yuan que conecta con la época original."
   },
   {
     "id": "47305",
     "key": "drama_dialogue2201324",
-    "es": "Sin embargo, ahora debemos aprovechar la última oportunidad para derrotar al Maestro del Pabellón siguiendo una decisión arriesgada. Tú eres yo, de mediana edad, y sé que estás decidido a llevar a cabo lo que estoy planeando ya que todas las dudas ,Con respecto a tus creencias se han aclarado. Por lo tanto, te llevaré al Valle Fantasma. Debes buscar maestros Cultivadores allí y decirles que vayan a la montaña Tian Yuan"
+    "es": "A partir de entonces, el canal de la Montaña Tian Yuan se conectará con la época de hace diez mil años. Después, debo convocar desde los Ocho Yermos de la antigüedad a cultivadores de gran nivel para que vengan a la Montaña Tian Yuan, acaben con Hengtian y pongan fin a todo esto. Sin embargo, en cuanto lance el hechizo, yo también me convertiré en polvo. Pero antes de eso, separaré mi conciencia divina mediante la técnica de Un Qi se transforma en Tres Purezas."
   },
   {
     "id": "47306",
     "key": "drama_dialogue2201325",
-    "es": "Tú eres mi joven yo. Sé que siempre eres aventurero y creo que serás un gran guía para guiar a los Cultivadores hacia la montaña Tian Yuan"
+    "es": "Después de separarlos mediante la técnica de las Tres Purezas, cada uno tendrá sus propias experiencias y encuentros, y dejarán de ser yo. Eso es sumamente injusto para ustedes."
   },
   {
     "id": "47307",
     "key": "drama_dialogue2201326",
-    "es": "La figura de mediana edad de Zhang San comienza a preguntar algo al escucharlo."
+    "es": "Sin embargo, esta es la última oportunidad de enfrentarnos al Maestro del Pabellón. En una situación urgente, no queda más remedio que arriesgarse. Como yo, en la mediana edad, ya no tengo dudas sobre aquello que he decidido, podré llevar bien a cabo mi plan. Por eso, espero que permanezcas en el Valle Fantasma, busques sin descanso a cultivadores poderosos adecuados y los convoques a la Montaña Tian Yuan."
   },
   {
     "id": "47308",
     "key": "drama_dialogue2201327",
-    "es": "De hecho. También lo pensé y elegí otra misión para mi joven alma. Él simplemente perseguirá su ambición de alcanzar la ascensión en lugar de presentar Cultivadores a la montaña Tian Yuan para que me ayuden"
+    "es": "Mi yo joven siempre se esfuerza por progresar en todo; sin duda podrá guiar bien a los cultivadores hasta la Montaña Tian Yuan."
   },
   {
     "id": "47309",
     "key": "drama_dialogue2201328",
-    "es": "Pero le prohibiré entrar a la Montaña Tian Yuan. Quiere ascender al Reino Inmortal, pero no puede acercarse a su secreto clave. Por lo tanto, debe tener curiosidad sobre la razón detrás de la prohibición, y para resolverlo, pedirá a numerosos Cultivadores que suban a la Montaña por él y por mí"
+    "es": "En ese momento, la figura ilusoria de Zhang San en su mediana edad formula una pregunta."
   },
   {
     "id": "47310",
     "key": "drama_dialogue2201329",
-    "es": "Zhang San, de mediana edad, está pensando en algo. Mientras tanto, ves al alma joven ofreciéndose a una tarea"
+    "es": "Tu preocupación no carece de fundamento. Yo también lo consideré; por eso, la tarea que le daré a mi conciencia joven no será guiar a los cultivadores hasta la Montaña Tian Yuan para que me ayuden, sino ser fiel a su deseo y buscar la Ascensión."
   },
   {
     "id": "47311",
     "key": "drama_dialogue2201330",
-    "es": "Tú, mi joven yo, te convertirás en una persona diferente del hombre de aquí y ahora. Te sentirás traicionado por el destino y vivirás en la desesperación mientras el problema no se haya resuelto."
+    "es": "Pero le impondré una restricción que le impedirá a mi yo joven entrar en la Montaña Tian Yuan. Anhela ascender, pero no puede entrar, así que hará todo lo posible por descubrir el motivo. Por eso, seguirá guiando a cultivadores hacia la Montaña Tian Yuan en mi nombre."
   },
   {
     "id": "47312",
     "key": "drama_dialogue2201331",
-    "es": "Sé que es cruel para ti…"
+    "es": "La figura ilusoria de Zhang San en su mediana edad está sumida en sus pensamientos, mientras que la figura joven se ofrece para cumplir la tarea."
   },
   {
     "id": "47313",
     "key": "drama_dialogue2201332",
-    "es": "Las cifras asienten. Parecen llegar a un consenso."
+    "es": "Tú, o más bien mi yo joven, acabarás convirtiéndote poco a poco en otra persona. Sentirás que el destino se burla de ti y sufrirás mucho. Además, mientras este asunto no se resuelva, permanecerás en este remolino de dolor."
   },
   {
     "id": "47314",
     "key": "drama_dialogue2201333",
-    "es": "Promover las mentes taoístas para salvar el mundo. Sí. Es lo más importante que podemos hacer ahora."
+    "es": "En realidad, esto es muy cruel para ti…"
   },
   {
     "id": "47315",
     "key": "drama_dialogue2201334",
-    "es": "Las cifras asienten. Parecen llegar a un consenso."
+    "es": "Las figuras ilusorias parecen haber llegado a un consenso y asienten repetidamente."
   },
   {
     "id": "47316",
     "key": "drama_dialogue2201335",
-    "es": "Promover las mentes taoístas para salvar el mundo. Sí. Es lo más importante que podemos hacer ahora."
+    "es": "Difundir el corazón del Dao y salvar los Ocho Yermos. Exacto, esa es la tarea más importante ahora."
   },
   {
     "id": "47317",
@@ -42955,8 +42955,8 @@
     "es": "Wow. Sé que un Cultivador tan extraordinario como tú no perecerá en la Montaña. Vamos, dime ¿qué está pasando allí?"
   },
   {
-     "id": "47369",
-     "key": "drama_dialogue2202001",
+    "id": "47369",
+    "key": "drama_dialogue2202001",
     "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
@@ -43075,8 +43075,8 @@
     "es": "¿Por qué… vienes aquí? ¿Quién… quién soy yo…"
   },
   {
-     "id": "47393",
-     "key": "drama_dialogue2202151",
+    "id": "47393",
+    "key": "drama_dialogue2202151",
     "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
@@ -43432,7 +43432,7 @@
   {
     "id": "47464",
     "key": "drama_dialogue2203725",
-    "es": "Sin embargo, ahora debemos aprovechar la última oportunidad para derrotar a Hengtian siguiendo una decisión arriesgada. Tú eres yo, de mediana edad, y sé que estás decidido a llevar a cabo lo que estoy planeando, ya que todas las dudas sobre tu 'Las creencias han sido aclaradas. Por lo tanto, te llevaré al Valle Fantasma. Debes buscar maestros Cultivadores allí y decirles que vayan a la montaña Tian Yuan"
+    "es": "Sin embargo, esta es la última oportunidad de enfrentarnos a Hengtian. En una situación urgente, no queda más remedio que arriesgarse. Como yo en la mediana edad ya no tengo dudas sobre aquello que he decidido, podré llevar bien a cabo mi plan. Por eso, espero que permanezcas en los Ocho Yermos, busques sin descanso a cultivadores poderosos adecuados y los convoques a la Montaña Tian Yuan."
   },
   {
     "id": "47465",
@@ -43950,8 +43950,8 @@
     "es": "Más dudas y mi Maestro y todas las criaturas de este mundo sufrirán."
   },
   {
-     "id": "47568",
-     "key": "drama_dialogue2210331",
+    "id": "47568",
+    "key": "drama_dialogue2210331",
     "es": "¡Has tomado la decisión equivocada! Bien, ahora tendré que mostrarte el verdadero poder de mis Pupilas dobles del cielo!"
   },
   {
@@ -44060,8 +44060,8 @@
     "es": "Dejé una talla de madera en mi antigua residencia en Hua Feng y me gustaría recuperarla. Pero no puedo abandonar esta montaña por ahora. ¿Podrías traerla a la cima de Tian Yuan? ¿Montaña y dármelo después de que nuestro Maestro lograra su ambición?"
   },
   {
-     "id": "47590",
-     "key": "drama_dialogue2211023",
+    "id": "47590",
+    "key": "drama_dialogue2211023",
     "es": "La horquilla de madera quedó en mi antigua residencia, junto con algunas piedras de jade en las que infundí el poder de mis Pupilas dobles del cielo. Si detectan malas intenciones en cualquier visitante, liberarán energía espiritual y lo matarán."
   },
   {
@@ -44235,8 +44235,8 @@
     "es": "Introduces la horquilla y la brújula se va desplegando poco a poco, revelando una residencia idéntica a la que te encuentras ahora."
   },
   {
-     "id": "47625",
-     "key": "drama_dialogue2211191",
+    "id": "47625",
+    "key": "drama_dialogue2211191",
     "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
@@ -44350,8 +44350,8 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-     "id": "47648",
-     "key": "drama_dialogue2211236",
+    "id": "47648",
+    "key": "drama_dialogue2211236",
     "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
@@ -44435,8 +44435,8 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-     "id": "47665",
-     "key": "drama_dialogue2211279",
+    "id": "47665",
+    "key": "drama_dialogue2211279",
     "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
@@ -44775,8 +44775,8 @@
     "es": "Ves a Lluvia Nocturna escondida en un rincón con una curiosa horquilla en sus manos.stá mirando la horquilla con una expresión cálida nunca antes vista. Intentas entender la extraña escena, pero la horquilla brilla de repente. Clips de imágenes se despliegan ante ti."
   },
   {
-     "id": "47733",
-     "key": "drama_dialogue2211850",
+    "id": "47733",
+    "key": "drama_dialogue2211850",
     "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
@@ -44890,8 +44890,8 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica, el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-     "id": "47756",
-     "key": "drama_dialogue2211905",
+    "id": "47756",
+    "key": "drama_dialogue2211905",
     "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
@@ -45035,8 +45035,8 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-     "id": "47785",
-     "key": "drama_dialogue2212008",
+    "id": "47785",
+    "key": "drama_dialogue2212008",
     "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
@@ -45145,8 +45145,8 @@
     "es": "Sacas la horquilla de madera para inspeccionarla, pero de repente emite un brillo extraño. Se muestran clips de imágenes ante ti."
   },
   {
-     "id": "47807",
-     "key": "drama_dialogue2212150",
+    "id": "47807",
+    "key": "drama_dialogue2212150",
     "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
@@ -45260,8 +45260,8 @@
     "es": "¿Entonces sólo porque no pueden dominar esta técnica, el mundo entero tiene que estar atrapado en este callejón sin salida?"
   },
   {
-     "id": "47830",
-     "key": "drama_dialogue2212205",
+    "id": "47830",
+    "key": "drama_dialogue2212205",
     "es": "En el pasado, observaba el viento y percibía el Qi con mis Pupilas dobles del cielo, y vislumbré que el destino final de los Ocho Yermos era la destrucción… Ahora, la única forma de escapar de esta calamidad es ascender al reino superior y abandonar los Ocho Yermos."
   },
   {
@@ -45405,8 +45405,8 @@
     "es": "¿Y yo? ¿También me llevarás contigo?"
   },
   {
-     "id": "47859",
-     "key": "drama_dialogue2212308",
+    "id": "47859",
+    "key": "drama_dialogue2212308",
     "es": "Con tu nivel de cultivo y la habilidad de tus Pupilas dobles del cielo, deberías poder ascender sin problemas; ¿para qué necesitas mi ayuda?"
   },
   {
@@ -45530,8 +45530,8 @@
     "es": "Ella se detiene en algún lugar lejos de ti, dejándote a sus espaldas. Parece estar mirando una horquilla con ternura, y pronto, las vistas comienzan a surgir del curioso objeto y se desarrollan en la nada."
   },
   {
-     "id": "47884",
-     "key": "drama_dialogue2212404",
+    "id": "47884",
+    "key": "drama_dialogue2212404",
     "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
@@ -45645,8 +45645,8 @@
     "es": "Estás pensando en el siguiente paso mientras la horquilla de Lluvia Nocturna brilla de repente. Las imágenes flotan en el aire y ves un clip del pasado desplegarse ante ti"
   },
   {
-     "id": "47907",
-     "key": "drama_dialogue2212472",
+    "id": "47907",
+    "key": "drama_dialogue2212472",
     "es": "Bueno, Lluvia Nocturna, tus Pupilas dobles del cielo son realmente extraordinarias; me permiten contemplar los Ocho Yermos desde otra perspectiva. No tengo tu extraordinaria visión, así que solo puedo convertir mis pensamientos en ilusiones para que las veas."
   },
   {
@@ -47792,7 +47792,7 @@
   {
     "id": "48305",
     "key": "drama_dialogue2250404",
-    "es": "Zhang San dividió su alma en tres mediante un método llamado Triplicación de Qi, y el Alma Maestra me selló aquí con él y todo su Poder Tao. Esta alma ya ha sido exterminada por mí. El Alma Junior ha sido prohibida impedir que entre en la montaña Tian Yuan, lo cual es una decisión tonta tomada por su maestro"
+    "es": "Zhang San dividió su conciencia divina en tres mediante la técnica de Un Qi se transforma en Tres Purezas. Su conciencia principal, junto con su cuerpo físico, me selló; cuando se agotó su poder del Dao, lo maté de un solo golpe y desapareció por completo. Su conciencia secundaria se atrapó a sí misma y no pudo entrar en la Montaña Tian Yuan."
   },
   {
     "id": "48306",
@@ -48210,8 +48210,8 @@
     "es": "Wow. Sé que un Cultivador tan extraordinario como tú no perecerá en la Montaña. Vamos, dime ¿qué está pasando allí?"
   },
   {
-     "id": "48389",
-     "key": "drama_dialogue2270102",
+    "id": "48389",
+    "key": "drama_dialogue2270102",
     "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
@@ -48330,8 +48330,8 @@
     "es": "¿Por qué… vienes aquí? ¿Quién… quién soy yo…"
   },
   {
-     "id": "48413",
-     "key": "drama_dialogue2270401",
+    "id": "48413",
+    "key": "drama_dialogue2270401",
     "es": "Lluvia Nocturna… Es la discípula mayor del Maestro del Pabellón Langya… Posee unas Pupilas dobles del cielo, algo poco común en el mundo actual…"
   },
   {
@@ -53182,7 +53182,7 @@
   {
     "id": "52528",
     "key": "drama_dialogue2600710",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52529",
@@ -53222,7 +53222,7 @@
   {
     "id": "52536",
     "key": "drama_dialogue2600741",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52537",
@@ -53262,7 +53262,7 @@
   {
     "id": "52544",
     "key": "drama_dialogue2600761",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52545",
@@ -53302,7 +53302,7 @@
   {
     "id": "52552",
     "key": "drama_dialogue2600781",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52553",
@@ -53342,7 +53342,7 @@
   {
     "id": "52560",
     "key": "drama_dialogue2600801",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52561",
@@ -53382,7 +53382,7 @@
   {
     "id": "52569",
     "key": "drama_dialogue2600901",
-    "es": "Bueno, por favor tómate las piedras en serio. Las Piedras Enigmáticas son tesoros raros, y aquellas que no han sido extraídas ahora están repletas de energía. Una vez que se sienten amenazados, su alma emergerá como la del intruso. oponentes."
+    "es": "Mmm, no es que esta humilde tienda menosprecie al cultivador. Estas Piedras del Origen son extremadamente raras, y las que han perdurado hasta hoy deben estar repletas de energía espiritual. Si detectan una amenaza externa, podrían generar un espíritu primordial para repeler a quien se acerque."
   },
   {
     "id": "52570",
@@ -56492,7 +56492,7 @@
   {
     "id": "21707",
     "key": "drama_dialogue6090026",
-    "es": "No pensaste que esta fruta estaría custodiada por un simio terrible tan poderoso. De mala gana, te alejas."
+    "es": "No pensaste que esta fruta estaría custodiada por un simio feroz tan poderoso. De mala gana, te alejas."
   },
   {
     "id": "21708",
@@ -63282,7 +63282,7 @@
   {
     "id": "40517",
     "key": "drama_dialogue8008301",
-    "es": "Hoy, Cangya te visita con botellas de licor en las manos.ice: 'Anoche soñé con Canglong y hoy vengo aquí para charlar con ella.'"
+    "es": "Ese día, Cangya llegó con varias jarras grandes de licor y preguntó: «Anoche soñé con Canglong y quiero ir a charlar con ella un rato»."
   },
   {
     "id": "40518",
@@ -65937,7 +65937,7 @@
   {
     "id": "43993",
     "key": "drama_dialogue8102602",
-    "es": "Derrotaste al monstruo y tu bestia admite que provocó al monstruo durante una aventura. Tus bestias calabaza se han convertido en parte del mundo. ¿Es este un evento que vale la pena celebrar o por el que vale la pena preocuparse? (Puedes obtener más información sobre los bestias de tu bestia). acciones durante la aventura de <b>Mythical Gourd</b> - <b>Teaming</b> - <b>Adventure Log</b> en la parte inferior derecha)"
+    "es": "Después de derrotar a la bestia demoníaca, escuchas que tu bestia calabaza provocó a esta bestia durante una aventura. Resulta que las bestias calabaza ya se han integrado en este mundo; no sabes si esto será una bendición o una desgracia para ti. (Puedes consultar el comportamiento de tus bestias calabaza durante sus aventuras en la esquina inferior derecha de <b>Calabaza Mítica</b>--<b>Formación de aventura</b>---<b>Registro de aventuras</b>)."
   },
   {
     "id": "46741",
@@ -66882,7 +66882,7 @@
   {
     "id": "49044",
     "key": "drama_dialogue8107231",
-    "es": "Observas los cambios en el clima y tu sentido del cielo y la tierra se agudiza! Pero al mismo tiempo, descubres que los aldeanos cercanos están inquietos y angustiados por el clima voluble, lo que parece contribuir a tu antojo. por una forma de vida demoníaca."
+    "es": "¡Observas los cambios del clima y profundizas tu comprensión del cielo y la tierra! Pero, al mismo tiempo, descubres que los aldeanos cercanos se lamentan por los cambios frecuentes del clima, ¡y la semilla del camino demoníaco en tu corazón se fortalece!"
   },
   {
     "id": "49045",
@@ -72032,7 +72032,7 @@
   {
     "id": "10195",
     "key": "drama_option6102092",
-     "es": "Regresa y mata al espíritu de madera Pequeño Izquierdo"
+    "es": "Regresa y mata al espíritu de madera Pequeño Izquierdo"
   },
   {
     "id": "10196",
@@ -92017,7 +92017,7 @@
   {
     "id": "42176",
     "key": "drama_option80113032",
-    "es": "n.º Yo iré"
+    "es": "No cumple, abandonar"
   },
   {
     "id": "42177",
@@ -101112,267 +101112,267 @@
   {
     "id": "15493",
     "key": "fateStoryDesc700001",
-    "es": "Durante tu avance, un poder demoníaco aparece repentinamente a tu alrededor. Está corriendo hacia ti, mezclado con Qi. Sin saber de dónde vino el poder, intentas separar el Qi de él. Sin embargo, tus esfuerzos son en vano., y el Qi comienza a disiparse. Sin otra opción, absorbes el poder demoníaco junto con el Qi. Después de tu avance, puedes sentir este poder constantemente, aunque nunca te hace ningún daño"
+    "es": "Durante tu avance, un poder demoníaco surge de repente a tu alrededor y, mezclado con el Qi circundante, se precipita hacia ti. No sabes de dónde proviene y no te atreves a refinarlo precipitadamente para avanzar, así que intentas separar el poder demoníaco del Qi. Sin embargo, por mucho que manipulas tu poder espiritual, no consigues separarlo y el Qi circundante ya está a punto de disiparse. Sin otra opción, solo puedes absorber también el poder demoníaco. Después de avanzar, a menudo sientes que ese poder demoníaco fluctúa dentro de ti, pero nunca te ha hecho daño."
   },
   {
     "id": "15494",
     "key": "fateStoryDesc700002",
-    "es": "Durante tu avance, el poder demoníaco dentro de ti se despierta, absorbiendo con avidez el Qi a su alrededor. No tienes control sobre él. Mientras haces todo lo posible para expulsarlo, el poder de repente inyecta todo el Qi que absorbió. ' Con su ayuda, tu avance es un éxito. Cuando eso sucede, el poder demoníaco se calma"
+    "es": "Durante tu avance, el poder demoníaco dentro de ti despierta de repente y atrae con furia el Qi circundante. No puedes controlarlo y, cuando intentas expulsarlo de tu cuerpo, el poder demoníaco introduce inesperadamente en tu interior el Qi que había absorbido, ayudándote a avanzar. Después de tu avance, el poder demoníaco vuelve a quedar en calma dentro de ti, como si no albergara malas intenciones hacia ti."
   },
   {
     "id": "15495",
     "key": "fateStoryDesc700003",
-    "es": "Durante tu avance, el poder demoníaco dentro de ti despierta una vez más. Dado lo que sucedió antes, ya no intentas luchar contra él. En lugar de eso, usas activamente el poder para absorber tanto Qi como sea posible. El poder se calma nuevamente después de tu avance. Y a diferencia de antes, ahora es parte de ti: tú y este poder se han vuelto uno"
+    "es": "Durante tu avance, el poder demoníaco dentro de ti despierta una vez más. Como ya tienes la experiencia de las dos ocasiones anteriores, dejas de enfrentarte a él y sigues su circulación para atraer una gran cantidad de Qi a tu cuerpo y completar el avance. Después, el poder demoníaco dentro de ti también se calma: ya no fluctúa desordenadamente como antes, sino que circula junto con tu propio Qi."
   },
   {
     "id": "15496",
     "key": "fateStoryDesc700004",
-    "es": "Después de tu avance, sientes una sensación de ardor en el trasero. '¿Mi Qi está goteando?' Piensas para ti mismo. Pero una cosa es segura: ahora eres más rápido que nunca."
+    "es": "Después de avanzar con éxito, sientes un ligero ardor en el trasero. ¿Acaso se está escapando tu poder espiritual? No puedes explicarlo, pero notas claramente que te has vuelto más rápido."
   },
   {
     "id": "15497",
     "key": "fateStoryDesc700005",
-    "es": "¡La sensación familiar ha vuelto! Excepto que esta vez, tu trasero se siente aún más caliente. La incomodidad te hace rascarte el trasero. De repente, una llama llena de Qi brota de tu trasero, quemando la hierba detrás te convertiste en cenizas…"
+    "es": "La sensación familiar vuelve a aparecer. Sientes el trasero aún más caliente que antes, lo que te incomoda, así que intentas tocarlo. ¡De repente! Una llama llena de poder espiritual sale disparada de tu trasero y reduce a cenizas la hierba que tienes detrás…"
   },
   {
     "id": "15498",
     "key": "fateStoryDesc700006",
-    "es": "La tercera vez es un hechizo ¡ARDIENTE! Sí, la sensación ha vuelto. Solo que esta vez, tu parte vulnerable se ha vuelto invulnerable. Llena de Qi, la llama que estalla es más caliente y más poderosa"
+    "es": "La sensación familiar vuelve a aparecer. Sientes que tu trasero se ha vuelto indestructible y que está lleno de un poder espiritual aún más intenso. ¡La llama que sale disparada es todavía más poderosa!"
   },
   {
     "id": "15499",
     "key": "fateStoryDesc700007",
-    "es": "Mientras absorbes el Qi a tu alrededor para avanzar, un extraño insecto vuela hacia ti. Lo aplastas, pero no sufre ningún daño. El insecto libera un humo espeso mientras te lame la palma. Cuando Te despiertas de nuevo, ya han pasado tres días"
+    "es": "Durante tu avance, el poder espiritual circundante se precipita hacia ti y arrastra consigo a un insecto extraño. Lo golpeas con la palma, pero queda completamente ileso. El insecto te lame la palma y, de repente, libera una espesa niebla. Cuando despiertas, ya han pasado tres días."
   },
   {
     "id": "15500",
     "key": "fateStoryDesc700008",
-    "es": "A medida que absorbes el Qi a tu alrededor para avanzar, el extraño insecto asciende repentinamente en el aire, absorbiendo todo el Qi que puede. Y una vez más, libera un humo espeso. Antes de desmayarte, vagamente ves el insecto crecer increíblemente grande… Te despiertas tres días después y el insecto todavía está ahí. Sin embargo, no es más grande, así que ¿quizás lo que viste fue solo un sueño?"
+    "es": "Durante tu avance, el poder espiritual se desborda a tu alrededor. En ese momento, el insecto se eleva de repente y atrae frenéticamente el Qi, al tiempo que libera una espesa niebla. Sientes que todo tu cuerpo pierde las fuerzas y, justo antes de desmayarte, vislumbras al insecto convertido en algo enorme… Despiertas tres días después. El insecto sigue a tu lado y no se ha vuelto gigante; su tamaño es casi el mismo de antes. Quizá solo haya sido un sueño."
   },
   {
     "id": "15501",
     "key": "fateStoryDesc700009",
-    "es": "El insecto imita tus movimientos, como si también estuviera tratando de abrirse paso. Todo lo que hace te hace reír. Es decir, hasta que el humo espeso te hace desmayarte nuevamente. Antes de caer, ves un gigante El insecto te mira con desprecio… Te despiertas tres días después y el insecto sigue ahí, sólo que un poco más grande"
+    "es": "Durante tu avance, el pequeño insecto también intenta avanzar imitando tus movimientos, pero al fin y al cabo solo es un insecto y no puede avanzar como tú. Te parece tan gracioso que te echas a reír. En ese instante, el insecto libera de repente una espesa niebla y caes al suelo. Antes de desmayarte, te parece ver un insecto descomunal mirándote con absoluto desprecio… Tres días después despiertas: sigue siendo el mismo insecto pequeño, aunque ha crecido un poquito."
   },
   {
     "id": "15502",
     "key": "fateStoryDesc700010",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti se forma en un pequeño escudo frente a ti. Algunas palabras están grabadas en él, pero son ilegibles."
+    "es": "Después de avanzar con éxito, sientes una indescriptible sensación de bienestar. De repente, el poder espiritual dentro de ti se condensa ante tus ojos y forma un pequeño escudo. Parece que hay varios caracteres grabados en él, pero las marcas son tan tenues que no puedes distinguirlos."
   },
   {
     "id": "15503",
     "key": "fateStoryDesc700011",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti comienza a precipitarse hacia el pequeño escudo. Las palabras grabadas ahora son más reconocibles. Logras distinguir dos palabras: Fantasma Valle."
+    "es": "Después de avanzar con éxito, sientes que todo tu cuerpo está lleno de bienestar. De repente, el poder espiritual dentro de ti se reúne en el pequeño escudo y los caracteres grabados se vuelven más nítidos. En él aparecen poco a poco dos caracteres: «Guigu»."
   },
   {
     "id": "15504",
     "key": "fateStoryDesc700012",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti comienza a precipitarse hacia el pequeño escudo, iluminándolo. Bajo la luz deslumbrante, ahora puedes ver claramente las palabras grabadas: Destructor del Valle Fantasma."
+    "es": "Después de avanzar con éxito, sientes que todo tu cuerpo está lleno de bienestar. De repente, el poder espiritual dentro de ti se funde rápidamente con el escudo y este emite una luz deslumbrante. En él, los cuatro caracteres «Guigu Xiaobao» brillan y fluyen."
   },
   {
     "id": "15505",
     "key": "fateStoryDesc700013",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti se transforma en una espada voladora frente a ti. Algunas palabras están grabadas en ella, pero son ilegibles"
+    "es": "Después de avanzar con éxito, sientes que todo tu cuerpo está lleno de bienestar. De repente, el poder espiritual dentro de ti se condensa ante tus ojos y forma una pequeña espada voladora. Parece que hay varios caracteres grabados en ella, pero las marcas son tan tenues que no puedes distinguirlos."
   },
   {
     "id": "15506",
     "key": "fateStoryDesc700014",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti comienza a precipitarse hacia la espada voladora. Las palabras grabadas ahora son más reconocibles. Logras distinguir dos palabras: Fantasma Valle."
+    "es": "Después de avanzar con éxito, sientes que todo tu cuerpo está lleno de bienestar. De repente, el poder espiritual dentro de ti se reúne en la pequeña espada voladora y los caracteres grabados se vuelven más nítidos. En ella aparecen poco a poco dos caracteres: «Guigu»."
   },
   {
     "id": "15507",
     "key": "fateStoryDesc700015",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. De repente, el Qi dentro de ti comienza a precipitarse hacia la espada voladora, iluminándola. Bajo la luz deslumbrante, ahora puedes ver claramente las palabras grabadas: Jo del Valle Fantasma."
+    "es": "Después de avanzar con éxito, sientes que todo tu cuerpo está lleno de bienestar. De repente, el poder espiritual dentro de ti se funde rápidamente con la espada voladora y esta emite una luz deslumbrante. En ella, los cuatro caracteres «Guigu Li Si» brillan y fluyen."
   },
   {
     "id": "15508",
     "key": "fateStoryDesc700016",
-    "es": "Durante tu avance, una ráfaga de Qi de Fuego converge y fluye rápidamente hacia tu cuerpo. Cuando te sientes confundido, el Qi de Fuego absorbe el Qi circundante y forma un vórtice de fuego. Antes de que puedas decidir si debes expulsarlo, el vórtice se convierte en una bola de fuego y sale disparado de tu cuerpo. Luego, el vórtice desaparece dentro de tu cuerpo, pero no sin dejar atrás una fuerza de Qi ardiente"
+    "es": "Durante tu avance, un poco de Qi de Fuego errante del espacio circundante es atraído y pronto se funde con el poder espiritual de tu cuerpo. Mientras te preguntas qué ocurre, ese Qi de Fuego absorbe rápidamente el Qi circundante y forma un vórtice de poder espiritual. Cuando, lleno de dudas, intentas expulsarlo, una oleada de calor estalla desde tu cuerpo, se transforma en una bola de fuego y sale disparada. Después de liberar ese poder, el vórtice vuelve poco a poco a la calma, aunque ahora tienes dentro de ti un Qi abrasador."
   },
   {
     "id": "15509",
     "key": "fateStoryDesc700017",
-    "es": "Durante tu avance, una ráfaga de Qi de Agua converge y fluye rápidamente hacia tu cuerpo. Cuando te sientes confundido, el Qi de Agua absorbe el Qi circundante y forma un vórtice de agua. Antes de que puedas decidir si debes expulsarlo, el vórtice se convierte en una tromba marina y sale disparado de tu cuerpo. Luego, el vórtice desaparece dentro de tu cuerpo, pero no sin dejar atrás un torrente de Qi"
+    "es": "Durante tu avance, un poco de Qi de Agua errante del espacio circundante es atraído y pronto se funde con el poder espiritual de tu cuerpo. Mientras te preguntas qué ocurre, ese Qi de Agua absorbe rápidamente el Qi circundante y forma un vórtice de poder espiritual. Cuando, lleno de dudas, intentas expulsarlo, un flujo de poder espiritual estalla desde tu cuerpo, se transforma en una columna de agua y sale disparado. Después de liberar ese poder, el vórtice vuelve poco a poco a la calma, aunque ahora tienes dentro de ti un Qi que fluye y circula sin cesar."
   },
   {
     "id": "15510",
     "key": "fateStoryDesc700018",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. Pero al mismo tiempo, poco a poco aparece una baba transparente en tus manos.o que las vuelve resbaladizas y con un olor extraño."
+    "es": "Después de avanzar con éxito, sientes una indescriptible sensación de bienestar. Extiendes la mano derecha, pero descubres que de ella brota sin cesar una especie de mucosidad transparente. La mano se vuelve muy resbaladiza y desprende un olor salado."
   },
   {
     "id": "15511",
     "key": "fateStoryDesc700019",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. El Qi que absorbiste parece estar cambiando tu apariencia y temperamento. De repente, un perro grande carga contra ti. Intentas defenderte, pero en lugar de atacarte., te lame la mano mientras mueve la cola…"
+    "es": "Después de avanzar con éxito, sientes una indescriptible sensación de bienestar. El poder espiritual de tu cuerpo parece adherirse a ti y cambia poco a poco tu carácter y tu apariencia. En ese momento, un perro amarillo grande sale disparado hacia ti. Cuando estás a punto de detenerlo, cae al suelo delante de ti, mueve la cola y comienza a lamerte la mano. Todo ocurre tan deprisa que te quedas inmóvil, boquiabierto, y el perro aprovecha para saltar y lamerte una vez más…"
   },
   {
     "id": "15512",
     "key": "fateStoryDesc700020",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. Pero algo extraño sucede mientras intentas caminar: el suelo de repente se siente resbaladizo. Das un pequeño paso y lo siguiente que sabes es que estás He avanzado varios metros. Sin embargo, no lleva mucho tiempo acostumbrarte gradualmente a esta nueva sensación, moviéndote libremente entre la multitud"
+    "es": "Después de avanzar con éxito, una indescriptible sensación de bienestar recorre todo tu cuerpo. Das un paso con aire satisfecho y de repente notas que el suelo está resbaladizo. Te apresuras a estabilizarte, pero ya te encuentras a varios pasos de distancia. Para tu sorpresa, poco a poco aprendes a dominar ese andar suave como la seda y puedes moverte con libertad entre la multitud."
   },
   {
     "id": "15513",
     "key": "fateStoryDesc700021",
-    "es": "Después de tu avance, una sensación de vigorización llena tu cuerpo. Corres a las calles para disfrutar plenamente de esta gran sensación. Todos te miran, hipnotizados. Hombres, mujeres, viejos, jóvenes… Incluso niños pequeños. Asustado, rápidamente corres hacia un pequeño callejón, sólo para cambiarte de ropa y cubrirte la cara…"
+    "es": "Después de avanzar con éxito, una indescriptible sensación de bienestar recorre todo tu cuerpo. Sales a la calle de buen humor y descubres que los jóvenes, las muchachas, los ancianos… incluso los niños pequeños, te miran con una expresión embelesada. Te asustas, entras rápidamente en un callejón, te cambias de ropa, te cubres el rostro, das un rodeo y sales de la ciudad con cautela…"
   },
   {
     "id": "15514",
     "key": "fateStoryDesc700022",
-    "es": "Durante tu avance, el Qi circundante converge y se precipita hacia ti. Entre él está incluso el Qi de los muertos. Mientras eso sucede, pareces poseer el poder de controlar a los espíritus muertos"
+    "es": "Durante tu avance, el poder espiritual circundante se reúne y se precipita hacia ti. Un hilo de energía mortífera bajo tierra es arrastrado por él y se hunde contigo en tu mar de Qi. Parece que dentro de ti ha surgido cierto poder para controlar a los muertos."
   },
   {
     "id": "15515",
     "key": "fateStoryDesc700023",
-    "es": "Durante tu avance, el Qi de los muertos dentro de ti se despierta, atrayendo más Qi del subsuelo. Si tienes miedo, quieres que se detenga. Y eso es precisamente lo que hace. No fluye más Qi de los muertos hacia ti, y Posees el poder de controlar los espíritus muertos"
+    "es": "Con tu avance, el poder mortífero que llevaba mucho tiempo en calma dentro de ti despierta. Llama a oleadas de energía mortífera bajo tierra para que se reúnan hacia ti. Te alarmas e intentas impedir que entre, pero descubres que, obedeciendo a tu voluntad, el poder mortífero deja de invocarla. Al mismo tiempo, un poder para controlar a los muertos parece emanar de tu cuerpo."
   },
   {
     "id": "15516",
     "key": "fateStoryDesc700024",
-    "es": "Durante tu avance, el Qi de los muertos dentro de ti despierta una vez más. Y cada vez más viene corriendo dentro de ti. Forma un vórtice giratorio antes de convertirse en parte de ti. Tu poder para controlar los espíritus muertos también se ha vuelto más fuerte que nunca."
+    "es": "Con tu avance, el poder mortífero dentro de ti vuelve a despertar y una gran cantidad de energía mortífera del cielo y la tierra se precipita hacia ti. Después de que la absorbes en tu mar de Qi, un vórtice de poder mortífero gira rápidamente dentro de ti y acaba fundiéndose por completo con tu mar de Qi. Un poder para controlar a los muertos se extiende desde tu cuerpo hacia los alrededores."
   },
   {
     "id": "15517",
     "key": "fateStoryDesc700025",
-    "es": "Durante tu avance, un gigante desciende de los cielos. Utiliza su fuerza brutal para romper las rocas circundantes, luego deja escapar un rugido ensordecedor antes de desaparecer. Al ser testigo de eso, sientes que has aprendido algo"
+    "es": "Durante tu avance, un gigante ilusorio desciende del cielo y, con una fuerza violenta, rompe de un puñetazo las rocas de los alrededores. Luego alza la cabeza, lanza un rugido silencioso de furia y desaparece. Después de presenciarlo, alcanzas cierta comprensión."
   },
   {
     "id": "15518",
     "key": "fateStoryDesc700026",
-    "es": "Durante tu avance, pareces haber entrado en un reino brumoso. Dentro del reino, un hombre cubierto de sangre lucha sin ayuda contra un ejército. Aunque superado en número, nada puede herirlo. Sorprendido, sientes que un nuevo poder despierta en tu interior. Tu cuerpo."
+    "es": "Durante tu avance, parece que entras en un reino de niebla. En la niebla, un hombre cubierto de sangre se enfrenta solo a un ejército. Cuando recibe ataques, la luz brilla sobre su cuerpo y queda completamente ileso; por donde pasa, hombres y caballos caen derrotados. Después de presenciarlo, te conmocionas y un nuevo poder despierta dentro de ti."
   },
   {
     "id": "15519",
     "key": "fateStoryDesc700027",
-    "es": "Durante tu avance, pareces haber entrado en un reino brumoso. Dentro del reino, un hombre se transforma en varias flores que barren a los enemigos, antes de volver a transformarse en forma humana y desaparecer. Conmocionado, sientes un nuevo poder. Despertar dentro de tu cuerpo."
+    "es": "Durante tu avance, parece que entras en un reino de niebla. En la niebla, un hombre se transforma en plantas y árboles del cielo y la tierra, arrasa con un ejército y luego vuelve a adoptar forma humana antes de marcharse flotando. Después de presenciarlo, te conmocionas y un nuevo poder despierta dentro de ti."
   },
   {
     "id": "15520",
     "key": "fateStoryDesc700028",
-    "es": "Durante tu avance, pareces haber entrado en un reino brumoso. Dentro del reino, un hombre que brilla en rojo está luchando contra sus enemigos. Sin molestarse en esquivar ningún ataque, lanza su poderoso hechizo para derramar sangre. Las heridas,En él sana milagrosamente en un instante. Antes de que tengas la oportunidad de observarlo de cerca, desaparece. Pensando en lo que viste, sientes que has aprendido algo"
+    "es": "Durante tu avance, parece que entras en un reino de niebla. En la niebla, un hombre resplandece con una luz roja. Frente a los ataques, no se aparta ni retrocede: al invertir la mano, lanza una técnica que hace brotar sangre por donde pasa, mientras sus propias heridas se recuperan a una velocidad visible. Cuando estás a punto de observarlo con atención, la niebla se disipa. Recuerdas todo lo que has visto y alcanzas cierta comprensión."
   },
   {
     "id": "15521",
     "key": "fateStoryDesc700029",
-    "es": "Durante tu avance, pareces haber entrado en un reino brumoso. Dentro del reino, un hombre exhausto cae al suelo. Pero poco después, recupera sus fuerzas y carga hacia sus enemigos una vez más. Conmocionado, te sientes un nuevo poder despertando dentro de tu cuerpo."
+    "es": "Durante tu avance, parece que entras en un reino de niebla. En la niebla, un hombre cubierto de heridas cae al suelo. De repente, una energía asombrosa estalla de todo su cuerpo; la luz fluye sobre él y vuelve a lanzarse contra la multitud, imparable. Después de presenciarlo, te conmocionas y un nuevo poder despierta dentro de ti."
   },
   {
     "id": "15522",
     "key": "fateStoryDesc700030",
-    "es": "Después de tu avance, un hombre te reta a duelo. Lo derrotas y te ganas su respeto."
+    "es": "Después de avanzar, poco después un hombre llega furioso para desafiarte. Tras derrotarlo, no solo deja de guardarte rencor, sino que aumenta mucho su aprecio por ti. Entonces comprendes un modo de estrechar lazos: combatir cuerpo a cuerpo para hacer amigos en todo el mundo."
   },
   {
     "id": "15523",
     "key": "fateStoryDesc700031",
-    "es": "Después de tu avance, comienzas a emitir una vibra asesina. Los monstruos débiles ni siquiera se atreven a acercarse a ti. Pero cuando quieres presumir ante tus amigos, te das cuenta de que ellos también te tienen miedo."
+    "es": "Después de avanzar, una energía feroz se eleva de tu cuerpo. Los monstruos débiles te ven y se apartan desde lejos. Te enorgulleces y estás a punto de presumir ante tus amigos, pero descubres que ellos también se han alejado de ti…"
   },
   {
     "id": "15524",
     "key": "fateStoryDesc700032",
-    "es": "Después de tu avance, te abordan en el mercado. Alguien intenta venderte un libro de texto sobre capacitación juntos. Lo compras y aprendes mucho del libro."
+    "es": "Después de avanzar, llegas al mercado. Allí, alguien intenta venderte el Manual esencial del cultivo dual. La alegría de haber superado un cuello de botella te anima y lo compras de buen grado; practicas cada noche y alcanzas una destreza considerable."
   },
   {
     "id": "15525",
     "key": "fateStoryDesc700033",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. Dos hombres están peleando y ambos reciben varios golpes fuertes. Pero en lugar de disminuir la velocidad, sus golpes se vuelven más rápidos y más poderosos. Después de que la imagen desaparece, sientes como si hubieras aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: dos personas se golpean mutuamente y, con cada golpe fuerte, sus ataques no se detienen, sino que proyectan sombras de puños cada vez más rápidas y poderosas. Poco después, la escena desaparece y alcanzas cierta comprensión."
   },
   {
     "id": "15526",
     "key": "fateStoryDesc700034",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. Una sombra está entrenando sus habilidades de combate con sus propias manos.espués de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: una figura lanza puñetazos, agita las palmas y toca con los dedos alternativamente; sus movimientos se enlazan con la fluidez de las nubes y el agua. Cuando la escena desaparece, parece que alcanzas cierta comprensión."
   },
   {
     "id": "15527",
     "key": "fateStoryDesc700035",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. Una sombra está entrenando sus habilidades de combate con armas. Después de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: una figura blande un sable, apuñala con una espada y lanza una estocada con una lanza alternativamente; sus movimientos se enlazan con la fluidez de las nubes y el agua. Cuando la escena desaparece, parece que alcanzas cierta comprensión."
   },
   {
     "id": "15528",
     "key": "fateStoryDesc700036",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. El viento grita, los rayos destellan y el cielo es majestuoso. Después de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: un vendaval ruge, un trueno furioso retumba y el imponente poder del cielo se manifiesta. Cuando la escena desaparece, parece que alcanzas cierta comprensión."
   },
   {
     "id": "15529",
     "key": "fateStoryDesc700037",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. La Tierra se agrieta, el magma que todo lo devora brota de debajo de la tierra. Después de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: la tierra se resquebraja y el magma brota con violencia, destruyéndolo todo. Cuando la escena desaparece, parece que alcanzas cierta comprensión."
   },
   {
     "id": "15530",
     "key": "fateStoryDesc700038",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. Bajo el fuerte aguacero, tiernos árboles jóvenes rápidamente crecen hasta convertirse en un bosque. Después de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Después de avanzar, una escena aparece de repente en tu mente: los brotes nuevos y verdes reciben una lluvia dulce del cielo, y los árboles crecen hasta formar un bosque. Cuando la escena desaparece, parece que alcanzas cierta comprensión."
   },
   {
     "id": "15531",
     "key": "fateStoryDesc700039",
-    "es": "Después de tu avance, un hombre con una actitud digna aparece de repente ante ti. Afirma que es el destino el que ha tejido tus caminos y te deja una vaina antes de desaparecer."
+    "es": "Después de avanzar, un hombre de porte imponente aparece de repente ante ti. Dice llamarse Jian Hongchen y afirma que está destinado a conocerte. Tras decirlo, deja caer un estuche de espada y desaparece sin dejar rastro."
   },
   {
     "id": "15532",
     "key": "fateStoryDesc700040",
-    "es": "Después de tu avance, un taoísta sano y cordial aparece de repente ante ti. Afirma que es el destino el que ha tejido tus caminos y te enseña la postura del escudo"
+    "es": "Después de avanzar, un cultivador de cabello canoso y rostro juvenil aparece de repente ante ti. Dice llamarse Wuchen y afirma que está destinado a conocerte y que te transmitirá su técnica suprema. Bajo su guía, aprendes la Decisión de la Unidad."
   },
   {
     "id": "15533",
     "key": "fateStoryDesc700041",
-    "es": "Después de tu avance, una mujer vestida de rojo aparece repentinamente ante ti. Ella afirma que es el destino el que ha tejido tus caminos y te enseña Starlight I."
+    "es": "Después de avanzar, una mujer vestida de rojo aparece de repente ante ti. Dice llamarse Lixing y afirma que está destinada a conocerte y que te transmitirá su técnica suprema. Bajo su guía, aprendes Luz Estelar."
   },
   {
     "id": "15534",
     "key": "fateStoryDesc700042",
-    "es": "Después de tu avance, escuchas el coqueteo de una pareja amorosa. Después de estar soltero durante tantos años, si hay algo que no puedes tolerar, son las muestras públicas de afecto! Los celos comienzan a arder en tu pecho."
+    "es": "Después de avanzar, oyes a una pareja coqueteando a poca distancia. Miras en dirección al sonido y ves a un hombre y una mujer haciendo alarde de su amor. La furia de tantos años de soltería consume tu razón y, en ese momento, lanzas lo que consideras la maldición más cruel: que todos los amantes del mundo terminen siendo tío y cuñada."
   },
   {
     "id": "15535",
     "key": "fateStoryDesc700043",
-    "es": "Después de tu avance, te encuentras con un árbol lleno de frutos espirituales. Escoges uno y te vas, sin saber que un anciano de Shennong ha sido testigo de todo. Él te detiene y te dice que le sorprende que no lo hayas intentado. 'Para recoger más. Como recompensa por no ser codicioso, decide darte una Fruta espiritual cada año"
+    "es": "Después de avanzar, la fortuna te lleva hasta un árbol de frutos espirituales cargado de frutos maduros. Sin embargo, solo recoges uno y te dispones a marcharte. Un anciano del pueblo Shennong lo observa y aparece ante ti para elogiarte: hoy en día abundan las personas codiciosas, y son muy pocas las tan comedidas como tú. Decide darte un fruto espiritual cada año."
   },
   {
     "id": "15536",
     "key": "fateStoryDesc700044",
-    "es": "Durante tu avance, aparece una imagen en tu cabeza. Un general, con el cabello completamente gris, está liderando a su ejército en una carga hacia sus enemigos. A pesar de su vejez, es imparable. Después de que la imagen desaparece, sientes que has aprendido algo."
+    "es": "Durante tu avance, aparece una escena en tu mente: un general de las sienes canosas lidera a su ejército en una carga y resulta imparable. En un instante, la escena desaparece y alcanzas cierta comprensión."
   },
   {
     "id": "15537",
     "key": "fateStoryDesc700045",
-    "es": "Después de tu avance, vas a un mercado a comprar algunas Piedras Espirituales. Un hombre está vendiendo sus Piedras Espirituales al comerciante, pero antes de entregarlas, absorbe algo de Qi de ellas. Esta imagen deja Qué buena impresión para ti."
+    "es": "Después de avanzar, vas al mercado para comprar unos elixires. Ves a un hombre que, antes de entregar al comerciante las piedras espirituales de una transacción, absorbe en secreto un hilo de su poder espiritual. Tus ojos se iluminan y grabas esa escena en tu mente."
   },
   {
     "id": "15538",
     "key": "fateStoryDesc700046",
-    "es": "Después de tu avance, te topas con un hombre en un pequeño callejón. Toma un Elixir, luego rápidamente alcanza su 'trasero' Y lo siguiente que ves, el Elixir que Acaba de reaparecer en su mano. Estás en shock, pero, al mismo tiempo, quieres intentarlo tú mismo. Después de varios intentos, finalmente aprendes esta técnica secreta"
+    "es": "Después de avanzar, descubres por casualidad a un hombre tomando un elixir en un rincón apartado. Luego mete rápidamente la mano detrás de sí y, al abrirla, el elixir que acababa de tomar aparece en su mano. Tras la sorpresa inicial, empiezas a intentarlo con el rostro enrojecido. Después de innumerables intentos, por fin dominas esta técnica secreta."
   },
   {
     "id": "15539",
     "key": "fateStoryDesc700047",
-    "es": "Después de tu avance, te topas con dos hombres en una pelea. Un hombre lanza un puñetazo primero, y después de una chispa en los ojos del otro, lanza exactamente el mismo puñetazo, cancelando el ataque. Al ser testigo de eso, sientes que has aprendido algo."
+    "es": "Después de avanzar, ves por casualidad a dos personas enfrentándose. Una lanza un puñetazo y, tras un destello en los ojos de la otra, esta lanza exactamente el mismo puñetazo. Los dos golpes chocan y se anulan mutuamente. Después de observarlo, comprendes su misterio."
   },
   {
     "id": "15540",
     "key": "fateStoryDesc700048",
-    "es": "Después de tu avance, te topas con dos hombres en un debate. Pero en lugar de replicar, un hombre simplemente escucha atentamente y asiente con la cabeza. Al ser testigo de eso, sientes que has aprendido algo"
+    "es": "Después de avanzar, te encuentras por casualidad con dos personas hablando sobre el Dao. Una de ellas mueve la mirada y la otra habla con elocuencia; su interlocutor asiente sin cesar, pues ambos se aprecian por su afinidad. Después de observarlos, alcanzas cierta comprensión."
   },
   {
     "id": "15541",
     "key": "fateStoryDesc700049",
-    "es": "Después de tu avance, aparece una imagen en tu cabeza. Un hombre está sentado con las piernas cruzadas. Las flores a su alrededor florecen a medida que su Qi se extiende. Después de que la imagen desaparece, sientes que has aprendido algo"
+    "es": "Después de avanzar, aparece de repente una escena en tu mente: una persona está sentada con las piernas cruzadas, como si estuviera cultivando. Allí donde se extiende su aura, las plantas florecen y todo rebosa de vida. Poco después, la escena desaparece y alcanzas cierta comprensión."
   },
   {
     "id": "15542",
     "key": "fateStoryDesc700050",
-    "es": "Después de tu avance, sientes un espíritu en el aire. El espíritu también siente tu presencia y se fusiona contigo. Mientras estás aterrorizado, escuchas una voz suave en tu cabeza 'no te preocupes asustado. Te prestaré mi poder.'"
+    "es": "Después de avanzar, percibes que hay un espíritu en el espacio. El espíritu también percibe tu presencia y se funde rápidamente con tu cuerpo. Cuando te invade el miedo, una voz suave llega desde tu mente: «No tengas miedo. Ahora te prestaré mi poder»."
   },
   {
     "id": "15732",
     "key": "fateStoryDesc700053",
-    "es": "Durante tu avance, el Hongo Inmortal sigue felicitándote: «La persona más talentosa que he visto», «una en mil años», «Tengo que enseñarte todo lo que sé…». Estas palabras te provocan escalofríos, pero, afortunadamente, el Hongo Inmortal pronto desaparece en un destello de luz. Ahora te quedas solo, al menos eso crees…"
+    "es": "Durante tu avance, el Inmortal Hongo se manifiesta y te observa mientras murmura cosas como «tienes una aptitud extraordinaria», «solo se encuentra alguien así una vez cada mil años» y «debo transmitirte mi legado»… Sus palabras te inquietan. Cuando estás nervioso, un destello extraño pasa y el Inmortal desaparece. Te felicitas en secreto por haber escapado de la desgracia… al menos eso crees hasta que llega el momento…"
   },
   {
     "id": "15733",
     "key": "fateStoryDesc700054",
-    "es": "Durante tu avance, el Hongo Inmortal aparece una vez más. Esta vez, murmura algo como 'transformación a voluntad' 'héroe y belleza…' Tú Estás realmente aterrorizado, pero antes de que puedas decir algo, el Hongo Inmortal desaparece…"
+    "es": "Durante tu avance, el Inmortal Hongo vuelve a manifestarse. Te observa pensativo y murmura cosas como «estirarse y encogerse a voluntad», «mil transformaciones» y «el héroe merece una bella mujer»… Sus palabras te horrorizan. Cuando estás a punto de corregir algunas de sus descripciones, un destello extraño pasa y el Inmortal desaparece… Ya has renunciado a resistirte…"
   },
   {
     "id": "15670",
     "key": "fateStoryDesc700055",
-    "es": "Durante tu avance, parece que has vuelto a entrar en el reino brumoso. El hombre brilla más en rojo y su hechizo extrae más sangre. Antes de que tengas la oportunidad de observarlo de cerca, desaparece de nuevo. Pensando en retrospectiva 'Con lo que viste, sientes que has aprendido algo"
+    "es": "Durante tu avance, vuelves a entrar en aquel reino de niebla. La luz roja que cubre al hombre es más intensa y, al liberar su técnica, absorbe la vitalidad de los alrededores. Cuando estás a punto de observarlo con atención, la niebla se disipa. Recuerdas todo lo que has visto y alcanzas cierta comprensión."
   },
   {
     "id": "15671",
@@ -102097,12 +102097,12 @@
   {
     "id": "46673",
     "key": "fateStoryDesc700208",
-    "es": "Justo cuando logras Avance, caes en una misteriosa ilusión. Allí, ves un elixir negro brillante e intacto que se agrieta y se divide en pedazos más pequeños. Los restos del elixir se derriten en un líquido oscuro y el líquido se vaporiza. 'En vapor. El vapor fluye hacia tu cuerpo y te despiertas. El elixir negro no se encuentra por ningún lado, pero aún hueles un toque de aroma a hierbas a tu alrededor"
+    "es": "En el momento de avanzar, pareces entrar en una ilusión. Allí ves un elixir negro, intacto y reluciente, que poco a poco se desintegra y se divide. Los restos del elixir se convierten lentamente en un líquido negro y, después, el líquido se transforma poco a poco en vapor que absorbes. En ese momento vuelves a despertar. No hay ningún elixir ante tus ojos, pero percibes un leve aroma medicinal en el aire."
   },
   {
     "id": "46674",
     "key": "fateStoryDesc700209",
-    "es": "Justo cuando alcanzas el Avance, energías misteriosas se acumulan en el cielo. Tu Calabaza Mítica sale volando de tus manos y absorbe tu Qi. rayos de luz divinos se emiten desde la Calabaza, y sabes que debe haber un gran cambio en tu interior, Minutos después, las luces se condensaron en la Calabaza nuevamente, y tu artefacto descendió suavemente a tus manos.ientes que el vínculo entre tú y tu Calabaza Mítica es más estrecho"
+    "es": "Después de avanzar, de repente se manifiestan fenómenos extraordinarios en el cielo. La Calabaza Mítica se ofrece por sí sola y queda suspendida en el aire mientras absorbe sin cesar tu poder espiritual; una luz divina centellea en ella, como si estuviera ocurriendo una gran transformación. Poco después, la luz divina vuelve a replegarse y la Calabaza Mítica desciende lentamente hasta tu mano. Puedes sentir que el vínculo entre tú y la Calabaza Mítica se ha estrechado."
   },
   {
     "id": "46675",
@@ -109627,22 +109627,22 @@
   {
     "id": "36574",
     "key": "item_book_desc_6391031",
-    "es": "Volumen 1\\n\\n\\n　　　　Autor　　Caminante|'Jeje, doce años de edad y aún no has establecido un Guardián. De hecho, eres el más lamentablemente incompetente de la Aldea de la Montaña de las Bestias…' Afuera de las puertas de la montaña, un hombre vestido de amarillo estaba golpeando a un niño flacucho y le lanzaba insultos.\\n'Jajaja. ¡Seguro que se lo diste, Qian! Cualquier perdedor como este merece ser asesinado a golpes. ¡Qué vergüenza para la Secta!' Una multitud de matones que rodeaban al hombre vestido de amarillo competían desesperadamente por su favor adulándolo.\\n'Qian, tu tigre violeta es el rey de todos ¡ganado! ¡Una maravilla de la naturaleza como esta, con tu talento único en la luna azul, seguro que algún día serás líder de secta y luego liderarás a Montaña Bestia para unir al mundo entero!' dijo otro miembro aduladoramente.\\nLa multitud alzó la voz en señal de acuerdo: '¡Unid al mundo! ¡Une al mundo!'|'¡Tú! ¡El que se llama Qiang! ¡Detente ahora mismo antes de que pierda la paciencia contigo!' Una hermosa mujer apareció de repente. Parecía furiosa, señalando al hombre vestido de amarillo y mirándolo con sus grandes y redondos ojos.\\n' Oh. Uh, qué amable de tu parte honrarnos con tu presencia, Han. Espero que me perdones por no haber salido a tu encuentro. ¡Jaja!' El hombre vestido de amarillo rápidamente había comenzado a lucir su mejor sonrisa al ver quién se acercaba.\\n'No empieces con eso. ¡Lárgate de aquí ahora mismo! ¡A nadie le importa lo que pienses de las habilidades de Mang!' La joven mujer continuó mirando fijamente al hombre.\\n'Oye, eso no es muy agradable. Deberías sentirte halagada de que esté siendo tan amable. Espera hasta que sea el líder de la secta. ¡Tendrás el honor de ser la esposa del líder de la secta! ¡Está bien, muchachos! Hemos terminado aqui. ¡Jaja!' Con un movimiento de la mano, el hombre fue escoltado por la multitud lejos de la escena.|'¡Qué vergüenza!' La mujer maldijo con los dientes apretados.\\n'¿Estás bien, Mang…? Toma, vamos a quitarte esa sangre. ¡Vete a casa y yo me aseguraré de que mi padre le dé una lección a ese Qiang!' Parecía como si algo le hubiera venido a la mente, y rápidamente se inclinó para mirar las heridas del niño.\\n'No… necesito tu ayuda… Suéltame… *Tos, tos*.' La cara del niño estaba muy golpeada y la sangre aún goteaba de su boca, pero él Aún así intenté alejar a la joven.\\n'No te muevas así. Toma, déjame ayudarte a levantarte.' La joven ignoró la terquedad del niño y comenzó a arrastrarlo del brazo.\\n'Vete… puedo… puedo caminar solo. …' El niño todavía estaba inquieto. Continuó luchando y retorciendo su cuerpo en un intento de deshacerse de la joven.|'¡Agh!'\\n'¡Peh!'\\nCon el rostro grisáceo, el niño tropezó unos pasos hacia adelante antes de caer al suelo. La fuerza del impacto le hizo escupir aún más sangre.|'¡Vamos, Mao! ¡Si sigues subiendo tan lentamente, ninguno de nosotros estará en casa de la abuela antes del atardecer! o('^')o' Dos orugas suben las escaleras de Mountain Hamlet y conversan entre sí.\\n'Espera. Todavía me estoy recuperando del ataque de un artefacto inmortal… (T＿T)' La oruga que aún estaba rezagada parecía oprimida.\\n'Jajaja. ¿Qué inmortal? Claramente fue solo un mocoso humano lanzando una piedra. (.・`ω´･)' La oruga líder se rió.\\n'Hubo un meteorito ese día. No puede haber sido algo tan común…(;′⌒`)' La oruga rezagada parecía como si hubiera sido agraviada.|'Ni siquiera puedes esquivar una pequeña piedra. Me preocupo por ti, de verdad. Jajaja. ~(*#*)' Ahora la oruga líder parecía un mentor enseñando a su junior.\\n'>_<' La oruga rezagada no tenía nada más que decir en este punto. n'¿Eh? ¿Qué acaba de pasar allí? ¿¡A qué se deben todos estos gritos!? [・_・?]' La oruga líder pareció notar algo.\\n'Oh, no. Parece que hay una persona allí. Será mejor que los rodeemos… ￣ω￣=' La oruga rezagada reaccionó de inmediato.\\n'¿Qué te pasa? Si nos desviamos de ellos, ¡nuestros tres días de escalada habrán sido en vano! (*｀Ω´*)v' La oruga líder golpeó a su compañero en la cabeza.|'Agh… ¡Muévete! ¡Una persona viene hacia aquí! o(ﾟДﾟ)' gritó la oruga rezagada.\\n'¡Agh!'\\n'¡Peh!'\\n'AAAGH! ' El grito de la oruga resonó desde delante.\\n'¿Cong? ¿Donde irias? [○･｀Д´･ ○]' llamó la oruga rezagada a la que estaba delante.\\n'Yo… he sido inmovilizado por alguna deidad… ~~o(>_<)o ~~' respondió la oruga líder, con la cabeza asomando.\\nUn joven había caído justo en frente de Mao, sus ojos vacíos asustaron a la oruga hasta casi matarla.|Al segundo siguiente, una inundación de líquido rojo cayó sobre él, y Mao sólo pudo cerrar los ojos por el miedo.\\nAhora estaba completamente empapado, y sus instintos de oruga lo llevaron a sacar la lengua para lamerse la boca y saborear la sustancia.\\nLo hizo No esperes que una oleada de energía fluya a través de su cuerpo al segundo siguiente, pero de repente se sintió mucho más fuerte. Se abrió camino hacia adelante y luego liberó a su compañero con facilidad\\n"
+    "es": "Volumen 1\\n\\n\\n　　　　Autor　　Caminante Errante|«Je, je. Ya tienes doce años y todavía no has establecido un espíritu guardián. Eres, sin duda, el inútil con la peor aptitud de toda la Secta de la Montaña Domadora de Bestias…» Fuera de la puerta de la montaña, un hombre vestido de amarillo golpeaba a un muchacho delgado mientras lo insultaba.\\n«¡Ja, ja, ja! ¡Bien hecho, hermano mayor Qian! ¡Un inútil como este es la vergüenza de nuestra secta; aunque lo mataras a golpes, se lo tendría merecido!» Alrededor del hombre de amarillo, un grupo de aduladores competía por halagarlo, temiendo que otro se llevara el mérito.\\n«El tigre de rayas moradas del hermano mayor Qian es el rey de las bestias. Con una oportunidad y una fortuna semejantes, además de un talento que solo aparece una vez cada cien años, ¡sin duda algún día se convertirá en el líder de la secta y guiará a nuestra Secta de la Montaña Domadora de Bestias para unificar los Ocho Yermos! ¡Ja, ja, ja!», dijo otro mientras juntaba las manos.\\n«¡Unificar los Ocho Yermos! ¡Unificar los Ocho Yermos!», corearon todos a la vez.|«¡Tú, el de apellido Qian! ¡Detente ahora mismo, o no me culpes por no contenerme!» En ese momento, una silueta hermosa llegó flotando. Tenía los ojos almendrados muy abiertos y las cejas fruncidas mientras señalaba al hombre de amarillo y le gritaba.\\n«Vaya, vaya. La hermana menor Han se ha dignado venir. No haber salido a recibirte ha sido una descortesía; espero que me perdones, ja, ja.» Al reconocerla, el hombre de amarillo cambió de inmediato a una sonrisa aduladora.\\n«Deja de hablar. ¡Lárgate de una vez! La aptitud de Xiaomang no es asunto tuyo.» La muchacha lo miró con manifiesto disgusto.\\n«Vaya, te has enojado. A mí me gustan precisamente las mujeres así. Cuando me convierta en líder de la secta, serás la esposa del líder. Vámonos, muchachos, ja, ja.» El hombre agitó la mano y se marchó rodeado por todos.|«¡Qué desvergüenza!», maldijo la muchacha entre dientes.\\n«Xiaomang, ¿estás bien? Ven, límpiate la sangre. Cuando volvamos, haré que mi padre castigue como corresponde a ese Qian.» Como si hubiera recordado algo, se agachó rápidamente para examinar las heridas del muchacho.\\n«Yo… no necesito que te ocupes de mí… suéltame… cof, cof…» El muchacho tenía el rostro hinchado y amoratado, y la sangre le rezumaba por la comisura de los labios, pero aun así intentó apartar a la muchacha.\\n«No te muevas. Ven, primero te ayudaré a volver.» Ella ignoró su obstinación y le sujetó un brazo.\\n«Aléjate… puedo… puedo caminar solo…» El muchacho seguía forcejeando y retorciendo el cuerpo para librarse de su apoyo.|«¡Boom!»\\n«¡Puaj!»\\nEl muchacho, con el rostro aturdido, dio varios traspiés y cayó pesadamente al suelo. La fuerza del golpe hizo que volviera a escupir sangre.|«¡Amao, sube más rápido! ¡A este paso, ninguno llegará a casa de la abuela antes de que anochezca! o(´^｀)o» En los escalones de piedra de la aldea montañosa, dos orugas trepaban mientras conversaban.\\n«¡Espérame! Hace dos días me golpeó el artefacto de un inmortal y sigo con heridas graves… (T＿T)» La oruga rezagada parecía abatida.\\n«¡Ja, ja, ja! ¿Qué inmortal ni qué nada? Fue claramente un mocoso humano que lanzó una piedrita. (｡・`ω´･)» La oruga que iba delante se rio.\\n«Ay… Vi que el meteorito de aquel día venía con una fuerza tremenda; seguro que no era algo común… (；′⌒`)» La oruga rezagada se sentía profundamente agraviada.|«Ni siquiera puedes esquivar una piedrita. De verdad que me preocupas, ja, ja, ja~(*｀皿´*)ﾉ» La oruga de delante adoptó el tono de un mayor que educa a un menor.\\n«>_<» La oruga rezagada se quedó sin palabras.\\n«¿Eh? ¿Qué ha pasado delante? ¡Qué escándalo! [・_・?]» La oruga de delante pareció descubrir algo.\\n«Vaya, parece que hay alguien allí. Será mejor que demos un rodeo… ￣ω￣=» La oruga rezagada reaccionó de inmediato.\\n«¿Eres tonta, Amao? Si damos un rodeo, ¡habremos trepado en vano durante tres días y tres noches! (*｀Ω´*)v» La oruga de delante golpeó con fuerza la cabeza de su compañera.|«Eh… ¡apártate! ¡Alguien viene hacia aquí! o(ﾟДﾟ)っ» gritó la oruga rezagada.\\n«¡Boom!»\\n«¡Puaj!»\\n«¡¡¡Aaaaaah!!!», llegó el grito de la oruga que iba delante.\\n«Acong, ¿adónde te has ido? ¡Oye, ¿me escuchas?! [○･｀Д´･ ○]» La oruga rezagada gritó con todas sus fuerzas.\\n«Yo… una deidad celestial me ha aplastado… ~~o(>_<)o ~~» La oruga de delante asomó la cabeza y gimió con dolor.\\nUn muchacho cayó estrepitosamente delante de la oruga Amao. Su mirada vacía hizo que a Amao se le helara la sangre.|Al instante siguiente, un torrente rojo le cayó encima y Amao cerró los ojos con terror.\\nSin embargo, después de recibir aquel torrente encima, el instinto de la oruga hizo que Amao sacara la lengua y se lamiera la boca para probarlo.\\nPara su sorpresa, un flujo de poder espiritual recorrió todo su cuerpo y Amao sintió que tenía una fuerza descomunal. Se arrastró hacia delante y sacó de un tirón a Acong de detrás del cuello del muchacho."
   },
   {
     "id": "36575",
     "key": "item_book_desc_6391032",
-    "es": "Volumen 2\\n\\n\\n　　　　Autor　　Wayfarer|'Mang, ¿estás loco? ¡Aún no has establecido un Guardián! ¡No tienes derecho a participar en nuestro juicio!' Una mujer se apresuró a entrar en la habitación.\\n'Entonces… Ni siquiera tú crees que estoy calificado…' El niño apenas pareció reaccionar ante esto, como si esperara escucharlo.\\n'¡Eso no es lo que quise decir! No te dejes llevar. El juicio de Montaña Bestia es extremadamente peligroso. Cualquiera que esté por debajo de un Verdadero Discípulo no puede controlar completamente a su Guardián. Si alguna de esas bestias se sale de control, tú…' La joven parecía molesta y ansiosa.|'Crees que me matarían, ¿verdad? Entonces… ¿En qué se diferencia tanto vivir imprudentemente de la muerte?' El joven se levantó rápidamente, indignado. '¿Cuál es el punto de discutir contigo? No puedo creerle al élder Wang. Claramente no tienes ningún guardián. ¿Cómo puede causar problemas como este y dejarte registrarte…?' La joven pareció pensar en algo, y luego se giró para salir corriendo de la habitación.\\n'Sí, Zao Zao, no tengo guardián. ¿Cómo pudo el élder Wang dejarme participar en el juicio?' El tono del joven ahora era diferente y parecía decidido.|'¡' La joven se quedó inmóvil durante un rato. momento.\\n'…' El niño también permaneció en silencio.\\n'¿Estás… Estás hablando en serio?' La niña se dio la vuelta, eufórica y enojada. incredulidad.\\n'¿Por qué darle tanta importancia? No es nada especial para un discípulo de la Secta establecer un Guardián a los siete años…' El tono del niño ahora era firme, pero todavía tenía problemas para contener su entusiasmo. 'Muy bien, pequeño mocoso. ¡Si no me lo vas a decir, tendremos que hacerlo de la manera más difícil!' El rostro de la joven estaba lleno de lágrimas de felicidad, y luego corrió hacia el niño para agarrarlo.\\n'¡Aaaaaa! Lo siento, Zao Zao. Lo siento, ¿de acuerdo?' El niño y la niña corrieron por toda la habitación jugando a la mancha, su juego favorito de la infancia.|'Oye, ¿no es Mang? ¿Qué está haciendo aquí? ¿Crees que realmente estableció un Guardián?' susurró la gente entre la multitud alrededor del escenario de artes marciales.\\n'¡Pshaw! Ahora estoy interesado. Me pregunto qué clase de broma será Guardian. ¿Quizás una tortuga? Jajaja' dijo un hombre vestido de verde mientras intentaba reprimir una risa.\\n'¡Mira el toro salvaje de Li allí! Podría partirlo en dos. ¡Jaja!' dijo un niño más grande con las manos en las caderas y una mirada de desprecio en el rostro.|'¡Silencio a todos! ¡Los dos concursantes ahora comenzarán!' anunció el élder Wang, el anfitrión del combate, en una voz fuerte que silenció a toda la arena.\\n'Mang, llama a tu Guardián. Te dejaré atacar tres veces primero' dijo el oponente que se alzaba tan imponente como una montaña.\\n'Si vas a ser tan generoso, Li, entonces yo… ' El joven se mantuvo firme y luego dio un paso adelante con el puño en alto y volando hacia su oponente.\\n'¿Qué es esto? ¿Dónde está su Guardián?' Los espectadores no pudieron contener su curiosidad y siguieron susurrando entre sí.\\n'Bahaha. Este niño flacucho cree que puede enfrentarse al toro salvaje de Li. ¡Habla de sobreestimar tus habilidades!' Los tipos grandes parecían pensar mucho en Li y seguían hablando entre ellos.|'¡Rugido!' Sólo el sonido del grito del toro se podía escuchar como el del niño. Su cuerpo, recto como una flecha, salió volando. Mientras su sangre fluía, algo cayó de él.\\n'¿Qué es eso? ¿Es eso una oruga?' La multitud claramente no esperaba esto.\\n'Jajajaja. No me digas que este es el guardián de Mang. ¿De qué estiércol sacó eso? Eso es muy gracioso.' Ante esto, la multitud estalló en carcajadas estridentes.\\nCon el guardián del oponente a la vista, el toro salvaje echó a correr ferozmente con todas las patas en el aire. Cargó directamente hacia la oruga de Mang, al igual que es instinto de lucha acumulado durante muchos años.|'¡Cuerno, detente!' En este punto, los ojos del toro estaban rojos y su aliento era pesado y agresivo. No había manera de que pudiera escuchar una orden. ahora.\\n'¡No!'Li gritó al mismo tiempo que una chica entre la multitud.\\n'Kacha.'\\nEl sonido de los huesos al romperse podría De repente se escuchó. Debajo de las patas del toro estaba el niño que había sido arrojado por el escenario.\\n'No… no dejaré que… le hagas daño.'\\nAl lado del niño estaba Mao, la oruga que había escapado por poco de la muerte. Los ojos de la oruga estaban muy abiertos y una sensación se había hinchado dentro de él.|De repente, Mao cargó hacia adelante, mordió una de las patas delanteras del toro y comenzó a chupar.\\nLa piel del toro era tan gruesa que no notó la picadura de la oruga en absoluto, pero al momento siguiente, su respiración se volvió más estable y la sed de sangre comenzó a desvanecerse de sus ojos. Ahora parecía casi aturdido.\\nLo que la multitud no se dio cuenta fue que una hebra de energía del toro había sido succionada de él. Aunque pudo haber sido sólo una hebra, seguía siendo una hebra extremadamente pura, y su eliminación fue suficiente para calmar al toro.\\nUna vez que la multitud volvió su atención a Mao, la oruga estaba profundamente dormida.\\n"
+    "es": "Volumen 2\\n\\n\\n　　　　Autor　　Caminante Errante|«¡Xiaomang, te has vuelto loco! ¡Todavía no has establecido un espíritu guardián, así que no tienes derecho a participar en la competición menor de la secta!» La muchacha entró apresuradamente en la habitación.\\n«No tengo derecho… Al parecer, incluso tú piensas eso…» El muchacho, dentro de la habitación, tenía una expresión serena, como si ya lo hubiera esperado.\\n«¡No quise decir eso! Cálmate. La competición menor de la Secta de la Montaña Domadora de Bestias es extremadamente peligrosa. Ningún discípulo por debajo del rango de discípulo verdadero puede garantizar que controlará por completo a su espíritu guardián. Si alguna de esas bestias se descontrola, tú…» La muchacha estaba llena de ansiedad y tristeza.|«Moriré, ¿verdad? Entonces dime… ¿qué diferencia hay entre seguir viviendo así y estar muerto?» El muchacho se levantó de repente, indignado. «Olvídalo, no voy a discutir contigo. El anciano Wang también está loco; si no tienes un espíritu guardián, ¿cómo se le ocurre permitirte inscribirte en la competición…?» La muchacha pareció recordar algo y se volvió para salir corriendo.\\n«Sí, hermana Zaizao. Si no tuviera un espíritu guardián, ¿cómo iba a permitirme el anciano participar en la competición?» El tono del muchacho cambió y sus ojos revelaron determinación.|«¡¡¡!!!» La muchacha se quedó inmóvil en el sitio.\\n«…» El muchacho también guardó silencio.\\n«¿Tú… hablas en serio?» Ella se volvió, con el rostro lleno de sorpresa y una alegría incrédula.\\n«¿Por qué te asombras tanto? Para un discípulo interno, establecer un espíritu guardián a los siete años solo se considera una aptitud mediocre…» El muchacho habló con calma, aunque no pudo ocultar su emoción. «¡Vaya contigo, mocoso! ¡Has hecho algo así y ni siquiera se lo contaste a tu hermana! ¡Ahora verás!» La muchacha, con lágrimas de alegría en los ojos, se abalanzó sobre él.\\n«¡Aaaah! ¡Lo siento, hermana Zaizao! ¡Perdóname!» El muchacho corrió por la habitación mientras ella lo perseguía; jugaron a su juego infantil favorito, atrapar al otro.|«Oigan, ¿ese no es Xiaomang? ¿Qué hace aquí? ¿Será que estableció un espíritu guardián?» La gente cuchicheaba junto al escenario de artes marciales.\\n«¡Je, je! Ahora sí tengo curiosidad. Me pregunto qué aspecto tendrá el espíritu guardián de este inútil. ¿No será una tortuguita? ¡Ja, ja, ja!» Un hombre vestido de verde se tapó la boca para reírse.\\n«Miren el toro salvaje del hermano mayor Li. ¡Seguro que lo parte en dos de un golpe! ¡Ja, ja!» Un hombre corpulento cruzó los brazos y mostró una mirada llena de desprecio.|«¡Silencio en toda la zona! ¡Los dos contendientes, que comience el combate!» El anciano Wang, que presidía la competición, gritó y acalló al instante todo el alboroto.\\n«Xiaomang, invoca a tu espíritu guardián. Te dejaré atacar primero tres veces.» Frente al muchacho se alzaba un hombre tan alto como una montaña.\\n«El hermano mayor Li es muy considerado. Yo…» El muchacho, ágil, dio un paso adelante y lanzó el puño.\\n«¿Qué ocurre? ¿Dónde está su espíritu guardián?» Los espectadores no pudieron contener la curiosidad y volvieron a cuchichear.\\n«¡Ja, ja, ja! Este cuerpo enclenque cree que puede enfrentarse al toro salvaje del hermano mayor Li. ¡Qué absurdo!» El hombre corpulento parecía admirar mucho a Li y siguió burlándose.|«¡Muuu!» Al oír el mugido del toro, el muchacho salió despedido con el cuerpo recto y la sangre brotando a borbotones. Entonces, algo cayó de su cuerpo.\\n«¿Qué es eso? ¿Una oruga?» Todos los presentes se quedaron atónitos.\\n«¡Ja, ja, ja, ja! ¿No me digan que esa cosa es el espíritu guardián de Xiaomang? ¿De qué estercolero la sacó? ¡Qué ridículo!» Las gradas estallaron en carcajadas.\\nAl ver al espíritu guardián del oponente, el toro salvaje se volvió frenético. Alzó las cuatro pezuñas y cargó con todas sus fuerzas contra la oruga que había caído del cuerpo de Xiaomang; era el instinto de combate acumulado durante años.|«¡Daijiao, detente!» En ese momento, los ojos del toro estaban inyectados en sangre y su respiración era pesada. Solo tenía al oponente delante y ya no podía oír la voz de su dueño.\\n«¡No!» El hermano mayor Li y una muchacha entre el público gritaron al mismo tiempo.\\n«¡Cric!»\\nResonó el sonido de unos huesos al quebrarse. Bajo las pezuñas de hierro del toro yacía el muchacho que había salido despedido antes.\\n«No… no permitiré que… le hagas daño…»\\nA su lado, la oruga Amao, que había sido apartada de un empujón en el último instante, abrió mucho los ojos. Una emoción se estaba acumulando en su interior.|De repente, Amao saltó, abrió la boca y mordió una de las patas delanteras del toro. Luego comenzó a succionar con avidez.\\nEl toro tenía la piel dura y gruesa, así que no notó la mordida de la oruga. Sin embargo, poco después su respiración se volvió más estable, la sangre de sus ojos se disipó y su expresión mostró cierta confusión.\\nNadie se dio cuenta de que una pequeña cantidad del poder espiritual vital del toro había sido extraída en silencio. Aunque era una cantidad diminuta, se trataba de un poder espiritual extremadamente puro, suficiente para calmarlo.\\nCuando todos volvieron a mirar a la oruga, Amao ya estaba tendida en el suelo, profundamente dormida.\\n"
   },
   {
     "id": "36576",
     "key": "item_book_desc_6391033",
-    "es": "Volumen 3\\n\\n\\nAutor Wayfarer|'La inteligencia ha informado que la ola de bestias estará aquí en cinco días. Mang, ahora que has establecido un Guardián, deberías ir con el equipo y ayudar a los discípulos de la Secta a capturar una bestia apropiada.' El Líder de la Secta habló en un tono moderado.\\n'Entiendo' Dijo el joven respetuosamente y sin ninguna falta de resolución.\\n'Padre. El Guardián de Mang es demasiado débil. ¿Cómo podrías soportar que repele la ola de bestias?' La llamada vino de una mujer joven que corrió desde un lado y parecía nervioso.\\n'Joven Zao, te has vuelto demasiado independiente para tu propio bien. ¿Cómo te atreves a hablar así con el líder de la secta!?' Exigió el anciano Wang, rápidamente poniendo fin al asunto. en nombre del Líder de la Secta.\\n'Yo… Fui descarada…' La joven mujer pareció conmocionada por esto y se calmó.|'No debes culpar Tu padre. Repeler a las bestias, el arte de entrenarlas, estas cosas nos ayudan a someter a estos monstruos. Es esto lo que asegura la supervivencia de Montaña Bestia. Este es el camino de nuestra Secta y no puede ser desafiado\\ndijo otro anciano con voz lenta y frágil.\\n'Hermana, si no entreno monstruos, ¿cómo voy a hacerme más fuerte? Tengo que seguir las órdenes de la Secta en esto. Tú no 'Tienen que preocuparse por mí, añadió el joven al ver la situación.|'Hermanos.iento que algo no está bien aquí.' Al pie de la montaña, vino esta objeción, de todas las personas, el hombre vestido de amarillo, cuyas cejas estaban actualmente fruncidas.\\n'Hermano Qian, usted es el orgullo de la Secta. Y podemos defendernos, sin duda. Con todos nosotros trabajando juntos, no hay nada que pueda detenernos. Cuando llegue el momento, tendremos magníficas bestias para presentar a la Secta. Será perfecto!' El hombre de amarillo todavía estaba rodeado de seguidores.\\n'Lo único es que mi hermano tigre ha estado temblando durante estos últimos días. Como si…' El hombre de amarillo parecía inquieto, casi preocupado.\\n'Qian, mira Fuera! Hay una serpiente voladora viniendo directamente hacia nosotros!' Gritó uno de los seguidores, y al mismo tiempo, todos llamaron a sus Guardianes.|'Rugido!'\\nLa escena era caótica Mientras la gente recitaba encantamientos, los Guardianes se enzarzaban en combate con las bestias.\\n'No… No, esto es malo! Estos monstruos son algo desconocido!' Los ojos del hombre vestido de amarillo brillaron mientras parecía confirmar su propia teoría.\\n'Tos, tos… ¿Cómo…? ¿Un monstruo joven y de bajo nivel como ese? ¿Cómo podría ser tan fuerte…?\\nSolo habían enviado a algunos de los monstruos más pequeños y todo el grupo ya estaba exhausto.\\n'Agh… Sálvame, Qian…' En este momento,la serpiente voladora había luchado hacia arriba y le dio un fuerte golpe a uno de los discípulos con su cola.|\\nEstos monstruos están fuera de control. Apenas podemos defendernos de estos brutos. No podemos esperar hacerlo bien contra los que están más adelante. Todos, es hora de retirarse! Vamos, hermano tigre!' El hombre de amarillo montó en su tigre morado y salió corriendo sin mirar atrás.\\n'Salven… Sálvame… Qian… No… No me dejes aquí… Yo…' El discípulo que había sido golpeado por la serpiente voladora ahora se sentía desesperado mientras observaba a Qian. huye de la escena con sus seguidores a cuestas.\\n…\\n'¿Es así como trata a esta gente?'\\nEl joven apareció de detrás de un árbol, y a su lado, la oruga en constante crecimiento Mao estaba absorbiendo vorazmente energía monstruosa de una de las bestias muertas.|Al ver a su compañero tirado herido y gritando en el suelo, los sentimientos de enemistad del niño hacia él parecieron disminuir.\\n'Mang …Mang, por favor… Sálvame…' Gritó el discípulo, una chispa de esperanza reavivándose en su interior al ver a su compañero acercarse a él. El recuerdo de haber acosado a ese compañero no tenía relevancia ahora mientras él le gritó.\\n'Mao. Ataque!' Gritó el niño en voz alta.\\nEl viento sopló, las hojas cayeron, pero el Guardián del niño no estaba a la vista. Mao probablemente todavía estaba alimentándose en energía y tan concentrado en ella que ni siquiera escuchó que lo convocaban.\\nAl darse cuenta de esto, la voluntad del niño para luchar aumentó. Su compañero estaba en peligro mortal, no había tiempo que perder, y él solo tenía que preocuparse por sí mismo. confiar.|El niño corrió directamente hacia la serpiente, que dejó escapar un fuerte grito y blandió el martillo en su cola directamente hacia la cabeza del niño.\\nSus acciones fueron tan incomparablemente feroces que el niño estaba aterrorizado. Quería girar su cuerpo para esquivar, pero el martillo ya estaba a centímetros de él.\\nEn ese momento, la oruga gigante levantó su cabeza. Al ver al niño en peligro, Mao se lanzó hacia el lugar con furia y, en el momento más crítico, sintió que algo se partía. dentro de su cuerpo.\\nAl momento siguiente, todo lo que había entre el cielo y la tierra pasó ante él, y una fuerza de otro mundo repentinamente brotó de su cuerpo. Esto llamó la atención de todos los demás monstruos.|Los monstruos se sintieron abrumados por el miedo y se dispersaron. en todas direcciones, presa del pánico.\\nEl cuerpo de Mao ahora estaba completamente recto. Le habían crecido dos cuernos en la cabeza y una barba en la barbilla. El brillo de sus ojos era como el de un gobernante poderoso.\\nSólo unos pocos Momentos en esta forma, sin embargo, y Mao de repente cayó al suelo exhausto, volviendo a su forma de insecto. Cuando volvió a ver al joven, había estado inconsciente durante algún tiempo.\\nLa niña estaba de pie a un lado del escena en total shock.|Innumerables discípulos heridos que habían huido de la escena habían estado observando desde lejos, y uno tras otro comenzaron a vitorear.'¿Puedes creer lo poderosa que es la Habilidad Definitiva de Han? Ese Espíritu Serpiente Guardián suyo hizo que los monstruos huyeran en un ataque de ira, como si el cielo le hubiera otorgado un talento especial!' Quienquiera que lo haya hecho Gritó esto, el grito fue seguido por una comprensión gradual entre la multitud.'Larga vida a Han! Larga vida a Han!' Todos lloraron una y otra vez."
+    "es": "Volumen 3\\n\\n\\n　　　　Autor　　Caminante Errante|«Un explorador informa que la oleada de bestias llegará dentro de cinco días. Xiaomang, ahora que has establecido un espíritu guardián, ve con el grupo y ayuda a los discípulos de la secta a capturar bestias demoníacas adecuadas.» El líder de la secta habló con calma.\\n«Sí.» El muchacho respondió con respeto, sin dejar nada que reprochar.\\n«Padre, el espíritu guardián de Xiaomang es débil. ¿Cómo puedes soportar enviarlo a resistir la oleada de bestias?» La muchacha, de pie a un lado, se puso ansiosa y cuestionó al líder de la secta.\\n«Hermana menor Zao, veo que ya te han crecido las alas. ¡Cómo te atreves a hablarle así al líder de la secta!» El anciano Wang la interrumpió de inmediato y la reprendió.\\n«Discípula… he cometido una falta…» La muchacha se alarmó y recuperó la calma.|«No culpes a tu padre. Resistir las oleadas de bestias, cultivar el camino de la doma y ayudar a la secta a someter bestias demoníacas: esa es la base de la supervivencia de nuestra Secta de la Montaña Domadora de Bestias. Es una norma de la secta y no puede desobedecerse.» Otro anciano habló lentamente.\\n«Hermana, si no templo mi camino de doma, ¿cómo voy a volverme más fuerte? Durante este viaje obedeceré las órdenes del líder de la secta, así que no tienes que preocuparte por mí.» Ante aquella situación, el muchacho volvió a inclinarse con respeto.|«Muchachos, tengo la sensación de que algo no va bien.» Al pie de la montaña, quien hablaba era precisamente el hombre de amarillo, con el ceño fruncido.\\n«Hermano mayor Qian, eres un elegido de la secta. Además, nuestras bases no son débiles y podremos cuidarnos mutuamente; no habrá ningún problema. Cuando llegue el momento, atraparemos bestias excelentes para llevarlas a la secta y recibir una recompensa. ¿No será maravilloso?» El hombre seguía rodeado por sus seguidores.\\n«Pero mi hermano tigre lleva dos días temblando sin parar. Parece que…» El hombre de amarillo se sentía intranquilo y tenía sus reservas.\\n«¡Hermano mayor Qian, cuidado! ¡Una Serpiente Resonante vuela hacia aquí!» gritó uno de sus subordinados. Todos invocaron al mismo tiempo a sus espíritus guardianes.|«¡Rugido!»\\nLos espíritus guardianes y la bestia demoníaca se enfrentaron entre gritos y conjuros; la escena se volvió un caos.\\n«No… ¡No, esto no está bien! ¡Estas bestias demoníacas son extrañas!» Como si confirmara su suposición, los ojos del hombre de amarillo destellaron.\\n«Cof, cof… ¿Cómo es posible? Solo es una bestia demoníaca joven y de bajo nivel; ¿por qué es tan fuerte…?» Tras matar a varias bestias pequeñas, todos comenzaron a esforzarse.\\n«¡Puaj… hermano mayor Qian, ayúdame…!» En ese momento, la Serpiente Resonante se levantó con dificultad y golpeó con la cola a uno de ellos, dejándolo gravemente herido.|«Todas estas bestias se han vuelto frenéticas. Si ya nos cuesta tanto matar a las pequeñas, no podremos enfrentarnos a las grandes que vienen detrás. ¡Muchachos, retírense! ¡Hermano Tigre, vámonos!» El hombre de amarillo montó en su tigre de rayas moradas y huyó sin mirar atrás.\\n«Ayuda… hermano mayor Qian… no… no me abandones…» El subordinado moribundo contempló cómo todos seguían a su jefe en la retirada y se hundió en la desesperación.\\n…\\n«¿Así es como trata a estas personas?»\\nEl muchacho salió de detrás de un árbol. A su lado, Amao, cuyo cuerpo no dejaba de crecer, absorbía con avidez el poder demoníaco de las bestias muertas.|Al ver a su compañero de secta gravemente herido y aullando en el suelo, el antiguo rencor del muchacho pareció atenuarse.\\n«Hermano mayor Xiaomang… ayúdame…» Al ver que un compañero se acercaba, el moribundo recuperó una chispa de esperanza. Ya no le importaba haber acosado al muchacho; gritó con todas sus fuerzas.\\n«¡Amao, ataca!» El muchacho dio una orden a voz en cuello.\\nPero solo sopló una brisa y las hojas volaron. La criatura que había invocado no apareció; seguramente Amao seguía absorto absorbiendo poder espiritual e ignoraba por completo su llamada.\\nAl darse cuenta, el muchacho sintió que su espíritu de lucha se elevaba. La vida de su compañero pendía de un hilo y no había tiempo que perder; ahora solo podía confiar en sí mismo.|El muchacho corrió hacia la Serpiente Resonante. Esta lanzó un chillido y giró el enorme martillo de su cola para golpearle la frente.\\nLa bestia se movía con una velocidad aterradora. El muchacho quedó horrorizado y, cuando intentó apartarse, el martillo ya estaba frente a sus ojos.\\nEn ese instante, la oruga gigante que tenía detrás levantó la cabeza. Al ver que la vida del muchacho corría peligro, Amao sintió que algo dentro de su cuerpo se quebraba, como si su corazón ardiera de ansiedad.\\nAl momento siguiente, destellos verdes brillaron entre las montañas y los ríos. Una presencia capaz de intimidar al cielo y la tierra se liberó de repente desde todo el cuerpo de Amao, y la oleada de bestias entera se detuvo.|Un miedo que procedía de lo más profundo del alma se extendió entre las bestias demoníacas. Aterrorizadas, huyeron en todas direcciones.\\nEl cuerpo de Amao se volvió erguido. Le crecieron dos cuernos en la frente, le brotaron bigotes en las mejillas y una luz espiritual centelleó en sus ojos, como si fuera el soberano de todas las cosas.\\nSin embargo, aquel estado solo duró unos segundos. Amao cayó al suelo exhausto y volvió a adoptar su forma de oruga. El muchacho también se había desmayado sin que nadie supiera cuándo.\\nLa muchacha se quedó inmóvil, aterrorizada.|A lo lejos, innumerables discípulos de la secta, heridos y en retirada, vieron la escena y estallaron en vítores.\\n«¡La hermana mayor Han Zaozao posee poderes incomparables! ¡En un arrebato de furia, su espíritu guardián, la Serpiente Verde Abisal, ha hecho huir a toda la oleada de bestias! ¡Qué talento extraordinario, digno del favor del cielo!» Alguien gritó aquello y los demás comprendieron la situación uno tras otro.\\n«¡Larga vida a la hermana Han! ¡Larga vida a la hermana Han!» Los vítores se sucedieron sin cesar.\\n"
   },
   {
     "id": "36577",
     "key": "item_book_desc_6391034",
-    "es": "Volumen 4\\n\\n\\nAutorCaminante|'Montaña Bestia! Tu generación ha interactuado con las bestias. Has usado magia para controlarlos. Has usado su poder para entrenar. ¡Esto es pura herejía y una vergüenza para los Cultivadores de nuestro mundo!' La condena vino desde fuera de la aldea montañosa, donde innumerables barcos se acercaron desde el aire, bloqueando el cielo. Resonó por toda la aldea desde kilómetros de distancia.\\n'Estas bestias han causado gran terror. Han destruido sectas y han dañado al pueblo. ¡No puede haber ninguna justificación para que los trates como compañeros!' sonó una voz anciana.\\n'Un bicho como este es demasiado peligroso para dejarlo. Hemos decidido que es justo que nos unamos para eliminaros. Les insto a que no se resistan y abandonen su práctica por la vida de la gente común. De esa manera encontrarán un final respetable,' gritó una persona mayor con una majestad celestial.|'¡Todos, esta banda etérea destruirá Montaña Bestia en cuestión de horas!' La mujer Gritar tenía un comportamiento suave y elegante, pero sus palabras estaban llenas de desesperación.\\n…\\n'El destino de nuestra aldea está sellado. Sólo estaríamos desperdiciando nuestra vida si intentáramos luchar contra ellos… Escuchenme, discípulos. Abandona tu práctica. Renuncia a tus guardianes. ¡Huyan para salvar sus vidas!' Esta fue la orden final del Líder de la Secta, quien se paró en el escenario de artes marciales y suspiró mientras hablaba.\\n'Líder de la Secta, usted…' Los discípulos dudaban|'He vivido mi vida en Montaña Bestia. Tengo la intención de pasar la otra vida aquí también. Es en mis manos que la larga historia de este caserío ha llegado a su fin. ¡Si huyo con mi propia vida, no podré enfrentarme a ningún ancestro ni al Líder de la Secta en el más allá!' El Líder de la Secta de repente parecía decidido, enfrentando las naves en el cielo con temor en su corazón.\\n'Establecer líder…' La multitud de discípulos había tomado una decisión. Los muchos años de ser cuidados solos los hicieron demasiado agradecidos para irse ahora.\\n'¡Kaboom!' Un rugido estallido desde el aire dejó claro a los discípulos que lo que se les acercaba desde el aire poseía un poder increíble, y no tenían la fuerza entre ellos para resistirlo.|'Lord Meng, la gente de Montaña Bestia ha sido sabio. Casi todos han abandonado la práctica y abandonado la Secta', informó un hombre arrodillado en medio del salón principal de los barcos más lujosos.\\n'Efectivamente… Espera. ¿Casi todos? ¿Quién sigue en la Secta?' Fue un hombre de mediana edad sentado en el pasillo quien hizo la pregunta, su expresión cambió mientras lo hacía.\\n'Señor Meng, tres todavía están en la Secta: El líder de la secta, un niño y una niña' dijo el hombre arrodillado cuya voz no vaciló.\\n'Hm… Si no tienen intención de irse, entonces deben estar decididos a hacerlo. Baja con el líder de la secta. Continúen, Inmortales etéreos.' El hombre de mediana edad asintió levemente con la cabeza y luego cerró el puño con la mano.|Ante esto, el mundo de abajo estaba bañado en luz. Las tropas prepararon sus espadas y se encendieron.\\nAl mismo tiempo, las nubes comenzaron a rodar, la lluvia comenzó a caer a cántaros y los rayos comenzaron a caer. El cielo que hace un momento era de un azul claro se había oscurecido en un abrir y cerrar de ojos.\\n'¡¡¡Rugido¡'\\nUna sombra delgada se elevó por el cielo y atravesó las nubes.\\n'¡Es… un dragón!' Los Cultivadores a bordo del barco estaban pronto en total desorden.'\\nY eso es… ¡Esa es una persona ahí arriba!'\\nLa multitud justa quedó conmocionada al ver un dragón en la vida real, y su líder, Meng, cuyas habilidades eran aún más refinadas… Se dio cuenta de que era una persona que estaba encima del dragón.|'Mang…'\\n'Él es realmente…'\\nDe vuelta en la aldea, el niño que estaba con el Líder de la Secta y la niña habían desaparecido, y los otros dos ahora estaban mirando al cielo en total sorpresa.\\n…\\n'Señor Meng, este realmente es un dragón en carne y hueso. Quizás tengamos que tragarnos nuestro orgullo en esta ocasión…' dijo una persona mayor vestida de blanco que también estaba sentada en el salón principal. La persona mayor contó algunos dedos y luego soltó una pequeña risa.\\n'…' El resto de la multitud todavía estaba estupefacta por la vista frente a ellos y aún no había reaccionado.\\n'Maestros de dragones, nosotros, los subordinados, estamos fuera de nuestro alcance. ¡Esperamos que nos perdones!' En un instante, el hombre de mediana edad ya estaba en la cima de una torre en el barco, su voz se escuchó claramente entre la multitud.|Todo lo que hizo falta fue la persona en el dragón levanta suavemente su mano para que los Inmortales Etéreos se desmoronen.\\n'¡Nosotros, los subordinados, gracias por salvarnos!' El hombre en el salón era tan capaz como sensato, pero entendió el pueblo dragón que exterminó al grupo espada le había dejado un camino hacia la supervivencia, de lo contrario bajo su propio poder, y con ese movimiento, todos los Cultivadores justos habrían perecido.|Varios días después.\\n'Mang, estás bien?' preguntó la joven con voz clara y ansiosa.\\nEl joven se movió lentamente, mirando por la ventana al cálido sol. Finalmente sonrió cuando vio a la joven.\\n'Antes de dejarnos, dijo que quería que te pasaran el título de Líder de Secta…'\\nEl rostro de la chica estaba melancólico, pero había felicidad mezclada allí ahora que el caos había llegado a su fin. fin.\\nDespués de esto, el letrero de Montaña Bestia había sido quitado y reemplazado por uno que decía 'Secta Dragon de la Montaña'\\n\\n"
+    "es": "Volumen 4\\n\\n\\n　　　　Autor　　Caminante Errante|«¡Secta de la Montaña Domadora de Bestias! Ustedes han convivido durante generaciones con las bestias demoníacas, controlan sus mentes con el Dao y toman prestado su poder para cultivar. ¡Son una aberración de los Ocho Yermos y la vergüenza de los cultivadores!» Fuera de la secta, innumerables naves voladoras se acercaron desde lo alto y cubrieron el cielo. Una voz resonó por toda la montaña desde una distancia de miles de kilómetros.\\n«Las bestias demoníacas dañan a los seres vivos, destruyen sectas y aniquilan la humanidad. ¡Es absurdo que las traten como compañeras!» A la primera voz siguió otra, anciana.\\n«Esas alimañas solo traerán calamidades si se las deja con vida. El camino recto de los Ocho Yermos ha decidido unirse para exterminarlos. Les aconsejo que abandonen toda resistencia y destruyan su cultivo para volver a ser personas comunes; así podrán tener una muerte digna.» La voz de un hombre de mediana edad estaba cargada de una autoridad infinita.|«¡Compañeros de Dao, formen la Formación Celestial de Ejecución Inmortal! ¡En tres horas destruiremos la Secta de la Montaña Domadora de Bestias!» La voz de una mujer era suave y etérea, pero pronunciaba palabras desesperantes.\\n…\\n«Ay… El destino de nuestra secta está sellado. Una resistencia inútil solo nos hará perder la vida… ¡Escúchenme, discípulos! Destruyan su cultivo, abandonen a sus espíritus guardianes y huyan para salvarse.» En el escenario de artes marciales, el líder de la secta suspiró y pronunció la última orden que daría como líder.\\n«Pero, líder de la secta…» Los discípulos vacilaron.|«Pertenezco a una secta que doma bestias y, aunque muera, me convertiré en un fantasma de la Secta de la Montaña Domadora de Bestias. Cien años de legado de la secta han quedado destruidos por mi mano. Si buscara sobrevivir, ¿con qué rostro me presentaría ante nuestros antepasados en el más allá?» De pronto, la mirada del líder de la secta se volvió aguda mientras contemplaba las naves voladoras del cielo, con el corazón abatido.\\n«Líder de la secta…» La mayoría de los discípulos ya había tomado una decisión, pero le costaba separarse por la gratitud que sentía hacia él después de tantos años de enseñanza.\\n«¡Retumba!» Miles de luces brillaron en el cielo. Todos podían ver que se trataba de una formación de poder extraordinario, contra la que nadie de la secta podía luchar.|«Señor de la alianza, la gente de la Secta de la Montaña Domadora de Bestias ha sabido reconocer la situación. Casi todos han destruido su cultivo y abandonado la secta», informó un hombre arrodillado en el salón principal de la nave más lujosa.\\n«Bien… ¿Casi todos? Entonces, ¿quién queda dentro de la secta?» El hombre de mediana edad sentado en el puesto principal cambió de expresión y preguntó con frialdad.\\n«Señor de la alianza, quedan el líder de la secta y dos niños, un muchacho y una muchacha.» El hombre arrodillado respondió con voz firme.\\n«Hum… Si insisten en quedarse, deben estar preparados para morir junto con la secta. Transmitan la orden: ¡activen la Formación Celestial de Ejecución Inmortal!» El hombre de mediana edad asintió levemente y cerró un puño.|Al terminar sus palabras, la luz surgió bajo ellos: la formación de espadas estaba lista.\\nEn ese momento, el viento y las nubes se arremolinaron, y la lluvia cayó a cántaros. Al instante siguiente, relámpagos y truenos hicieron cambiar el color del cielo; el firmamento azul y despejado se convirtió en noche.\\n«¡Rugido!»\\nUna silueta enorme atravesó el cielo y cruzó las nubes y la lluvia.\\n«Eso es… ¡un dragón!» En las naves voladoras, innumerables grandes cultivadores perdieron la compostura y se emocionaron.\\n«¡Eso… eso es una persona!»\\nEl camino recto quedó atónito ante la aparición de un dragón verdadero. El líder de la alianza, cuya cultivación alcanzaba alturas inconcebibles, vio de un vistazo que una persona estaba de pie sobre la cabeza del dragón.|«Xiaomang…»\\n«Xiaomang…»\\nDentro de la Secta de la Montaña Domadora de Bestias, el muchacho que hasta hacía un momento estaba junto al líder y la muchacha había desaparecido. Los dos alzaron la cabeza hacia el cielo, aterrorizados.\\n…\\n«Señor de la alianza, ha aparecido un dragón verdadero. Me temo que esta vez tendremos que hacerle ese favor…» En el puesto secundario del salón principal, un anciano vestido de blanco calculó con los dedos y soltó una risita.\\n«…» Los demás estaban tan conmocionados por lo que veían que no reaccionaron.\\n«Maestro Inmortal Domador de Dragones, nosotros, los jóvenes, no reconocimos a una autoridad. Le pedimos perdón por nuestra insolencia.» En un instante, el hombre de mediana edad ya estaba en lo alto de la torre de la nave; su voz resonó con fuerza por el cielo.|La persona que estaba de pie sobre la cabeza del dragón levantó suavemente una mano y la Formación Celestial de Ejecución Inmortal se desmoronó al instante.\\n«¡Gracias, mayor, por perdonarnos la vida!» El hombre del salón principal habló con energía y sin mostrarse servil. Entendía que quien domaba al dragón había destruido la formación de espadas y les había concedido un camino para sobrevivir. De lo contrario, con aquel poder, todos los cultivadores del camino recto reunidos allí habrían muerto.|Varios días después.\\n«Xiaomang, ¿estás bien?», preguntó la muchacha con voz clara y ansiosa.\\nEl muchacho despertó lentamente. Al mirar el cálido sol que entraba por la ventana y ver a la muchacha frente a él, por fin sonrió.\\n«Antes de marcharse, dijo que te entregaría el puesto de líder de la secta…»\\nLa muchacha tenía una expresión melancólica, mezclada con la alegría de haber sobrevivido a la calamidad.\\nA partir de entonces, retiraron el letrero de la Secta de la Montaña Domadora de Bestias y lo sustituyeron por uno nuevo: «Secta de la Montaña Domadora de Dragones».\\n\\n"
   },
   {
     "id": "20753",
@@ -114055,9 +114055,9 @@
     "es": "Después de aprender esta receta, podrás identificar el Ñame del Milenio, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
-     "id": "5108",
-     "key": "item_desc2021465",
-     "es": "Después de aprender esta receta, podrás identificar la Fruta de belleza, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
+    "id": "5108",
+    "key": "item_desc2021465",
+    "es": "Después de aprender esta receta, podrás identificar la Fruta de belleza, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
     "id": "5109",
@@ -114075,9 +114075,9 @@
     "es": "Después de aprender esta Receta, podrás identificar la Estalactita de Primavera Sagrada, que se puede recolectar en <g>{#areaName8} y {#areaName9}</g>. Aprender su Receta también aumenta su cantidad de caída cuando matas monstruos."
   },
   {
-     "id": "5112",
-     "key": "item_desc2021505",
-     "es": "Después de aprender esta receta, podrás identificar la Hierba begonia, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
+    "id": "5112",
+    "key": "item_desc2021505",
+    "es": "Después de aprender esta receta, podrás identificar la Hierba begonia, que se puede recolectar en <g>{#areaName9}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
     "id": "5115",
@@ -114087,7 +114087,7 @@
   {
     "id": "5116",
     "key": "item_desc2021516",
-    "es": "Después de aprender esta receta, podrás identificar el Lirio Enano, que se puede recolectar en <g>{#areaName10} y {#areaName11}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
+    "es": "Después de aprender esta receta, podrás identificar el Lirio enano, que se puede recolectar en <g>{#areaName10} y {#areaName11}</g>. Aprender su receta también aumenta la cantidad de Lirio enano que obtienes al matar monstruos."
   },
   {
     "id": "5117",
@@ -114577,7 +114577,7 @@
   {
     "id": "43338",
     "key": "item_desc2823001",
-    "es": "Un elixir increíble lleno de energía. Úsalo para aumentar la EXP de la bestia. La bestia puede obtenerlo en aventuras y exploraciones. <b>(Este es un objeto especial para las bestias y no se mostrará en tu inventario. Puedes encontrarlo en el inventario de la interfaz de la Calabaza Mítica y dárselo a tus bestias).</b>"
+    "es": "Un elixir increíble lleno de energía. Úsalo para aumentar el cultivo de la bestia. La bestia puede obtenerlo en aventuras y exploraciones. <b>(Este es un objeto especial para las bestias y no se mostrará en tu inventario. Puedes encontrarlo en el inventario de la interfaz de la Calabaza Mítica y dárselo a tus bestias).</b>"
   },
   {
     "id": "43339",
@@ -122822,47 +122822,47 @@
   {
     "id": "49207",
     "key": "item_desc6082020",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49208",
     "key": "item_desc6082021",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49209",
     "key": "item_desc6082022",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49210",
     "key": "item_desc6082023",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones del Rayo Los rayos w también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49211",
     "key": "item_desc6082024",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49212",
     "key": "item_desc6082025",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49213",
     "key": "item_desc6082026",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49214",
     "key": "item_desc6082027",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49215",
     "key": "item_desc6082028",
-    "es": "Libera el poder del Rayo para cubrir a su usuario, otorgando &608201_jsgd& agilidad adicional e infligiendo &608203_qtsh& daño de Rayo a los enemigos tocados en &608206_cxsj&s. Bajo el poder del hechizo, su usuario no puede lanzar habilidades ni usar objetos y recibirá &608203_qtsh& daño de Rayo de tribulaciones de rayos. Los rayos también golpearán a otras unidades (aliadas y enemigas), causándoles &608203_qtsh& daño.\\n<size=12><b>●¡Corre, rápido! ¡O los rayos caerán sobre tu cabeza! - - Un garabato en el dije</b></size>"
+    "es": "Libera el poder del Rayo del talismán para cubrir al usuario, aumentando su velocidad de movimiento en &608201_jsgd& e infligiendo daño de Rayo por valor de &608203_qtsh& a los enemigos que lo toquen durante &608206_cxsj& segundos. Durante ese tiempo, la interferencia del poder del Rayo impide al usuario utilizar habilidades y objetos. Además, los rayos de la tribulación caerán continuamente sobre él e infligirán &608203_qtsh& de daño de Rayo; si alcanzan a otras unidades, incluidas las aliadas, les infligirán &608203_qtsh& de daño.\\n<size=12><b>●¡Corre más rápido, no dejes que el trueno celestial te caiga en la coronilla! -- El talismán tiene estas palabras garabateadas</b></size>"
   },
   {
     "id": "49216",
@@ -124967,7 +124967,7 @@
   {
     "id": "41456",
     "key": "item_desc7000311",
-     "es": "Una flor que crece en el Campo Ártico."
+    "es": "Una flor que crece en el Campo Ártico."
   },
   {
     "id": "41457",
@@ -131077,7 +131077,7 @@
   {
     "id": "43334",
     "key": "item_name2823001",
-    "es": "Elixir de EXP de bestia"
+    "es": "Elixir de cultivo de bestia"
   },
   {
     "id": "43335",
@@ -136422,7 +136422,7 @@
   {
     "id": "2388",
     "key": "item_name5031526",
-    "es": "Césped de lirio enano"
+    "es": "Lirio enano"
   },
   {
     "id": "2389",
@@ -138037,7 +138037,7 @@
   {
     "id": "2580",
     "key": "item_name5301103",
-     "es": "Hueso de azufre del Fuego del Alba"
+    "es": "Hueso de azufre del Fuego del Alba"
   },
   {
     "id": "2581",
@@ -172097,7 +172097,7 @@
   {
     "id": "51490",
     "key": "prefixDescS10602",
-    "es": "Daño &10602_powerUp&%\\nRadio de habilidad &10602_jnfwDown&%"
+    "es": "Daño &10602_powerUp&%\\nCultivo obtenido &10602_jnfwDown&%"
   },
   {
     "id": "51491",
@@ -172317,7 +172317,7 @@
   {
     "id": "51641",
     "key": "prefixDescS11307",
-    "es": "Velocidad de ataque &11307_agile&%\\nCada 10 de agilidad aumentará &11307_agileUp&% de velocidad de ataque"
+    "es": "Velocidad de ataque &11307_agile&%\\nCada 10 puntos de velocidad de movimiento pueden aumentar &11307_agileUp&% la velocidad de ataque"
   },
   {
     "id": "51642",
@@ -172347,7 +172347,7 @@
   {
     "id": "51662",
     "key": "prefixDescS11313",
-    "es": "Daño &11313_power&%\\nAgilidad enemiga &11313_enemyMsp&"
+    "es": "Alcance balístico de la habilidad &11313_power&%\\nVelocidad de movimiento enemiga &11313_enemyMsp&"
   },
   {
     "id": "51663",
@@ -172357,17 +172357,17 @@
   {
     "id": "51664",
     "key": "prefixDescS11315",
-    "es": "Daño &11315_power&%\\nVelocidad de ataque &11315_agile&%"
+    "es": "Rango de habilidad &11315_power&%\\nVelocidad de ataque &11315_agile&%"
   },
   {
     "id": "51665",
     "key": "prefixDescS11316",
-    "es": "Agilidad &11316_hpSuck&\\nRestauración de Vida &11316_hpRestore&"
+    "es": "Velocidad de movimiento &11316_hpSuck&\\nRecuperación de resistencia &11316_hpRestore&"
   },
   {
     "id": "51666",
     "key": "prefixDescS11317",
-    "es": "Daño &11317_power&%\\nResistencia &11317_pfr&"
+    "es": "Velocidad de ataque &11317_power&%\\nResistencia &11317_pfr&"
   },
   {
     "id": "51667",
@@ -173342,122 +173342,122 @@
   {
     "id": "52117",
     "key": "prefixDescS400001",
-    "es": "Cualificaciones de Hoja y Lanza&400001_basUp&."
+    "es": "Aptitud con el sable y la lanza&400001_basUp&."
   },
   {
     "id": "52118",
     "key": "prefixDescS400002",
-    "es": "Cualificaciones de Hoja y espada&400002_basUp&."
+    "es": "Aptitud con el sable y la espada&400002_basUp&."
   },
   {
     "id": "52119",
     "key": "prefixDescS400003",
-    "es": "Cualificaciones para Lanzas y Espadas&400003_basUp2&."
+    "es": "Aptitud con la lanza y la espada&400003_basUp2&."
   },
   {
     "id": "52120",
     "key": "prefixDescS400004",
-    "es": "Cualificación de Hoja&400004_basUp&."
+    "es": "Aptitud con el sable&400004_basUp&."
   },
   {
     "id": "52121",
     "key": "prefixDescS400005",
-    "es": "Calificación del Lanza&400005_basUp2&."
+    "es": "Aptitud con la lanza&400005_basUp2&."
   },
   {
     "id": "52122",
     "key": "prefixDescS400006",
-    "es": "Calificación de espada&400006_basUp3&."
+    "es": "Aptitud con la espada&400006_basUp3&."
   },
   {
     "id": "52123",
     "key": "prefixDescS400007",
-    "es": "Clasificación de Puño y Palma&400007_basUp&."
+    "es": "Aptitud con el puño y la palma&400007_basUp&."
   },
   {
     "id": "52124",
     "key": "prefixDescS400008",
-    "es": "Cualificaciones de Puño y Dedo&400008_basUp&."
+    "es": "Aptitud con el puño y el dedo&400008_basUp&."
   },
   {
     "id": "52125",
     "key": "prefixDescS400009",
-    "es": "Calificación de palma y dedo&400009_basUp2&."
+    "es": "Aptitud con la palma y el dedo&400009_basUp2&."
   },
   {
     "id": "52126",
     "key": "prefixDescS400010",
-    "es": "Clasificación de Puño&400010_basUp&."
+    "es": "Aptitud con el puño&400010_basUp&."
   },
   {
     "id": "52127",
     "key": "prefixDescS400011",
-    "es": "Calificación&400011_basUp2&."
+    "es": "Aptitud con la palma&400011_basUp2&."
   },
   {
     "id": "52128",
     "key": "prefixDescS400012",
-    "es": "Se refiere a la calificación&400012_basUp3&."
+    "es": "Aptitud con el dedo&400012_basUp3&."
   },
   {
     "id": "52129",
     "key": "prefixDescS400013",
-    "es": "Raíz espiritual de fuego y agua&400013_basUp&."
+    "es": "Raíces espirituales de Fuego y Agua&400013_basUp&."
   },
   {
     "id": "52130",
     "key": "prefixDescS400014",
-    "es": "Fuego, raíz espiritual de rayo&400014_basUp&."
+    "es": "Raíces espirituales de Fuego y Rayo&400014_basUp&."
   },
   {
     "id": "52131",
     "key": "prefixDescS400015",
-    "es": "Agua, Leilinggen&400015_basUp2&."
+    "es": "Raíces espirituales de Agua y Rayo&400015_basUp2&."
   },
   {
     "id": "52132",
     "key": "prefixDescS400016",
-    "es": "Raíz espiritual de fuego&400016_basUp&."
+    "es": "Raíz espiritual de Fuego&400016_basUp&."
   },
   {
     "id": "52133",
     "key": "prefixDescS400017",
-    "es": "Raíz espiritual de agua&400017_basUp2&."
+    "es": "Raíz espiritual de Agua&400017_basUp2&."
   },
   {
     "id": "52134",
     "key": "prefixDescS400018",
-    "es": "Raíz espiritual de rayo&400018_basUp3&."
+    "es": "Raíz espiritual de Rayo&400018_basUp3&."
   },
   {
     "id": "52135",
     "key": "prefixDescS400019",
-    "es": "Viento, raíz del suelo&400019_basUp&."
+    "es": "Raíces espirituales de Viento y Tierra&400019_basUp&."
   },
   {
     "id": "52136",
     "key": "prefixDescS400020",
-    "es": "Viento, raíz espiritual de madera&400020_basUp&."
+    "es": "Raíces espirituales de Viento y Madera&400020_basUp&."
   },
   {
     "id": "52137",
     "key": "prefixDescS400021",
-    "es": "Tierra, raíz espiritual de madera&400021_basUp2&."
+    "es": "Raíces espirituales de Tierra y Madera&400021_basUp2&."
   },
   {
     "id": "52138",
     "key": "prefixDescS400022",
-    "es": "Fenglinggen&400022_basUp&."
+    "es": "Raíz espiritual de Viento&400022_basUp&."
   },
   {
     "id": "52139",
     "key": "prefixDescS400023",
-    "es": "Tulinggen&400023_basUp2&."
+    "es": "Raíz espiritual de Tierra&400023_basUp2&."
   },
   {
     "id": "52140",
     "key": "prefixDescS400024",
-    "es": "Mulinggen&400024_basUp3&."
+    "es": "Raíz espiritual de Madera&400024_basUp3&."
   },
   {
     "id": "52197",
@@ -173882,7 +173882,7 @@
   {
     "id": "53322",
     "key": "prefixDescS410008",
-    "es": "Cada vez que el escudo resista 10 de daño, emitirá una onda de choque, causando daño a todos los enemigos en el campo, reduciendo el daño que infligen en un &700012_jdsh&% y ralentizándolos en un &700011_jdys&% durante &700012_jdsj& segundos. (Se activa como máximo una vez cada &700012_shockCD& segundos. Segunda categoría)"
+    "es": "Cada 10 veces que el escudo bloquee daño, emitirá una onda de choque que infligirá daño a todos los enemigos del campo, reducirá en un &700012_jdsh&% el daño que infligen y los ralentizará un &700011_jdys&% durante &700012_jdsj& segundos. (Se activa como máximo una vez cada &700012_shockCD& segundos)"
   },
   {
     "id": "50992",
@@ -176002,12 +176002,12 @@
   {
     "id": "50812",
     "key": "prefixNameS103006",
-    "es": "Actualizar"
+    "es": "Baño de sangre"
   },
   {
     "id": "50813",
     "key": "prefixNameS103007",
-    "es": "Baño de sangre"
+    "es": "Actualizar"
   },
   {
     "id": "50814",
@@ -183532,7 +183532,7 @@
   {
     "id": "23029",
     "key": "role_feature_postnatal_name9101",
-    "es": "La sangre del simio terrible"
+    "es": "La sangre del simio feroz"
   },
   {
     "id": "23030",
@@ -188322,7 +188322,7 @@
   {
     "id": "23165",
     "key": "role_feature_postnatal_tips9162",
-    "es": "La Ley del Cielo es equilibrio, armonía entre el Yin y el Yang, la danza eterna de la entropía y el orden. Las fuerzas del mal y el caos son realmente poderosas. El Camino Celestial puede empoderar a aquellos que se oponen a él y ayudarlos. alcanza el Reino de la Dualidad Perfecta. La Ley fortalece enormemente a las criaturas convocadas por el Cultivador, permitiéndoles enfrentarse a adversarios poderosos.\\n<g>Decrementa significativamente el daño a las unidades convocadas (incluidos los artefactos) de las Bestias Míticas.</g>"
+    "es": "El Reino de los Ocho Yermos tiene sus propias leyes celestiales que lo restringen; el Yin y el Yang se armonizan y la esencia se unifica. En estas montañas y mares, el poder de los demonios y seres malignos es extremadamente feroz, por lo que el Dao celestial otorgará a quienes se enfrenten a ellos la bendición del poder de las leyes, para alcanzar la armonía perfecta del Yin y el Yang. Este poder de las leyes fortalecerá enormemente a las criaturas invocadas por los cultivadores, permitiéndoles enfrentarse a bestias demoníacas feroces.\\n<g>El daño que reciben tus unidades invocadas (incluidos los tesoros mágicos) de las bestias demoníacas mayores se reduce considerablemente.</g>"
   },
   {
     "id": "23166",
@@ -189642,7 +189642,7 @@
   {
     "id": "23178",
     "key": "role_feature_postnatal_tips6121371",
-    "es": "9 segundos después de encontrarte con una Bestia Mítica u otro enemigo poderoso, causarás daño a todos los enemigos. Durante los siguientes 5s, los silenciarás y causarás una pequeña cantidad de daño. Este Destino puede Solo se activará una vez por batalla y desaparecerá una vez que se active 9 veces en total. (Activado: {luckUseCount}/9)"
+    "es": "Al encontrarte con una bestia demoníaca mayor o con algunos enemigos bastante poderosos durante la batalla, infligirás daño a todos los enemigos 9 segundos después; durante los 5 segundos siguientes, los silenciarás y les infligirás una pequeña cantidad de daño. Este Destino solo puede activarse una vez por batalla, hasta un total de 9 veces; cuando se agoten los usos, el Destino desaparecerá. (Usos: {luckUseCount}/9)"
   },
   {
     "id": "23493",
@@ -195262,7 +195262,7 @@
   {
     "id": "18950",
     "key": "s_35111_range",
-     "es": "Área de daño del Escudo del Señor Supremo &35111_range&."
+    "es": "Área de daño del Escudo del Señor Supremo &35111_range&."
   },
   {
     "id": "19299",
@@ -201282,7 +201282,7 @@
   {
     "id": "18295",
     "key": "s_huayaohou_desc",
-    "es": "Unidad grande que dispara pétalos de flores hacia adelante. Cada pétalo inflige &66112_jnwl& puntos de daño de $s_mu$.\\nAtributos heredados del invocador: &66112_yhtl&% de Resistencia, &66112_yhgj&% de ATQ y &66112_yhfy&% de DEF.\\nPermanece durante &66112_yhsj&s."
+    "es": "Unidad grande que dispara pétalos de flores hacia un área en forma de abanico frente a ella. Cada pétalo inflige &66112_jnwl& puntos de daño de $s_mu$.\\nAtributos heredados del invocador: &66112_yhtl&% de Resistencia, &66112_yhgj&% de ATQ y &66112_yhfy&% de DEF.\\nPermanece durante &66112_yhsj&s."
   },
   {
     "id": "18231",
@@ -204692,7 +204692,7 @@
   {
     "id": "35456",
     "key": "schoolGetSoul_canGet",
-    "es": "Combinable: {0}"
+    "es": "Cantidad combinable: {0}"
   },
   {
     "id": "35364",
@@ -205777,7 +205777,7 @@
   {
     "id": "34952",
     "key": "schoolMainLobby_renshutip",
-    "es": "El número total de todos los Discípulos de la Secta. Cuanto mayor sea el número de Discípulos, más Misiones de Secta se completarán mensualmente y más recursos podrá obtener la Secta.\\nLos Discípulos de la Secta se pueden aumentar realizando Misiones de Secta que 'Puedes invitar a otros. Aquellos con posiciones de Anciano o superior pueden invitar a otros a unirse a la Secta"
+    "es": "El número total de discípulos de la secta. Cuantos más discípulos haya, más misiones de la secta se completarán cada mes y más recursos podrá obtener la secta.\\nEl número de discípulos formales de la secta puede aumentar al completar misiones de la secta para invitar a otras personas. Quienes tengan el rango de anciano o superior pueden invitar directamente a otras personas a unirse a la secta."
   },
   {
     "id": "35154",
@@ -240462,7 +240462,7 @@
   {
     "id": "30486",
     "key": "spriteTalent_unlockDesc100733",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30487",
@@ -240502,7 +240502,7 @@
   {
     "id": "30494",
     "key": "spriteTalent_unlockDesc100741",
-    "es": "Mata a {0}/1 felino con cara humana para desbloquearlo. (Bestia mítica: posibilidad de encontrarla en Aire Abisal Guard (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 bestia demoníaca mayor para desbloquearla. (Bestia demoníaca mayor: hay una alta probabilidad de encontrarla en Guardia del Aire Abisal (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30495",
@@ -240717,7 +240717,7 @@
   {
     "id": "30537",
     "key": "spriteTalent_unlockDesc100831",
-    "es": "Completa: Mata a {0}/1 felino con cara humana para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Aire Abisal Guard (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 monstruo para desbloquearlo. (Monstruo: hay una alta probabilidad de encontrarlo en Guardia del Aire Abisal (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30538",
@@ -244542,7 +244542,7 @@
   {
     "id": "30564",
     "key": "spriteTalent_unlockDesc201905",
-    "es": "Mata a {0}/1 felino con cara humana para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Aire Abisal Guard (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 monstruo para desbloquearlo. (Monstruo: hay una alta probabilidad de encontrarlo en Guardia del Aire Abisal (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30565",
@@ -244607,7 +244607,7 @@
   {
     "id": "30577",
     "key": "spriteTalent_unlockDesc201918",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30578",
@@ -244732,7 +244732,7 @@
   {
     "id": "30602",
     "key": "spriteTalent_unlockDesc202002",
-    "es": "Mata a {0}/1 felino con cara humana para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Aire Abisal Guard (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 monstruo para desbloquearlo. (Monstruo: hay una alta probabilidad de encontrarlo en Guardia del Aire Abisal (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30603",
@@ -244797,7 +244797,7 @@
   {
     "id": "30615",
     "key": "spriteTalent_unlockDesc202015",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30616",
@@ -244957,7 +244957,7 @@
   {
     "id": "30647",
     "key": "spriteTalent_unlockDesc202106",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo: posibilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30648",
@@ -245002,12 +245002,12 @@
   {
     "id": "30656",
     "key": "spriteTalent_unlockDesc202115",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30657",
     "key": "spriteTalent_unlockDesc202116",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30658",
@@ -245362,7 +245362,7 @@
   {
     "id": "30728",
     "key": "spriteTalent_unlockDesc202305",
-    "es": "Mata a {0}/1 felino con cara humana para desbloquearlo. (Monstruo: posibilidad de encontrarlo en Aire Abisal Guard (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/1 monstruo para desbloquearlo. (Monstruo: hay una alta probabilidad de encontrarlo en Guardia del Aire Abisal (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30729",
@@ -245372,7 +245372,7 @@
   {
     "id": "30730",
     "key": "spriteTalent_unlockDesc202307",
-    "es": "Requiere Césped de lirio enano x{0}/3."
+    "es": "Requiere Lirio enano x{0}/3."
   },
   {
     "id": "30731",
@@ -245692,7 +245692,7 @@
   {
     "id": "30794",
     "key": "spriteTalent_unlockDesc202430",
-    "es": "Mata a {0}/5 Dire Apes para desbloquear. (Monstruo de élite: posibilidad de encontrarlo en Cuevas ocultas más allá del muro (Misión de la Alianza) y Ola de monstruos)"
+    "es": "Mata a {0}/5 simios feroces para desbloquear. (Monstruo de élite: hay una alta probabilidad de encontrarlo en Cuevas Ocultas Más Allá del Muro (Misión de la Alianza) y Ola de Monstruos)"
   },
   {
     "id": "30795",
@@ -254001,18 +254001,18 @@
   },
   {
     "id": "22081",
-     "key": "startGameTipDesc240",
-     "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 29 de septiembre de 2022, 12:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en mazmorras donde tras derrotar jefes no se salía automáticamente.\\n2. Se corrigió un error en música que cambiaba antes de volver al mapa.\\n3. Se corrigió un error en arañas de bambú que no atacaban.\\n4. Se corrigió un error en jefes de mazmorras que no mostraban barra de salud.\\n5. Se corrigió un error en descripciones de habilidades de guardianes de artefacto.\\n6. Se corrigió un error en guardianes heridos que congelaban juego al perder.\\n7. Se corrigió un error en guardianes que aprendían habilidades repetidas.\\n8. Se corrigió un error en torneos de secta donde NPC atacaban al jugador fuera del ring.\\n9. Se corrigió un error en guardianes que no producían 'Huaxing Dan' tras entrenar."
+    "key": "startGameTipDesc240",
+    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 29 de septiembre de 2022, 12:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en mazmorras donde tras derrotar jefes no se salía automáticamente.\\n2. Se corrigió un error en música que cambiaba antes de volver al mapa.\\n3. Se corrigió un error en arañas de bambú que no atacaban.\\n4. Se corrigió un error en jefes de mazmorras que no mostraban barra de salud.\\n5. Se corrigió un error en descripciones de habilidades de guardianes de artefacto.\\n6. Se corrigió un error en guardianes heridos que congelaban juego al perder.\\n7. Se corrigió un error en guardianes que aprendían habilidades repetidas.\\n8. Se corrigió un error en torneos de secta donde NPC atacaban al jugador fuera del ring.\\n9. Se corrigió un error en guardianes que no producían 'Huaxing Dan' tras entrenar."
   },
   {
     "id": "22082",
     "key": "startGameTipDesc241",
-     "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 29 de septiembre de 2022, 18:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en mazmorras donde desaparecía el suelo.\\n2. Se corrigió un error que congelaba juego al terminar guerras de secta.\\n3. Se corrigió un error en mazmorras que no cambiaban música al volver al mapa.\\n4. Se corrigió un error en mapa donde terreno se volvía blanco.\\n5. Se corrigió un error en modo Prehistórico donde artefacto 'Caldero de Refinación' podía repararse tras romperse.\\n6. Se corrigió un error en interfaz de razas dentro del Caldero.\\n7. Se corrigió un error al ver información de guardianes de nivel Ascensión que congelaba juego.\\n8. Se corrigió un error en visualización de cantidad de objetos exclusivos de guardianes.\\n9. Se corrigió un error en bibliotecas de sectas que no mostraban manuales tras cambio de mes.\\n10. Se corrigió un error en guardianes que no aprendían habilidades de exploración."
+    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 29 de septiembre de 2022, 18:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en mazmorras donde desaparecía el suelo.\\n2. Se corrigió un error que congelaba juego al terminar guerras de secta.\\n3. Se corrigió un error en mazmorras que no cambiaban música al volver al mapa.\\n4. Se corrigió un error en mapa donde terreno se volvía blanco.\\n5. Se corrigió un error en modo Prehistórico donde artefacto 'Caldero de Refinación' podía repararse tras romperse.\\n6. Se corrigió un error en interfaz de razas dentro del Caldero.\\n7. Se corrigió un error al ver información de guardianes de nivel Ascensión que congelaba juego.\\n8. Se corrigió un error en visualización de cantidad de objetos exclusivos de guardianes.\\n9. Se corrigió un error en bibliotecas de sectas que no mostraban manuales tras cambio de mes.\\n10. Se corrigió un error en guardianes que no aprendían habilidades de exploración."
   },
   {
     "id": "22083",
     "key": "startGameTipDesc242",
-     "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 30 de septiembre de 2022, 22:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en habilidad 'Zhui' (ataque de viento) con daño incorrecto.\\n2. Se corrigió un error en mazmorra 'Lock Spirit Array' que terminaba automáticamente al morir guardianes.\\n3. Se modificó regla de captura de bestias con Caldero: ahora puede usarse al bajar salud bajo cierto porcentaje.\\n4. Se añadieron guardianes especiales obtenibles al derrotar reyes bestia en cada región (con nombre y apariencia únicos)."
+    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 30 de septiembre de 2022, 22:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en habilidad 'Zhui' (ataque de viento) con daño incorrecto.\\n2. Se corrigió un error en mazmorra 'Lock Spirit Array' que terminaba automáticamente al morir guardianes.\\n3. Se modificó regla de captura de bestias con Caldero: ahora puede usarse al bajar salud bajo cierto porcentaje.\\n4. Se añadieron guardianes especiales obtenibles al derrotar reyes bestia en cada región (con nombre y apariencia únicos)."
   },
   {
     "id": "22084",
@@ -254047,7 +254047,7 @@
   {
     "id": "22090",
     "key": "startGameTipDesc249",
-      "es": "<size=25>【Versión interna de prueba 100802】</size> Actualización del 8 de octubre de 2022, 13:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en fortuna 'Sacrificio de Sangre (nivel inicial)' que congelaba juego al aparecer en interfaz."
+    "es": "<size=25>【Versión interna de prueba 100802】</size> Actualización del 8 de octubre de 2022, 13:00\\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\\n　　C:\\\\Users\\\\Usuario\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\SteamMonster\\\\CacheData</r></size>\\n1. Se corrigió un error en fortuna 'Sacrificio de Sangre (nivel inicial)' que congelaba juego al aparecer en interfaz."
   },
   {
     "id": "22091",
@@ -259227,7 +259227,7 @@
   {
     "id": "37987",
     "key": "taskDesc2110660",
-     "es": "Feng Pingmo confiesa la verdad sobre lo que sucedió y la situación actual dentro de las Montañas Abisales. Se siente tan culpable que deliberadamente envía mensajes para quemar la Seda Brocada. Debes apresurarte a informar al Jefe Feng de este mensaje."
+    "es": "Feng Pingmo confiesa la verdad sobre lo que sucedió y la situación actual dentro de las Montañas Abisales. Se siente tan culpable que deliberadamente envía mensajes para quemar la Seda Brocada. Debes apresurarte a informar al Jefe Feng de este mensaje."
   },
   {
     "id": "37989",
@@ -262482,7 +262482,7 @@
   {
     "id": "38918",
     "key": "taskName2110627",
-    "es": "Guardia Aérea Abisal"
+    "es": "Guardia del Aire Abisal"
   },
   {
     "id": "38920",
@@ -266132,12 +266132,12 @@
   {
     "id": "38023",
     "key": "ui_battleDie_htyts",
-    "es": "El Ojo Celestial emite una energía extraña que te envuelve.\\nEl espacio a tu alrededor se retuerce y colapsa, y la luz dorada retrocederá en el tiempo antes de que fueras gravemente herido.\\nPerderás todos los objetos obtuviste en esta batalla."
+    "es": "El Ojo Celestial emite una energía extraña que te envuelve.\\nEl espacio a tu alrededor se retuerce y colapsa, y la luz dorada retrocede en el tiempo hasta antes de que resultaras gravemente herido.\\nPerderás todos los objetos que obtuviste en esta batalla."
   },
   {
     "id": "44018",
     "key": "ui_battleDie_lyhts",
-    "es": "¡Cuidado! ¡La bestia ha bloqueado un golpe crítico inminente contra ti!\\nLa Calabaza Mítica flota en el aire y un suave Rayo de luz emite desde ella y te envuelve.\\nLa Calabaza Mítica ha activado el Celestial Protección de camino, y se romperá debido a ello.\\nPerderás todos los objetos que obtuviste en esta batalla."
+    "es": "¡Peligro! ¡La bestia ha bloqueado un golpe mortal dirigido a ti!\\nLa Calabaza Mítica aparece automáticamente y una suave luz emana de ella para envolverte.\\nLa Calabaza Mítica ha activado la Protección del Camino Celestial, lo que provocará que sufra daños.\\nPerderás todos los objetos que obtuviste en esta batalla."
   },
   {
     "id": "38024",
@@ -266621,7 +266621,7 @@
   {
     "id": "37331",
     "key": "ui_godEye_reqairtip",
-    "es": "El costo de la Piedra Espiritual para reparar el Ojo Celestial aumenta a medida que aumenta el Reino del personaje o el número de reparaciones ya realizadas.\\nSe necesitan {0} meses para reparar el Ojo Celestial.\\nMientras está en reparación , Camino Celestial Protection no se puede activar y las habilidades de los monstruos no se pueden usar ni dominar. Puede funcionar correctamente nuevamente una vez que se finaliza el trabajo de reparación"
+    "es": "El costo en Piedras Espirituales de reparar el Ojo Celestial aumenta a medida que aumenta el Reino del personaje o el número de reparaciones ya realizadas.\\nSe necesitan {0} meses para reparar el Ojo Celestial.\\nMientras esté en reparación, no podrás activar la Protección del Camino Celestial ni usar o comprender las habilidades de los monstruos. Todo volverá a funcionar correctamente una vez finalizada la reparación."
   },
   {
     "id": "37319",
@@ -267466,7 +267466,7 @@
   {
     "id": "44073",
     "key": "ui_potmonList_TipsGrade",
-    "es": "Después de obtener suficiente EXP, la bestia calabaza puede avanzar al siguiente reino. Para hacerlo, necesita el objeto exclusivo <r>Elixir del reino de la bestia calabaza</r>, que se obtiene en las aventuras de la bestia calabaza. La bestia calabaza puede obtener EXP en aventuras o usar el <r>Elixir de EXP de bestia</r>, obtenido durante las aventuras."
+    "es": "Después de obtener suficiente cultivo, la bestia calabaza puede avanzar al siguiente reino. Para hacerlo, necesita el objeto exclusivo <r>Elixir del reino de la bestia calabaza</r>, que se obtiene en las aventuras de la bestia calabaza. La bestia calabaza puede obtener cultivo en aventuras o usar el <r>Elixir de cultivo de bestia</r>, obtenido durante las aventuras."
   },
   {
     "id": "44020",
@@ -268111,7 +268111,7 @@
   {
     "id": "32938",
     "key": "ui_zmdbjfs_contentIntro",
-    "es": "La Carrera de Puntos de Secta es una competencia de todos contra todos contra otras Sectas. Obtén <#791515>3 puntos</color> por la victoria. Ambos lados ganan <#791515>1 punto cada uno</color> por un empate. y la derrota significa <#791515>sin puntos</color>.\\nAl final de la carrera de puntos, los <#791515>top 3</color> en términos de puntos pueden obtener el <#791515>derecho a participar</color> en el Partido de Desafío Abierto, y eventualmente competir por los 3 primeros lugares en el Torneo de la Secta"
+    "es": "La Carrera de Puntos de la Secta es un torneo de todos contra todos en el que te enfrentas por turnos a otras sectas. La victoria otorga <#791515>3 puntos</color>; en caso de empate, ambos bandos obtienen <#791515>1 punto cada uno</color>; la derrota otorga <#791515>0 puntos</color>.\\nAl final de la carrera de puntos, los <#791515>tres primeros</color> en puntuación obtienen el <#791515>derecho a participar</color> en el Partido de Desafío Abierto y, finalmente, compiten por los tres primeros puestos del Torneo de la Secta."
   },
   {
     "id": "35134",
@@ -270701,17 +270701,17 @@
   {
     "id": "47155",
     "key": "uiStealSchool1002",
-    "es": "1. Entra sigilosamente en la Biblioteca de manuales para robar manuales.\\n2. La <r>Duración de la invisibilidad</r> se ve afectada por el sello del edificio y si te descubren.\\n3. Cada intentar robar Manuales te costará algo de tiempo. Una vez que el tiempo invertido <r>exceda</r> tu Duración de Invisibilidad, es posible que la Secta te descubra.\\n4. El efecto del Elixir pronto <r>caducará</r>. Por favor, actúe lo más rápido posible"
+    "es": "1. Entra sigilosamente en la Biblioteca de manuales para robar manuales.\\n2. La <r>duración de la invisibilidad</r> se ve afectada por el sello del edificio y por si te descubren.\\n3. Cada intento de robar manuales consumirá parte de tu tiempo de invisibilidad. Si el tiempo invertido <r>supera</r> tu duración de invisibilidad, es posible que la Secta te descubra.\\n4. El tiempo es <r>limitado</r>; actúa lo más rápido posible."
   },
   {
     "id": "47154",
     "key": "uiStealSchool1006",
-    "es": "1. Entra sigilosamente en el Pabellón de los Espíritus para <r>explotar</r> el edificio.\\n2. La <r>duración de la invisibilidad</r> se ve afectada por el sello del edificio y si re descubierto.\\n3. Cada intento de explotar el Pabellón de los Espíritus costará algo de tiempo. Una vez que el tiempo invertido <r>exceda</r> tu Duración de Invisibilidad, es posible que la Secta te descubra.\\n4. El Espíritu El Qi del Pabellón se agotará después de una absorción exitosa, y el cultivo de los discípulos allí se detendrá durante varios meses. El Qi agotado también puede afectar el desempeño del discípulo en las batallas.\\n5. El efecto del Elixir pronto <r>expirará</r>. Por favor, actúe lo más rápido posible."
+    "es": "1. Entra sigilosamente en el Pabellón de los Espíritus para <r>aprovecharte</r> del edificio.\\n2. La <r>duración de la invisibilidad</r> se ve afectada por el sello del edificio y por si te descubren.\\n3. Cada vez que uses el Pabellón de los Espíritus consumirás parte de tu tiempo de invisibilidad. Si el tiempo invertido <r>supera</r> tu duración de invisibilidad, es posible que la Secta te descubra.\\n4. Tras absorber por la fuerza el Qi espiritual del Pabellón, este quedará agotado; el cultivo de los discípulos que están allí se detendrá durante varios meses, e incluso el agotamiento del Qi puede afectar negativamente su desempeño en batalla.\\n5. El tiempo es <r>limitado</r>; actúa lo más rápido posible."
   },
   {
     "id": "47156",
     "key": "uiStealSchool1101",
-    "es": "1. Entra sigilosamente en el Pabellón del Tesoro para <r>robar</r> objetos.\\n2. La <r>duración de la invisibilidad</r> se ve afectada por el sello del edificio y si estás descubierto.\\n3. Cada intento de robar objetos costará algo de tiempo. Una vez que el tiempo invertido <r>exceda</r> tu Duración de Invisibilidad, es posible que la Secta te descubra.\\n4. El efecto del Elixir pronto desaparecerá. <r>caduca</r>. Actúe lo más rápido posible"
+    "es": "1. Entra sigilosamente en el Pabellón del Tesoro para <r>robar</r> objetos.\\n2. La <r>duración de la invisibilidad</r> se ve afectada por el sello del edificio y por si te descubren.\\n3. Cada intento de robar objetos consumirá parte de tu tiempo de invisibilidad. Si el tiempo invertido <r>supera</r> tu duración de invisibilidad, es posible que la Secta te descubra.\\n4. El tiempo es <r>limitado</r>; actúa lo más rápido posible."
   },
   {
     "id": "39748",
@@ -273186,12 +273186,12 @@
   {
     "id": "38242",
     "key": "wingmanBaseDesc1007",
-    "es": " Pájaro Azul puede usar poder etéreo una vez cada &80005_jnlq&s. Concentra el poder y desata Explosión del Pájaro Azul al frente, causando &80005_jnwl& daño de el atributo de habilidad más alta al enemigo golpeado. Por cada unidad invocada que tengas en el campo de batalla, El daño de Explosión del Pájaro Azul aumenta en un &80005_zhsh&%, hasta un aumento de &80005_zhsh|x80005_zssx|f0&%."
+    "es": " Pájaro Azul puede usar poder etéreo una vez cada &80005_jnlq&s. Concentra el poder y desata Explosión del Pájaro Azul al frente, causando &80005_jnwl& daño del atributo de habilidad más alto al enemigo golpeado. Por cada unidad invocada que tengas en el campo de batalla, el daño de Explosión del Pájaro Azul aumenta en un &80005_zhsh&%, hasta un aumento de &80005_zhsh|x80005_zssx|f0&%."
   },
   {
     "id": "38243",
     "key": "wingmanBaseDesc1008",
-    "es": " Pavo Real lanza poder etéreo una vez cada vez que usas la habilidad definitiva. Sus plumas vuelan a una posición seleccionada, causando &80006_kqwl& daño de el atributo de habilidad más alta cada &80006_shjg&s a todos los enemigos dentro del alcance durante &80006_smzq&s. Después de que finaliza el poder etéreo de Pavo Real, el Las plumas regresan rápidamente al pavo real, causando &80006_ymwl& daño de el atributo de habilidad más alta a los enemigos en el camino. Enfriamiento: &30000024_cd&s."
+    "es": " Pavo Real lanza poder etéreo una vez cada vez que usas la habilidad definitiva. Sus plumas vuelan a una posición seleccionada y, cada &80006_shjg&s, causan a todos los enemigos dentro del alcance &80006_kqwl& de daño del atributo de habilidad más alto durante &80006_smzq&s. Después de que finaliza el poder etéreo de Pavo Real, las plumas regresan rápidamente al pavo real, causando &80006_ymwl& daño del atributo de habilidad más alto a los enemigos en el camino. Enfriamiento: &30000024_cd&s."
   },
   {
     "id": "38244",
@@ -273206,7 +273206,7 @@
   {
     "id": "38246",
     "key": "wingmanBaseDesc1011",
-    "es": " Chongming puede usar poder etéreo una vez cada &4000001_cd&s. Chongming converge frente a ti y lanza un Rayo hacia &4000001_cxsj&s con su poder celestial, causando &4000001_wl& daño de el atributo de habilidad más alta cada &4000001_shjg&s al enemigo."
+    "es": " Chongming puede usar poder etéreo una vez cada &4000001_cd&s. Chongming converge frente a ti y lanza un Rayo hacia adelante durante &4000001_cxsj&s con su poder celestial y, cada &4000001_shjg&s, causa al enemigo &4000001_wl& de daño del atributo de habilidad más alto."
   },
   {
     "id": "38938",
@@ -273456,7 +273456,7 @@
   {
     "id": "38276",
     "key": "wingmanFixValue100109",
-    "es": "Después de que Pájaro Bermellón termina de lanzar Poder etéreo, estalla una llama que inflige &800011_bfwl& daño de el atributo de habilidad más alta a los enemigos dentro del área."
+    "es": "Después de que Pájaro Bermellón termine de lanzar Poder etéreo, estalla una llama que inflige &800011_bfwl& daño del atributo de habilidad más alto a los enemigos dentro del área."
   },
   {
     "id": "38277",
@@ -273496,7 +273496,7 @@
   {
     "id": "38284",
     "key": "wingmanFixValue100208",
-    "es": "Cuando el poder etéreo inflige daño al enemigo, inflige un daño adicional de el atributo de habilidad más alta a ese enemigo igual a &31000044_xhll+1&% de la energía propia"
+    "es": "Cuando el poder etéreo inflige daño a un enemigo, le inflige un daño adicional del atributo de habilidad más alto, equivalente a &31000044_xhll+1&% de su propio Qi."
   },
   {
     "id": "38285",
@@ -273531,7 +273531,7 @@
   {
     "id": "38291",
     "key": "wingmanFixValue100307",
-    "es": "Cuando un orbe de Rayo inflige daño al enemigo, tiene un &31008_gdgl+1&% de probabilidad de hacer que el enemigo reciba &31008_gdwl& daño de el atributo de habilidad más alta por segundo durante &31008_gdsj&s."
+    "es": "Cuando un orbe de Rayo inflige daño a un enemigo, tiene un &31008_gdgl+1&% de probabilidad de hacer que reciba &31008_gdwl& daño del atributo de habilidad más alto por segundo durante &31008_gdsj&s."
   },
   {
     "id": "38292",
@@ -273626,17 +273626,17 @@
   {
     "id": "38310",
     "key": "wingmanFixValue100605",
-    "es": "Mientras el poder etéreo está activo, después de que las plumas doradas inflijan daño crítico cada &37000503_shcs& veces, &11114_zdsl& se disparan plumas doradas adicionales en un área de abanico, cada pluma inflige &800711_jnwl& daño de el atributo de habilidad más alta."
+    "es": "Mientras el poder etéreo está activo, cada vez que las plumas doradas inflijan daño crítico &37000503_shcs& veces, se disparan &11114_zdsl& plumas doradas adicionales en un área en abanico; cada pluma inflige &800711_jnwl& daño del atributo de habilidad más alto."
   },
   {
     "id": "38311",
     "key": "wingmanFixValue100606",
-    "es": "Después de que las plumas doradas del poder etéreo inflijan daño crítico a una unidad &37000602_djcs& veces, el objetivo queda marcado para &37000604_cxsj&s y recibe &37000606_wl& daño adicional de el atributo de habilidad más alta cuando recibe daño de habilidad definitiva. Enfriamiento: 1s."
+    "es": "Después de que las plumas doradas del poder etéreo inflijan daño crítico a una unidad más de &37000602_djcs& veces, el objetivo queda marcado durante &37000604_cxsj&s y recibe &37000606_wl& daño adicional del atributo de habilidad más alto cuando recibe daño de una habilidad definitiva. Enfriamiento: 1 s."
   },
   {
     "id": "38312",
     "key": "wingmanFixValue100607",
-    "es": "Mientras el poder etéreo está activo, al lanzar una habilidad especial se dispara un grupo extra de plumas doradas en el área del abanico, cada pluma causa &800072_jnwl& daño de el atributo de habilidad más alta."
+    "es": "Mientras el poder etéreo está activo, al lanzar una habilidad especial se dispara un grupo extra de plumas doradas en el área del abanico, cada pluma causa &800072_jnwl& daño del atributo de habilidad más alto."
   },
   {
     "id": "38313",
@@ -273676,7 +273676,7 @@
   {
     "id": "38320",
     "key": "wingmanFixValue100707",
-    "es": "Cuando Pájaro Azul lanza Poder etéreo, atrae a muchos sapos cercanos hacia él. Causan &80005_hmsh& daño de el atributo de habilidad más alta a los enemigos golpeados en el camino."
+    "es": "Cuando Pájaro Azul lanza Poder etéreo, atrae a muchos sapos cercanos hacia él. Causan &80005_hmsh& daño del atributo de habilidad más alto a los enemigos golpeados en el camino."
   },
   {
     "id": "38321",
@@ -273706,12 +273706,12 @@
   {
     "id": "38326",
     "key": "wingmanFixValue100806",
-    "es": "Mientras se lanza Poder Etéreo, cada vez que la Habilidad Definitiva del Cultivador causa daño, Pavo Real dispara &80006_ymsl& plumas adicionales, cada una de las cuales causa &80006_zzwl& daño de el atributo de habilidad más alta con un intervalo de &80006_ymjg&s."
+    "es": "Mientras se lanza el Poder Etéreo, cada vez que la habilidad definitiva del cultivador causa daño, Pavo Real dispara &80006_ymsl& plumas adicionales; cada una causa &80006_zzwl& daño del atributo de habilidad más alto con un intervalo de &80006_ymjg&s."
   },
   {
     "id": "38327",
     "key": "wingmanFixValue100807",
-    "es": "Cuando el poder etéreo de Pavo Real inflige daño a un enemigo, lo envenena, lo que sufre &80006_zdwl& daño de el atributo de habilidad más alta por segundo."
+    "es": "Cuando el poder etéreo de Pavo Real inflige daño a un enemigo, lo envenena; el enemigo envenenado recibe &80006_zdwl& daño del atributo de habilidad más alto por segundo."
   },
   {
     "id": "38328",

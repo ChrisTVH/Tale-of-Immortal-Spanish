@@ -542,3 +542,101 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | 冰风之眼 / Ice Wind Eye | Ojo Helado Celestial |
 | 冰霜风暴 / Frost Storm | Tormenta de Hielo |
 | 分裂箭 / Split Arrow | Flecha que se divide |
+
+## Terminología añadida en la primera corrección derivada de la auditoría
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 衡天 / Hengtian | Hengtian |
+| 一气化三清 / One Qi Transforms into Three Pure Ones | técnica de Un Qi se transforma en Tres Purezas |
+| 三清 / Three Pure Ones | Tres Purezas |
+| 神念 / divine sense | conciencia divina |
+| 主神 / main spirit | conciencia principal |
+| 次神 / secondary spirit | conciencia secundaria |
+| 元灵 / primordial spirit | espíritu primordial |
+| 炼妖壶 / Mythical Gourd | Calabaza Mítica |
+| 历练编队 / Teaming | Formación de aventura |
+| 历练日志 / Adventure Log | Registro de aventuras |
+
+## Terminología añadida en la segunda corrección P1 derivada de la auditoría
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 御兽山庄 / Beast-Taming Mountain Villa | Secta de la Montaña Domadora de Bestias |
+| 小芒 / Xiaomang | Xiaomang (personaje masculino) |
+| 枣枣 / Zaozao | Zaozao (personaje femenino) |
+| 韩枣枣 / Han Zaozao | Han Zaozao (personaje femenino) |
+| 阿毛 / A Mao | Amao (criatura) |
+| 阿聪 / A Cong | Acong (criatura) |
+| 大角 / Daijiao | Daijiao (espíritu guardián) |
+| 幽窟 | caverna abisal |
+| 鬼谷小宝 / Guigu Xiaobao | Guigu Xiaobao |
+| 玄天斩仙阵 | Formación Celestial de Ejecución Inmortal |
+| 御龙仙师 / Dragon-Taming Immortal Master | Maestro Inmortal Domador de Dragones |
+| 鸣蛇 / Chiming Serpent | Serpiente Resonante |
+| 幽冥青蛇 / Netherworld Green Serpent | Serpiente Verde Abisal |
+
+## Terminología añadida en la tercera corrección derivada de la auditoría
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 刀 / saber | sable |
+| 枪 / spear | lanza |
+| 剑 / sword | espada |
+| 拳 / fist | puño |
+| 掌 / palm | palma |
+| 指 / finger | dedo |
+| 灵根 / spirit root | raíz espiritual |
+| 获得修为 / gained cultivation | cultivo obtenido |
+
+## Terminología añadida en la revisión del tercer lote de defectos
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 技能弹道射程 / skill projectile range | alcance balístico de la habilidad |
+| 技能范围 / skill range | rango de habilidad |
+| 移动速度 / movement speed | velocidad de movimiento |
+| 攻击速度 / attack speed | velocidad de ataque |
+| 体力回复 / stamina recovery | recuperación de resistencia |
+| 抗性 / resistance | resistencia |
+| 血绽 / Bloodbath | Baño de sangre |
+| 升级 / Upgrade | Actualizar |
+| 八荒界 / Eight Wastelands Realm | Reino de los Ocho Yermos |
+| 花妖后 / Flower Fairy Queen | Reina de las hadas de las flores |
+| 虚弱 / Weakened | Debilitado |
+| 可合成数量 / combinable quantity | cantidad combinable |
+| 宗门正式弟子 / formal sect disciple | discípulo formal de la secta |
+
+## Terminología añadida en el cuarto lote de defectos
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 天道庇佑 / Celestial Path Protection | Protección del Camino Celestial |
+| 灵气 / spiritual Qi | Qi espiritual |
+| 藏经阁 / Manual Library | Biblioteca de manuales |
+| 灵阁 / Spirit Pavilion | Pabellón de los Espíritus |
+| 聚宝仙楼 / Treasure Pavilion | Pabellón del Tesoro |
+| 灵石 / spirit stone | Piedra Espiritual |
+| 飘渺之力 / ethereal power | poder etéreo |
+| 朱雀 / Vermilion Bird | Pájaro Bermellón |
+| 鲲鹏 / Roc | Roc |
+| 灭蒙 / Miemeng | Miemeng |
+| 凤凰 / Phoenix | Fénix |
+| 玄鸟 / Arcane Bird | Pájaro Arcano |
+| 青鸾 / Azure Luan | Pájaro Azul |
+| 孔雀 / peacock | Pavo Real |
+| 烛照 / Zhuzhao | Luz de Vela |
+| 幽荧 / Youying | Luciérnaga |
+
+## Terminología añadida en la revisión final
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 魔猿 / Dire Ape(s) | simio feroz / simios feroces |
+| 冥气仙卫 / Nether Air Guard | Guardia del Aire Abisal |
+| 修为 (bestia calabaza) | cultivo |
+| 壶妖修为丹 / Imp Cultivation Elixir | Elixir de cultivo de bestia |
+| 墙外隐穴 / Hidden Caves Beyond the Wall | Cuevas Ocultas Más Allá del Muro |
+| 兽潮 / Wave of Monsters | Ola de Monstruos |
+| 仙盟任务 / Alliance Mission | Misión de la Alianza |
+| 壶妖境界丹 / Imp Realm Elixir | Elixir del reino de la bestia calabaza |
