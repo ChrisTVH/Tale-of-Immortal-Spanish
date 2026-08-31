@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Read-only structural and placeholder validator for localization chunks.
+"""
+Read-only structural and placeholder validator for localization chunks.
 
 The processed files are the authoritative source.  This script never writes
 to either the processed files or the Spanish resources.
@@ -10,10 +11,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import sys
 from collections import Counter
 from pathlib import Path
-
 
 FILES = {"LocalText.json", "RoleLogLocal.json"}
 ALLOWED_LOCALTEXT_EXTRA_IDS = {"9000001"}
@@ -41,8 +40,7 @@ DICTIONARY_TOKEN_RE = re.compile(r"\$[^$\r\n]*\$")
 # visible content and may be translated, for example
 # ``<秋枫夜话琉璃盏>`` -> ``<Historia de la Lámpara del Alma>``.
 MARKUP_TAG_NAMES = (
-    "r|g|b|o|y|p|w|color|size|align|indent|link|u|space|voffset|sprite|"
-    "root[0-4]|blod"
+    "r|g|b|o|y|p|w|color|size|align|indent|link|u|space|voffset|sprite|root[0-4]|blod"
 )
 TAG_PREFIX_RE = re.compile(
     rf"<\s*/?\s*(?:#[0-9A-Fa-f]+|(?:{MARKUP_TAG_NAMES}))(?=[\s=/>])"
@@ -84,13 +82,17 @@ def validate_schema(data, path, file_name, side):
     text_field = "es" if side == "spanish" else "en"
 
     if not isinstance(data, list):
-        return [ValidationIssue("ERROR", f"{path}: la raíz debe ser una lista JSON")], {}
+        return [
+            ValidationIssue("ERROR", f"{path}: la raíz debe ser una lista JSON")
+        ], {}
 
     required = ("id", structural_field, text_field)
     for index, item in enumerate(data):
         label = _entry_label(index, item if isinstance(item, dict) else None)
         if not isinstance(item, dict):
-            issues.append(ValidationIssue("ERROR", f"{path}: {label} debe ser un objeto JSON"))
+            issues.append(
+                ValidationIssue("ERROR", f"{path}: {label} debe ser un objeto JSON")
+            )
             continue
 
         entry_id = item.get("id")
@@ -154,7 +156,9 @@ def validate_schema(data, path, file_name, side):
 
 
 def _matches_with_spans(pattern, text):
-    return [(match.group(0), match.start(), match.end()) for match in pattern.finditer(text)]
+    return [
+        (match.group(0), match.start(), match.end()) for match in pattern.finditer(text)
+    ]
 
 
 def _context(position, spans):
@@ -453,7 +457,11 @@ def validate_documents(
         spanish_item = spanish_by_id[entry_id]
         mirror_key = mirror_item.get(structural_field)
         spanish_key = spanish_item.get(structural_field)
-        if isinstance(mirror_key, str) and isinstance(spanish_key, str) and mirror_key != spanish_key:
+        if (
+            isinstance(mirror_key, str)
+            and isinstance(spanish_key, str)
+            and mirror_key != spanish_key
+        ):
             emit(
                 f"ERROR: id {entry_id}: {structural_field} no coincide "
                 f"(espejo={mirror_key!r}, es={spanish_key!r})"
@@ -469,15 +477,14 @@ def validate_documents(
             )
             warnings += 1
 
-    chunks = build_chunks(mirror_data if isinstance(mirror_data, list) else [], chunk_size)
+    chunks = build_chunks(
+        mirror_data if isinstance(mirror_data, list) else [], chunk_size
+    )
     selected_chunks = set(chunks) if selected_chunks is None else set(selected_chunks)
     for chunk_number in sorted(selected_chunks):
         chunk_entries = chunks.get(chunk_number)
         if chunk_entries is None:
-            emit(
-                f"ERROR: chunk {chunk_number} fuera de rango "
-                f"(1-{len(chunks)})"
-            )
+            emit(f"ERROR: chunk {chunk_number} fuera de rango (1-{len(chunks)})")
             errors += 1
             continue
         emit(
@@ -530,10 +537,7 @@ def validate_documents(
                     )
                     warnings += 1
                 else:
-                    emit(
-                        f"ERROR: {entry_label}: "
-                        f"firmas distintas: {difference}"
-                    )
+                    emit(f"ERROR: {entry_label}: firmas distintas: {difference}")
                     errors += 1
             elif is_zero:
                 emit(
@@ -565,7 +569,8 @@ def validate_documents(
                     syntax_field = syntax_signature_fields[code]
                     inherited = (
                         any(source_code == code for source_code, _ in source_syntax)
-                        and source_signatures[syntax_field] == spanish_signatures[syntax_field]
+                        and source_signatures[syntax_field]
+                        == spanish_signatures[syntax_field]
                     )
                     if inherited:
                         emit(
@@ -671,7 +676,9 @@ def main(argv=None):
     print(f"Archivo: {file_name}")
     print(f"Espejo: {mirror_path}")
     print(f"Español: {spanish_path}")
-    print(f"Chunk size: {args.chunk_size}; chunks seleccionados: {', '.join(map(str, sorted(selected)))}")
+    print(
+        f"Chunk size: {args.chunk_size}; chunks seleccionados: {', '.join(map(str, sorted(selected)))}"
+    )
     errors, _ = validate_documents(
         mirror_data,
         spanish_data,
