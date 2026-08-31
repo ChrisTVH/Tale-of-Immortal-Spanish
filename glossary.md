@@ -378,3 +378,18 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | Holy Spring | Fuente Sagrada |
 | Immortal Ladle | cucharón inmortal |
 | Osmanthus | osmanto |
+
+## Terminología añadida en la pasada final de LocalText
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 青鳞池 / Greenscale Pool | Estanque de Escama Verde |
+| 钦原 / Qinyuan | Qinyuan |
+| 玄黄母气 / Primordial Xuanhuang Qi | Esencia Madre de Xuanhuang |
+| 朱厌 / Zhu Yan | Zhu Yan |
+| 龙珠 / Dragon Orb | Orbe del Dragón |
+| 龙鳞 / Dragon Scale | Escama de Dragón |
+| 龙威 / Dragon Majesty | Poder del Dragón |
+| 破格 / Rule Breaker | Rompe-Reglas |
+| 缚命仙祠 / Destiny Catcher shrine | Santuario del Destino Atado |
+| 固本肉苁蓉 / Desert Broomrape | jopo del desierto |

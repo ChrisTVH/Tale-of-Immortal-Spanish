@@ -3742,7 +3742,7 @@
   {
     "id": "36147",
     "key": "AppellationTitlegainDesc1102",
-    "es": "Sólo un Cultivador en todo el mundo lleva el Título Taoísta de Cultivador de Lanza n.º1 de Hua Feng.\\nSi el Título no lo posee nadie, entonces el Cultivador de Lanza más poderoso entre todos los <r>Condensación de Qi y Los Cultivadores del Núcleo Dorado Realm</r> con <r>120</r> $s_qiang$ stats obtienen el título taoísta del Cultivador de Lanza n.º 1 de Hua Feng.\\nSi el título ya ha sido tomado, entonces el Cultivador debe encontrar quienquiera que sea el Cultivador de Lanza n.º1 y desafíelo por el Título Taoísta. Si tiene éxito en este desafío, el Título será suyo.\\nSi ni la Habilidad Espiritual ni la Habilidad Especial de un Cultivador están en Artes Marciales $s_qiang$ , no estarán calificados para ostentar el título ni desafiar a otros por él."
+    "es": "Solo un cultivador en todo el mundo lleva el título taoísta de Cultivador de Lanza n.º 1 de Hua Feng.\\nSi nadie posee el título, el cultivador de Lanza más poderoso entre todos los <r>cultivadores de Condensación de Qi y del Núcleo Dorado</r> con <r>120</r> atributos de $s_qiang$ obtiene el título taoísta de Cultivador de Lanza n.º 1 de Hua Feng.\\nSi el título ya está ocupado, el cultivador debe encontrar a quien lo posee y desafiarlo por el título taoísta. Si tiene éxito, el título será suyo.\\nSi ninguna de las habilidades espiritual o especial de un cultivador pertenece a las artes marciales $s_qiang$, no podrá poseer el título ni desafiar a otros por él."
   },
   {
     "id": "36148",
@@ -3757,22 +3757,22 @@
   {
     "id": "36150",
     "key": "AppellationTitlegainDesc1105",
-    "es": "Sólo un Cultivador en todo el mundo lleva el Título Taoísta de Cultivador de Palma n.º1 de Hua Feng.\\nSi el Título no lo posee nadie, entonces el Cultivador de Lanza más poderoso entre todos los <r>Condensación de Qi y Los Cultivadores del Núcleo Dorado Realm</r> con <r>120</r> $s_zhang$ stats obtienen el título taoísta del Cultivador de palma n.º 1 de Hua Feng.\\nSi el título ya ha sido tomado, entonces el Cultivador debe encontrar quienquiera que sea el Cultivador de Palma n.º1 y desafíelo por el Título Taoísta. Si tiene éxito en este desafío, el Título será suyo.\\nSi ni la Habilidad Espiritual ni la Habilidad Especial de un Cultivador están en Artes Marciales $s_zhang$ , no estarán calificados para ostentar el título ni desafiar a otros por él."
+    "es": "Solo un cultivador en todo el mundo lleva el título taoísta de Cultivador de Palma n.º 1 de Hua Feng.\\nSi nadie posee el título, el cultivador de Palma más poderoso entre todos los <r>cultivadores de Condensación de Qi y del Núcleo Dorado</r> con <r>120</r> atributos de $s_zhang$ obtiene el título taoísta de Cultivador de Palma n.º 1 de Hua Feng.\\nSi el título ya está ocupado, el cultivador debe encontrar a quien lo posee y desafiarlo por el título taoísta. Si tiene éxito, el título será suyo.\\nSi ninguna de las habilidades espiritual o especial de un cultivador pertenece a las artes marciales $s_zhang$, no podrá poseer el título ni desafiar a otros por él."
   },
   {
     "id": "36151",
     "key": "AppellationTitlegainDesc1106",
-    "es": "Sólo un Cultivador en todo el mundo lleva el Título Taoísta de Cultivador de Dedo n.º1 de Hua Feng.\\nSi el Título no lo posee nadie, entonces el Cultivador de Dedo más poderoso entre todos los <r>Condensación de Qi y Los Cultivadores del Núcleo Dorado Realm</r> con <r>120</r> $s_zhi$ atributos obtienen el título taoísta del Cultivador de Dedo n.º 1 de Hua Feng.\\nSi el título ya ha sido tomado, entonces el Cultivador debe encontrar quienquiera que sea el Cultivador de Dedo n.º1 y desafíelo por el Título Taoísta. Si tiene éxito en este desafío, el Título será suyo.\\nSi ni la Habilidad Espiritual ni la Habilidad Especial de un Cultivador están en Artes Marciales $s_zhi$ , no estarán calificados para ostentar el título ni desafiar a otros por él."
+    "es": "Solo un cultivador en todo el mundo lleva el título taoísta de Cultivador de Dedo n.º 1 de Hua Feng.\\nSi nadie posee el título, el cultivador de Dedo más poderoso entre todos los <r>cultivadores de Condensación de Qi y del Núcleo Dorado</r> con <r>120</r> atributos de $s_zhi$ obtiene el título taoísta de Cultivador de Dedo n.º 1 de Hua Feng.\\nSi el título ya está ocupado, el cultivador debe encontrar a quien lo posee y desafiarlo por el título taoísta. Si tiene éxito, el título será suyo.\\nSi ninguna de las habilidades espiritual o especial de un cultivador pertenece a las artes marciales $s_zhi$, no podrá poseer el título ni desafiar a otros por él."
   },
   {
     "id": "36152",
     "key": "AppellationTitlegainDesc1107",
-    "es": "Sólo un Cultivador en todo el mundo lleva el Título Taoísta de Cultivador de Fuego n.º1 de Hua Feng.\\nSi el Título no lo posee nadie, entonces el Cultivador de Fuego más poderoso entre todos los <r>Condensación de Qi y Los Cultivadores del Núcleo Dorado Realm</r> con <r>120</r> $s_huo$ stats obtienen el título taoísta del Cultivador de Fuego n.º 1 de Hua Feng.\\nSi el título ya ha sido tomado, entonces el Cultivador debe encontrar quienquiera que sea el Cultivador de Fuego n.º1 y desafíelo por el Título Taoísta. Si tiene éxito en este desafío, el Título será suyo.\\nSi ni la Habilidad Espiritual ni la Habilidad Especial de un Cultivador están en Artes Marciales $s_huo$ , no estarán calificados para ostentar el título ni desafiar a otros por él."
+    "es": "Solo un cultivador en todo el mundo lleva el título taoísta de Cultivador de Fuego n.º 1 de Hua Feng.\\nSi nadie posee el título, el cultivador de Fuego más poderoso entre todos los <r>cultivadores de Condensación de Qi y del Núcleo Dorado</r> con <r>120</r> atributos de $s_huo$ obtiene el título taoísta de Cultivador de Fuego n.º 1 de Hua Feng.\\nSi el título ya está ocupado, el cultivador debe encontrar a quien lo posee y desafiarlo por el título taoísta. Si tiene éxito, el título será suyo.\\nSi ninguna de las habilidades espiritual o especial de un cultivador pertenece a las artes marciales $s_huo$, no podrá poseer el título ni desafiar a otros por él."
   },
   {
     "id": "36153",
     "key": "AppellationTitlegainDesc1108",
-    "es": "Sólo un Cultivador en todo el mundo lleva el Título Taoísta de Cultivador de Agua n.º1 de Hua Feng.\\nSi el Título no lo posee nadie, entonces el Cultivador de Agua más poderoso entre todos los <r>Condensación de Qi y Los Cultivadores del Núcleo Dorado Realm</r> con <r>120</r> $s_shui$ stats obtienen el título taoísta del Cultivador de Agua n.º 1 de Hua Feng.\\nSi el título ya ha sido tomado, entonces el Cultivador debe encontrar quienquiera que sea el Cultivador de Agua n.º1 y desafíelo por el Título Taoísta. Si tiene éxito en este desafío, el Título será suyo.\\nSi ni la Habilidad Espiritual ni la Habilidad Especial de un Cultivador están en Artes Marciales $s_shui$ , no estarán calificados para ostentar el título ni desafiar a otros por él."
+    "es": "Solo un cultivador en todo el mundo lleva el título taoísta de Cultivador de Agua n.º 1 de Hua Feng.\\nSi nadie posee el título, el cultivador de Agua más poderoso entre todos los <r>cultivadores de Condensación de Qi y del Núcleo Dorado</r> con <r>120</r> atributos de $s_shui$ obtiene el título taoísta de Cultivador de Agua n.º 1 de Hua Feng.\\nSi el título ya está ocupado, el cultivador debe encontrar a quien lo posee y desafiarlo por el título taoísta. Si tiene éxito, el título será suyo.\\nSi ninguna de las habilidades espiritual o especial de un cultivador pertenece a las artes marciales $s_shui$, no podrá poseer el título ni desafiar a otros por él."
   },
   {
     "id": "36154",
@@ -10962,7 +10962,7 @@
   {
     "id": "39223",
     "key": "battle_unit_name810",
-    "es": "Toda la noche - Hellspawn"
+    "es": "Noche eterna - Zhu Yan"
   },
   {
     "id": "41496",
@@ -11502,7 +11502,7 @@
   {
     "id": "38651",
     "key": "battle_unit_name8101",
-    "es": "Sombra Ardiente - Hellspawn"
+    "es": "Sombra ardiente - Zhu Yan"
   },
   {
     "id": "41519",
@@ -12782,7 +12782,7 @@
   {
     "id": "39507",
     "key": "battleAbility_suitDesc2_10033",
-    "es": "Enfriamiento de la habilidad de Movimiento rayos -80% durante la duración de una habilidad rayos Ultimate."
+    "es": "Durante la duración de una habilidad especial de Rayo, el enfriamiento de la habilidad de movimiento de Rayo se reduce un 80%."
   },
   {
     "id": "39508",
@@ -18212,7 +18212,7 @@
   {
     "id": "22667",
     "key": "diffEnterTips5",
-    "es": "Este nivel de dificultad es <r>extremadamente desafiante</r>. No lo recomendamos para jugadores nuevos.\\n<r>¡Los métodos de guardar y cargar NO funcionan tampoco!</r>\\n(Incluso si cargas una partida guardada, los resultados que hayas recibido en las siguientes funciones no se cambiarán: Reescribir destino, Subasta, Biblioteca manual y Pabellón manual. Para equilibrar esta configuración, tendrás 6 opciones para elige cuando reescribes Destiny)\\n<r>Los monstruos míticos (jefes) son extremadamente feroces.</r>\\n(Tiempo de lanzamiento muy corto)\\n<r>Poderosos NPC.</r>\\n(Usarán habilidades de mayor rareza. Para equilibrar esta configuración, tendrás una mayor probabilidad de encontrar manuales de alta rareza en la Biblioteca de manuales y en el Pabellón de manuales)\\n<color=#00ffff>Monstruos en algunas mazmorras sueltan objetos dobles.</color>\\n<color=#00ffff>(Los jefes mayores especiales sueltan manuales dobles. Pueden aparecer como máximo 9 opciones de Reescritura de destino durante un avance de reino)</color>"
+    "es": "Este nivel de dificultad es <r>extremadamente desafiante</r>. No lo recomendamos para jugadores nuevos.\\n<r>¡Los métodos de guardar y cargar tampoco funcionan!</r>\\n(Incluso si cargas una partida guardada, los resultados de las siguientes funciones no cambiarán: Reescritura del Destino, Subasta, Biblioteca de Manuales y Pabellón de Manuales. Para equilibrar esta configuración, tendrás 6 opciones para elegir al reescribir el Destino).\\n<r>Los monstruos míticos (jefes) son extremadamente feroces.</r>\\n(El intervalo entre lanzamientos es muy corto).\\n<r>Los NPC son poderosos.</r>\\n(Usarán habilidades de mayor rareza. Para equilibrar esta configuración, tendrás una mayor probabilidad de encontrar manuales de alta rareza en la Biblioteca de Manuales y en el Pabellón de Manuales).\\n<color=#00ffff>Los monstruos de algunas mazmorras sueltan objetos dobles.</color>\\n<color=#00ffff>(Los jefes mayores especiales sueltan manuales dobles. Al avanzar de reino pueden aparecer como máximo 9 opciones de Reescritura del Destino).</color>"
   },
   {
     "id": "22611",
@@ -19037,7 +19037,7 @@
   {
     "id": "36416",
     "key": "dragonDoor_des",
-    "es": "1. La serie Seguidor Dragón puede Reescribir el Destino para obtener habilidades completamente nuevas a través de la inmersión en diferentes niveles de piscinas de escala azul.\\n2. Usar una cierta cantidad de recursos de la Secta mejorará piscinas de escala azul.\\n3.Greenscale  Spring obtendrá propiedades especiales secretas una vez que alcance un cierto nivel\\n4. Dentro de piscinas de escala azul, puedes seleccionar el Destino de reescritura de la siguiente serie Dragon para interactuar con él y mejorar tu relación. Obtienes 1 oportunidad de interacción cada 2 meses y puedes almacenar un máximo de 3 al mismo tiempo."
+    "es": "1. Las fortunas de Reescritura del Destino de la serie Seguidor Dragón pueden obtener efectos completamente nuevos al sumergirse en estanques de Escama Verde de distintos niveles.\\n2. Al gastar cierta cantidad de recursos de la secta, mejorarás los estanques de Escama Verde.\\n3. Cuando un estanque de Escama Verde alcanza cierto nivel, obtiene efectos especiales misteriosos.\\n4. En los estanques de Escama Verde, puedes seleccionar una fortuna de Reescritura del Destino de la serie Seguidor Dragón para interactuar con ella y mejorar tu relación. Obtienes 1 oportunidad de interacción cada 2 meses y puedes acumular un máximo de 3 al mismo tiempo."
   },
   {
     "id": "36415",
@@ -19082,7 +19082,7 @@
   {
     "id": "36419",
     "key": "dragonDoor_levelTips",
-    "es": "Al actualizar piscinas de escala azul a un nuevo nivel, podrás obtener nuevos efectos para la siguiente serie Dragon Reescribir Destino."
+    "es": "Al mejorar los estanques de Escama Verde a un nuevo nivel, podrás obtener nuevos efectos para las fortunas de Reescritura del Destino de la serie Seguidor Dragón."
   },
   {
     "id": "36393",
@@ -19092,22 +19092,22 @@
   {
     "id": "36394",
     "key": "dragonDoor_levelUpTips",
-    "es": "Un avance aquí requiere que la serie Follow Dragon reescriba Destiny"
+    "es": "Al avanzar aquí, obtendrás una fortuna de Reescritura del Destino de la serie Seguidor Dragón."
   },
   {
     "id": "36423",
     "key": "dragonDoor_levelUpTips2",
-    "es": "La energía de esta región no admite futuras mejoras de piscinas de escala azul"
+    "es": "La energía de esta región no permite mejorar más el Estanque de Escama Verde"
   },
   {
     "id": "36435",
     "key": "dragonDoor_lockTips",
-    "es": "Sólo los Líderes de esta Secta pueden acceder al Manantial de Escala Verde"
+    "es": "Solo los líderes de esta secta pueden acceder al Manantial de Escama Verde"
   },
   {
     "id": "36396",
     "key": "dragonDoor_maxLevel",
-    "es": "Nivel máximo de región\\nNivel {0}"
+    "es": "Nivel máximo de la región\\nNivel {0}"
   },
   {
     "id": "36398",
@@ -19137,7 +19137,7 @@
   {
     "id": "36405",
     "key": "dragonDoor_selectSexTips",
-    "es": "Seleccione el formulario {0}"
+    "es": "Selecciona la forma {0}"
   },
   {
     "id": "36408",
@@ -19157,37 +19157,37 @@
   {
     "id": "36424",
     "key": "dragonDoor_taskTips1",
-    "es": "Completa la misión 'Siguiendo la solicitud del error 1' para continuar con la actualización."
+    "es": "Completa la misión «Solicitud del Insecto Seguidor 1» para continuar con la mejora."
   },
   {
     "id": "36425",
     "key": "dragonDoor_taskTips2",
-    "es": "Completa la misión 'Siguiendo la solicitud del error 2' para continuar con la actualización."
+    "es": "Completa la misión «Solicitud del Insecto Seguidor 2» para continuar con la mejora."
   },
   {
     "id": "36426",
     "key": "dragonDoor_taskTips3",
-    "es": "Completa la misión 'Siguiendo la solicitud del error 3' para continuar con la actualización."
+    "es": "Completa la misión «Solicitud del Insecto Seguidor 3» para continuar con la mejora."
   },
   {
     "id": "36427",
     "key": "dragonDoor_taskTips4",
-    "es": "Completa la misión 'Siguiendo la solicitud del error 4' para continuar con la actualización."
+    "es": "Completa la misión «Solicitud del Insecto Seguidor 4» para continuar con la mejora."
   },
   {
     "id": "36391",
     "key": "dragonDoor_transfiguration",
-    "es": "Cambiar Forma"
+    "es": "Cambiar de forma"
   },
   {
     "id": "36411",
     "key": "dragonDoor_transfigurationFail1",
-    "es": "El nivel de piscinas de escala azul es demasiado bajo. No puedes cambiar de forma"
+    "es": "El nivel del estanque de Escama Verde es demasiado bajo. No puedes cambiar de forma"
   },
   {
     "id": "36412",
     "key": "dragonDoor_transfigurationFail2",
-    "es": "Formulario cambiado"
+    "es": "La forma ya cambió"
   },
   {
     "id": "36413",
@@ -19197,17 +19197,17 @@
   {
     "id": "36429",
     "key": "dragonDoor_transOk",
-    "es": "Seleccione cualquier tecla para continuar"
+    "es": "Pulsa cualquier tecla para continuar"
   },
   {
     "id": "36420",
     "key": "dragonDoor_unLockTips",
-    "es": "Requiere piscinas de escala azul para superar el nivel {0}"
+    "es": "Primero debes avanzar el estanque de Escama Verde al nivel {0}"
   },
   {
     "id": "36421",
     "key": "dragonDoor_unLockTips2",
-    "es": "Activa piscinas de escala azul nivel 1 para desbloquear"
+    "es": "Activa el estanque de Escama Verde de nivel 1 para desbloquearlo"
   },
   {
     "id": "36392",
@@ -19217,12 +19217,12 @@
   {
     "id": "36397",
     "key": "dragonDoor_upgradeCostTips",
-    "es": "Nivel de resorte de escala verde requerido"
+    "es": "Nivel requerido del estanque de Escama Verde"
   },
   {
     "id": "36401",
     "key": "dragonDoor_upgradeEffectTips",
-    "es": "Eficacia de primavera en escala verde"
+    "es": "Efecto del estanque de Escama Verde"
   },
   {
     "id": "36410",
@@ -19232,12 +19232,12 @@
   {
     "id": "36409",
     "key": "dragonDoor_upgradeFailMax",
-    "es": "La energía de esta región no admite futuras mejoras de piscinas de escala azul"
+    "es": "La energía de esta región no permite mejorar más el estanque de Escama Verde"
   },
   {
     "id": "42967",
     "key": "dragonDoor_upgradeMax",
-    "es": "Piscinas de escala azul: nivel máximo alcanzado"
+    "es": "Estanque de Escama Verde: nivel máximo alcanzado"
   },
   {
     "id": "36428",
@@ -22397,7 +22397,7 @@
   {
     "id": "9633",
     "key": "drama_dialogue71294",
-    "es": "Muchos años después, un aldeano local rompió el sello sin darse cuenta. En ese momento, la energía maligna explotó, retorciendo líneas luminosas y provocando que Dark Qi escapara de las grietas en las Montañas Abisales."
+    "es": "Muchos años después, un aldeano local rompió el sello sin darse cuenta. En ese momento, la energía maligna explotó, retorció las líneas ley y provocó que el Qi oscuro escapara por las grietas de las Montañas Abisales."
   },
   {
     "id": "9634",
@@ -22547,7 +22547,7 @@
   {
     "id": "9663",
     "key": "drama_dialogue71384",
-    "es": "Muchos años después, un aldeano local rompió el sello sin darse cuenta. En ese momento, la energía maligna explotó, retorciendo líneas luminosas y provocando que Dark Qi escapara de las grietas en las Montañas Abisales."
+    "es": "Muchos años después, un aldeano local rompió el sello sin darse cuenta. En ese momento, la energía maligna explotó, retorció las líneas ley y provocó que el Qi oscuro escapara por las grietas de las Montañas Abisales."
   },
   {
     "id": "9664",
@@ -33527,7 +33527,7 @@
   {
     "id": "34391",
     "key": "drama_dialogue1220001",
-    "es": "Se ha colocado un enorme comedero de comida en el bosque de bambú. Al lado del comedero hay tres enormes altares con energía sellada en ellos. Miras más de cerca y ves que los altares tienen las palabras 'Arroz Santo' 'Holy Bran,' Y 'Holy Spring' Escritos en ellos. Parecen contener alimento para diferentes animales."
+    "es": "Se ha colocado un enorme comedero en el bosque de bambú. Al lado hay tres enormes altares con energía sellada en su interior. Miras más de cerca y ves que tienen escritos los nombres «Arroz Sagrado», «Salvado Sagrado» y «Manantial Sagrado». Parecen contener alimento para diferentes animales."
   },
   {
     "id": "34392",
@@ -35577,7 +35577,7 @@
   {
     "id": "36460",
     "key": "drama_dialogue1304506",
-    "es": "Recientemente dirigí un equipo de discípulos para expulsar al monstruo, pero es tan antiguo y anormal que, con nuestras escasas habilidades, solo pudimos expulsarlo del Manantial Greenscale. Todavía deambula cerca de la Secta. Y os pido humildemente que vayáis y lo expulséis por nosotros, mi señor."
+    "es": "Hace poco dirigí a un grupo de discípulos para expulsar al demonio, pero es tan antiguo y anormal que, con nuestras escasas habilidades, solo pudimos expulsarlo del Estanque de Escama Verde. Todavía deambula cerca de la secta. Por eso te pido humildemente que vayas a expulsarlo por nosotros, mi señor."
   },
   {
     "id": "36461",
@@ -35592,12 +35592,12 @@
   {
     "id": "36463",
     "key": "drama_dialogue1304513",
-    "es": "Esto ha sido protegido por reyes dragones a lo largo de los siglos. Está imbuido de Qi Primaveral de Escala Verde y tiene una conexión con el manantial. Si el manantial fuera abandonado, entonces este texto también se sellaría y desaparecería. Ahora 'Que has restaurado el Manantial Greenscale, mi señor, este texto ha vuelto a ver la luz. La historia secreta de nuestra Secta no se perderá en el tiempo"
+    "es": "Los reyes dragón han protegido este objeto durante siglos. Está imbuido del Qi Primaveral de Escama Verde y conectado con el estanque. Si el estanque quedara abandonado, este texto también se sellaría y desaparecería. Ahora que has restaurado el Estanque de Escama Verde, mi señor, este texto ha vuelto a ver la luz. La historia secreta de nuestra secta no se perderá con el tiempo."
   },
   {
     "id": "36464",
     "key": "drama_dialogue1304530",
-    "es": "Realmente ha sido una bendición para nuestra Secta que hayas restaurado el Manantial de Escala Verde. Sólo… Sólo que hay algo más que debo decirte."
+    "es": "Que hayas restaurado el Estanque de Escama Verde ha sido una verdadera bendición para nuestra secta. Solo… solo que hay algo más que debo decirte."
   },
   {
     "id": "36465",
@@ -35612,17 +35612,17 @@
   {
     "id": "36467",
     "key": "drama_dialogue1304533",
-    "es": "Mi señor, ¿pudiste conseguir Cosmos Essence?"
+    "es": "Mi señor, ¿pudiste conseguir la Esencia Madre de Xuanhuang?"
   },
   {
     "id": "36468",
     "key": "drama_dialogue1304534",
-    "es": "En ese caso, piscinas de escala azul recuperará su antiguo esplendor en cuestión de días."
+    "es": "En ese caso, el Estanque de Escama Verde recuperará su antiguo esplendor en cuestión de días."
   },
   {
     "id": "36469",
     "key": "drama_dialogue1304535",
-    "es": "Mi señor, hace un momento vi una nube púrpura alrededor del Manantial Greenscale, y cuando fui a investigar, encontré otro registro secreto de la Secta que había sido sellado. Se lo presento ahora."
+    "es": "Mi señor, hace un momento vi una nube púrpura alrededor del Estanque de Escama Verde y, cuando fui a investigar, encontré otro registro secreto de la secta que había sido sellado. Te lo presento ahora."
   },
   {
     "id": "36470",
@@ -35652,12 +35652,12 @@
   {
     "id": "36475",
     "key": "drama_dialogue1304565",
-    "es": "Mi señor, otro texto histórico secreto de nuestra Secta ha resurgido tras la restauración del Manantial Greenscale. Se lo presento ahora."
+    "es": "Mi señor, otro texto histórico secreto de nuestra secta ha resurgido tras la restauración del Estanque de Escama Verde. Te lo presento ahora."
   },
   {
     "id": "36476",
     "key": "drama_dialogue1304590",
-    "es": "Mi señor, el Qi se ha vuelto más y más fuerte con la restauración del Manantial Greenscale. El Qin Yuan aún se ha apoderado de nuestra Secta. Me temo que pronto actuará según su deseo de apoderarse de nuestro manantial."
+    "es": "Mi señor, el Qi se ha vuelto cada vez más fuerte con la restauración del Estanque de Escama Verde. Sin embargo, Qin Yuan sigue merodeando cerca de nuestra secta. Me temo que pronto intentará apoderarse de nuestro estanque."
   },
   {
     "id": "36477",
@@ -35697,7 +35697,7 @@
   {
     "id": "36484",
     "key": "drama_dialogue1304621",
-    "es": "Mis mayores solían decirme que una vez que piscinas de escala azul se actualiza a un cierto nivel, tendrá efectos mágicos en los siguientes errores. Si tiene un Insecto Seguidor, mi señor, ¿por qué no traerlo aquí? y hacer que <r>interactúe</r> con el manantial. Estoy seguro de que los efectos del manantial de escala verde algún día permitirán que el siguiente insecto se <r>transforme en un dragón</r> y vuele por la tierra."
+    "es": "Mis mayores solían decirme que, cuando el Estanque de Escama Verde alcanza cierto nivel, produce efectos mágicos en los Insectos Seguidores. Si tienes un Insecto Seguidor, mi señor, ¿por qué no lo traes aquí para que <r>interactúe</r> con el estanque? Estoy seguro de que sus efectos algún día permitirán que el Insecto Seguidor se <r>transforme en un dragón</r> y vuele por el mundo."
   },
   {
     "id": "36485",
@@ -35757,12 +35757,12 @@
   {
     "id": "36641",
     "key": "drama_dialogue1305050",
-    "es": "Mi señor, he estado trabajando duro con usted para la secta y últimamente estoy muy cansado. ¿Podría llevarme de regreso a piscinas de escala azul para relajarme un poco?"
+    "es": "Mi señor, he estado trabajando duro contigo para la secta y últimamente estoy muy cansado. ¿Podrías llevarme de regreso al Estanque de Escama Verde para relajarme un poco?"
   },
   {
     "id": "36642",
     "key": "drama_dialogue1305051",
-    "es": "Llegas al manantial Greenscale y encuentras a Yun Ya y Jujubes preparando una mesa de delicias junto al manantial."
+    "es": "Llegas al Estanque de Escama Verde y encuentras a Yun Ya y Jujubes preparando un banquete junto al estanque."
   },
   {
     "id": "36643",
@@ -36042,7 +36042,7 @@
   {
     "id": "35066",
     "key": "drama_dialogue1500003",
-    "es": "Ancestros… ¡Mi Secta Dragon de la Montaña no terminará y mi vida no terminará!"
+    "es": "Ancestros… ¡Mi Secta de la Montaña Domadora de Dragones no desaparecerá y mi vida no terminará!"
   },
   {
     "id": "35067",
@@ -36087,7 +36087,7 @@
   {
     "id": "35075",
     "key": "drama_dialogue1500013",
-    "es": "Ancestros… Mi Secta Dragon de la Montaña no terminará y mi vida no terminará!"
+    "es": "Ancestros… Mi Secta de la Montaña Domadora de Dragones no desaparecerá y mi vida no terminará."
   },
   {
     "id": "35076",
@@ -36117,12 +36117,12 @@
   {
     "id": "35081",
     "key": "drama_dialogue1500021",
-    "es": "Si estás interesado, déjame presentártelo. Mi Secta Dragon de la Montaña fue una vez una secta famosa y poderosa en este mundo"
+    "es": "Si te interesa, déjame presentártela. Mi Secta de la Montaña Domadora de Dragones fue una secta famosa y poderosa en este mundo."
   },
   {
     "id": "35082",
     "key": "drama_dialogue1500022",
-    "es": "Immortal Mang e Immortal Zao, nuestros dos antepasados, eran una pareja modelo. Viajaron por todo el mundo con el anciano Dragón Mao y ascendieron a la cima del cultivo"
+    "es": "Los Inmortales Mang y Zao, nuestros dos antepasados, eran una pareja modelo. Viajaron por todo el mundo con el anciano Dragón Mao y alcanzaron la cima del cultivo."
   },
   {
     "id": "35083",
@@ -36152,7 +36152,7 @@
   {
     "id": "35088",
     "key": "drama_dialogue1500028",
-    "es": "Tú eres realmente la esperanza del rejuvenecimiento de nuestra Secta, así que únete a nuestro Secta Dragon de la Montaña!"
+    "es": "Eres la esperanza del renacimiento de nuestra secta, ¡así que únete a nuestra Secta de la Montaña Domadora de Dragones!"
   },
   {
     "id": "35089",
@@ -36167,7 +36167,7 @@
   {
     "id": "35091",
     "key": "drama_dialogue1500033",
-    "es": "¡El futuro de la Secta Dragon de la Montaña descansa sobre tus hombros!"
+    "es": "¡El futuro de la Secta de la Montaña Domadora de Dragones descansa sobre tus hombros!"
   },
   {
     "id": "35092",
@@ -36207,7 +36207,7 @@
   {
     "id": "35099",
     "key": "drama_dialogue1500071",
-    "es": "¿Has cambiado de opinión? ¿Aceptas convertirte en el líder de la secta de nuestra aldea de Dragon Mountain?"
+    "es": "¿Has cambiado de opinión? ¿Aceptas convertirte en el líder de la secta de nuestra aldea de la Montaña Domadora de Dragones?"
   },
   {
     "id": "35100",
@@ -38422,7 +38422,7 @@
   {
     "id": "37750",
     "key": "drama_dialogue2002154",
-    "es": "El Jefe me dijo que te pidiera que fueras con Immortal Jo para una reunión."
+    "es": "El jefe me dijo que te pidiera que fueras con el Inmortal Jo a una reunión."
   },
   {
     "id": "37751",
@@ -38517,7 +38517,7 @@
   {
     "id": "37769",
     "key": "drama_dialogue2002203",
-    "es": "Llegas a la cueva indicada por Immortal Jo. La pared interior de la cueva realmente tiene una larga técnica taoísta, el Aliento Éterico, grabada en ella. La recitas en silencio y se la pasas a Feng Pingmo, y le instruyes. ella para practicarlo."
+    "es": "Llegas a la cueva indicada por el Inmortal Jo. En la pared interior hay grabada una extensa técnica taoísta, el Aliento Etérico. La recitas en silencio, se la transmites a Feng Pingmo y le enseñas a practicarla."
   },
   {
     "id": "37770",
@@ -38532,7 +38532,7 @@
   {
     "id": "37772",
     "key": "drama_dialogue2002206",
-    "es": "Espero poder contener la respiración durante ocho o nueve días. Luego puedo ir a explorar el punto débil dentro de las Montañas Abisales como lo requiere Immortal Jo"
+    "es": "Espero poder contener la respiración durante ocho o nueve días. Luego podré explorar el punto débil de las Montañas Abisales, como me pidió el Inmortal Jo."
   },
   {
     "id": "37773",
@@ -38547,7 +38547,7 @@
   {
     "id": "37775",
     "key": "drama_dialogue2002231",
-    "es": "Encontré un lugar para meditar durante mucho tiempo y finalmente recuperé mi resistencia.\\nSeguí avanzando cada dos días, y unos diez días después, vi una gran grieta en el cielo. Se estaba abriendo y Cerrando! Este debería ser el punto débil dentro de las Montañas Abisales como lo mencionó Immortal Jo"
+    "es": "Encontré un lugar para meditar durante mucho tiempo y finalmente recuperé mi resistencia.\\nSeguí avanzando cada dos días y, unos diez días después, vi una gran grieta en el cielo. ¡Se abría y se cerraba! Este debe ser el punto débil de las Montañas Abisales que mencionó el Inmortal Jo."
   },
   {
     "id": "37776",
@@ -38647,7 +38647,7 @@
   {
     "id": "37795",
     "key": "drama_dialogue2002524",
-    "es": "De todos modos, ¿quién es Feng Lixi? ¿Los jóvenes de la tribu están diciendo estas cosas ahora? Oh Dios… Qué tontería… Por cierto, ¿el Jefe es muy poderoso ahora? ¿Qué pasa con Immortal Jo? Tenlos ¿Derrotaste a algún monstruo poderoso?"
+    "es": "De todos modos, ¿quién es Feng Lixi? ¿Los jóvenes de la tribu dicen ahora estas cosas? Oh, Dios… Qué tontería… Por cierto, ¿el jefe es muy poderoso ahora? ¿Qué pasa con el Inmortal Jo? ¿Has derrotado a algún monstruo poderoso?"
   },
   {
     "id": "37796",
@@ -39042,7 +39042,7 @@
   {
     "id": "37874",
     "key": "drama_dialogue2002733",
-    "es": "Ah… Immortal Jo ha contribuido mucho a destruir al Monstruo y salvar a Feng Pingmo… Pero Immortal Jo es impredecible y nadie puede decir lo que piensa. Por lo tanto, soy de la opinión de que debes tener cuidado."
+    "es": "Ah… El Inmortal Jo ha contribuido mucho a destruir al monstruo y salvar a Feng Pingmo… Pero el Inmortal Jo es impredecible y nadie puede decir qué piensa. Por eso creo que debes tener cuidado."
   },
   {
     "id": "37875",
@@ -39662,7 +39662,7 @@
   {
     "id": "38405",
     "key": "drama_dialogue2010259",
-    "es": "Es por eso que lugares llenos de monstruos como Lei Ze, Cien Mil Colinas, Tundra y Desert nacieron cerca del inframundo Caverns, los nodos críticos de las venas de las Montañas Abisales.\\nDado que Yong Ning está separado desde hace mucho tiempo de Chi You, está a salvo de la influencia de Aire Abisal, razón por la cual un lugar tan peligroso no nació allí.\\nDebe haber una razón detrás de todo. El tiempo es corto. Debo apresurarme a ir a Lei Ze para continuar mi investigación.\\nTan pronto como llegué fuera de la Caverna de la Esencia Abisal, encontré a un Cultivador mirándome de una manera extraña. Me pregunto por qué estaba allí. Tal vez estoy interpretando demasiado sobre ello"
+    "es": "Por eso, cerca de las cavernas abisales, nodos críticos de las venas de las Montañas Abisales, surgieron lugares infestados de monstruos como Lei Ze, las Cien Mil Montañas, la Llanura Helada y el desierto.\\nComo Yong Ning lleva mucho tiempo separado de Chi You, está a salvo de la influencia del Aire Abisal; por eso allí no surgió un lugar tan peligroso.\\nTodo debe tener una razón. No hay tiempo que perder. Debo apresurarme a ir a Lei Ze para continuar mi investigación.\\nEn cuanto llegué al exterior de la Caverna de la Esencia Abisal, descubrí a un cultivador observándome de forma extraña. ¿Por qué estaría allí? Espero haberme equivocado."
   },
   {
     "id": "38406",
@@ -39692,7 +39692,7 @@
   {
     "id": "38411",
     "key": "drama_dialogue2010265",
-    "es": "Luchar con él después de un gran avance fue como domar a una 'bestia salvaje'\\nSeguí bombeando mi Qi hacia la Pluma Abisal y finalmente lo controlé.\\nComo si hubiera sobrevivido Después de una feroz batalla, sentí que mi cuerpo y mi mente se estiraban hasta los extremos. Pero algunos de mis nodos internos también se desbloquearon, enviándome al Reino de Reconstitución.\\nNo podía perder el tiempo con ese tipo. Tenía que darme prisa para Wayward Desert para probar aún más mi hipótesis…"
+    "es": "La lucha con él durante aquel avance fue como domar a una «bestia salvaje».\\nNo dejé de infundir mi Qi en la Pluma Abisal y finalmente logré controlarla.\\nTras aquella feroz batalla, sentí que mi cuerpo y mi mente habían llegado al límite. Sin embargo, algunas de mis articulaciones internas también se desbloquearon, lo que me permitió entrar en el Reino de la Reconstitución.\\nNo podía perder el tiempo con ese tipo. Tenía que apresurarme hacia el Desierto Perdido para confirmar mi hipótesis…"
   },
   {
     "id": "38412",
@@ -39707,7 +39707,7 @@
   {
     "id": "38414",
     "key": "drama_dialogue2010268",
-    "es": "Hmph, ese maldito Huaixu dejó una trampa contra mí. Fui atacado por un trueno y gravemente herido. Afortunadamente, él fue gravemente herido por mí y solo a un paso de la muerte.\\nSaqué mi espada y empujé a través de su abdomen para acabar con él.\\n¿Dejó esas palabras con la intención de impresionar al mundo póstumamente? Eso no lo permitiré.\\nEnterré algunos tesoros cerca de la frontera entre Wayward Desert y Mu Xian. Cualquiera lo encuentra. mejor quedárselo."
+    "es": "Hmph, ese maldito Huaixu dejó una trampa para atacarme. Un trueno me alcanzó y quedé gravemente herido. Por suerte, él también estaba gravemente herido y al borde de la muerte.\\nAproveché su debilidad, saqué mi espada y se la hundí poco a poco en el abdomen para matarlo.\\n¿Dejó esas palabras para que las generaciones futuras supieran lo poderoso que era? No permitiré que se salga con la suya.\\nEscondí algunos tesoros cerca de la frontera entre el Desierto Perdido y Mu Xian. Si alguien encuentra este registro secreto, puede llevarse los tesoros."
   },
   {
     "id": "38415",
@@ -39717,7 +39717,7 @@
   {
     "id": "38416",
     "key": "drama_dialogue2010270",
-    "es": "Hmph, ese maldito Huaixu dejó una trampa incluso después de haber sido gravemente herido. Fui atacado por un trueno y también gravemente herido. Afortunadamente, estaba a sólo un paso de la muerte.\\nSaqué mi espada y lo empujó a través de su abdomen para acabar con él. ¿Dejó esas palabras con la intención de impresionar al mundo póstumamente? Eso no lo permitiré.\\nEnterré algunos tesoros cerca de la frontera entre Wayward Desert y Mu Xian. Cualquiera lo encuentra. También puedes quedártelo.\\n"
+    "es": "Hmph, ese maldito Huaixu, aunque estaba gravemente herido, todavía dejó una trampa para atacarme. Un trueno también me alcanzó y quedé gravemente herido, pero por suerte él estaba al borde de la muerte.\\nAproveché su debilidad, saqué mi espada y se la hundí poco a poco en el abdomen para matarlo. ¿Dejó esas palabras para que las generaciones futuras supieran lo poderoso que era? No permitiré que se salga con la suya.\\nEscondí algunos tesoros cerca de la frontera entre el Desierto Perdido y Mu Xian. Si alguien encuentra este registro secreto, puede llevarse los tesoros.\\n"
   },
   {
     "id": "38417",
@@ -42192,7 +42192,7 @@
   {
     "id": "47216",
     "key": "drama_dialogue2200123",
-    "es": "Trato hecho! Te esperaré en Youxiong Village, al pie de la montaña. Nos vemos allí!"
+    "es": "¡Trato hecho! Te esperaré en la aldea Youxiong, al pie de la montaña. ¡Nos vemos allí!"
   },
   {
     "id": "47217",
@@ -42212,7 +42212,7 @@
   {
     "id": "47220",
     "key": "drama_dialogue2200144",
-    "es": "Trato hecho! Te esperaré en Youxiong Village, al pie de la montaña. Nos vemos allí!"
+    "es": "¡Trato hecho! Te esperaré en la aldea Youxiong, al pie de la montaña. ¡Nos vemos allí!"
   },
   {
     "id": "47221",
@@ -42282,7 +42282,7 @@
   {
     "id": "47234",
     "key": "drama_dialogue2200182",
-    "es": "Trato hecho! Te esperaré en Youxiong Village, al pie de la montaña. Nos vemos allí!"
+    "es": "¡Trato hecho! Te esperaré en la aldea Youxiong, al pie de la montaña. ¡Nos vemos allí!"
   },
   {
     "id": "47235",
@@ -42302,7 +42302,7 @@
   {
     "id": "47238",
     "key": "drama_dialogue2200204",
-    "es": "Trato hecho! Te esperaré en Youxiong Village, al pie de la montaña. Nos vemos allí!"
+    "es": "¡Trato hecho! Te esperaré en la aldea Youxiong, al pie de la montaña. ¡Nos vemos allí!"
   },
   {
     "id": "47239",
@@ -65582,12 +65582,12 @@
   {
     "id": "43922",
     "key": "drama_dialogue8100702",
-    "es": "La última vez dijo que los Azure Jades en mi tienda son hermosos. Quizás podrías traer algunos para ellos."
+    "es": "La última vez dijo que los jades azul celeste de mi tienda son hermosos. Quizás podrías llevarle algunos."
   },
   {
     "id": "43923",
     "key": "drama_dialogue8100801",
-    "es": "Se dice que a los monstruos les gustan las cosas brillantes. Supongo que también les gustarían los Opal Jades."
+    "es": "He oído que a los monstruos les gustan las cosas brillantes. Supongo que a tu pequeña bestia también le gustarían los jades de agua iridiscentes."
   },
   {
     "id": "43924",
@@ -66267,7 +66267,7 @@
   {
     "id": "46806",
     "key": "drama_dialogue8103505",
-    "es": "Estoy construyendo un sitio para que los monstruos luchen cerca de las Cien Mil Colinas. Una vez completado, miles de Cultivadores podrían ingresar y participar en concursos. Lo llamo Demon's Arena. ¡Espero verte allí!"
+    "es": "Estoy construyendo un sitio para que los monstruos luchen cerca de las Cien Mil Colinas. Una vez completado, miles de cultivadores podrán entrar y participar en concursos. Lo llamo Arena de Bestias Demoníacas. ¡Espero verte allí!"
   },
   {
     "id": "46807",
@@ -66287,7 +66287,7 @@
   {
     "id": "46810",
     "key": "drama_dialogue8103601",
-    "es": "Bienvenidos a Demon's Arena! Queridos Cultivadores, ahora pueden disfrutar de las emocionantes batallas entre monstruos y aprender sobre sus tácticas antes de encontrarse con ellos en su viaje. Además, si consideran que vale la pena ver los concursos, otorguen algo de Espíritu Piedras como estímulo!"
+    "es": "¡Bienvenidos a la Arena de Bestias Demoníacas! Queridos cultivadores, ahora pueden disfrutar de emocionantes batallas entre monstruos y aprender sus tácticas antes de encontrárselos durante el viaje. Además, si consideran que los concursos valen la pena, ¡entreguen algunas piedras espirituales como incentivo!"
   },
   {
     "id": "46811",
@@ -66307,7 +66307,7 @@
   {
     "id": "46814",
     "key": "drama_dialogue8103605",
-    "es": "Bienvenidos a Demon's Arena, queridos Cultivadores! Veamos qué equipo ganará!"
+    "es": "¡Bienvenidos a la Arena de Bestias Demoníacas, queridos cultivadores! ¡Veamos qué equipo ganará!"
   },
   {
     "id": "46815",
@@ -66337,7 +66337,7 @@
   {
     "id": "46820",
     "key": "drama_dialogue8103611",
-    "es": "No te decepciones, amigo mío. Tu fortuna cambiará pronto! La Demon's Arena nunca engaña a nadie y solo necesitas una visión aguda para ganar Piedras Espirituales!"
+    "es": "¡No te decepciones, amigo mío! ¡Tu fortuna cambiará pronto! La Arena de Bestias Demoníacas nunca engaña a nadie; solo necesitas buen criterio para ganar piedras espirituales."
   },
   {
     "id": "46821",
@@ -96877,12 +96877,12 @@
   {
     "id": "36278",
     "key": "effect_desct9901102",
-    "es": "El Insecto Seguidor disparará un Dragon Pearl convertido en Dragon Scale al enemigo. Mientras esté en pleno vuelo, el Dragon Pearl atraerá a los enemigos dentro del alcance. Una vez que haya alcanzado la mayor distancia, atacará &9901102_bzwl& daño a enemigos dentro de un rango de &9901102_bzfw&. Esto dispara una vez cada &9901102_fsjg& segundos como máximo."
+    "es": "El Insecto Seguidor disparará al enemigo un Orbe del Dragón formado a partir de una Escama de Dragón. Durante el vuelo, el Orbe del Dragón atraerá a los enemigos dentro de su alcance. Al alcanzar la distancia máxima, infligirá &9901102_bzwl& de daño a los enemigos dentro de un radio de &9901102_bzfw&. Se puede disparar como máximo una vez cada &9901102_fsjg& segundos."
   },
   {
     "id": "36279",
     "key": "effect_desct9901103",
-    "es": "El Insecto Seguidor activará Dragon Majesty mostrando a todos los enemigos en el campo de batalla durante &9901103_cxsj& segundos. Esto se activa una vez cada &9901103_fsjg& segundos como máximo."
+    "es": "El Insecto Seguidor activará el Poder del Dragón y silenciará a todos los enemigos del campo de batalla durante &9901103_cxsj& segundos. Se puede activar como máximo una vez cada &9901103_fsjg& segundos."
   },
   {
     "id": "36280",
@@ -96947,7 +96947,7 @@
   {
     "id": "36298",
     "key": "effect_desct9901131",
-    "es": "En el estado combinado de Azure Dragon Form, todos los CD de habilidades excepto Ultimate Skill se restablecen (los puntos de recarga también se restauran). Mientras esto continúa, los &9901135_cnsl& puntos se recargan cada &9901135_cnjg& segundos, mientras que el costo de energía de la habilidad especial es reducido en &9901135_llxh&%. La combinación dura &9901135_htsj& segundos. Cargar la primera vez requiere &9901135_xlsj& segundos, y cargar nuevamente requiere &9901135_zcxl& segundos."
+    "es": "Al adoptar la Forma de Dragón Azur, se reinician todas las habilidades salvo la habilidad definitiva (también se recuperan todos los puntos de carga). Mientras dure, recuperas &9901135_cnsl& puntos de carga cada &9901135_cnjg& segundos y se reduce en &9901135_llxh&% el costo de energía de la habilidad definitiva. La combinación dura &9901135_htsj& segundos; la primera carga requiere &9901135_xlsj& segundos y las siguientes requieren &9901135_zcxl& segundos."
   },
   {
     "id": "36299",
@@ -97102,32 +97102,32 @@
   {
     "id": "36331",
     "key": "effect_desct9902403",
-    "es": "Obtienes +1 acumulaciones de efecto para romper reglas por segundo"
+    "es": "Obtienes +1 acumulación de Rompe-Reglas por segundo"
   },
   {
     "id": "36332",
     "key": "effect_desct9902404",
-    "es": "Mientras se utiliza el efecto de romper reglas, las habilidades marciales/espirituales obtenidas se reducen en un 15% durante 3s."
+    "es": "Al consumir Rompe-Reglas, obtienes una reducción del 15% del enfriamiento de las habilidades marciales y espirituales durante 3 s."
   },
   {
     "id": "36333",
     "key": "effect_desct9902405",
-    "es": "Cuando obtienes Rule Breaker, el tiempo de reutilización de cada acumulación de Rule Breaker Ultimate Skill que obtienes se reduce en 1s."
+    "es": "Al obtener Rompe-Reglas, el enfriamiento de su habilidad definitiva se reduce 1 s por cada acumulación obtenida."
   },
   {
     "id": "36334",
     "key": "effect_desct9902406",
-    "es": "Siempre que recuperas el 1% de tu energía máxima, obtienes 1 acumulación de Rule Breaker."
+    "es": "Cada vez que recuperas un 1% de tu energía máxima, obtienes 1 acumulación de Rompe-Reglas."
   },
   {
     "id": "36335",
     "key": "effect_desct9902407",
-    "es": "Cuando desatas una habilidad de movimiento, obtienes X acumulaciones de Rompe reglas."
+    "es": "Al lanzar una habilidad de movimiento, obtienes X acumulaciones de Rompe-Reglas."
   },
   {
     "id": "36336",
     "key": "effect_desct9902408",
-    "es": "Una vez que el efecto Rule Breaker haya alcanzado las acumulaciones completas y se haya mantenido durante 5s, cada segundo siguiente, cada acumulación de Rule Breaker ignorará el 0,5% de la defensa enemiga y continuará durante un segundo"
+    "es": "Cuando Rompe-Reglas alcanza el máximo de acumulaciones y se mantiene durante 5 s, cada acumulación obtenida después ignora un 0,5% de la defensa enemiga durante 1 s."
   },
   {
     "id": "36337",
@@ -97137,7 +97137,7 @@
   {
     "id": "36338",
     "key": "effect_desct9902410",
-    "es": "Cuando se utiliza Rule Breaker, hay un X% de posibilidades de devolver esa pila de Rule Breaker."
+    "es": "Al consumir Rompe-Reglas, hay un X% de probabilidad de recuperar esa acumulación."
   },
   {
     "id": "36293",
@@ -99922,7 +99922,7 @@
   {
     "id": "15811",
     "key": "fate700145",
-    "es": "Destiny activado: Las recompensas de combate del <y>Agresor</y> aumentaron."
+    "es": "Reescritura del Destino activada: aumentaron las recompensas de combate del <y>Agresor</y>."
   },
   {
     "id": "15812",
@@ -102002,7 +102002,7 @@
   {
     "id": "15798",
     "key": "fateStoryDesc700188",
-    "es": "Justo cuando estás a punto de avanzar, el Dragón Siguiente brilla por todas partes. En un instante, los alrededores vuelven a calmarse y parece que no ha ocurrido ningún cambio. El Dragón Siguiente sigue mirándote, como si te dijera Necesita regresar urgentemente a la Secta piscinas de escala azul"
+    "es": "Justo cuando estás a punto de avanzar, el Insecto Seguidor brilla por completo. En un instante, los alrededores vuelven a la calma y parece que no ha ocurrido ningún cambio. El pequeño dragón sigue mirándote, como si quisiera decirte que necesita regresar urgentemente al Estanque de Escama Verde de la secta."
   },
   {
     "id": "36545",
@@ -105552,7 +105552,7 @@
   {
     "id": "42839",
     "key": "getText10010",
-    "es": "Se puede obtener en el Santuario Destiny Catcher."
+    "es": "Se puede obtener en el Santuario del Destino Atado."
   },
   {
     "id": "42840",
@@ -106592,7 +106592,7 @@
   {
     "id": "37454",
     "key": "GodEyeSkills_desc_110063",
-    "es": "Coloca una lápida en la ubicación objetivo, lo que ralentiza a los enemigos dentro del alcance de &110063_ddsc& en un &110063_jsbl&% e inflige daño de &110063_xgsh|x5|f0&power/s."
+    "es": "Coloca una lápida en la ubicación objetivo, lo que ralentiza a los enemigos dentro del alcance de &110063_ddsc& en un &110063_jsbl&% e inflige &110063_xgsh|x5|f0& de daño por segundo."
   },
   {
     "id": "37444",
@@ -109177,7 +109177,7 @@
   {
     "id": "41773",
     "key": "ImmortalMethod_desc5000",
-    "es": "Genera una barrera de viento en el campo de batalla para cortar a todos los enemigos. La barrera cortará rápidamente &710005_fzqgcs& veces, causando &710005_fzqgwl& daño cada vez, y luego causando &710005_fqbzwl& daño total a través de una explosión. El usuario del Arte Celestial También obtienes <o>Poder de Music Immortal</o> por &710005_xfcxsj&s."
+    "es": "Genera una barrera de viento en el campo de batalla para cortar a todos los enemigos. La barrera cortará rápidamente &710005_fzqgcs& veces, causando &710005_fzqgwl& de daño cada vez, y luego infligirá &710005_fqbzwl& de daño total al explotar. El usuario del arte celestial también obtiene <o>Poder del Inmortal de la Música</o> durante &710005_xfcxsj&s."
   },
   {
     "id": "41774",
@@ -109237,7 +109237,7 @@
   {
     "id": "41776",
     "key": "ImmortalMethod_specialEffectDesc1000",
-    "es": "<o>Soulslash</o>\\nEl corte de la espada también cortará una parte del alma del enemigo por &710001_lhsj&s.\\nEl alma tendrá una Vida igual al &710001_lhtlbl&% Vida Máxima de su propietario y puede usar todas sus habilidades. Al desaparecer, el alma infligirá un daño igual a su Vida perdida a su propietario.\\nEl Arte Celestial inflige &810018_dxsh|-10000|f0&% de daño a los Inmortales\\nEl Arte Celestial inflige &810019_dysh|-10000|f0&% de daño a los demonios abisales"
+    "es": "<o>Tajo del Alma</o>\\nEl corte de la espada también seccionará parte del alma del enemigo durante &710001_lhsj&s.\\nEl alma tendrá una Vida equivalente al &710001_lhtlbl&% de la Vida Máxima de su propietario y podrá usar todas sus habilidades. Al desaparecer, infligirá a su propietario un daño igual a la Vida que haya perdido.\\nEl arte celestial inflige &810018_dxsh|-10000|f0&% de daño a los inmortales.\\nEl arte celestial inflige &810019_dysh|-10000|f0&% de daño a los demonios abisales."
   },
   {
     "id": "41777",
@@ -110412,32 +110412,32 @@
   {
     "id": "3093",
     "key": "item_desc1011191",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3094",
     "key": "item_desc1011192",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3095",
     "key": "item_desc1011193",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3096",
     "key": "item_desc1011194",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3097",
     "key": "item_desc1011195",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3098",
     "key": "item_desc1011196",
-    "es": "Una vez un Cultivador tomó este Elixir y se volvió lo suficientemente fuerte como para defenderse de los dragones, de ahí el nombre Dragon Force Elixir. Úselo para aumentar temporalmente el ATQ en una gran cantidad."
+    "es": "Una vez, un cultivador tomó este elixir y se volvió lo bastante fuerte como para enfrentarse a los dragones con un cuerpo humano; por eso recibió ese nombre. Úsalo para aumentar temporalmente mucho el ATQ."
   },
   {
     "id": "3099",
@@ -113947,7 +113947,7 @@
   {
     "id": "5084",
     "key": "item_desc2021254",
-    "es": "Después de aprender esta Receta, podrás identificar Desert Broomrape, que se puede recolectar en <g>{#areaName7}</g>. Aprender su Receta también aumenta la cantidad de caída cuando matas monstruos."
+    "es": "Después de aprender esta receta, podrás identificar el jopo del desierto, que se puede recolectar en <g>{#areaName7}</g>. Aprender su receta también aumenta la cantidad que obtienes al matar monstruos."
   },
   {
     "id": "5085",
@@ -123277,7 +123277,7 @@
   {
     "id": "4870",
     "key": "item_desc6151013",
-    "es": "Se rumorea que el jade se utiliza en los rituales de Bear Mountain. Se dice que contiene las bendiciones de los dioses de la montaña y el poder de extender la longevidad."
+    "es": "Se rumorea que el jade se utiliza en los rituales de la Montaña del Oso. Se dice que contiene las bendiciones de los dioses de la montaña y el poder de prolongar la longevidad."
   },
   {
     "id": "4871",
@@ -124202,22 +124202,22 @@
   {
     "id": "36570",
     "key": "item_desc6391031",
-    "es": "Registros de la historia secreta de la Secta Dragon de la Montaña. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecido."
+    "es": "Registros de la historia secreta de la Secta de la Montaña Domadora de Dragones. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecida."
   },
   {
     "id": "36571",
     "key": "item_desc6391032",
-    "es": "Registros de la historia secreta de la Secta Dragon de la Montaña. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecido."
+    "es": "Registros de la historia secreta de la Secta de la Montaña Domadora de Dragones. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecida."
   },
   {
     "id": "36572",
     "key": "item_desc6391033",
-    "es": "Registros de la historia secreta de la Secta Dragon de la Montaña. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecido."
+    "es": "Registros de la historia secreta de la Secta de la Montaña Domadora de Dragones. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecida."
   },
   {
     "id": "36573",
     "key": "item_desc6391034",
-    "es": "Registros de la historia secreta de la Secta Dragon de la Montaña. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecido."
+    "es": "Registros de la historia secreta de la Secta de la Montaña Domadora de Dragones. Parecen los restos de un capítulo de una obra más grande. No está claro quién los compiló, pero gran parte parece estar embellecida."
   },
   {
     "id": "34999",
@@ -124767,7 +124767,7 @@
   {
     "id": "38508",
     "key": "item_desc7000168",
-    "es": "Cristal plateado brillante formado por la fusión de la Llama del Sol y el mercurio que fluye de las extrañas rocas en Banco de arena desolada, un Reino Místico en Wayward Desert. Por eso llegó a ser conocido como Cristal de Mercurio."
+    "es": "Cristal plateado brillante formado por la fusión de la Llama del Sol y el mercurio que fluye de las extrañas rocas del Banco de Arena Desolada, un reino secreto del Desierto Perdido. Por eso llegó a ser conocido como Cristal de Mercurio."
   },
   {
     "id": "38510",
@@ -125237,7 +125237,7 @@
   {
     "id": "4936",
     "key": "item_desc7021013",
-    "es": "Se rumorea que el jade se utiliza en los rituales de Bear Mountain. Se dice que contiene las bendiciones de los dioses de la montaña y el poder de extender la longevidad."
+    "es": "Se rumorea que el jade se utiliza en los rituales de la Montaña del Oso. Se dice que contiene las bendiciones de los dioses de la montaña y el poder de prolongar la longevidad."
   },
   {
     "id": "4937",
@@ -152222,7 +152222,7 @@
   {
     "id": "25569",
     "key": "mod_xiaozongmen4",
-    "es": "Puedes crear múltiples Sectas Menores. La Secta generada está determinada por el Destino (Trasfondo) elegido por el jugador cuando crea la partida guardada. Una partida guardada puede tener solo 1 Secta Menor y estará ubicada en Yong Ning. (Secta Dragon de la Montaña es la Secta Menor del juego)"
+    "es": "Puedes crear múltiples sectas menores. La secta generada está determinada por el Destino (trasfondo) elegido por el jugador al crear la partida guardada. Una partida guardada puede tener solo 1 secta menor, que estará ubicada en Yong Ning. (La Secta de la Montaña Domadora de Dragones es la secta menor del juego)."
   },
   {
     "id": "25570",
@@ -152247,7 +152247,7 @@
   {
     "id": "25574",
     "key": "mod_xiaozongmen9",
-    "es": "Selecciona las principales artes marciales de tu secta. (Por ejemplo, las principales artes marciales de la Secta Dragon de la Montaña son la lanza)."
+    "es": "Selecciona las principales artes marciales de tu secta. (Por ejemplo, las principales artes marciales de la Secta de la Montaña Domadora de Dragones son las técnicas de lanza)."
   },
   {
     "id": "25575",
@@ -152257,7 +152257,7 @@
   {
     "id": "25576",
     "key": "mod_xiaozongmen11",
-    "es": "Debes elegir este Destino (Trasfondo) al crear un nuevo personaje para crear una Secta Menor en el futuro.\\n\\n(Por ejemplo, elige el Destino (Trasfondo) 'Aura del Dragón Anciano' para crear 'Secta Dragon de la Montaña' En el juego)\\n\\nNormalmente, necesitarás crear un Destino (Trasfondo) personalizado para la Secta."
+    "es": "Debes elegir este Destino (trasfondo) al crear un personaje nuevo para crear una secta menor en el futuro.\\n\\n(Por ejemplo, elige el Destino (trasfondo) «Aura del Dragón Anciano» para crear la «Secta de la Montaña Domadora de Dragones» en el juego).\\n\\nNormalmente, necesitarás crear un Destino (trasfondo) personalizado para la secta."
   },
   {
     "id": "25577",
@@ -154322,7 +154322,7 @@
   {
     "id": "25534",
     "key": "modConditionTitle_checkSmallSchool",
-    "es": "Determina si la secta menor en el guardado actual es una secta especial (por ejemplo, Secta Dragon de la Montaña)"
+    "es": "Determina si la secta menor del guardado actual es una secta especial (por ejemplo, la Secta de la Montaña Domadora de Dragones)"
   },
   {
     "id": "24187",
@@ -163352,7 +163352,7 @@
   {
     "id": "20345",
     "key": "MonthLog_title20464",
-    "es": "Nuevos atuendos en Immortal Armarios"
+    "es": "Nuevos atuendos en el Pabellón de Vestimentas"
   },
   {
     "id": "34285",
@@ -168962,7 +168962,7 @@
   {
     "id": "43296",
     "key": "potmonName1013",
-    "es": "El espíritu de Hellspawn"
+    "es": "El espíritu de Zhu Yan"
   },
   {
     "id": "43297",
@@ -169507,7 +169507,7 @@
   {
     "id": "43819",
     "key": "potmonSkillLifeDesc2251",
-    "es": "Oportunidad de obtener <o>Aliento de Hellspawn condensado</o> cuando te aventuras en el mundo."
+    "es": "Probabilidad de obtener <o>Aliento condensado de Zhu Yan</o> al aventurarte por el mundo."
   },
   {
     "id": "43820",
@@ -170712,7 +170712,7 @@
   {
     "id": "43578",
     "key": "potmonSkillLifeName2251",
-    "es": "El aliento de Hellspawn"
+    "es": "El aliento de Zhu Yan"
   },
   {
     "id": "43579",
@@ -186382,7 +186382,7 @@
   {
     "id": "43855",
     "key": "role_feature_postnatal_name9202092",
-    "es": "El aliento de Hellspawn"
+    "es": "El aliento de Zhu Yan"
   },
   {
     "id": "43840",
@@ -191002,7 +191002,7 @@
   {
     "id": "43891",
     "key": "role_feature_postnatal_tips9202092",
-    "es": "Aliento de Hellspawn condensado. Resistencia máxima +50."
+    "es": "Aliento condensado de Zhu Yan. Resistencia máxima +50."
   },
   {
     "id": "43876",
@@ -216307,7 +216307,7 @@
   {
     "id": "44800",
     "key": "skill_attack_desc7576",
-    "es": "Hellspawn desata el poder de su sangre y obtiene considerables bonificaciones atributos."
+    "es": "Zhu Yan desata el poder de su sangre y obtiene considerables bonificaciones de atributos."
   },
   {
     "id": "44801",
@@ -218602,7 +218602,7 @@
   {
     "id": "6819",
     "key": "skill_attack_desc64112",
-    "es": "Cuando estés equipado con un $s_feng$ $s_chixushifa$, durante la duración de este $s_chixushifa$, recibirás una acumulación de $s_nikong$ cada segundo. Puedes lanzar este Ultimate Habilidad cuando tienes &64112_conditionValue& acumulaciones de $s_nikong$: crea un área de tiempo de bala donde todo a tu alrededor se vuelve más lento mientras tu agilidad aumenta considerablemente. Dentro de esta área, no puedes lanzar tus habilidades especiales y tus habilidades espirituales se convertirán en $s_jifengren$. El área de tiempo de bala dura &64112_cxsj&s."
+    "es": "Cuando tengas equipada una habilidad especial $s_feng$ con efecto $s_chixushifa$, mientras dure $s_chixushifa$ obtendrás una acumulación de $s_nikong$ cada segundo. Puedes lanzar esta habilidad definitiva cuando tengas &64112_conditionValue& acumulaciones de $s_nikong$: crea un área de tiempo ralentizado donde todo a tu alrededor se mueve más despacio y tu velocidad de movimiento aumenta considerablemente. Dentro de esta área no puedes lanzar tus habilidades especiales, y tus habilidades espirituales se convertirán temporalmente en $s_jifengren$. El área de tiempo ralentizado dura &64112_cxsj&s."
   },
   {
     "id": "6843",
@@ -220372,7 +220372,7 @@
   {
     "id": "27904",
     "key": "skill_desc91053",
-    "es": "Disponible una vez que Immortal Blasts haya causado daño &91051_bmcs& veces en la batalla actual. Lingge ataca a enemigos aleatorios &91051_hzsl& veces. El daño que inflige a un objetivo está determinado por la brecha de atributos entre el objetivo y tú. &91051_hztl&% de su daño hecho se convertirá en tu Vida Máxima. Este efecto dura &91051_tlsj&s."
+    "es": "Se puede lanzar después de que la Explosión Inmortal haya infligido daño &91051_bmcs& veces en la batalla actual. Lingge atacará a enemigos aleatorios &91051_hzsl& veces. El daño que inflige a cada objetivo depende de la diferencia de atributos entre este y tú. Un &91051_hztl&% del daño infligido se convertirá en tu Vida Máxima. Este efecto dura &91051_tlsj&s."
   },
   {
     "id": "27905",
@@ -220527,7 +220527,7 @@
   {
     "id": "27930",
     "key": "skill_desc92102",
-    "es": "Disponible una vez que se hayan activado &92101_xfcs& Immortal Blasts. Double Strike tendrá un 100% de probabilidad de liberar una Immortal Blast, que también ralentiza al objetivo (Agilidad &92101_bsjs&%) durante &92101_jssj&s."
+    "es": "Se puede lanzar después de activar &92101_xfcs& Explosiones Inmortales. Chongluan tendrá un 100% de probabilidad de invocar una Explosión Inmortal, que también reducirá la Agilidad del objetivo en &92101_bsjs&% durante &92101_jssj&s."
   },
   {
     "id": "27931",
@@ -239182,7 +239182,7 @@
   {
     "id": "28068",
     "key": "spriteTalent_unlockDesc100242",
-    "es": "Mata a Tundra Girl (Monstruo de élite) x{0}/5 para desbloquear."
+    "es": "Mata a un Espíritu de Hielo (monstruo de élite) x{0}/5 para desbloquear."
   },
   {
     "id": "28069",
@@ -240872,7 +240872,7 @@
   {
     "id": "28300",
     "key": "spriteTalent_unlockDesc200109",
-    "es": "Mata a Tundra Girl (Monstruo de élite) x{0}/5 para desbloquear."
+    "es": "Mata a un Espíritu de Hielo (monstruo de élite) x{0}/5 para desbloquear."
   },
   {
     "id": "28301",
@@ -241637,7 +241637,7 @@
   {
     "id": "28453",
     "key": "spriteTalent_unlockDesc200439",
-    "es": "Mata a Tundra Girl (Monstruo de élite) x{0}/5 para desbloquear."
+    "es": "Mata a un Espíritu de Hielo (monstruo de élite) x{0}/5 para desbloquear."
   },
   {
     "id": "28454",
@@ -243172,7 +243172,7 @@
   {
     "id": "28760",
     "key": "spriteTalent_unlockDesc201218",
-    "es": "Mata a Tundra Girl (Monstruo de élite) x{0}/5 para desbloquear."
+    "es": "Mata a un Espíritu de Hielo (monstruo de élite) x{0}/5 para desbloquear."
   },
   {
     "id": "28761",
@@ -243487,7 +243487,7 @@
   {
     "id": "28823",
     "key": "spriteTalent_unlockDesc201340",
-    "es": "Mata a Tundra Girl (Monstruo de élite) x{0}/5 para desbloquear."
+    "es": "Mata a un Espíritu de Hielo (monstruo de élite) x{0}/5 para desbloquear."
   },
   {
     "id": "28824",
@@ -259807,7 +259807,7 @@
   {
     "id": "48687",
     "key": "taskDesc2110952",
-    "es": "Reúnete con Jo en Youxiong Village, que se encuentra al pie de la montaña."
+    "es": "Reúnete con Jo en la aldea Youxiong, que se encuentra al pie de la montaña."
   },
   {
     "id": "48688",
@@ -261407,7 +261407,7 @@
   {
     "id": "36607",
     "key": "taskName131001",
-    "es": "Restaurar la aldea de la Secta Dragon de la Montaña"
+    "es": "Restaurar la aldea de la Secta de la Montaña Domadora de Dragones"
   },
   {
     "id": "54460",
@@ -262232,7 +262232,7 @@
   {
     "id": "31489",
     "key": "taskName2110505",
-    "es": "El viaje de ti, Yuanzhi · Noche en Demon's Home II"
+    "es": "El viaje de Yuanzhi · Noche en la morada II"
   },
   {
     "id": "31490",
@@ -267936,7 +267936,7 @@
   {
     "id": "43060",
     "key": "ui_uischoolAuraChange_Tip",
-    "es": "El Reescribir Destino seleccionado reemplazará al que se encuentra actualmente en el Pabellón del Espíritu de tu Secta. Consíguelo haciendo un Avance en el Pabellón del Espíritu (Reescribir Destino no está disponible para Sectas especiales como Secta Dragon de la Montaña y Sectas en Chi You)"
+    "es": "La fortuna de Reescritura del Destino seleccionada reemplazará a la que se encuentra actualmente en el Pabellón Espiritual de tu secta. Consíguela avanzando en el Pabellón Espiritual (la Reescritura del Destino no está disponible para sectas especiales como la Secta de la Montaña Domadora de Dragones ni para las sectas de Chi You)."
   },
   {
     "id": "53363",
