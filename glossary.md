@@ -50,6 +50,8 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | 散修 / rogue cultivator | cultivador rebelde |
 | 正道 / righteous path | camino recto |
 | 魔道 / demonic path | camino demoníaco |
+| 情花 / love flower | flor del amor |
+| 正气 / righteous energy | energía recta |
 | 道侣 / cultivation partner | pareja de cultivo |
 | 灵丹 | elixir espiritual |
 | 灵宝 | tesoro espiritual |
@@ -640,3 +642,40 @@ Aplicar este glosario al corregir `ModProject/ModCode/ModMain/Localization/Spani
 | 兽潮 / Wave of Monsters | Ola de Monstruos |
 | 仙盟任务 / Alliance Mission | Misión de la Alianza |
 | 壶妖境界丹 / Imp Realm Elixir | Elixir del reino de la bestia calabaza |
+| 双鱼佩 / Shuangyu Pei | Doble Pez (talismán) |
+
+## Terminología añadida en la unidad de diálogos de la Morera y la Gran Serpiente
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 扶桑树守护者 | Guardiana de la Morera Divina |
+| 开明兽 | Lidra |
+| 结晶境 / crystal realm | Cristalización |
+| 蝡蛇大王 | Rey de la Gran Serpiente |
+
+## Terminología añadida en la revisión de esta unidad
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 人面鸮王 / human-faced owl king | Señor Arpía (personaje masculino) |
+| 东海 / East Sea | Mar del Este |
+| 神水 / divine water | Agua Divina |
+| 大个子 / big guy | Grandote (personaje masculino) |
+| 相柳 / Xiangliu | Xiangliu (serpiente) |
+| 九凤族 / Nine Phoenix clan | Clan Nueve Fénix |
+| 气运 / fortune | fortuna |
+| 龙涎涧 / Dragon Saliva Ravine | Barranco de Saliva del Dragón |
+| 劲气 / forceful energy | ráfaga de energía |
+| 山海界 / Mountains and Seas Realm | Reino de Montañas y Mares |
+
+## Terminología añadida en la unidad de limpieza lingüística
+
+| Concepto | Traducción preferida |
+| --- | --- |
+| 玩家 / player | jugador |
+| 宗门职位 / sect position | puesto en la secta |
+| 冥气 / nether Qi | Aire Abisal |
+| 灵冥二气 | Qi espiritual y Aire Abisal |
+| 先天一气 / Primordial Qi | Aire Primordial |
+| 登仙之人 / person who ascends | persona ascendida / persona que asciende según el contexto |
+| 浩然气 / Vast Qi | energía vasta |
