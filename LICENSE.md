@@ -67,7 +67,7 @@ El código fuente (archivos JSON) está disponible para:
 
 ### 4.4 Canales Oficiales de Distribución
 El Mod solo puede obtenerse a través de los siguientes canales oficiales:
-- **Repositorio de GitHub**: https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/releases
+- **Repositorio de GitHub**: https://github.com/ChrisTVH/TL-Spanish/releases
 - **Steam Workshop**: https://steamcommunity.com/sharedfiles/filedetails/?id=3646970035
 
 **Queda estrictamente prohibido** obtener o distribuir el Mod desde cualquier otro fuente, incluyendo pero no limitado a:
