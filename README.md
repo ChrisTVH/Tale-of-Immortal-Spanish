@@ -14,13 +14,13 @@ El mod carga los archivos JSON como recursos integrados en una DLL de C# y aplic
 El mod está disponible en los canales oficiales:
 
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3646970035)
-- [Releases de GitHub](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/releases)
+- [Releases de GitHub](https://github.com/ChrisTVH/TL-Spanish/releases)
 
 Después de instalarlo, abre la configuración de idioma del juego y selecciona **Español**. La selección se conserva para usos posteriores.
 
 Al activar el mod, es necesario reiniciar el juego para que el idioma cambie por completo.
 
-Para consultar dudas o problemas frecuentes, visita la [wiki del proyecto](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/wiki/Problemas-frecuentes).
+Para consultar dudas o problemas frecuentes, visita la [wiki del proyecto](https://github.com/ChrisTVH/TL-Spanish/wiki/Problemas-frecuentes).
 
 ## Archivos de traducción
 
@@ -82,6 +82,6 @@ ModProject/ModCode/ModMain/bin/Release/MOD_pzAi9g.dll
 
 ## Contribuir
 
-Puedes [abrir un issue](https://github.com/ChrisTVH/Tale-of-Immortal-Spanish/issues) para reportar errores gramaticales, incoherencias o problemas de visualización, o enviar una pull request al repositorio principal.
+Puedes [abrir un issue](https://github.com/ChrisTVH/TL-Spanish/issues) para reportar errores gramaticales, incoherencias o problemas de visualización, o enviar una pull request al repositorio principal.
 
 Antes de contribuir, consulta las [reglas de traducción](translation_guidelines.md), el [glosario](glossary.md) y la [licencia](LICENSE.md). Conserva los identificadores, las claves, los placeholders, las etiquetas y los espacios intencionales. Las aportaciones directas pueden añadirse a la cadena de créditos `ID | 22170 |`.
