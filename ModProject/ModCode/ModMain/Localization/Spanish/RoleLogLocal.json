@@ -56737,7 +56737,7 @@
   {
     "id": "5106173",
     "keyID": "drama_dialogue960214",
-    "es": "El hombre de mediana edad evoca una nube de humo negro y desaparece en el aire.\\n(vida útil de <b>{name|C}</b> -50)"
+    "es": "El hombre de mediana edad evoca una nube de humo negro y desaparece en el aire.\n(vida útil de <b>{name|C}</b> -50)"
   },
   {
     "id": "5106174",
@@ -56767,7 +56767,7 @@
   {
     "id": "5106179",
     "keyID": "drama_dialogue960314",
-    "es": "El anciano sonríe, evoca una nube de humo blanco y se desvanece en el aire.\\n(La vida útil de <b>{name|B}</b> +50)"
+    "es": "El anciano sonríe, evoca una nube de humo blanco y se desvanece en el aire.\n(La vida útil de <b>{name|B}</b> +50)"
   },
   {
     "id": "5106180",
@@ -57127,17 +57127,17 @@
   {
     "id": "5106261",
     "keyID": "drama_dialogue984206",
-    "es": "¿Quién es el que roba a los civiles en cada ciudad a la que va?\\nMateriales de monstruos, tesoros del cielo y la tierra…\\n¡Un asqueroso ladrón! ¿No eres tú?"
+    "es": "¿Quién es el que roba a los civiles en cada ciudad a la que va?\nMateriales de monstruos, tesoros del cielo y la tierra…\n¡Un asqueroso ladrón! ¿No eres tú?"
   },
   {
     "id": "5106262",
     "keyID": "drama_dialogue984207",
-    "es": "¿Quién es el que seduce a cada mujer que ve?\\nDesde las jóvenes hasta las centenarias…\\n¡Un playboy asqueroso! ¿No eres tú?"
+    "es": "¿Quién es el que seduce a cada mujer que ve?\nDesde las jóvenes hasta las centenarias…\n¡Un playboy asqueroso! ¿No eres tú?"
   },
   {
     "id": "5106263",
     "keyID": "drama_dialogue984208",
-    "es": "¿Quién es el que mata a los amigos y familiares de cada enemigo que tiene?\\nIncluso los niños, los viejos, los inocentes.\\n¡Un asqueroso asesino! ¿No eres tú?"
+    "es": "¿Quién es el que mata a los amigos y familiares de cada enemigo que tiene?\nIncluso los niños, los viejos, los inocentes.\n¡Un asqueroso asesino! ¿No eres tú?"
   },
   {
     "id": "5106264",
@@ -64532,7 +64532,7 @@
   {
     "id": "9000817",
     "keyID": "drama_dialogue2020150",
-    "es": "Amigo mío, ha golpeado otra Ola de Monstruos. El Maestro y los Ancianos están ocupados defendiendo la alianza. Me pidió que te dijera que Jiuying te había considerado su mayor enemigo, por lo que deberías evitar ir más allá del muro por el momento.."
+    "es": "Amigo mío, ha golpeado otra Ola de Monstruos. El Maestro y los Ancianos están ocupados defendiendo la alianza. Me pidió que te dijera que Jiuying te había considerado su mayor enemigo, por lo que deberías evitar ir más allá del muro por el momento…"
   },
   {
     "id": "9000818",
@@ -64627,7 +64627,7 @@
   {
     "id": "9000836",
     "keyID": "drama_dialogue2020169",
-    "es": "Por supuesto. Nuestro amigo es ahora el campeón de la mano derecha del Maestro. Por cierto, Yuan'er, la Ola de Monstruos se está moviendo de una manera extraña últimamente. Quiero que vayas a la pared y los observes de cerca.. Si sucede algo extraño, ven y dímelo inmediatamente."
+    "es": "Por supuesto. Nuestro amigo es ahora el campeón de la mano derecha del Maestro. Por cierto, Yuan'er, la Ola de Monstruos se está moviendo de una manera extraña últimamente. Quiero que vayas a la pared y los observes de cerca… Si sucede algo extraño, ven y dímelo inmediatamente."
   },
   {
     "id": "9000837",
@@ -66462,7 +66462,7 @@
   {
     "id": "9001164",
     "keyID": "drama_dialogue2025250",
-    "es": "Goumang es un Muzheng, y yo soy su espíritu asistente. El resto… es irrelevante… Por favor, piensa en lo que te he dicho. Vuelve aquí después de que hayas tomado una decisión.. Por favor, no le cuentes a Goumang sobre esto."
+    "es": "Goumang es un Muzheng, y yo soy su espíritu asistente. El resto… es irrelevante… Por favor, piensa en lo que te he dicho. Vuelve aquí después de que hayas tomado una decisión… Por favor, no le cuentes a Goumang sobre esto."
   },
   {
     "id": "9001165",
@@ -74312,42 +74312,42 @@
   {
     "id": "10303217",
     "keyID": "drama_dialogue2661471",
-    "es": "Año X, Mes X\\nMe siento como si acabara de despertarme de un sueño, y ahora estoy medio consciente y no sé quién soy.\\nY hasta olvido lo que pretendía hacer. Parece que necesito escribirlo.\\nEl Templo de la Mente Fragmentada planea recuperar el Círculo de la Reunión.\\n\\nAño X, Mes X\\nRecientemente, me siento cada vez más mareado. Acabo de caer en coma, ¿verdad?\\n¿O alguien como el otro yo acaba de despertarse?\\nMuchas señales han confirmado mi suposición."
+    "es": "Año X, Mes X\nMe siento como si acabara de despertarme de un sueño, y ahora estoy medio consciente y no sé quién soy.\nY hasta olvido lo que pretendía hacer. Parece que necesito escribirlo.\nEl Templo de la Mente Fragmentada planea recuperar el Círculo de la Reunión.\n\nAño X, Mes X\nRecientemente, me siento cada vez más mareado. Acabo de caer en coma, ¿verdad?\n¿O alguien como el otro yo acaba de despertarse?\nMuchas señales han confirmado mi suposición."
   },
   {
     "id": "10303218",
     "keyID": "drama_dialogue2661472",
-    "es": "Año X, Mes X\\nEste mes mi mareo disminuyó, y siento que estoy recuperando la salud.\\nSiempre me duele la cabeza cuando me despierto.\\nY mi frente se siente tan caliente.\\n¿Hay algo que pueda hacer?\\n\\nAño X, Mes X\\n¡Hay otro yo!\\nPero por qué… Por qué el otro yo juró lealtad al Templo de la Mente Fragmentada…\\n¿Cuánto tiempo ha estado aquí? ¿Y cuánto tiempo ha estado bajo el Templo?\\n¿Y somos… enemigos?!"
+    "es": "Año X, Mes X\nEste mes mi mareo disminuyó, y siento que estoy recuperando la salud.\nSiempre me duele la cabeza cuando me despierto.\nY mi frente se siente tan caliente.\n¿Hay algo que pueda hacer?\n\nAño X, Mes X\n¡Hay otro yo!\nPero por qué… Por qué el otro yo juró lealtad al Templo de la Mente Fragmentada…\n¿Cuánto tiempo ha estado aquí? ¿Y cuánto tiempo ha estado bajo el Templo?\n¿Y somos… enemigos?!"
   },
   {
     "id": "10303219",
     "keyID": "drama_dialogue2661473",
-    "es": "Año X, Mes X\\nDebo ocultarle este cuaderno…\\nObviamente, no podría llevarlo conmigo.\\nPero si dejo pasar las cosas sin registrarlas, las olvidaré.\\nEntonces, ¿dónde debería ocultarlo?\\n\\nAño X, Mes X\\n¡Ella… es mi enemiga!\\nQué lástima. Por lo tanto, debo vigilarla mientras estoy ocupado ayudando al Pabellón de la Mente Taoísta.\\nEstoy tan exhausto."
+    "es": "Año X, Mes X\nDebo ocultarle este cuaderno…\nObviamente, no podría llevarlo conmigo.\nPero si dejo pasar las cosas sin registrarlas, las olvidaré.\nEntonces, ¿dónde debería ocultarlo?\n\nAño X, Mes X\n¡Ella… es mi enemiga!\nQué lástima. Por lo tanto, debo vigilarla mientras estoy ocupado ayudando al Pabellón de la Mente Taoísta.\nEstoy tan exhausto."
   },
   {
     "id": "10303220",
     "keyID": "drama_dialogue2661474",
-    "es": "Año X, mes X\\nElla siempre se opone a mí.\\nDebo eliminarla por mí y por el Pabellón de la Mente Taoísta.\\nTal vez deba visitar al Mayor Tianyi nuevamente.\\nTal vez pueda matarla atravesándome la cabeza con el artefacto Punta Afilada.\\n\\nAño X, mes X\\n¿Soy un monstruo?\\nNo quiero hacer ningún amigo, y los cultivadores son todos villanos que pasan sus vidas conspirando y traicionando.\\nSuspiro. Tal vez ella sea la única que siempre estará a mi lado.\\nMe pregunto qué tipo de persona es ella, a pesar de ser mi enemiga."
+    "es": "Año X, mes X\nElla siempre se opone a mí.\nDebo eliminarla por mí y por el Pabellón de la Mente Taoísta.\nTal vez deba visitar al Mayor Tianyi nuevamente.\nTal vez pueda matarla atravesándome la cabeza con el artefacto Punta Afilada.\n\nAño X, mes X\n¿Soy un monstruo?\nNo quiero hacer ningún amigo, y los cultivadores son todos villanos que pasan sus vidas conspirando y traicionando.\nSuspiro. Tal vez ella sea la única que siempre estará a mi lado.\nMe pregunto qué tipo de persona es ella, a pesar de ser mi enemiga."
   },
   {
     "id": "10303221",
     "keyID": "drama_dialogue2661475",
-    "es": "Año X, Mes X\\nPor eso odio las bebidas alcohólicas. Siento como si mi cabeza se hubiera partido cada vez que me despierto.\\n¿Por qué la gente bebe alcohol? ¿No es el té suave y refrescante?\\nPero tal vez mi dolor de cabeza no sea causado por los licores. Vayamos al grano ahora. Esta vez el Templo de la Mente Fragmentada tiene un conflicto contra el Pabellón de la Mente Taoísta debido al Círculo de la Reunión. Debo concentrarme en el asunto.\\n\\nAño X, Mes X\\nSiempre siento que hay otro yo.\\nEs decir, que estamos residiendo en el mismo cuerpo. Recuerdo el día en que me desperté. Encontré una tetera hirviendo frente a mí.\\nSuspiro. El té olía a algo fermentado durante mucho tiempo. No, no. Nunca prepararía una bebida así."
+    "es": "Año X, Mes X\nPor eso odio las bebidas alcohólicas. Siento como si mi cabeza se hubiera partido cada vez que me despierto.\n¿Por qué la gente bebe alcohol? ¿No es el té suave y refrescante?\nPero tal vez mi dolor de cabeza no sea causado por los licores. Vayamos al grano ahora. Esta vez el Templo de la Mente Fragmentada tiene un conflicto contra el Pabellón de la Mente Taoísta debido al Círculo de la Reunión. Debo concentrarme en el asunto.\n\nAño X, Mes X\nSiempre siento que hay otro yo.\nEs decir, que estamos residiendo en el mismo cuerpo. Recuerdo el día en que me desperté. Encontré una tetera hirviendo frente a mí.\nSuspiro. El té olía a algo fermentado durante mucho tiempo. No, no. Nunca prepararía una bebida así."
   },
   {
     "id": "10303222",
     "keyID": "drama_dialogue2661476",
-    "es": "Año X, Mes X\\nMe siento muy, muy mal.\\n¿Es la agonía más torturante? Ahora todo lo que quiero hacer es perforarme la cabeza con un punzón.\\nAyúdenme…\\n\\nAño X, Mes X\\n¿Qué pasa si me corto la cabeza con una espada? ¿Ella también morirá?\\nMmm. Ella está en el Pabellón de la Mente Taoísta. No puedo decir que los del Pabellón sean todos villanos, pero su fe es de hecho inflexible.\\nSolo harán daño al mundo si tienen control sobre el Árbol Divino Taoísta.\\n¿Es ella una de esas hipócritas?"
+    "es": "Año X, Mes X\nMe siento muy, muy mal.\n¿Es la agonía más torturante? Ahora todo lo que quiero hacer es perforarme la cabeza con un punzón.\nAyúdenme…\n\nAño X, Mes X\n¿Qué pasa si me corto la cabeza con una espada? ¿Ella también morirá?\nMmm. Ella está en el Pabellón de la Mente Taoísta. No puedo decir que los del Pabellón sean todos villanos, pero su fe es de hecho inflexible.\nSolo harán daño al mundo si tienen control sobre el Árbol Divino Taoísta.\n¿Es ella una de esas hipócritas?"
   },
   {
     "id": "10303223",
     "keyID": "drama_dialogue2661477",
-    "es": "Año X, Mes X\\nElla ha leído mis registros. Puedo sentir el inconfundible aroma del té en la primera página. Es ella.\\nPor lo tanto, debo ocultar el cuaderno. Escribí asuntos importantes en él y debo mantenerla alejada de estas palabras.\\n¡Maldita sea! Ella conocía los secretos. Se arriesgaría a traer problemas al Templo de la Mente Fragmentada.\\n\\nAño X, Mes X\\nLe conté todos estos asuntos a la anciana.\\nSin embargo, nuestra anciana solo sonrió. Ella, quiero decir, la anciana, parece tener un plan alternativo.\\nTal vez ya no debería estar en el Templo de la Mente Fragmentada."
+    "es": "Año X, Mes X\nElla ha leído mis registros. Puedo sentir el inconfundible aroma del té en la primera página. Es ella.\nPor lo tanto, debo ocultar el cuaderno. Escribí asuntos importantes en él y debo mantenerla alejada de estas palabras.\n¡Maldita sea! Ella conocía los secretos. Se arriesgaría a traer problemas al Templo de la Mente Fragmentada.\n\nAño X, Mes X\nLe conté todos estos asuntos a la anciana.\nSin embargo, nuestra anciana solo sonrió. Ella, quiero decir, la anciana, parece tener un plan alternativo.\nTal vez ya no debería estar en el Templo de la Mente Fragmentada."
   },
   {
     "id": "10303224",
     "keyID": "drama_dialogue2661478",
-    "es": "Año X, Mes X\\nResponde a la traición con traición.\\nLe pagaré por lo que me ha hecho.\\n\\nDía X\\nEsta cultivadora es interesante. Mis duras palabras no tienen efecto en esa persona.\\nA veces incluso dudo en decirlas.\\nPuedo sentir envidia. A ella también le gustará la persona. Ciertamente.\\nCreo que puede ser más tierna y suave, y tal vez le guste más al cultivador.\\nPero no estoy seguro de sus características. Tal vez sea suave, supongo."
+    "es": "Año X, Mes X\nResponde a la traición con traición.\nLe pagaré por lo que me ha hecho.\n\nDía X\nEsta cultivadora es interesante. Mis duras palabras no tienen efecto en esa persona.\nA veces incluso dudo en decirlas.\nPuedo sentir envidia. A ella también le gustará la persona. Ciertamente.\nCreo que puede ser más tierna y suave, y tal vez le guste más al cultivador.\nPero no estoy seguro de sus características. Tal vez sea suave, supongo."
   },
   {
     "id": "10303225",
@@ -74602,7 +74602,7 @@
   {
     "id": "10303275",
     "keyID": "drama_dialogue2661572",
-    "es": "Reflexioné sobre mi vida y descubrí que rara vez tomo mis decisiones yo mismo.\\nNo puedo decidir cuál de los dos estará en este cuerpo la próxima vez, y yo solo soy un peón incluso en el Pabellón de la Mente Taoísta.\\nQué triste destino. Pero ahora voy a terminarlo.\\nEn mi opinión, las dos órdenes secretas tienen como objetivo preservar las Mentes Taoístas en el mundo.\\nAmbas tienen buenas intenciones.\\nSin embargo, hicieron mucho daño a los cultivadores y al mundo en el viaje hacia sus objetivos.\\nY su misión solo se retrasará eternamente si siguen distrayéndose con sus disputas."
+    "es": "Reflexioné sobre mi vida y descubrí que rara vez tomo mis decisiones yo mismo.\nNo puedo decidir cuál de los dos estará en este cuerpo la próxima vez, y yo solo soy un peón incluso en el Pabellón de la Mente Taoísta.\nQué triste destino. Pero ahora voy a terminarlo.\nEn mi opinión, las dos órdenes secretas tienen como objetivo preservar las Mentes Taoístas en el mundo.\nAmbas tienen buenas intenciones.\nSin embargo, hicieron mucho daño a los cultivadores y al mundo en el viaje hacia sus objetivos.\nY su misión solo se retrasará eternamente si siguen distrayéndose con sus disputas."
   },
   {
     "id": "10303276",
@@ -74627,12 +74627,12 @@
   {
     "id": "10303280",
     "keyID": "drama_dialogue2661577",
-    "es": "Esto no le hará ningún bien al mundo, ni al Pabellón ni al Templo.\\nPero todos estos asuntos están en un futuro lejano que está fuera de mi alcance.\\nAl menos puedo evitar que el conflicto empeore. Han matado a muchos miembros opuestos debido al Círculo de la Reunión.\\n¡No hay necesidad de hacer eso! El Círculo de la Reunión está aquí. Lo he encontrado. Ahora, si se lo entrego al Pabellón de la Mente Taoísta, las cosas se resolverán.\\nEl élder Tianxuan ha aprendido cómo eliminarla del mayor Tianyi, que es la misma razón por la que visité al mayor.\\nElla está bajo el mando de Mariposa Amarga, y supongo que Mariposa Amarga debe haber sabido cómo matarme.\\nPor lo tanto, el anciano opuesto seguramente intentará evitarme, o incluso eliminarme en ese momento."
+    "es": "Esto no le hará ningún bien al mundo, ni al Pabellón ni al Templo.\nPero todos estos asuntos están en un futuro lejano que está fuera de mi alcance.\nAl menos puedo evitar que el conflicto empeore. Han matado a muchos miembros opuestos debido al Círculo de la Reunión.\n¡No hay necesidad de hacer eso! El Círculo de la Reunión está aquí. Lo he encontrado. Ahora, si se lo entrego al Pabellón de la Mente Taoísta, las cosas se resolverán.\nEl élder Tianxuan ha aprendido cómo eliminarla del mayor Tianyi, que es la misma razón por la que visité al mayor.\nElla está bajo el mando de Mariposa Amarga, y supongo que Mariposa Amarga debe haber sabido cómo matarme.\nPor lo tanto, el anciano opuesto seguramente intentará evitarme, o incluso eliminarme en ese momento."
   },
   {
     "id": "10303281",
     "keyID": "drama_dialogue2661578",
-    "es": "Pero no importa. Ahora es el momento de tomar mi propia decisión.\\n¡La mía!"
+    "es": "Pero no importa. Ahora es el momento de tomar mi propia decisión.\n¡La mía!"
   },
   {
     "id": "10303282",
@@ -75947,12 +75947,12 @@
   {
     "id": "10303720",
     "keyID": "drama_dialogue2682902",
-    "es": "\\nAl menos puedo evitar que el conflicto empeore. Han matado a muchos miembros del lado opuesto por culpa del Círculo de la Reunión.\\n¡No hay necesidad de hacer eso! El Círculo de la Reunión está aquí. Lo he encontrado. Ahora, si se lo entrego al Pabellón de la Mente Taoísta, las cosas se resolverán.\\nEl élder Tianxuan ha aprendido a eliminarla del mayor Tianyi, que es la misma razón por la que visité al mayor."
+    "es": "\nAl menos puedo evitar que el conflicto empeore. Han matado a muchos miembros del lado opuesto por culpa del Círculo de la Reunión.\n¡No hay necesidad de hacer eso! El Círculo de la Reunión está aquí. Lo he encontrado. Ahora, si se lo entrego al Pabellón de la Mente Taoísta, las cosas se resolverán.\nEl élder Tianxuan ha aprendido a eliminarla del mayor Tianyi, que es la misma razón por la que visité al mayor."
   },
   {
     "id": "10303721",
     "keyID": "drama_dialogue2682903",
-    "es": "\\nElla está bajo el mando de Mariposa Amarga, y supongo que Mariposa Amarga debe haber sabido cómo matarme.\\nPero no importa. Ahora es el momento de tomar mi propia decisión.\\n¡La mía!"
+    "es": "\nElla está bajo el mando de Mariposa Amarga, y supongo que Mariposa Amarga debe haber sabido cómo matarme.\nPero no importa. Ahora es el momento de tomar mi propia decisión.\n¡La mía!"
   },
   {
     "id": "10303722",
@@ -76592,12 +76592,12 @@
   {
     "id": "10303881",
     "keyID": "drama_dialogue2710511",
-    "es": "Está enterrado profundamente bajo tierra y extrae la esencia de la tierra para mantener su vida.\\nUno debe cortar su canal hacia la esencia de la tierra para obtenerla.\\nPero una vez que es excavado sin ninguna razón, extraerá la esencia vital de quien lo excavó.\\nPara así matar a quienes lo excavaron y obtener energía para sobrevivir."
+    "es": "Está enterrado profundamente bajo tierra y extrae la esencia de la tierra para mantener su vida.\nUno debe cortar su canal hacia la esencia de la tierra para obtenerla.\nPero una vez que es excavado sin ninguna razón, extraerá la esencia vital de quien lo excavó.\nPara así matar a quienes lo excavaron y obtener energía para sobrevivir."
   },
   {
     "id": "10303882",
     "keyID": "drama_dialogue2710512",
-    "es": "Una vez que el tesoro extrae la esencia vital de los seres humanos, experimentará una transformación completa hasta convertirse en una raíz espiritual genuina.\\nVivirá por sí solo después de eso y ya no necesitará extraer esencia del exterior.\\nEl punto clave es facilitar su transformación con la energía dentro de los cultivadores.\\nPuede beneficiar y dañar mucho a las personas."
+    "es": "Una vez que el tesoro extrae la esencia vital de los seres humanos, experimentará una transformación completa hasta convertirse en una raíz espiritual genuina.\nVivirá por sí solo después de eso y ya no necesitará extraer esencia del exterior.\nEl punto clave es facilitar su transformación con la energía dentro de los cultivadores.\nPuede beneficiar y dañar mucho a las personas."
   },
   {
     "id": "10303883",
@@ -76802,7 +76802,7 @@
   {
     "id": "10303917",
     "keyID": "drama_dialogue2710721",
-    "es": "Mi salvador, ahora iré a explorar de nuevo. Estas son algunas cosas preciosas que encontré recientemente, por favor tómalas.\\nVolveré en unos días y emprendamos otro viaje cuando nos volvamos a encontrar.\\nPor supuesto, siempre recuerdo lo que te prometí, ¡y todo lo que recibes ahora es el interés que pagué!"
+    "es": "Mi salvador, ahora iré a explorar de nuevo. Estas son algunas cosas preciosas que encontré recientemente, por favor tómalas.\nVolveré en unos días y emprendamos otro viaje cuando nos volvamos a encontrar.\nPor supuesto, siempre recuerdo lo que te prometí, ¡y todo lo que recibes ahora es el interés que pagué!"
   },
   {
     "id": "10303918",
@@ -83002,7 +83002,7 @@
   {
     "id": "8260737",
     "keyID": "drama_dialogue2812111",
-    "es": "Siempre he pensado que despedirse es algo muy triste.\\nPero si no me despido de ti, no soy capaz de separarme. Ya que es así, permíteme despedirme de ti como es debido. No sé qué opinas de mí, pero durante el tiempo que hemos pasado juntos te he considerado mi mejor amigo.\\nNo sé qué opinas de mí, pero durante el tiempo que hemos pasado juntos te he considerado mi mejor amigo.\\nQuiero quedarme para siempre en los Ocho Yermos, así podré seguir pegándome a ti. Supongo que esto es lo que llaman amor.\\nSé que tienes la mente puesta en avanzar en tu cultivo, así que te dejo estos tesoros del Cielo y la Tierra. Espero que todo te vaya bien.\\nAdiós."
+    "es": "Siempre he pensado que despedirse es algo muy triste.\nPero si no me despido de ti, no soy capaz de separarme. Ya que es así, permíteme despedirme de ti como es debido. No sé qué opinas de mí, pero durante el tiempo que hemos pasado juntos te he considerado mi mejor amigo.\nNo sé qué opinas de mí, pero durante el tiempo que hemos pasado juntos te he considerado mi mejor amigo.\nQuiero quedarme para siempre en los Ocho Yermos, así podré seguir pegándome a ti. Supongo que esto es lo que llaman amor.\nSé que tienes la mente puesta en avanzar en tu cultivo, así que te dejo estos tesoros del Cielo y la Tierra. Espero que todo te vaya bien.\nAdiós."
   },
   {
     "id": "8260738",
@@ -86392,7 +86392,7 @@
   {
     "id": "8250505",
     "keyID": "drama_dialogue2823621",
-    "es": "Mientras otras flores se marchitan y se desvanecen, tú solo floreces espléndidamente en el vaivén del jardín. Las sombras danzan sobre aguas claras, dispersas y ligeras, mientras una fragancia sutil flota en la noche iluminada por la luna.\\nLos pájaros tocados por la escarcha se detienen, mirando furtivamente hacia abajo; las mariposas perderían sus almas si lo supieran. Tus suaves susurros son suficiente compañía para mí, y no hay necesidad de vino ni canciones para liberar mi espíritu."
+    "es": "Mientras otras flores se marchitan y se desvanecen, tú solo floreces espléndidamente en el vaivén del jardín. Las sombras danzan sobre aguas claras, dispersas y ligeras, mientras una fragancia sutil flota en la noche iluminada por la luna.\nLos pájaros tocados por la escarcha se detienen, mirando furtivamente hacia abajo; las mariposas perderían sus almas si lo supieran. Tus suaves susurros son suficiente compañía para mí, y no hay necesidad de vino ni canciones para liberar mi espíritu."
   },
   {
     "id": "8250506",
@@ -94027,7 +94027,7 @@
   {
     "id": "8252524",
     "keyID": "drama_dialogue2847207",
-    "es": "Nosotros, del clan Xiang, incluso después de que la fortuna nos permita abandonar la prefectura de Chiyou, debemos recordar siempre nuestras enseñanzas ancestrales.\\nNosotros, del clan Xiang, incluso después de que la fortuna nos permita abandonar la prefectura de Chiyou, debemos recordar siempre nuestras enseñanzas ancestrales.\\nLa variedad de bestias demoníacas es enorme; las generaciones futuras de descendientes deberán seguir cumpliendo estas enseñanzas durante generaciones. Recuérdenlo, recuérdenlo."
+    "es": "Nosotros, del clan Xiang, incluso después de que la fortuna nos permita abandonar la prefectura de Chiyou, debemos recordar siempre nuestras enseñanzas ancestrales.\nNosotros, del clan Xiang, incluso después de que la fortuna nos permita abandonar la prefectura de Chiyou, debemos recordar siempre nuestras enseñanzas ancestrales.\nLa variedad de bestias demoníacas es enorme; las generaciones futuras de descendientes deberán seguir cumpliendo estas enseñanzas durante generaciones. Recuérdenlo, recuérdenlo."
   },
   {
     "id": "8252525",
@@ -94042,7 +94042,7 @@
   {
     "id": "8252527",
     "keyID": "drama_dialogue2847210",
-    "es": "Las ilustraciones de mis antepasados son verdaderamente burdas. ¿Cómo podría incluso el artista más hábil capturar a la perfección los diversos estados de las bestias demoníacas?\\n¡Qué ignorancia! Hace poco capturé un Bambuki y lo llevé a mi cámara interior. Lo corté segmento por segmento con una cuchilla, extrayendo todo lo que había dentro.\\nSus órganos tenían una forma extraña, completamente diferente a la nuestra.\\nSi un solo Bambuki pudo resultar tan esclarecedor, ¡no puedo imaginar lo que otras bestias podrían revelar!\\nSí, solo necesito capturarlos a todos y traerlos de vuelta. ¡Los abriré uno por uno y los examinaré cuidadosamente hasta que entienda todo!"
+    "es": "Las ilustraciones de mis antepasados son verdaderamente burdas. ¿Cómo podría incluso el artista más hábil capturar a la perfección los diversos estados de las bestias demoníacas?\n¡Qué ignorancia! Hace poco capturé un Bambuki y lo llevé a mi cámara interior. Lo corté segmento por segmento con una cuchilla, extrayendo todo lo que había dentro.\nSus órganos tenían una forma extraña, completamente diferente a la nuestra.\nSi un solo Bambuki pudo resultar tan esclarecedor, ¡no puedo imaginar lo que otras bestias podrían revelar!\nSí, solo necesito capturarlos a todos y traerlos de vuelta. ¡Los abriré uno por uno y los examinaré cuidadosamente hasta que entienda todo!"
   },
   {
     "id": "8252528",
@@ -94062,7 +94062,7 @@
   {
     "id": "8252531",
     "keyID": "drama_dialogue2847214",
-    "es": "¡Mis logros ya han superado a todos mis antepasados!\\nEn la finca ya hay más de trescientas estatuas de bestias demoníacas. Normalmente permanecen de pie, una junto a otra, dentro de la casa, tranquilas, como mis sirvientes más fieles.\\nSegún los registros de mis antepasados, en la prefectura de Chiyou hay dos bestias demoníacas muy especiales: Pupila Brillante de Seis Ojos y Jiuying.\\n¡Debo encontrar la manera de ir a la prefectura de Chiyou y capturar a esas dos bestias demoníacas!\\nQuiero colocarlas delante de la cama. Así podré contemplarlas día y noche."
+    "es": "¡Mis logros ya han superado a todos mis antepasados!\nEn la finca ya hay más de trescientas estatuas de bestias demoníacas. Normalmente permanecen de pie, una junto a otra, dentro de la casa, tranquilas, como mis sirvientes más fieles.\nSegún los registros de mis antepasados, en la prefectura de Chiyou hay dos bestias demoníacas muy especiales: Pupila Brillante de Seis Ojos y Jiuying.\n¡Debo encontrar la manera de ir a la prefectura de Chiyou y capturar a esas dos bestias demoníacas!\nQuiero colocarlas delante de la cama. Así podré contemplarlas día y noche."
   },
   {
     "id": "8252532",
@@ -94087,7 +94087,7 @@
   {
     "id": "8252536",
     "keyID": "drama_dialogue2847219",
-    "es": "¡He encontrado rastros de Pupila Brillante de Seis Ojos!\\n¿Cómo llegó desde la prefectura de Chiyou hasta Yong Ning?\\nPero eso ya no importa. Convertida en humana, es realmente hermosa…\\nNo, no puedo convertirla en una estatua.\\n¡Quiero que me acompañe y me sirva todos los días!\\n¡Entonces seremos una pareja de inmortales!"
+    "es": "¡He encontrado rastros de Pupila Brillante de Seis Ojos!\n¿Cómo llegó desde la prefectura de Chiyou hasta Yong Ning?\nPero eso ya no importa. Convertida en humana, es realmente hermosa…\nNo, no puedo convertirla en una estatua.\n¡Quiero que me acompañe y me sirva todos los días!\n¡Entonces seremos una pareja de inmortales!"
   },
   {
     "id": "8252537",
@@ -104377,17 +104377,17 @@
   {
     "id": "6107001",
     "keyID": "drama_dialogue6371402",
-    "es": "Nuestros propósitos de la secta:\\n{0}, {1}.\\n{2}, {3}."
+    "es": "Nuestros propósitos de la secta:\n{0}, {1}.\n{2}, {3}."
   },
   {
     "id": "6107101",
     "keyID": "drama_dialogue6371403",
-    "es": "Nuestras reglas de la secta:\\n{0}, {1}."
+    "es": "Nuestras reglas de la secta:\n{0}, {1}."
   },
   {
     "id": "6107201",
     "keyID": "drama_dialogue6371404",
-    "es": "A pesar de las exigentes reglas de la secta, tenemos nuestras características:\\n{0}, {1}."
+    "es": "A pesar de las exigentes reglas de la secta, tenemos nuestras características:\n{0}, {1}."
   },
   {
     "id": "6107301",
@@ -112187,42 +112187,42 @@
   {
     "id": "10301051",
     "keyID": "drama_dialogue8210151",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301052",
     "keyID": "drama_dialogue8210152",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301053",
     "keyID": "drama_dialogue8210153",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301054",
     "keyID": "drama_dialogue8210154",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301055",
     "keyID": "drama_dialogue8210155",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301056",
     "keyID": "drama_dialogue8210156",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301057",
     "keyID": "drama_dialogue8210157",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301058",
     "keyID": "drama_dialogue8210158",
-    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo..."
+    "es": "{call|B|A}, ¿cómo puedes viajar sin un buen anillo? Vamos. Conozco un lugar que, aunque está ocupado por <r>monstruos del reino {grade|A}</r>, también ofrece muchas aventuras. Si unimos fuerzas, podremos acabar con ellos o, al menos, retirarnos a salvo…"
   },
   {
     "id": "10301059",
@@ -112882,12 +112882,12 @@
   {
     "id": "8243027",
     "keyID": "drama_dialogue9000622",
-    "es": "Los patrones demoníacos en el cuerpo del Demonio Abisal parpadean con lo que parece respirar, y el aura que emite se vuelve cada vez más fuerte… Pero parece estar concentrado en transformar energía, y no está interesado en perseguirte por ahora.. Se irá solo en poco tiempo."
+    "es": "Los patrones demoníacos en el cuerpo del Demonio Abisal parpadean con lo que parece respirar, y el aura que emite se vuelve cada vez más fuerte… Pero parece estar concentrado en transformar energía, y no está interesado en perseguirte por ahora… Se irá solo en poco tiempo."
   },
   {
     "id": "8243028",
     "keyID": "drama_dialogue9000701",
-    "es": "A mitad de camino, de repente sientes una ráfaga de viento detrás de ti y te giras instintivamente para ver que un enorme abismo parece haberse abierto en el suelo detrás de ti. Un espeso aire abisal se está extendiendo desde el abismo. "
+    "es": "A mitad de camino, de repente sientes una ráfaga de viento detrás de ti y te giras instintivamente para ver que un enorme abismo parece haberse abierto en el suelo detrás de ti. Un espeso aire abisal se está extendiendo desde el abismo."
   },
   {
     "id": "8243029",
@@ -127157,32 +127157,32 @@
   {
     "id": "5106329",
     "keyID": "eventLogRescueNPC9821000",
-    "es": "Encontrado {1} tirado en el suelo mientras peleaba en una guarida de monstruos.\\n{1} escapó con mi ayuda."
+    "es": "Encontrado {1} tirado en el suelo mientras peleaba en una guarida de monstruos.\n{1} escapó con mi ayuda."
   },
   {
     "id": "5106330",
     "keyID": "eventLogRescueNPC9821000",
-    "es": "Encontramos a {1} tirado en el suelo mientras peleaba en una guarida de monstruos.\\n{1} no lo logró."
+    "es": "Encontramos a {1} tirado en el suelo mientras peleaba en una guarida de monstruos.\n{1} no lo logró."
   },
   {
     "id": "5106327",
     "keyID": "eventLogRescueNPC9821001",
-    "es": "Estaba atrapado en una guarida de monstruos y corría grave peligro.\\nEscapó con la ayuda de {0}."
+    "es": "Estaba atrapado en una guarida de monstruos y corría grave peligro.\nEscapó con la ayuda de {0}."
   },
   {
     "id": "5106328",
     "keyID": "eventLogRescueNPC9821001",
-    "es": "Estaba atrapado en una guarida de monstruos y estaba en grave peligro.\\nMurió."
+    "es": "Estaba atrapado en una guarida de monstruos y estaba en grave peligro.\nMurió."
   },
   {
     "id": "5106332",
     "keyID": "eventLogRescueNPC9822000",
-    "es": "Llegué a {1} en la ciudad,\\ny {1} me regaló un Tesoro del Cielo y la Tierra por salvarles la vida."
+    "es": "Llegué a {1} en la ciudad,\ny {1} me regaló un Tesoro del Cielo y la Tierra por salvarles la vida."
   },
   {
     "id": "5106331",
     "keyID": "eventLogRescueNPC9822001",
-    "es": "Entré en su salvavidas {0} en la ciudad,\\ny les di un Tesoro del Cielo y la Tierra como agradecimiento."
+    "es": "Entré en su salvavidas {0} en la ciudad,\ny les di un Tesoro del Cielo y la Tierra como agradecimiento."
   },
   {
     "id": "5106334",
@@ -127192,17 +127192,17 @@
   {
     "id": "5106333",
     "keyID": "eventLogRescueNPC9823001",
-    "es": "Entró en su salvavidas {0} mientras pasaba por la guarida del monstruo,\\ny unió fuerzas para luchar juntos."
+    "es": "Entró en su salvavidas {0} mientras pasaba por la guarida del monstruo,\ny unió fuerzas para luchar juntos."
   },
   {
     "id": "5106336",
     "keyID": "eventLogRescueNPC9831000",
-    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\\n¿Parecía ser una emboscada para matarme?"
+    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\n¿Parecía ser una emboscada para matarme?"
   },
   {
     "id": "5106335",
     "keyID": "eventLogRescueNPC9831001",
-    "es": "Intenté tender una emboscada, asesinar y robar a {0} en la guarida de los monstruos para volverse más fuerte,\\npero fallé."
+    "es": "Intenté tender una emboscada, asesinar y robar a {0} en la guarida de los monstruos para volverse más fuerte,\npero fallé."
   },
   {
     "id": "5106338",
@@ -127212,7 +127212,7 @@
   {
     "id": "5106337",
     "keyID": "eventLogRescueNPC9832001",
-    "es": "Intenté tender una emboscada, asesinar y robar a {0} en la guarida de los monstruos para volverse más fuerte,\\npero fallé."
+    "es": "Intenté tender una emboscada, asesinar y robar a {0} en la guarida de los monstruos para volverse más fuerte,\npero fallé."
   },
   {
     "id": "5106339",
@@ -127227,12 +127227,12 @@
   {
     "id": "5106340",
     "keyID": "eventLogRescueNPC9833001",
-    "es": "Entré en {0}, la otra persona de un asesinato fallido.\\nMe atraparon y entregué todos los materiales útiles."
+    "es": "Entré en {0}, la otra persona de un asesinato fallido.\nMe atraparon y entregué todos los materiales útiles."
   },
   {
     "id": "5106343",
     "keyID": "eventLogRescueNPC9841000",
-    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\\n¿Parecía ser una emboscada para matarme?"
+    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\n¿Parecía ser una emboscada para matarme?"
   },
   {
     "id": "5106342",
@@ -127262,7 +127262,7 @@
   {
     "id": "5106349",
     "keyID": "eventLogRescueNPC9851000",
-    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\\n¿Parecía ser una prueba?"
+    "es": "Me encontré con {1} en el suelo mientras luchaba en la guarida de los monstruos.\n¿Parecía ser una prueba?"
   },
   {
     "id": "5106348",
@@ -127282,12 +127282,12 @@
   {
     "id": "5106353",
     "keyID": "eventLogRescueNPC9853000",
-    "es": "Visité la secta de {1},\\ny obtuve un manual para una Habilidad Mental suprema a pedido de la Tradición."
+    "es": "Visité la secta de {1},\ny obtuve un manual para una Habilidad Mental suprema a pedido de la Tradición."
   },
   {
     "id": "5106352",
     "keyID": "eventLogRescueNPC9853001",
-    "es": "Estaba en la secta y me encontré con {0}, un cultivador probado.\\nSe le pasó un manual para una Habilidad Mental suprema a pedido de la Tradición."
+    "es": "Estaba en la secta y me encontré con {0}, un cultivador probado.\nSe le pasó un manual para una Habilidad Mental suprema a pedido de la Tradición."
   },
   {
     "id": "333800",
@@ -133307,7 +133307,7 @@
   {
     "id": "10310721",
     "keyID": "taskDesc2832716",
-    "es": "Ayuda a Yin'er a reunir objetos para intercambiar con el cultivador.\\nRequerido: Piedras espirituales x1,000, {itemLink5021164} x2."
+    "es": "Ayuda a Yin'er a reunir objetos para intercambiar con el cultivador.\nRequerido: Piedras espirituales x1,000, {itemLink5021164} x2."
   },
   {
     "id": "10310723",

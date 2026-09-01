@@ -92,7 +92,7 @@ The one-argument `GameTool.LS(string)` overload delegates to `GameTool.LS(string
 
 ## Current mod behavior
 
-`SpanishLocalePatches.cs` replaces `__result` in postfixes for `GameTool.LS`, `ConfLocalTextEx.text`, and the other localization properties. Spanish `LocalText` and `RoleLogLocal` values are passed through `GameTool.TextToData` before replacement. The native function runs its data-substitution passes and ends by calling `LSTextReplaceColor`; this is the game pipeline used to process dynamic text, stored `\\n` escapes, and internal color aliases. Explicit TextMeshPro tags such as `<color=#004FCA>` are preserved. The final rendering behavior must still be verified in-game.
+`SpanishLocalePatches.cs` replaces `__result` in postfixes for `GameTool.LS`, `ConfLocalTextEx.text`, and the other localization properties. Spanish `LocalText` and `RoleLogLocal` values are passed through `GameTool.TextToData` before replacement. The native function runs its data-substitution passes and ends by calling `LSTextReplaceColor`; this is the game pipeline used to process dynamic text, the escape sequences `\n`, `\t`, and `\\`, and internal color aliases. The processed mirror may contain a defective duplicated or misplaced escape representation; runtime behavior, not that mirror artifact, is authoritative. Explicit TextMeshPro tags such as `<color=#004FCA>` are preserved. The final rendering behavior must still be verified in-game.
 
 This color conversion addresses literal `<r>`, `<g>`, and `<b>` tags, which are internal game aliases rather than standard Unity rich text. The managed wrapper does not prove the native transformation; confirm the complete behavior with `GameAssembly.dll` analysis or a runtime test.
 

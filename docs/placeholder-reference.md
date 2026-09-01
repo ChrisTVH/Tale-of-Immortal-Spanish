@@ -19,7 +19,7 @@ The inventory below is a static scan of one repository snapshot. Each `total / d
 | Rich-text tags | 14,415 | 1,308 | Color, size, alignment, links, and UI formatting |
 | `[ ... ]` | 11 | 0 | Keyboard prompts and visible delimiters |
 | `【 ... 】` | 566 | 1 | Visible Chinese brackets, sometimes around placeholders |
-| `\\n` / `\\t` | 8,370 / 23 | 147 / 0 | Stored newline and tab escapes |
+| `\\n` / `\\t` | 8,370 / 23 | 147 / 0 | Escape sequences processed by the game as newlines and tabs; counts are from the inspected mirror snapshot |
 | `|` | 756 | 33,209 | Arguments, expressions, visible separators, and dialogue delimiters |
 | `%` | 3,857 | 6 | Dynamic operators or visible percentage text |
 
@@ -115,12 +115,12 @@ Square brackets are usually visible keyboard prompts or UI delimiters:
 
 Chinese brackets such as `【{0}】`, quotation marks such as `「...」`, and full-width parentheses `（...）` are normally visible text. Preserve them unless the surrounding sentence requires a grammatical correction.
 
-Distinguish JSON escaping from the value received by the game. For example, the processed source currently stores `\\n` (which decodes to the two characters `\\` and `n`), while the Spanish `LocalText.json` contains `\n` at the corresponding sample (which decodes to a real newline). Do not make these forms equivalent by appearance; preserve the form expected by the runtime and test it. The same applies to `\\t`, escaped backslashes, and `\\"`.
+The game processes the escape sequences `\n`, `\t`, and `\\` as a newline, a tab, and a literal backslash. Distinguish JSON source encoding from the value received by the game: a JSON source token such as `"\\n"` decodes to the two characters `\` and `n`, which the localization pipeline then processes as a newline. The processed mirror may contain duplicated or misplaced escape tokens because of a mirror-generation defect; its raw escape layout is not authoritative for runtime behavior. Preserve the logical position of every escape in the translated sentence and validate the resulting JSON and in-game rendering. The same rule applies to `\\t`, escaped backslashes, and `\\"`.
 
 ## Editing rules
 
 1. Compare the Spanish value with the matching processed source entry.
-2. Keep every placeholder, variable, tag, escape, and intentional separator.
+2. Keep every placeholder, variable, tag, escape, and intentional separator; validate escape semantics against the game rather than copying a defective mirror representation.
 3. Translate text outside syntax only.
 4. Do not replace internal color aliases with arbitrary HTML colors.
 5. Validate JSON, unique IDs, placeholder signatures, and tag nesting before committing.
