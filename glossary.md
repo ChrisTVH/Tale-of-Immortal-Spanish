@@ -30,6 +30,17 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | --- | --- | --- |
 | cultivation | cultivo | Incluye el cultivo de personajes y bestias. |
 | cultivator | cultivador / cultivadora | Según el personaje. |
+| 仙长 | Cultivador mayor | Tratamiento respetuoso para un cultivador de mayor rango o experiencia. |
+| 仙侠 | héroe inmortal | Persona cultivadora de carácter heroico. |
+| 前辈 / senior | superior / mayor | Tratamiento jerárquico; usar según el contexto de la frase. |
+| 师姐 / senior sister | superiora | Tratamiento femenino para una discípula de mayor rango o antigüedad. |
+| 小师妹 / junior sister | discípula menor | Tratamiento femenino para una discípula de menor rango o antigüedad. |
+| 晚辈 / junior | discípulo menor | Autorreferencia respetuosa de una persona de menor rango o antigüedad. |
+| 后生 / junior cultivator | cultivador menor | Tratamiento para un cultivador de menor rango o antigüedad; especialmente en RoleCall. |
+| 灵素前辈 / Senior Lingsu | superior Lingsu | Tratamiento jerárquico; no forzar el género cuando el contexto no lo determina. |
+| 亚神 / Senior Soul | conciencia superior | Una de las tres conciencias; corresponde a la conciencia de mayor antigüedad. |
+| 上宗 / Secta Senior | Secta Mayor | Denominación jerárquica de una secta superior en RoleLogLocal. |
+| 下宗 / Secta Junior | Secta Menor | Denominación jerárquica de una secta inferior en RoleLogLocal. |
 | Qi | Qi | No traducir. |
 | spirit | espíritu | — |
 | soul | alma | — |
@@ -66,18 +77,23 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 金丹极品心法 / Golden Core supreme mental skill | habilidad mental de grado supremo del Núcleo Dorado | — |
 | cultivation partner / 道侣 | pareja de cultivo | — |
 | 散修 / rogue cultivator | cultivador rebelde | — |
+| 师兄 / senior brother | superior / hermano mayor | Tratamiento masculino para un discípulo de mayor rango o antigüedad; usar según el contexto. |
 | 正道 / righteous path | camino recto | — |
 | 魔道 / demonic path | camino demoníaco | — |
 | 情花 / love flower | flor del amor | — |
 | 正气 / righteous energy | energía recta | — |
 | 灵气 / spiritual Qi | Qi espiritual | — |
 | 冥气 / nether Qi | Aire Abisal | No confundir con Qi espiritual. |
+| 冥妖 / Nether Demon(s) | Demonio Abisal / Demonios Abisales | Singular o plural según el contexto. |
 | 灵冥二气 | Qi espiritual y Aire Abisal | — |
 | 先天一气 / Primordial Qi | Aire Primordial | — |
 | 浩然气 / Vast Qi | energía vasta | — |
+| 木灵 / Wood Spirit | espíritu de Madera | — |
+| 道根 / Dao Root | raíz del Dao | — |
 | 道力 / Dao Power | poder del Dao | — |
 | Ethereal Power / 飘渺之力 / ethereal power | poder etéreo | — |
 | 神念 / divine sense | conciencia divina | — |
+| 神识 (RoleLogLocal) | conciencia espiritual | En los diálogos asignados de RoleLogLocal. |
 | 主神 / main spirit | conciencia principal | — |
 | 次神 / secondary spirit | conciencia secundaria | — |
 | 元灵 / primordial spirit | espíritu primordial | — |
@@ -99,6 +115,7 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 外门弟子 / 内门弟子 | discípulo externo / discípulo interno | — |
 | master / disciple | Maestro / Maestra; Aprendiz o Discípulo | Según género y contexto. |
 | spirit root / 灵根 | raíz espiritual | — |
+| 三阴绝脉体质 / 三阴绝脉体 | constitución de los Tres Meridianos Yin Extremos | Constitución cuyos meridianos están bloqueados por energía yin. |
 | insight / 心得 | conocimiento o comprensión | Según el contexto. |
 | progress / 进益 | progreso | — |
 | 气运 / fortune | fortuna | — |
@@ -173,6 +190,8 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | Sword Heart | Corazón de Espada | — |
 | Puppet Soul Fusion | Fusión del Alma de Marioneta | — |
 | Spirit Sight | Visión Espiritual | — |
+| 真视灵烟 / True Sight Smoke | Humo de Visión Verdadera | Humo que bloquea ligeramente el Aire Abisal. |
+| 天道之气 / Heaven Auras | Aura Celestial | Recurso obtenido en los registros mensuales. |
 | 三清 / Three Pure Ones | Tres Purezas | — |
 | 太荒蝡蛇劲 | Técnica de la Gran Serpiente Primordial | — |
 | 蓄势 / Power Build | Preparación de Fuerza | — |
@@ -243,13 +262,16 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | Mysterious Shield | Escudo Misterioso | — |
 | Forge Quartz | Cuarzo de Forja | — |
 | Soul Jade | Jade de Alma | — |
+| 心梦镜 / Heartdream Mirror | Espejo del Corazón Onírico | Artefacto de los diálogos de RoleLogLocal. |
 | 玄珠 / Arcane Bead | Perla Misteriosa | — |
 | 界元石 / Realm Origin Stone | Piedra del Origen | — |
 | 冥屑 / Nether Shard | Fragmento Abisal | Nombre de material. |
+| 冥气结晶 / Nether Qi Crystal | cristal de Aire Abisal | Material utilizado por el Espejo del Corazón Onírico. |
 | 星砾 / Star Fragment | Fragmento Estelar | Nombre de material. |
 | 羽圭 / Gentle Scintilla | Destello Suave | Nombre de material. |
 | 仙琼 / Immortal Jade | Jade Inmortal | Nombre de material. |
 | 上古遗迹传送符 / Ancient Ruins Teleportation Talisman | Talismán de teletransportación a ruinas antiguas | — |
+| 太古残卷 / Aeon Remnant Scroll | Pergamino Antiguo | Tesoro que puede cambiar el destino de una secta. |
 | 啸天元元鼎 / Sky Roarer Primordial Cauldron | Caldero Primordial de Aullido Celestial | — |
 | 玄黄母气 / Primordial Xuanhuang Qi | Esencia Madre de Xuanhuang | — |
 | 龙珠 / Dragon Orb | Orbe del Dragón | Una única equivalencia para todas sus apariciones. |
@@ -282,12 +304,23 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 双鱼佩 / Shuangyu Pei | Doble Pez (talismán) | Nombre de objeto; conservar la referencia pinyin. |
 | 阳炎精金 / Sun Flame | Llama del Sol | — |
 | 阳炎晶金 / Sunfire Crystal | Cristal de Fuego Solar | — |
+| 镇川 / Zhenchuan | Zhenchuan | Nombre del colgante de jade de los diálogos de RoleLogLocal. |
 | Osmanthus | osmanto | — |
+| 紫元花 | flor Zi Yuan | Planta específica; no sustituir por «flor púrpura». |
 | 妄象 | Espejismo | — |
 | 玄召 | Invocación arcana | — |
 | 魅壤 / Tempting Soil | Tierra Tentadora | — |
 | 炼体丹 / Physique Elixir | Elixir físico | — |
+| 玉冰烧 / Jade Ice | Hielo de Jade | Nombre de bebida en los diálogos de RoleLogLocal. |
+| 竹叶青 | Bambú Verde | Nombre de bebida en los diálogos de RoleLogLocal. |
+| 万年春 / Wannianchun | Primavera Milenaria | Nombre de bebida en los diálogos de RoleLogLocal. |
+| 十八仙 | Dieciocho Inmortales | Nombre de bebida en los diálogos de RoleLogLocal. |
+| 醉生梦死 | Sueño Ebrio | Nombre de bebida en los diálogos de RoleLogLocal. |
 | 拘灵符 / Soul Cage Talisman | Talismán de la jaula del alma | — |
+| 迅雷符 / Thunder Talisman | Talismán del Trueno | — |
+| 灵盾符 / Spiritual Shield Talisman | Talismán del Escudo Espiritual | — |
+| 凶卫符 / Necromancer's Talisman | Talismán del Guardián Feroz | — |
+| 瞬移符 / Teleportation Talisman | Talismán de Teletransportación | — |
 | 甘露符 / Manna Talisman | Talismán de maná | — |
 | 诱兽符 / Monster Lure Talisman | Talismán de señuelo de monstruos | — |
 | 浴火石 / Flameward Stone | Piedra bañada en fuego | — |
@@ -345,6 +378,9 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 金阳火榴果 / Blazing Sun Berry | Baya del Sol Ardiente | — |
 | 阳王丹炉 / Sun Crow Furnace | Horno del Rey Sol | — |
 | 云锦素绢 / Brocade Silk | Seda Brocada | — |
+| 编修 | editor / compilador | Cargo del Pabellón Langya; elegir según el contexto. |
+| 结庐 | construir o establecer una cabaña o vivienda | Acción de establecer una residencia temporal. |
+| 水工 | trabajador / ingeniero hidráulico | Oficio de los descendientes encargados del control de inundaciones. |
 | 冰羽石像 | Estatua de Plumas de Hielo | — |
 | 镇元锁灵阵 / Spiritlock Array | formación de bloqueo espiritual que suprime el Yuan | — |
 | 念力 / Focus | Enfoque | — |
@@ -394,6 +430,7 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 青鸾 / Azure Luan | Pájaro Azul | — |
 | 孔雀 / peacock | Pavo Real | — |
 | 魔猿 / Dire Ape(s) | simio feroz / simios feroces | Singular o plural según la oración. |
+| 小怪 / mobs | monstruos | En descripciones de enemigos genéricos. |
 | 冥气仙卫 / Nether Air Guard | Guardia del Aire Abisal | — |
 | 鸣蛇 / Chiming Serpent | Serpiente Resonante | — |
 | 幽冥青蛇 / Netherworld Green Serpent | Serpiente Verde Abisal | — |
@@ -432,6 +469,8 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | Herb Garden | Jardín de Hierbas | — |
 | 八荒 | Ocho Yermos | — |
 | 八荒界 / Eight Wastelands Realm | Reino de los Ocho Yermos | — |
+| 大冶台 | Dayetai | Lugar; conservar esta forma propia en RoleLogLocal. |
+| 赤幽州 | prefectura de Chiyou | Topónimo de RoleLogLocal; conservar Chiyou como nombre propio. |
 | 议事大厅 | Salón del Consejo | — |
 | 招贤堂 | salón de reclutamiento | — |
 | 龙门 / Dragon Gate | Puerta del Dragón | — |
@@ -440,6 +479,7 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | Sect Tradition | Tradición de la Secta | — |
 | Everfrost | Páramo Helado | Nombre de lugar. |
 | 永恒冰原 / Everlasting Icefield | Páramo Helado | Misma forma canónica de lugar. |
+| 迷途荒漠 / Wayward Desert | Desierto del Extravío | Lugar. |
 | Dark Wind Grass | Hierba Viento Oscuro | — |
 | Dragon Vein / 龙脉 | Vena de Dragón | — |
 | 流沙之域 / Quicksand's Reach | Tierras de Arenas Movedizas | — |
@@ -461,7 +501,10 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | 御龙山庄 / Dragon-Taming Mountain Villa | Secta de la Montaña Domadora de Dragones | — |
 | 御兽山庄 / Beast-Taming Mountain Villa | Secta de la Montaña Domadora de Bestias | — |
 | 御龙仙师 / Dragon-Taming Immortal Master | Maestro Inmortal Domador de Dragones | Título. |
+| 建木 / Jianmu | árbol Jianmu | Árbol mítico de los diálogos de RoleLogLocal. |
+| 太古玄门 / Primordial Mysterious Sect | Puerta Misteriosa Primordial | Facción vinculada a Xingtian. |
 | 玄天斩仙阵 | Formación Celestial de Ejecución Inmortal | — |
+| 祈天台 / Prayer Heaven Platform | Terraza de Oración Celestial | Lugar. |
 | 幽窟 | caverna abisal | — |
 | 藏经阁 / Manual Library | Biblioteca de manuales | — |
 | 灵阁 / Spirit Pavilion | Pabellón de los Espíritus | — |
@@ -510,6 +553,7 @@ Conservar los siguientes nombres en su forma canónica. No convertirlos en tradu
 | --- | --- | --- |
 | Yunmozou, Muxianzhou, Wuji, Bugui | Yunmozou, Muxianzhou, Wuji, Bugui | Pinyin ya establecido. |
 | 扶桑 / Fusang | Morera Divina | Topónimo o entidad; conservar la referencia Fusang cuando aparezca como nombre. |
+| 赤幽别志 | Anécdotas de Chi You | Título del libro de los diálogos de RoleLogLocal; no confundir con el topónimo `赤幽州`. |
 | 扶桑树枝 / Mulberry Branch | rama de morera | Objeto; no traducir como «sucursal». |
 | 昆仑仙池 / Kunlun Immortal Pond | Estanque Inmortal Kunlun | Lugar. |
 | 息壤 / Xirang | Xirang / Piedra Divina Xirang | `Xirang` como nombre; «Piedra Divina Xirang» en contexto descriptivo. |
@@ -561,6 +605,7 @@ Conservar los siguientes nombres en su forma canónica. No convertirlos en tradu
 | Zheng / 正 | Zheng | Nombre de pueblo, no «justo» ni «recto». |
 | 小小 / Lil' / little | Pequeño | En nombres de mazmorra. |
 | 夕颜 / Xiyan | flor Xiyan | Nombre de planta. |
+| 小姐 | señorita | Tratamiento para una mujer joven. |
 | 九霄雷神 / Cloud Nine Hatuibwari | Dios del Trueno de los Nueve Cielos | Nombre o título. |
 | 东方沐晴 / Dongfang Muqing | Dongfang Muqing | Personaje femenino. |
 | 沁圭 / Qingui | Qingui | Guqin. |
@@ -593,6 +638,7 @@ Conservar los siguientes nombres en su forma canónica. No convertirlos en tradu
 | 蝡蛇大王 | Rey de la Gran Serpiente | Título de personaje. |
 | 九凤族 / Nine Phoenix clan | Clan Nueve Fénix | Facción; conservar el nombre. |
 | 乔 / Jo (cuando el espejo indica 李四) | Li Si | Alias residual en traducciones antiguas; usar solo cuando el chino confirme 李四. |
+| 木正句芒 / Muzheng Goumang | Muzheng Goumang | Personaje; género no determinado. |
 | Lydra / 开明兽 | Lidra | Nombre canónico de la criatura. |
 | Coatl / Cóatl / 鸣蛇 | Serpiente Resonante | Alias antiguo; usar la forma canónica cuando el espejo confirme 鸣蛇. |
 | Jiaolong / 蛟龙 | Dragón Jiao | Nombre canónico de la criatura. |
