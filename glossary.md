@@ -131,8 +131,8 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 | evasion / dodge (stat) | Evasión | — |
 | health / hit points | PV / Vida | `PV` en UI; `Vida` en texto narrativo. |
 | maximum health | PV máx. / Vida máxima | Según el espacio disponible. |
-| stamina / 体力 | Resistencia | — |
-| stamina recovery / 体力回复 | recuperación de resistencia | — |
+| health / hit points / 体力 | PV / Vida | `PV` en UI; `Vida` en texto narrativo. No confundir con `抗性` (Resistencia). |
+| health recovery / 体力回复 | recuperación de PV/Vida | `PV` en UI; `Vida` en texto narrativo. |
 | fire, water, lightning, wind, earth, wood | Fuego, Agua, Rayo, Viento, Tierra, Madera | Elementos. |
 | cooldown | enfriamiento | — |
 | attribute | atributo | — |

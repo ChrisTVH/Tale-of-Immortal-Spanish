@@ -5192,7 +5192,7 @@
   {
     "id": "52698",
     "key": "AppellationTitleTips2500",
-    "es": "Aumenta la fuerza física máxima, haciendo que sea más fácil ganarse el favor de los Cultivadores inmortales."
+    "es": "Aumenta la Vida máxima, haciendo que sea más fácil ganarse el favor de los Cultivadores inmortales."
   },
   {
     "id": "54930",
@@ -16962,7 +16962,7 @@
   {
     "id": "50719",
     "key": "D_playerInfo_tilihuifu",
-    "es": "Recuperación de resistencia"
+    "es": "Recuperación de PV"
   },
   {
     "id": "50787",
@@ -96517,12 +96517,12 @@
   {
     "id": "12046",
     "key": "effect_desc4100001",
-    "es": "Recupera 200 de vigor"
+    "es": "Recupera 200 PV"
   },
   {
     "id": "12047",
     "key": "effect_desc4100002",
-    "es": "Recupera 500 de vigor"
+    "es": "Recupera 500 PV"
   },
   {
     "id": "12048",
@@ -96547,7 +96547,7 @@
   {
     "id": "12052",
     "key": "effect_desc4100011",
-    "es": "Recupera vigor: {0}"
+    "es": "Recupera PV: {0}"
   },
   {
     "id": "12122",
@@ -98362,7 +98362,7 @@
   {
     "id": "12374",
     "key": "effect_value_desc101",
-    "es": "Recuperar fuerza física:{0}"
+    "es": "Recuperar PV: {0}"
   },
   {
     "id": "12375",
@@ -98372,7 +98372,7 @@
   {
     "id": "12376",
     "key": "effect_value_desc103",
-    "es": "Resistencia actual consumida:{0}"
+    "es": "PV actuales consumidos: {0}"
   },
   {
     "id": "12377",
@@ -98732,7 +98732,7 @@
   {
     "id": "12448",
     "key": "effect_value_desc207",
-    "es": "Resistencia máxima para matar:{0}"
+    "es": "PV máx. para ejecutar: {0}"
   },
   {
     "id": "12449",
@@ -98817,12 +98817,12 @@
   {
     "id": "12465",
     "key": "effect_value_desc224",
-    "es": "Consumo de fuerza física actual:{0}%"
+    "es": "Consumo de PV actuales: {0}%"
   },
   {
     "id": "12466",
     "key": "effect_value_desc225",
-    "es": "Recuperación de resistencia por segundo:{0}%"
+    "es": "Recuperación de PV por segundo: {0}%"
   },
   {
     "id": "12467",
@@ -99077,7 +99077,7 @@
   {
     "id": "12517",
     "key": "effect_value_desc276",
-    "es": "Cada nivel aumenta la fuerza física:{0}%"
+    "es": "Cada nivel aumenta los PV: {0}%"
   },
   {
     "id": "12518",
@@ -99142,7 +99142,7 @@
   {
     "id": "12530",
     "key": "effect_value_desc289",
-    "es": "Resistencia digerida por segundo por punto de ataque:{0}"
+    "es": "PV digeridos por segundo por punto de ataque: {0}"
   },
   {
     "id": "12531",
@@ -99172,7 +99172,7 @@
   {
     "id": "12536",
     "key": "effect_value_desc295",
-    "es": "Mejora pasivamente la fuerza física del pequeño demonio de las flores:{0}"
+    "es": "Aumenta pasivamente los PV del pequeño demonio de las flores: {0}"
   },
   {
     "id": "12537",
@@ -99232,7 +99232,7 @@
   {
     "id": "12541",
     "key": "effect_value_desc47011",
-    "es": "Pérdida continua de fuerza física."
+    "es": "Pérdida continua de PV."
   },
   {
     "id": "12542",
@@ -99242,12 +99242,12 @@
   {
     "id": "12543",
     "key": "effect_value_desc47061",
-    "es": "Pérdida continua de fuerza física y reducción de la velocidad de movimiento."
+    "es": "Pérdida continua de PV y reducción de la velocidad de movimiento."
   },
   {
     "id": "12560",
     "key": "effect_value_desc100061",
-    "es": "Pérdida continua de fuerza física."
+    "es": "Pérdida continua de PV."
   },
   {
     "id": "12561",
@@ -99262,7 +99262,7 @@
   {
     "id": "12562",
     "key": "effect_value_desc110016",
-    "es": "Pérdida continua de fuerza física."
+    "es": "Pérdida continua de PV."
   },
   {
     "id": "12331",
@@ -100002,7 +100002,7 @@
   {
     "id": "52039",
     "key": "fateDesc11604",
-    "es": "Calificación de la raíz espiritual de Madera &11604_woodBasUp&. Cada punto de calificación puede aumentar la fuerza física máxima en &11604_hpMax&."
+    "es": "Calificación de la raíz espiritual de Madera &11604_woodBasUp&. Cada punto de calificación puede aumentar la Vida máxima en &11604_hpMax&."
   },
   {
     "id": "51958",
@@ -100297,7 +100297,7 @@
   {
     "id": "52040",
     "key": "fateDesc100032",
-    "es": "Al recibir daño, hay un &100032_fireChickProb&% de probabilidad de que aparezca un pollo en llamas para atacar al enemigo. Cada vez que se activa, puedes ganar un escudo igual al &100032_shieldRate&% de tu fuerza física máxima y liberar un Colapso de Montaña Puño"
+    "es": "Al recibir daño, hay un &100032_fireChickProb&% de probabilidad de que aparezca un pollo en llamas para atacar al enemigo. Cada vez que se activa, puedes ganar un escudo igual al &100032_shieldRate&% de tu Vida máxima y liberar un Puño Rompemontañas."
   },
   {
     "id": "52015",
@@ -100367,7 +100367,7 @@
   {
     "id": "52202",
     "key": "fateDesc201002",
-    "es": "La suerte es &41202_luckFix&% más efectiva. La recuperación de resistencia es solo del &41202_hpRestoreFix&%."
+    "es": "La suerte es &41202_luckFix&% más efectiva. La recuperación de PV es solo del &41202_hpRestoreFix&%."
   },
   {
     "id": "52203",
@@ -100397,7 +100397,7 @@
   {
     "id": "52208",
     "key": "fateDesc211002",
-    "es": "La Vida máxima es &21011_hpMaxProb&% menos efectiva. Daño de la unidad invocada &21011_zhshSum&%."
+    "es": "La Resistencia solo tiene un &21011_hpMaxProb&% de efecto. Daño de la unidad invocada: &21011_zhshSum&%."
   },
   {
     "id": "52209",
@@ -100422,7 +100422,7 @@
   {
     "id": "52221",
     "key": "fateDesc214001",
-    "es": "Cada vez que recibas daño, la fuente del daño recibirá un daño igual al &210141_dmgLost&% de la fuerza física máxima."
+    "es": "Cada vez que recibas daño, la fuente del daño recibirá un daño igual al &210141_dmgLost&% de tu Vida máxima."
   },
   {
     "id": "52222",
@@ -100497,7 +100497,7 @@
   {
     "id": "52218",
     "key": "fateDesc2060002",
-    "es": "Mientras permanece estacionario, la resistencia es &46101_pfrUp& y la recuperación de salud es &46101_hpRestoreUp&."
+    "es": "Mientras permaneces inmóvil, tu Resistencia es &46101_pfrUp& y la recuperación de Vida es &46101_hpRestoreUp&."
   },
   {
     "id": "22575",
@@ -108437,7 +108437,7 @@
   {
     "id": "16210",
     "key": "honor_text38",
-    "es": "Alimentar con hierbas medicinales o elixires puede restaurar la fuerza física y aumentar la intimidad."
+    "es": "Alimentar con hierbas medicinales o elixires puede restaurar la Vida y aumentar la intimidad."
   },
   {
     "id": "16212",
@@ -108867,7 +108867,7 @@
   {
     "id": "16123",
     "key": "honorLegendSkillDesc13",
-    "es": "Cuando cada monstruo muere, hay un 2% de probabilidad de dejar caer aleatoriamente una Fruta espiritual que puede restaurar 2400 puntos de fuerza física"
+    "es": "Cuando cada monstruo muere, hay un 2% de probabilidad de dejar caer aleatoriamente una Fruta espiritual que puede restaurar 2400 PV."
   },
   {
     "id": "16124",
@@ -108882,7 +108882,7 @@
   {
     "id": "16126",
     "key": "honorLegendSkillDesc16",
-    "es": "Cada vez que obtengas un nuevo regalo, se restaurarán 1500 puntos de fuerza física, poder espiritual y telequinesis"
+    "es": "Cada vez que obtengas un nuevo regalo, se restaurarán 1500 PV, poder espiritual y Enfoque."
   },
   {
     "id": "16127",
@@ -121927,7 +121927,7 @@
   {
     "id": "4049",
     "key": "item_desc6051371",
-    "es": "Un conjunto de instrucciones para preparar el Elixir físico.\nElixir físico: un elixir imprescindible si quieres llevar tu físico al límite. Úsalo para aumentar la Resistencia máxima en cierta cantidad."
+    "es": "Un conjunto de instrucciones para preparar el Elixir físico.\nElixir físico: un elixir imprescindible si quieres llevar tu físico al límite. Úsalo para aumentar la Vida máxima en cierta cantidad."
   },
   {
     "id": "4050",
@@ -155467,17 +155467,17 @@
   {
     "id": "23588",
     "key": "modEffectType1Name_hp",
-    "es": "Resistencia"
+    "es": "PV"
   },
   {
     "id": "23584",
     "key": "modEffectType1Name_hpMax",
-    "es": "Resistencia máxima"
+    "es": "PV máx."
   },
   {
     "id": "23604",
     "key": "modEffectType1Name_hpRes",
-    "es": "Recuperación de resistencia"
+    "es": "Recuperación de PV"
   },
   {
     "id": "23592",
@@ -158122,7 +158122,7 @@
   {
     "id": "23930",
     "key": "modEnum10017EnumDesc0",
-    "es": "Se pueden usar atributos con los valores máximos, como Resistencia, Vida, etc."
+    "es": "Se pueden usar atributos con los valores máximos, como PV, Vida, etc."
   },
   {
     "id": "23927",
@@ -158337,7 +158337,7 @@
   {
     "id": "24092",
     "key": "modEnum10027EnumName6",
-    "es": "6-Coste de resistencia"
+    "es": "6-Coste de PV"
   },
   {
     "id": "24093",
@@ -168067,17 +168067,17 @@
   {
     "id": "7111",
     "key": "player_tili",
-    "es": "Resistencia"
+    "es": "PV"
   },
   {
     "id": "7126",
     "key": "player_tilihuifu",
-    "es": "Recuperación de resistencia"
+    "es": "Recuperación de PV"
   },
   {
     "id": "7115",
     "key": "player_tilishangxian",
-    "es": "Resistencia máxima"
+    "es": "PV máx."
   },
   {
     "id": "7352",
@@ -168762,7 +168762,7 @@
   {
     "id": "26550",
     "key": "playertilishangxian",
-    "es": "Resistencia: {0}"
+    "es": "PV máx.: {0}"
   },
   {
     "id": "14518",
@@ -171807,7 +171807,7 @@
   {
     "id": "51375",
     "key": "prefixDescS10101",
-    "es": "Vida &10101_hpMaxUp&\nResistencia &10101_prfDown&"
+    "es": "PV máx. &10101_hpMaxUp&\nResistencia &10101_prfDown&"
   },
   {
     "id": "51376",
@@ -171817,7 +171817,7 @@
   {
     "id": "51377",
     "key": "prefixDescS10103",
-    "es": "Probabilidad de absorción &1001_leechProb%1&%, efectiva solo para habilidades con efecto de absorción\nRestauración de Resistencia &10103_hpRestoreDown&"
+    "es": "Probabilidad de absorción &1001_leechProb%1&%, efectiva solo para habilidades con efecto de absorción\nRecuperación de PV &10103_hpRestoreDown&"
   },
   {
     "id": "51378",
@@ -172172,7 +172172,7 @@
   {
     "id": "51589",
     "key": "prefixDescS11109",
-    "es": "Obtienes &11109_hpRestore& de recuperación de resistencia cuando estás sobre una llamarada"
+    "es": "Obtienes &11109_hpRestore& de recuperación de PV cuando estás sobre una llamarada"
   },
   {
     "id": "51590",
@@ -172207,7 +172207,7 @@
   {
     "id": "51596",
     "key": "prefixDescS11116",
-    "es": "Daño por fuego&11116_fireDmg&%, fuerza física&11116_hp&"
+    "es": "Daño por fuego&11116_fireDmg&%, PV&11116_hp&"
   },
   {
     "id": "51605",
@@ -172217,7 +172217,7 @@
   {
     "id": "51606",
     "key": "prefixDescS11202",
-    "es": "Recuperación de resistencia &11202_hpBack&\nVelocidad de ataque &11202_mspSum&%"
+    "es": "Recuperación de PV &11202_hpBack&\nVelocidad de ataque &11202_mspSum&%"
   },
   {
     "id": "51607",
@@ -172227,7 +172227,7 @@
   {
     "id": "51608",
     "key": "prefixDescS11204",
-    "es": "Cada raíz de agua restaurará &11204_hpBack& de resistencia"
+    "es": "Cada raíz de agua restaurará &11204_hpBack& PV"
   },
   {
     "id": "51609",
@@ -172242,7 +172242,7 @@
   {
     "id": "51611",
     "key": "prefixDescS11207",
-    "es": "Cada &11207_hpMax& puntos de Resistencia máxima restauran &11207_hpBack& de resistencia"
+    "es": "Cada &11207_hpMax& puntos de PV máx. restauran &11207_hpBack& PV"
   },
   {
     "id": "51612",
@@ -172362,7 +172362,7 @@
   {
     "id": "51665",
     "key": "prefixDescS11316",
-    "es": "Velocidad de movimiento &11316_hpSuck&\nRecuperación de resistencia &11316_hpRestore&"
+    "es": "Velocidad de movimiento &11316_hpSuck&\nRecuperación de PV &11316_hpRestore&"
   },
   {
     "id": "51666",
@@ -172477,12 +172477,12 @@
   {
     "id": "51715",
     "key": "prefixDescS11416",
-    "es": "Resistencia &11416_hpMax&\nEsquiva &11416_evade&%"
+    "es": "PV máx. &11416_hpMax&\nEsquiva &11416_evade&%"
   },
   {
     "id": "51716",
     "key": "prefixDescS11417",
-    "es": "Obtén &11417_hpRestore& de recuperación de resistencia si tu velocidad de movimiento alcanza &11417_msp&"
+    "es": "Obtén &11417_hpRestore& de recuperación de PV si tu velocidad de movimiento alcanza &11417_msp&"
   },
   {
     "id": "51717",
@@ -172587,7 +172587,7 @@
   {
     "id": "51749",
     "key": "prefixDescS11511",
-    "es": "Cuando el objeto invocado desaparezca, restaura &11511_one& puntos de fuerza física"
+    "es": "Cuando el objeto invocado desaparezca, restaura &11511_one& PV"
   },
   {
     "id": "51750",
@@ -172617,7 +172617,7 @@
   {
     "id": "51767",
     "key": "prefixDescS11605",
-    "es": "Cada recuperación de resistencia aumentará &11605_flowerAgile&% la velocidad de ataque del hada de las flores pequeñas"
+    "es": "Cada recuperación de PV aumentará &11605_flowerAgile&% la velocidad de ataque del hada de las flores pequeñas"
   },
   {
     "id": "51768",
@@ -172947,62 +172947,62 @@
   {
     "id": "51835",
     "key": "prefixDescS30159",
-    "es": "Resistencia&30159_hpMaxUp&\nDaño&30159_mspDonw&%"
+    "es": "PV máx.&30159_hpMaxUp&\nDaño&30159_mspDonw&%"
   },
   {
     "id": "51836",
     "key": "prefixDescS30160",
-    "es": "Resistencia&30160_hpMaxUp&\nSuerte&30160_luckDonw&"
+    "es": "PV máx.&30160_hpMaxUp&\nSuerte&30160_luckDonw&"
   },
   {
     "id": "51837",
     "key": "prefixDescS30161",
-    "es": "Resistencia&30161_hpMaxUp&\nRango de habilidad&30161_jnfwUp&"
+    "es": "PV máx.&30161_hpMaxUp&\nRango de habilidad&30161_jnfwUp&"
   },
   {
     "id": "51838",
     "key": "prefixDescS30162",
-    "es": "Resistencia&30162_hpMaxUp&\nSuerte&30162_zhshDown&"
+    "es": "PV máx.&30162_hpMaxUp&\nSuerte&30162_zhshDown&"
   },
   {
     "id": "51839",
     "key": "prefixDescS30163",
-    "es": "Resistencia&30163_hpMaxUp&"
+    "es": "PV máx.&30163_hpMaxUp&"
   },
   {
     "id": "51840",
     "key": "prefixDescS30164",
-    "es": "Resistencia&30164_hpMaxUp&\nProbabilidad de crítico&30164_pfrDown&%"
+    "es": "PV máx.&30164_hpMaxUp&\nProbabilidad de crítico&30164_pfrDown&%"
   },
   {
     "id": "51841",
     "key": "prefixDescS30165",
-    "es": "Resistencia&30165_hpMaxUp&\nEsquiva&30165_evadeUp&%"
+    "es": "PV máx.&30165_hpMaxUp&\nEsquiva&30165_evadeUp&%"
   },
   {
     "id": "51842",
     "key": "prefixDescS30166",
-    "es": "Resistencia&30166_hpMaxUp&\nDuración de la habilidad&30166_jncxUp&%"
+    "es": "PV máx.&30166_hpMaxUp&\nDuración de la habilidad&30166_jncxUp&%"
   },
   {
     "id": "51843",
     "key": "prefixDescS30167",
-    "es": "Resistencia&30167_hpMaxUp&"
+    "es": "PV máx.&30167_hpMaxUp&"
   },
   {
     "id": "51844",
     "key": "prefixDescS30168",
-    "es": "Resistencia&30168_hpMaxUp&\nEsquiva&30168_evadeDown&%"
+    "es": "PV máx.&30168_hpMaxUp&\nEsquiva&30168_evadeDown&%"
   },
   {
     "id": "51845",
     "key": "prefixDescS30169",
-    "es": "Resistencia&30169_hpMaxUp&\nMultiplicador de golpe crítico&30169_hpRestoreDown&%"
+    "es": "PV máx.&30169_hpMaxUp&\nMultiplicador de golpe crítico&30169_hpRestoreDown&%"
   },
   {
     "id": "51846",
     "key": "prefixDescS30170",
-    "es": "Resistencia&30170_hpMaxUp&\nVelocidad de ataque&30170_agileUp&%"
+    "es": "PV máx.&30170_hpMaxUp&\nVelocidad de ataque&30170_agileUp&%"
   },
   {
     "id": "53552",
@@ -173482,7 +173482,7 @@
   {
     "id": "52141",
     "key": "prefixDescS400029",
-    "es": "Fuerza física &400029_hpMaxUp&, recuperación física &400029_hpRestoreUp&, resistencia &400029_pfrUp&."
+    "es": "PV máx. &400029_hpMaxUp&, recuperación de PV &400029_hpRestoreUp&, Resistencia &400029_pfrUp&."
   },
   {
     "id": "52142",
@@ -173502,12 +173502,12 @@
   {
     "id": "52145",
     "key": "prefixDescS400033",
-    "es": "Resistencia &400033_hpMaxUp&, bonificación de daño &400033_powerUp&%."
+    "es": "PV máx. &400033_hpMaxUp&, bonificación de daño &400033_powerUp&%."
   },
   {
     "id": "52146",
     "key": "prefixDescS400034",
-    "es": "Resistencia &400034_hpMaxUp&, velocidad de movimiento &400034_mspUp&."
+    "es": "PV máx. &400034_hpMaxUp&, velocidad de movimiento &400034_mspUp&."
   },
   {
     "id": "52147",
@@ -173517,7 +173517,7 @@
   {
     "id": "52148",
     "key": "prefixDescS400036",
-    "es": "Resistencia&400036_hpMaxUp&."
+    "es": "PV máx.&400036_hpMaxUp&."
   },
   {
     "id": "52149",
@@ -173532,12 +173532,12 @@
   {
     "id": "52151",
     "key": "prefixDescS400039",
-    "es": "Recuperación de resistencia &400039_hpRestoreUp&, velocidad de ataque &400039_agileUp&%."
+    "es": "Recuperación de PV &400039_hpRestoreUp&, velocidad de ataque &400039_agileUp&%."
   },
   {
     "id": "52152",
     "key": "prefixDescS400040",
-    "es": "Recuperación de resistencia &400040_hpRestoreUp&, multiplicador de golpe crítico&400040_critVUp&%."
+    "es": "Recuperación de PV &400040_hpRestoreUp&, multiplicador de golpe crítico&400040_critVUp&%."
   },
   {
     "id": "52153",
@@ -173547,7 +173547,7 @@
   {
     "id": "52154",
     "key": "prefixDescS400042",
-    "es": "Recuperación de resistencia&400042_hpRestoreUp&."
+    "es": "Recuperación de PV&400042_hpRestoreUp&."
   },
   {
     "id": "52155",
@@ -173592,12 +173592,12 @@
   {
     "id": "52163",
     "key": "prefixDescS400051",
-    "es": "Resistencia&400051_hpMaxUp&."
+    "es": "PV máx.&400051_hpMaxUp&."
   },
   {
     "id": "52164",
     "key": "prefixDescS400052",
-    "es": "Recuperación de resistencia&400052_hpRestoreUp&."
+    "es": "Recuperación de PV&400052_hpRestoreUp&."
   },
   {
     "id": "52165",
@@ -173637,7 +173637,7 @@
   {
     "id": "52172",
     "key": "prefixDescS400060",
-    "es": "Fuerza física &400060_hpMaxUp&, recuperación física &400060_hpRestoreUp&, resistencia &400060_pfrUp&."
+    "es": "PV máx. &400060_hpMaxUp&, recuperación de PV &400060_hpRestoreUp&, Resistencia &400060_pfrUp&."
   },
   {
     "id": "52173",
@@ -173857,7 +173857,7 @@
   {
     "id": "53269",
     "key": "prefixDescS410003",
-    "es": "Recuperación de resistencia &20102_hpRestoreDown&. Después de entrar en la batalla, la fuerza física máxima es &20102_hpMaxUp& (la fuerza física actual permanece sin cambios), y el tamaño del cuerpo cambia a &20102_modelSizeUp|+100|f0&%"
+    "es": "Recuperación de PV &20102_hpRestoreDown&. Después de entrar en la batalla, los PV máximos son &20102_hpMaxUp& (los PV actuales permanecen sin cambios), y el tamaño del cuerpo cambia a &20102_modelSizeUp|+100|f0&%"
   },
   {
     "id": "53301",
@@ -173877,7 +173877,7 @@
   {
     "id": "53321",
     "key": "prefixDescS410007",
-    "es": "El desastre se puede eliminar, y la fuerza física será restaurada por &410007_hpRestoreUp& en la próxima batalla, y el nivel de cultivo será &410007_expUp&%. Se disipará por sí solo después de que se elimine el desastre."
+    "es": "El desastre se puede eliminar, y recuperarás &410007_hpRestoreUp& PV en la próxima batalla, además de obtener &410007_expUp&% de cultivo. Se disipará por sí solo después de que se elimine el desastre."
   },
   {
     "id": "53322",
@@ -189067,17 +189067,17 @@
   {
     "id": "15415",
     "key": "role_feature_postnatal_tips700104",
-    "es": "En batalla, puedes consumir Resistencia para formar una garra de sangre. La garra tarda &700104_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700104_bzsh& de daño de técnica especial a los enemigos dentro de &700104_bzfw&, además de aumentar tu Resistencia máxima en &700104_tlsx& (hasta &700104_tlsx|x700104_tlcs|f2&). Formar la garra de sangre consume &700104_xhtl& de Resistencia por segundo. No puedes formarla si tu Resistencia es inferior al &700104_ljtl&%. (Puede mejorarse a Sacrificio de Sangre avanzado)"
+    "es": "En batalla, puedes consumir Vida para formar una garra de sangre. La garra tarda &700104_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700104_bzsh& de daño de técnica especial a los enemigos dentro de &700104_bzfw&, además de aumentar tu Vida máxima en &700104_tlsx& (hasta &700104_tlsx|x700104_tlcs|f2&). Formar la garra de sangre consume &700104_xhtl& de Vida por segundo. No puedes formarla si tu Vida es inferior al &700104_ljtl&%. (Puede mejorarse a Sacrificio de Sangre avanzado)"
   },
   {
     "id": "15416",
     "key": "role_feature_postnatal_tips700105",
-    "es": "En batalla, puedes consumir Resistencia para formar una garra de sangre. La garra tarda &700105_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700105_bzsh& de daño de técnica especial a los enemigos dentro de &700105_bzfw&, además de aumentar tu Resistencia máxima en &700105_tlsx& (hasta &700105_tlsx|x700105_tlcs|f2&). Tras explotar, deja un círculo de sangre en el suelo que dura &700105_xzsj&s e inflige daño continuo a los enemigos dentro. Formar la garra de sangre consume &700105_xhtl& de Resistencia por segundo. No puedes formarla si tu Resistencia es inferior al &700105_ljtl&%. (Al seleccionarla, reemplaza Sacrificio de Sangre básico; puede mejorarse a Sacrificio de Sangre avanzado)"
+    "es": "En batalla, puedes consumir Vida para formar una garra de sangre. La garra tarda &700105_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700105_bzsh& de daño de técnica especial a los enemigos dentro de &700105_bzfw&, además de aumentar tu Vida máxima en &700105_tlsx& (hasta &700105_tlsx|x700105_tlcs|f2&). Tras explotar, deja un círculo de sangre en el suelo que dura &700105_xzsj&s e inflige daño continuo a los enemigos dentro. Formar la garra de sangre consume &700105_xhtl& de Vida por segundo. No puedes formarla si tu Vida es inferior al &700105_ljtl&%. (Al seleccionarla, reemplaza Sacrificio de Sangre básico; puede mejorarse a Sacrificio de Sangre avanzado)"
   },
   {
     "id": "15417",
     "key": "role_feature_postnatal_tips700106",
-    "es": "En batalla, puedes consumir Resistencia para formar una garra de sangre. La garra tarda &700106_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700106_bzsh& de daño de técnica especial a los enemigos dentro de &700106_bzfw&, además de aumentar tu Resistencia máxima en &700106_tlsx& (hasta &700106_tlsx|x700106_tlcs|f2&). Tras explotar, deja un círculo de sangre en el suelo que dura &700106_xzsj&s e inflige daño continuo a los enemigos dentro, además de restaurarte &700106_hftl& de Resistencia por segundo. Formar la garra de sangre consume &700106_xhtl& de Resistencia por segundo. No puedes formarla si tu Resistencia es inferior al &700106_ljtl&%. (Al seleccionarla, reemplaza Sacrificio de Sangre avanzado)"
+    "es": "En batalla, puedes consumir Vida para formar una garra de sangre. La garra tarda &700106_njsj&s en formarse y se liberará con tu siguiente ataque. Al golpear a un enemigo, la garra explota e inflige &700106_bzsh& de daño de técnica especial a los enemigos dentro de &700106_bzfw&, además de aumentar tu Vida máxima en &700106_tlsx& (hasta &700106_tlsx|x700106_tlcs|f2&). Tras explotar, deja un círculo de sangre en el suelo que dura &700106_xzsj&s e inflige daño continuo a los enemigos dentro, además de restaurarte &700106_hftl& de Vida por segundo. Formar la garra de sangre consume &700106_xhtl& de Vida por segundo. No puedes formarla si tu Vida es inferior al &700106_ljtl&%. (Al seleccionarla, reemplaza Sacrificio de Sangre avanzado)"
   },
   {
     "id": "15418",
@@ -190362,12 +190362,12 @@
   {
     "id": "52693",
     "key": "role_feature_postnatal_tips8805553",
-    "es": "Fuiste atacado por Yang Yan y la electricidad fría en Daye Taizhong, lo que estimuló un cierto potencial en tu cuerpo. El calor recorrió tu cuerpo y te sentiste extremadamente cómodo.\nEl límite superior de fuerza física aumentó en un 5%"
+    "es": "Fuiste atacado por Yang Yan y la electricidad fría en Daye Taizhong, lo que estimuló un cierto potencial en tu cuerpo. El calor recorrió tu cuerpo y te sentiste extremadamente cómodo.\nLa Vida máxima aumentó un 5%."
   },
   {
     "id": "52695",
     "key": "role_feature_postnatal_tips8805554",
-    "es": "Cuando entrenas con alguien que tiene Yang Yan, la energía extraña en su cuerpo también entrará a tu cuerpo durante la pelea. Te sentirás saludable en todas partes.\nEl límite superior de fuerza física aumentará en 5 %"
+    "es": "Cuando entrenas con alguien que tiene Yang Yan, la energía extraña en su cuerpo también entrará a tu cuerpo durante la pelea. Te sentirás saludable en todas partes.\nLa Vida máxima aumentará un 5 %."
   },
   {
     "id": "31093",
@@ -190987,7 +190987,7 @@
   {
     "id": "43874",
     "key": "role_feature_postnatal_tips9202081",
-    "es": "Aliento condensado de Arpía. Recuperación de resistencia +10%."
+    "es": "Aliento condensado de Arpía. Recuperación de PV +10%."
   },
   {
     "id": "43890",
@@ -191017,7 +191017,7 @@
   {
     "id": "43877",
     "key": "role_feature_postnatal_tips9202111",
-    "es": "Aliento condensado de Changyou. Recuperación de resistencia +10%."
+    "es": "Aliento condensado de Changyou. Recuperación de PV +10%."
   },
   {
     "id": "43893",
@@ -200057,7 +200057,7 @@
   {
     "id": "19655",
     "key": "s_8600502_hftl",
-    "es": "Cuando haya &8600502_xqcs& pilas de $s_neishang$, tu Resistencia se restaurará en &8600502_hftl& puntos cada segundo."
+    "es": "Cuando haya &8600502_xqcs& pilas de $s_neishang$, tu Vida se restaurará en &8600502_hftl& puntos cada segundo."
   },
   {
     "id": "19657",
@@ -200092,7 +200092,7 @@
   {
     "id": "19667",
     "key": "s_8600602_hftl",
-    "es": "Cuando haya &8600602_xqcs& pilas de $s_neixu$, tu Resistencia se restaurará en &8600602_hftl& puntos cada segundo."
+    "es": "Cuando haya &8600602_xqcs& pilas de $s_neixu$, tu Vida se restaurará en &8600602_hftl& puntos cada segundo."
   },
   {
     "id": "19668",
@@ -200297,7 +200297,7 @@
   {
     "id": "19729",
     "key": "s_8601104_hftl",
-    "es": "Cuando tengas al menos &8601104_xqcs& pilas de $s_shifu$, la Resistencia de todos los $s_tukuilei$ aliados se restaurará en un &8601104_hftl&% cada segundo."
+    "es": "Cuando tengas al menos &8601104_xqcs& pilas de $s_shifu$, la Vida de todos los $s_tukuilei$ aliados se restaurará en un &8601104_hftl&% cada segundo."
   },
   {
     "id": "19730",
@@ -200502,7 +200502,7 @@
   {
     "id": "19778",
     "key": "s_8700405_tstl",
-    "es": "Cuando el atributo de $s_quanfazizhi$ alcance &8700405_xqzz&, la Resistencia máxima aumentará en &8700405_tstl& puntos."
+    "es": "Cuando el atributo de $s_quanfazizhi$ alcance &8700405_xqzz&, la Vida máxima aumentará en &8700405_tstl& puntos."
   },
   {
     "id": "19779",
@@ -200542,7 +200542,7 @@
   {
     "id": "19786",
     "key": "s_8700505_tstl",
-    "es": "Cuando el atributo de $s_zhangfazizhi$ alcance &8700505_xqzz&, la Resistencia máxima aumentará en &8700505_tstl& puntos."
+    "es": "Cuando el atributo de $s_zhangfazizhi$ alcance &8700505_xqzz&, la Vida máxima aumentará en &8700505_tstl& puntos."
   },
   {
     "id": "19787",
@@ -200582,7 +200582,7 @@
   {
     "id": "19794",
     "key": "s_8700605_tstl",
-    "es": "Cuando el atributo de $s_zhifazizhi$ alcance &8700605_xqzz&, la Resistencia máxima aumentará en &8700605_tstl& puntos."
+    "es": "Cuando el atributo de $s_zhifazizhi$ alcance &8700605_xqzz&, la Vida máxima aumentará en &8700605_tstl& puntos."
   },
   {
     "id": "19795",
@@ -200792,12 +200792,12 @@
   {
     "id": "19838",
     "key": "s_8701201_hftl",
-    "es": "Cuando haya &8701201_drsl& enemigos, tu Resistencia se restaurará en &8701201_hftl& puntos cada segundo."
+    "es": "Cuando haya &8701201_drsl& enemigos, tu Vida se restaurará en &8701201_hftl& puntos cada segundo."
   },
   {
     "id": "19839",
     "key": "s_8701202_tstl",
-    "es": "Por cada &8701202_xqzz& puntos de $s_mulinggen$, la Resistencia máxima de las unidades invocadas por tus aliados aumentará en &8701202_tstl& puntos."
+    "es": "Por cada &8701202_xqzz& puntos de $s_mulinggen$, la Vida máxima de las unidades invocadas por tus aliados aumentará en &8701202_tstl& puntos."
   },
   {
     "id": "19841",
@@ -200832,12 +200832,12 @@
   {
     "id": "19847",
     "key": "s_8800102_hftl",
-    "es": "Cada vez que muera un enemigo a una distancia de &8800102_xqjl&, tu Resistencia se restaurará en &8800102_hftl& puntos."
+    "es": "Cada vez que muera un enemigo a una distancia de &8800102_xqjl&, tu Vida se restaurará en &8800102_hftl& puntos."
   },
   {
     "id": "19848",
     "key": "s_8800103_tsgj",
-    "es": "Cuando la Resistencia máxima alcance &8800103_xqtl& puntos, el ATQ aumentará en &8800103_tsgj& puntos."
+    "es": "Cuando la Vida máxima alcance &8800103_xqtl& puntos, el ATQ aumentará en &8800103_tsgj& puntos."
   },
   {
     "id": "19849",
@@ -200852,7 +200852,7 @@
   {
     "id": "19851",
     "key": "s_8800106_tsfy",
-    "es": "Cuando la Resistencia máxima alcance &8800106_xqtl& puntos, la DEF aumentará en &8800106_tsfy& puntos."
+    "es": "Cuando la Vida máxima alcance &8800106_xqtl& puntos, la DEF aumentará en &8800106_tsfy& puntos."
   },
   {
     "id": "19852",
@@ -200932,12 +200932,12 @@
   {
     "id": "19869",
     "key": "s_8800401_xqtl",
-    "es": "Por cada &8800401_xqtl& puntos de Resistencia máxima, tus puntos máximos de $s_hudun$ aumentan en &8800401_tshd&."
+    "es": "Por cada &8800401_xqtl& puntos de Vida máxima, tus puntos máximos de $s_hudun$ aumentan en &8800401_tshd&."
   },
   {
     "id": "19870",
     "key": "s_8800402_dihd",
-    "es": "Cuando tu Resistencia esté por debajo de &8800402_xqtl&%, recibirás &8800402_dihd& puntos de $s_hudun$ cada segundo."
+    "es": "Cuando tu Vida esté por debajo de &8800402_xqtl&%, recibirás &8800402_dihd& puntos de $s_hudun$ cada segundo."
   },
   {
     "id": "19871",
@@ -201132,7 +201132,7 @@
   {
     "id": "18296",
     "key": "s_dulonghua_desc",
-    "es": "Unidad grande que no puede moverse. Su enorme boca devora monstruos normales y de élite. Cada vez que devora a un enemigo, necesita tiempo para digerirlo. Durante ese tiempo, el enemigo devorado recibirá &66111_xhwl|x66111_dmg|/10000|f0&/s puntos de daño de $s_mu$ hasta que su Resistencia llegue a cero. Al atacar a otros enemigos, les inflige $s_fushi$.\nAtributos heredados del invocador: &66111_dhtl&% de Resistencia, &66111_dhgj&% de ATQ y &66111_dhfy&% de DEF.\nPermanece durante &66111_dhsj&s."
+    "es": "Unidad grande que no puede moverse. Su enorme boca devora monstruos normales y de élite. Cada vez que devora a un enemigo, necesita tiempo para digerirlo. Durante ese tiempo, el enemigo devorado recibirá &66111_xhwl|x66111_dmg|/10000|f0&/s puntos de daño de $s_mu$ hasta que su Vida llegue a cero. Al atacar a otros enemigos, les inflige $s_fushi$.\nAtributos heredados del invocador: &66111_dhtl&% de Vida, &66111_dhgj&% de ATQ y &66111_dhfy&% de DEF.\nPermanece durante &66111_dhsj&s."
   },
   {
     "id": "18196",
@@ -201167,7 +201167,7 @@
   {
     "id": "18293",
     "key": "s_duwa_desc",
-    "es": "Unidad pequeña que inflige &56113_jnwl& puntos de daño de $s_mu$ al escupir veneno.\nAtributos heredados del invocador: &56113_dwtl&% de Resistencia, &56113_dwgj&% de ATQ y &56113_dwfy&% de DEF.\nPermanece durante &56113_dwsj&s."
+    "es": "Unidad pequeña que inflige &56113_jnwl& puntos de daño de $s_mu$ al escupir veneno.\nAtributos heredados del invocador: &56113_dwtl&% de Vida, &56113_dwgj&% de ATQ y &56113_dwfy&% de DEF.\nPermanece durante &56113_dwsj&s."
   },
   {
     "id": "18223",
@@ -201177,7 +201177,7 @@
   {
     "id": "18294",
     "key": "s_duzhu_desc",
-    "es": "Unidad pequeña que emite humo venenoso para atacar a los enemigos dentro de &56115_gjfw&, e inflige &56115_gjwl& puntos de daño de $s_mu$.\nAtributos heredados del invocador: &56115_dztl&% de Resistencia, &56115_dzgj&% de ATQ y &56115_dzfy&% de DEF.\nPermanece durante &56115_dzsj&s."
+    "es": "Unidad pequeña que emite humo venenoso para atacar a los enemigos dentro de &56115_gjfw&, e inflige &56115_gjwl& puntos de daño de $s_mu$.\nAtributos heredados del invocador: &56115_dztl&% de Vida, &56115_dzgj&% de ATQ y &56115_dzfy&% de DEF.\nPermanece durante &56115_dzsj&s."
   },
   {
     "id": "18197",
@@ -201252,7 +201252,7 @@
   {
     "id": "18276",
     "key": "s_huangjilishi_desc",
-    "es": "Unidad grande que usa un martillo pesado para infligir &700025_gjwl& puntos de daño de $s_tu$.\nAtributos heredados del invocador: &700025_jctl&% de Resistencia, &700025_jcsx&% de ATQ y &700025_jcsx&% de DEF."
+    "es": "Unidad grande que usa un martillo pesado para infligir &700025_gjwl& puntos de daño de $s_tu$.\nAtributos heredados del invocador: &700025_jctl&% de Vida, &700025_jcsx&% de ATQ y &700025_jcsx&% de DEF."
   },
   {
     "id": "18237",
@@ -201272,7 +201272,7 @@
   {
     "id": "18277",
     "key": "s_huayao_desc",
-    "es": "Unidad mediana que no puede moverse. Inflige &46112_jnwl& puntos de daño de $s_mu$ al disparar capullos de flores.\nAtributos heredados del invocador: &700027_jctl&% de Resistencia, &700027_jcsx&% de ATQ y &700027_jcsx&% de DEF."
+    "es": "Unidad mediana que no puede moverse. Inflige &46112_jnwl& puntos de daño de $s_mu$ al disparar capullos de flores.\nAtributos heredados del invocador: &700027_jctl&% de Vida, &700027_jcsx&% de ATQ y &700027_jcsx&% de DEF."
   },
   {
     "id": "18224",
@@ -201282,7 +201282,7 @@
   {
     "id": "18295",
     "key": "s_huayaohou_desc",
-    "es": "Unidad grande que dispara pétalos de flores hacia un área en forma de abanico frente a ella. Cada pétalo inflige &66112_jnwl& puntos de daño de $s_mu$.\nAtributos heredados del invocador: &66112_yhtl&% de Resistencia, &66112_yhgj&% de ATQ y &66112_yhfy&% de DEF.\nPermanece durante &66112_yhsj&s."
+    "es": "Unidad grande que dispara pétalos de flores hacia un área en forma de abanico frente a ella. Cada pétalo inflige &66112_jnwl& puntos de daño de $s_mu$.\nAtributos heredados del invocador: &66112_yhtl&% de Vida, &66112_yhgj&% de ATQ y &66112_yhfy&% de DEF.\nPermanece durante &66112_yhsj&s."
   },
   {
     "id": "18231",
@@ -201312,7 +201312,7 @@
   {
     "id": "18300",
     "key": "s_huoli_desc",
-    "es": "Las unidades con este efecto obtienen &56116_tstl& puntos de Resistencia máxima y sus proyectiles explotan al golpear a un enemigo. La explosión inflige daño a todos los enemigos dentro de &56116_zjbk& (el área de la explosión aumenta con cada acumulación). Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
+    "es": "Las unidades con este efecto obtienen &56116_tstl& puntos de Vida máxima y sus proyectiles explotan al golpear a un enemigo. La explosión inflige daño a todos los enemigos dentro de &56116_zjbk& (el área de la explosión aumenta con cada acumulación). Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
   },
   {
     "id": "18228",
@@ -201322,7 +201322,7 @@
   {
     "id": "18299",
     "key": "s_huoling_desc",
-    "es": "Las unidades con este efecto obtienen &56114_tstl& puntos de Resistencia máxima y &56114_zjdd& proyectiles adicionales. Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
+    "es": "Las unidades con este efecto obtienen &56114_tstl& puntos de Vida máxima y &56114_zjdd& proyectiles adicionales. Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
   },
   {
     "id": "18313",
@@ -201342,7 +201342,7 @@
   {
     "id": "18298",
     "key": "s_huoyuan_desc",
-    "es": "Las unidades con este efecto obtienen &56112_tstl& puntos de Resistencia y su intervalo de ataque se reducirá en un &56112_tsgs&%. Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
+    "es": "Las unidades con este efecto obtienen &56112_tstl& puntos de Vida máxima y su intervalo de ataque se reducirá en un &56112_tsgs&%. Cada unidad puede acumular este efecto hasta &56112_qhcs& veces."
   },
   {
     "id": "18205",
@@ -201377,7 +201377,7 @@
   {
     "id": "18249",
     "key": "s_jianzhan_desc",
-    "es": "Por cada acumulación, aumenta en un &14112_ewsh&% el daño que infliges a enemigos cuya Resistencia sea inferior a &14112_tllj&% durante &14112_duration&s. Acumulaciones máximas: &14112_layCount&."
+    "es": "Por cada acumulación, aumenta en un &14112_ewsh&% el daño que infliges a enemigos cuya Vida sea inferior a &14112_tllj&% durante &14112_duration&s. Acumulaciones máximas: &14112_layCount&."
   },
   {
     "id": "18217",
@@ -201412,7 +201412,7 @@
   {
     "id": "18292",
     "key": "s_julingkuilei_desc",
-    "es": "Unidad grande que golpea hacia adelante con un enorme martillo de piedra para atacar a los enemigos en línea e inflige &65112_jnwl& puntos de daño de $s_tu$.\nAtributos heredados del invocador: &65112_jltl&% de Resistencia, &65112_jlgj&% de ATQ y &65112_jlfy&% de DEF.\nPermanece durante &65112_jlsj&s."
+    "es": "Unidad grande que golpea hacia adelante con un enorme martillo de piedra para atacar a los enemigos en línea e inflige &65112_jnwl& puntos de daño de $s_tu$.\nAtributos heredados del invocador: &65112_jltl&% de Vida, &65112_jlgj&% de ATQ y &65112_jlfy&% de DEF.\nPermanece durante &65112_jlsj&s."
   },
   {
     "id": "18166",
@@ -201667,7 +201667,7 @@
   {
     "id": "18247",
     "key": "s_poshi_desc",
-    "es": "Por cada acumulación, aumenta en un &13112_ewsh&% el daño que infliges a enemigos cuya Resistencia sea superior a &13112_tllj&% durante &13112_duration&s. Acumulaciones máximas: &13112_layCount&."
+    "es": "Por cada acumulación, aumenta en un &13112_ewsh&% el daño que infliges a enemigos cuya Vida sea superior a &13112_tllj&% durante &13112_duration&s. Acumulaciones máximas: &13112_layCount&."
   },
   {
     "id": "18149",
@@ -201857,7 +201857,7 @@
   {
     "id": "18272",
     "key": "s_xiaohuayao_desc",
-    "es": "Unidad pequeña que no puede moverse. Inflige &46112_jnwl& puntos de daño de $s_mu$ al disparar capullos de flores.\nAtributos heredados del invocador: &46112_hytl&% de Resistencia, &46112_hygj&% de ATQ y &46112_hyfy&% de DEF.\nPermanece durante &46112_hysj&s."
+    "es": "Unidad pequeña que no puede moverse. Inflige &46112_jnwl& puntos de daño de $s_mu$ al disparar capullos de flores.\nAtributos heredados del invocador: &46112_hytl&% de Vida, &46112_hygj&% de ATQ y &46112_hyfy&% de DEF.\nPermanece durante &46112_hysj&s."
   },
   {
     "id": "18235",
@@ -218637,7 +218637,7 @@
   {
     "id": "44882",
     "key": "skill_attack_desc79431",
-    "es": "Cuando su resistencia es insuficiente, entra en Frenesí y algunas de sus habilidades obtienen una gran mejora."
+    "es": "Cuando su Vida es insuficiente, entra en Frenesí y algunas de sus habilidades obtienen una gran mejora."
   },
   {
     "id": "44936",
@@ -219922,17 +219922,17 @@
   {
     "id": "7469",
     "key": "skill_content_hp21",
-    "es": "Recuperar Resistencia"
+    "es": "Recuperar PV"
   },
   {
     "id": "7470",
     "key": "skill_content_hp22",
-    "es": "Pierde Resistencia"
+    "es": "Pierde PV"
   },
   {
     "id": "7554",
     "key": "skill_content_hp31",
-    "es": "Resistencia"
+    "es": "PV"
   },
   {
     "id": "7535",
@@ -219962,17 +219962,17 @@
   {
     "id": "7493",
     "key": "skill_content_hpRes21",
-    "es": "Mayor velocidad de recuperación de resistencia."
+    "es": "Mayor velocidad de recuperación de PV."
   },
   {
     "id": "7494",
     "key": "skill_content_hpRes22",
-    "es": "Menor velocidad de recuperación de resistencia."
+    "es": "Menor velocidad de recuperación de PV."
   },
   {
     "id": "7564",
     "key": "skill_content_hpRes31",
-    "es": "Recuperación de resistencia"
+    "es": "Recuperación de PV"
   },
   {
     "id": "7543",
@@ -220342,7 +220342,7 @@
   {
     "id": "27898",
     "key": "skill_desc91033",
-    "es": "Disponible después de recibir un daño total equivalente a &91031_tlzz&% de la Resistencia máxima en la batalla actual, cuando la Resistencia de Muqing caiga por debajo de &91031_zstl&% (o la del dueño de su artefacto caiga por debajo de &91031_zhtl&%). Muqing adoptará el estado rojo, recuperará por completo su estado y el del dueño de su artefacto, e infligirá un &91031_bmzs&% más de daño. Cada vez que cualquiera de los dos reciba daño, ambos recuperarán un &91031_shtl&% de Resistencia (no puede ocurrir más de una vez cada &91031_bmjg&s)."
+    "es": "Disponible después de recibir un daño total equivalente a &91031_tlzz&% de la Vida máxima en la batalla actual, cuando la Vida de Muqing caiga por debajo de &91031_zstl&% (o la del dueño de su artefacto caiga por debajo de &91031_zhtl&%). Muqing adoptará el estado rojo, recuperará por completo su estado y el del dueño de su artefacto, e infligirá un &91031_bmzs&% más de daño. Cada vez que cualquiera de los dos reciba daño, ambos recuperarán un &91031_shtl&% de Vida (no puede ocurrir más de una vez cada &91031_bmjg&s)."
   },
   {
     "id": "27899",
@@ -220827,7 +220827,7 @@
   {
     "id": "7429",
     "key": "skill_field_hpCost11",
-    "es": "Coste de resistencia"
+    "es": "Coste de PV"
   },
   {
     "id": "7435",
@@ -226147,7 +226147,7 @@
   {
     "id": "53131",
     "key": "skillDescS21014",
-    "es": "El cuerpo de Aqua se hace más grande en &21014_time& segundos, el límite superior de fuerza física aumenta temporalmente en &21014_hpUp& veces, y su resistencia es &21014_pfr&."
+    "es": "El cuerpo de Aqua se hace más grande durante &21014_time& segundos, su Vida máxima aumenta temporalmente &21014_hpUp& veces y su Resistencia es &21014_pfr&."
   },
   {
     "id": "53132",
@@ -226157,7 +226157,7 @@
   {
     "id": "53133",
     "key": "skillDescS21016",
-    "es": "Libera la energía mágica en el cuerpo, obtiene una probabilidad de golpe crítico de &21016_critUp&% y un multiplicador de golpe crítico de *&21016_critV& veces la fuerza física máxima, a costa de consumir &21016_hpCost&% de la fuerza física máxima por segundo. Durante este efecto, cada enemigo que muera en un radio de 250 restaurará &21016_hpBack& puntos de fuerza física. La habilidad termina después de &21016_time& segundos o cuando la fuerza física sea inferior a &21016_hpNow&%."
+    "es": "Libera la energía mágica en el cuerpo, obtiene una probabilidad de golpe crítico de &21016_critUp&% y un multiplicador de golpe crítico de *&21016_critV& veces la Vida máxima, a costa de consumir &21016_hpCost&% de la Vida máxima por segundo. Durante este efecto, cada enemigo que muera en un radio de 250 restaurará &21016_hpBack& PV. La habilidad termina después de &21016_time& segundos o cuando la Vida sea inferior a &21016_hpNow&%."
   },
   {
     "id": "53196",
@@ -246797,7 +246797,7 @@
   {
     "id": "29239",
     "key": "spriteTalentDesc100451",
-    "es": "Cuando tienes equipado un artefacto combinado con este espíritu de artefacto, cada vez que recuperas energía, también recuperarás &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2& veces la Resistencia. Este efecto sustituye al anterior."
+    "es": "Cuando tienes equipado un artefacto combinado con este espíritu de artefacto, cada vez que recuperas energía, también recuperarás &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2& veces la Vida. Este efecto sustituye al anterior."
   },
   {
     "id": "29240",
@@ -253677,7 +253677,7 @@
   {
     "id": "22016",
     "key": "startGameTipDesc175",
-    "es": "<size=25>【Versión 0.8.5001】</size> Actualización del 17 de enero de 2022, 21:00\n1. Se desbloqueó artefacto 'Ojo Celestial', con funciones: ampliar visión del mapa, ver más objetos en mochilas de NPC, aprender habilidades de bestias, retroceder tiempo al recibir daño letal y salir del combate.\n2. Se añadió evento 'Viento sobre el Loto' (tras completar misión principal 'Fuego').\n3. Se añadieron expresiones dinámicas en diálogos de NPC.\n4. Se optimizaron eventos de Villa Dragón.\n5. Se optimizó confirmación de opciones en eventos, diálogos y paso de mes (WASD + espacio).\n6. Se optimizó interfaz de compras en Edificio del Tesoro.\n7. Se optimizó visualización de barra de carga en habilidades.\n8. Se corrigió un error por el cual NPC pedían consejo en etapa inicial.\n9. Se añadió clasificación de objetos al regalar.\n10. Se añadió función de filtrado de edificios en minimapa.\n11. Se optimizó cambio de género en creación de personaje (redibujo aleatorio).\n12. Se corrigió un error en efectos de presión de títulos daoístas.\n13. Se corrigió un error en desafíos de títulos daoístas que bloqueaba cambio de técnicas.\n14. Se corrigió un error en consumo de objeto 'Talismán de Victoria'.\n15. Se añadió función de ajuste de permisos de población para grandes ancianos y ancianos.\n16. Se corrigió un error por el cual NPC de secta anterior seguían consultando tras abandonar.\n17. Se corrigió un error en fortuna 'Sabiduría Suprema' que reducía ánimo de forma distinta a lo descrito.\n18. Se optimizó descripción de talento de artefacto 'Jiang Lingge'.\n19. Se corrigió un error en proyectiles que podían infligir múltiples daños.\n20. Se corrigió un error por el cual NPC mostraban barra de carga al usar habilidades.\n21. Se corrigió un error por el cual tras entregar misiones desaparecían retratos superiores.\n22. Se corrigió un error en mazmorras donde jefes con técnicas acuáticas bloqueaban finalización.\n23. Se corrigió un error en aprendizaje de manuales que mostraba un progreso del 100% sin aprender la habilidad.\n24. Se añadió ajuste de volumen para voces de artefactos.\n25. Se optimizó función de reasignar teclas, añadiendo soporte para botones laterales del ratón.\n26. Se optimizó interfaz de estrategia de secta.\n\n\n\n\n"
+    "es": "<size=25>【Versión 0.8.5001】</size> Actualización del 17 de enero de 2022, 21:00\n1. Se desbloqueó artefacto 'Ojo Celestial', con funciones: ampliar visión del mapa, ver más objetos en mochilas de NPC, aprender habilidades de bestias, retroceder tiempo al recibir daño letal y salir del combate.\n2. Se añadió evento 'Viento sobre el Loto' (tras completar misión principal 'Fuego').\n3. Se añadieron expresiones dinámicas en diálogos de NPC.\n4. Se optimizaron eventos de Villa Dragón.\n5. Se optimizó confirmación de opciones en eventos, diálogos y paso de mes (WASD + espacio).\n6. Se optimizó interfaz de compras en Edificio del Tesoro.\n7. Se optimizó visualización de barra de carga en habilidades.\n8. Se corrigió un error por el cual NPC pedían consejo en etapa inicial.\n9. Se añadió clasificación de objetos al regalar.\n10. Se añadió función de filtrado de edificios en minimapa.\n11. Se optimizó cambio de género en creación de personaje (redibujo aleatorio).\n12. Se corrigió un error en efectos de presión de títulos daoístas.\n13. Se corrigió un error en desafíos de títulos daoístas que bloqueaba cambio de técnicas.\n14. Se corrigió un error en consumo de objeto 'Talismán de Victoria'.\n15. Se añadió función de ajuste de permisos de población para grandes ancianos y ancianos.\n16. Se corrigió un error por el cual NPC de secta anterior seguían consultando tras abandonar.\n17. Se corrigió un error en fortuna 'Sabiduría Suprema' que reducía ánimo de forma distinta a lo descrito.\n18. Se optimizó descripción de talento de artefacto 'Jiang Lingge'.\n19. Se corrigió un error en proyectiles que podían infligir múltiples daños.\n20. Se corrigió un error por el cual NPC mostraban barra de carga al usar habilidades.\n21. Se corrigió un error por el cual tras entregar misiones desaparecían retratos superiores.\n22. Se corrigió un error en mazmorras donde jefes con técnicas acuáticas bloqueaban finalización.\n23. Se corrigió un error en aprendizaje de manuales que mostraba un progreso del 100% sin aprender la habilidad.\n24. Se añadió ajuste de volumen para voces de artefactos.\n25. Se optimizó función de reasignar teclas, añadiendo soporte para botones laterales del ratón.\n26. Se optimizó interfaz de estrategia de secta.\n"
   },
   {
     "id": "22017",
@@ -253997,7 +253997,7 @@
   {
     "id": "22080",
     "key": "startGameTipDesc239",
-    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 28 de septiembre de 2022, 15:00\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\n　　C:\\Users\\Usuario\\AppData\\LocalLow\\guigugame\\guigubahuang\\SteamMonster\\CacheData</r></size>\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n3. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n4. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n5. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n6. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta.\n7. Se optimizó rendimiento en combates para reducir lag.\n\n\n\n"
+    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 28 de septiembre de 2022, 15:00\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\n　　C:\\Users\\Usuario\\AppData\\LocalLow\\guigugame\\guigubahuang\\SteamMonster\\CacheData</r></size>\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n3. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n4. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n5. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n6. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta.\n7. Se optimizó rendimiento en combates para reducir lag."
   },
   {
     "id": "22081",
@@ -254062,7 +254062,7 @@
   {
     "id": "22093",
     "key": "startGameTipDesc252",
-    "es": "<size=25>【Versión 0.8.7001】</size> Actualización del 11 de octubre de 2022, 21:00\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias debilitadas, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se optimizó profundamente el módulo de combate para mejorar rendimiento y fluidez (pueden surgir errores en efectos).\n3. Se añadieron nuevos recursos gráficos; algunos MOD que alteran atlas pueden causar errores visuales.\n4. Se añadió evento especial 'Verdadera Esencia del Dao de la Alquimia' (activable en Yongning).\n5. Se añadieron nuevas píldoras (Qiandu Xiang, Tiangang Wan, Juqi Dan, Huanxin Moxiang, Moyan Zhu, Yuanyang Dan).\n6. Se optimizaron requisitos de materiales en recetas de alquimia.\n7. Se optimizó jugabilidad y eficiencia en minijuego de alquimia.\n8. Se añadieron nuevas fortunas (Xuanhu Yao, Caldero Ilusorio nivel Cielo, Elixir Milagroso, Esencia de Alquimia, Jade Líquido).\n9. Se optimizaron efectos de varias fortunas (escudos de Xiaobao, Zhongbao, Dabao; registros del Emperador Verde; niveles de Espada Espiritual; niveles de Sacrificio de Sangre).\n10. Se añadieron dos nuevos sets de ilustraciones y piezas adicionales.\n11. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n12. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n13. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n14. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n15. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta.\n\n\n\n"
+    "es": "<size=25>【Versión 0.8.7001】</size> Actualización del 11 de octubre de 2022, 21:00\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias debilitadas, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se optimizó profundamente el módulo de combate para mejorar rendimiento y fluidez (pueden surgir errores en efectos).\n3. Se añadieron nuevos recursos gráficos; algunos MOD que alteran atlas pueden causar errores visuales.\n4. Se añadió evento especial 'Verdadera Esencia del Dao de la Alquimia' (activable en Yongning).\n5. Se añadieron nuevas píldoras (Qiandu Xiang, Tiangang Wan, Juqi Dan, Huanxin Moxiang, Moyan Zhu, Yuanyang Dan).\n6. Se optimizaron requisitos de materiales en recetas de alquimia.\n7. Se optimizó jugabilidad y eficiencia en minijuego de alquimia.\n8. Se añadieron nuevas fortunas (Xuanhu Yao, Caldero Ilusorio nivel Cielo, Elixir Milagroso, Esencia de Alquimia, Jade Líquido).\n9. Se optimizaron efectos de varias fortunas (escudos de Xiaobao, Zhongbao, Dabao; registros del Emperador Verde; niveles de Espada Espiritual; niveles de Sacrificio de Sangre).\n10. Se añadieron dos nuevos sets de ilustraciones y piezas adicionales.\n11. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n12. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n13. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n14. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n15. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta."
   },
   {
     "id": "22094",
