@@ -17642,7 +17642,7 @@
   {
     "id": "52353",
     "key": "D_selRole_xuanzjuese",
-    "es": "Seleccionar carácter"
+    "es": "Elegir personaje"
   },
   {
     "id": "52354",
@@ -17657,7 +17657,7 @@
   {
     "id": "53206",
     "key": "D_selSkill_title",
-    "es": "Selecciona una habilidad"
+    "es": "Habilidad"
   },
   {
     "id": "53273",
@@ -18857,7 +18857,7 @@
   {
     "id": "53330",
     "key": "dlcBook_title",
-    "es": "Libro ilustrado"
+    "es": "Codice"
   },
   {
     "id": "53323",
@@ -18962,7 +18962,7 @@
   {
     "id": "53359",
     "key": "dlcSkillInfo_zhongji",
-    "es": "último"
+    "es": "Final"
   },
   {
     "id": "53360",
