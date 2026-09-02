@@ -96,7 +96,9 @@ The one-argument `GameTool.LS(string)` overload delegates to `GameTool.LS(string
 
 This color conversion addresses literal `<r>`, `<g>`, and `<b>` tags, which are internal game aliases rather than standard Unity rich text. The managed wrapper does not prove the native transformation; confirm the complete behavior with `GameAssembly.dll` analysis or a runtime test.
 
-The `RoleLogLocal.json` schema must use `es` in the Spanish resource. The current loader reads `es`, and `update_project_files.py` converts the processed mirror's `en` field to `es` when merging new entries. Verify this invariant before using role logs as a color test.
+The `RoleLogLocal.json` schema uses `es` in both the processed mirror and the Spanish resource. The current loader reads `es`, and `update_project_files.py` preserves the processed `es` field when merging new entries. Verify this invariant before using role logs as a color test.
+
+For the skill-point UI, `wuxue_daodianxiaohao` supplies the label `Costo de puntos:` and `wuxue_dian` uses `{#kong}` intentionally. The latter suppresses the duplicated visible unit so the numeric value is not rendered as `Punto` immediately after the label.
 
 The same direct replacement bypasses any other game-side processing for `{...}`, `&...&`, `$...$`, escape sequences, and game-specific tags. A color helper alone must not be assumed to solve those formats.
 

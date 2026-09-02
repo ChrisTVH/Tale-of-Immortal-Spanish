@@ -18,10 +18,8 @@ class ValidationError(ValueError):
 
 
 def to_localization_entry(item):
-    """Convert a processed source entry into the Spanish resource schema."""
-    localization_item = dict(item)
-    localization_item["es"] = localization_item.pop("en")
-    return localization_item
+    """Return a processed entry in the Spanish resource schema."""
+    return dict(item)
 
 
 def write_json_atomically(output_path, data):
@@ -302,7 +300,7 @@ def update_local_text(output_path, main_path, dry_run=False):
         main_path,
         "LocalText.json",
         structural_field="key",
-        required_fields=("id", "key", "en"),
+        required_fields=("id", "key", "es"),
         main_required_fields=("id", "key", "es"),
         sort_key=lambda x: natural_sort_key(x.get("key", "")),
         entry_transform=to_localization_entry,
@@ -316,7 +314,7 @@ def update_role_log_local(output_path, main_path, dry_run=False):
         main_path,
         "RoleLogLocal.json",
         structural_field="keyID",
-        required_fields=("id", "keyID", "en"),
+        required_fields=("id", "keyID", "es"),
         main_required_fields=("id", "keyID", "es"),
         sort_key=lambda x: natural_sort_key(x.get("keyID", "")),
         entry_transform=to_localization_entry,
@@ -329,7 +327,7 @@ def update_simple_file(output_path, main_path, filename, dry_run=False):
         output_path,
         main_path,
         filename,
-        required_fields=("id", "en"),
+        required_fields=("id", "es"),
         main_required_fields=("id", "es"),
         entry_transform=to_localization_entry,
         dry_run=dry_run,
@@ -344,7 +342,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "LocalText.json",
             "id_field": "id",
             "structural_field": "key",
-            "required_fields": ("id", "key", "en"),
+            "required_fields": ("id", "key", "es"),
             "main_required_fields": ("id", "key", "es"),
             "sort_key": lambda x: natural_sort_key(x.get("key", "")),
             "entry_transform": to_localization_entry,
@@ -355,7 +353,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "RoleLogLocal.json",
             "id_field": "id",
             "structural_field": "keyID",
-            "required_fields": ("id", "keyID", "en"),
+            "required_fields": ("id", "keyID", "es"),
             "main_required_fields": ("id", "keyID", "es"),
             "sort_key": lambda x: natural_sort_key(x.get("keyID", "")),
             "entry_transform": to_localization_entry,
@@ -366,7 +364,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "Prefixes" / "BattleSkillPrefixName.json",
             "id_field": "id",
             "structural_field": None,
-            "required_fields": ("id", "en"),
+            "required_fields": ("id", "es"),
             "main_required_fields": ("id", "es"),
             "sort_key": None,
             "entry_transform": to_localization_entry,
@@ -377,7 +375,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "Npcs" / "NpcNameFirst.json",
             "id_field": "id",
             "structural_field": None,
-            "required_fields": ("id", "en"),
+            "required_fields": ("id", "es"),
             "main_required_fields": ("id", "es"),
             "sort_key": None,
             "entry_transform": to_localization_entry,
@@ -388,7 +386,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "Npcs" / "NpcNameLast.json",
             "id_field": "id",
             "structural_field": None,
-            "required_fields": ("id", "en"),
+            "required_fields": ("id", "es"),
             "main_required_fields": ("id", "es"),
             "sort_key": None,
             "entry_transform": to_localization_entry,
@@ -399,7 +397,7 @@ def build_files_config(output_dir, localization_dir):
             "main": localization_dir / "Npcs" / "HerdNPCNameFirst.json",
             "id_field": "id",
             "structural_field": None,
-            "required_fields": ("id", "en"),
+            "required_fields": ("id", "es"),
             "main_required_fields": ("id", "es"),
             "sort_key": None,
             "entry_transform": to_localization_entry,

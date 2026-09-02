@@ -17,6 +17,7 @@ from pathlib import Path
 FILES = {"LocalText.json", "RoleLogLocal.json"}
 ALLOWED_LOCALTEXT_EXTRA_IDS = {"9000001"}
 LOCALTEXT_EMPTY_SOURCE_EXCEPTION = "24209"
+LOCALTEXT_BLANK_UNIT_EXCEPTION = "20395"
 ROLE_INCOMPLETE_CALLIGNORE_EXCEPTION = "10560001"
 ROLE_TOKENS = {
     "relation",
@@ -79,7 +80,7 @@ def validate_schema(data, path, file_name, side):
     seen_ids = {}
     seen_keys = {}
     structural_field = "key" if file_name == "LocalText.json" else "keyID"
-    text_field = "es" if side == "spanish" else "en"
+    text_field = "es"
 
     if not isinstance(data, list):
         return [
@@ -173,17 +174,40 @@ def _delimiter_signature(text):
 
 
 def _escape_signature(text):
+    """Return only game controls, not literal path separators.
+
+    A decoded ``\\n``/``\\t`` can be either the actual control character or
+    the two-character sequence consumed by the localization runtime.  Unknown
+    backslash-letter pairs are literal content (notably Windows paths), while
+    a doubled backslash is an explicit literal-backslash escape.
+    """
     result = []
     index = 0
     while index < len(text):
-        if text[index] != "\\":
+        character = text[index]
+        if character == "\n":
+            result.append(r"\n")
+            index += 1
+            continue
+        if character == "\t":
+            result.append(r"\t")
+            index += 1
+            continue
+        if character != "\\":
             index += 1
             continue
         if index + 1 < len(text):
-            result.append(text[index : index + 2])
-            index += 2
+            escaped_character = text[index + 1]
+            if escaped_character in "nt":
+                result.append("\\" + escaped_character)
+                index += 2
+                continue
+            if escaped_character == "\\":
+                result.append(r"\\")
+                index += 2
+                continue
+            index += 1
         else:
-            result.append("\\")
             index += 1
     return tuple(result)
 
@@ -258,8 +282,6 @@ def _syntax_issues(text):
             stack.append(name)
     issues.extend(("tags", f"tag <{name}> sin cierre") for name in stack)
 
-    if text.endswith("\\"):
-        issues.append(("escapes", "escape invertido final sin carácter"))
     return issues
 
 
@@ -401,6 +423,16 @@ def _is_incomplete_role_callignore(source_text, entry_id, file_name):
     )
 
 
+def _is_intentional_blank_unit(source_text, spanish_text, entry_id, file_name):
+    """Allow the documented blank unit used by the skill-point UI."""
+    return (
+        file_name == "LocalText.json"
+        and entry_id == LOCALTEXT_BLANK_UNIT_EXCEPTION
+        and source_text == "点"
+        and spanish_text == "{#kong}"
+    )
+
+
 def validate_documents(
     mirror_data,
     spanish_data,
@@ -415,7 +447,7 @@ def validate_documents(
     if emit is None:
         emit = print
     structural_field = "key" if file_name == "LocalText.json" else "keyID"
-    source_text_field = "en"
+    source_text_field = "es"
     spanish_text_field = "es"
 
     errors = 0
@@ -470,7 +502,7 @@ def validate_documents(
 
     if file_name == "LocalText.json" and LOCALTEXT_EMPTY_SOURCE_EXCEPTION in common_ids:
         mirror_item = mirror_by_id[LOCALTEXT_EMPTY_SOURCE_EXCEPTION]
-        if mirror_item.get("en") == "":
+        if mirror_item.get("es") == "":
             emit(
                 "WARNING: excepción manual: LocalText id 24209 "
                 "tiene valor vacío en el espejo; se informa sin exigir igualdad"
@@ -526,6 +558,15 @@ def validate_documents(
                     emit(
                         f"WARNING: {entry_label}: "
                         f"comparación exceptuada ({'es=0' if is_zero else 'id 24209'}); "
+                        f"firmas distintas: {difference}"
+                    )
+                    warnings += 1
+                elif _is_intentional_blank_unit(
+                    source_text, spanish_text, entry_id, file_name
+                ):
+                    emit(
+                        f"WARNING: {entry_label}: comparación exceptuada: "
+                        "la unidad de puntos usa el marcador de texto vacío; "
                         f"firmas distintas: {difference}"
                     )
                     warnings += 1

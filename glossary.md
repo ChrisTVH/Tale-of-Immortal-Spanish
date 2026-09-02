@@ -16,7 +16,7 @@ No conservar como variantes activas las formas antiguas que contradigan una form
 ## Reglas de formato y estructura
 
 - Traducir al español neutro, claro y conciso. Todo inglés descriptivo residual debe traducirse.
-- Preservar literalmente placeholders, variables, escapes, saltos `\n`, pipes (`|`), porcentajes, delimitadores, espacios intencionales y el orden de los argumentos.
+- Preservar literalmente placeholders, variables, escapes, saltos `\n`, `\t`, pipes (`|`), porcentajes, delimitadores, espacios intencionales y el orden de los argumentos.
 - Conservar el markup real del juego, incluidas `<r>`, `<g>`, `<b>`, `<color>`, `</color>`, `<size>`, `</size>`, `<align>`, `</align>`, `<indent>`, `</indent>`, `<y>`, `</y>` y las etiquetas con código de color como `<#e92828>`.
 - En UI usar formas breves cuando el espacio sea limitado: `ATQ`, `DEF`, `PV`, `PV máx.`, `Pmáx` y `U. Dao` cuando correspondan.
 - Mantener `Qi`, `Dao`, `EXP`, códigos y abreviaturas válidos; `EXP` se reserva para contextos de experiencia, no para cultivo.

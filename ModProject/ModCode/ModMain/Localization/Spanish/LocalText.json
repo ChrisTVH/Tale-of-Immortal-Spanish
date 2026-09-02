@@ -2,7 +2,7 @@
   {
     "id": "20196",
     "key": "ability_beidongtisheng",
-    "es": "Impulso pasivo:"
+    "es": "Impulso pasivo: "
   },
   {
     "id": "20115",
@@ -1337,7 +1337,7 @@
   {
     "id": "26359",
     "key": "achievement_kejiesuo",
-    "es": "Desbloqueable:"
+    "es": "Desbloqueable: "
   },
   {
     "id": "22227",
@@ -1347,7 +1347,7 @@
   {
     "id": "22228",
     "key": "achievement_yijiesuo",
-    "es": "Desbloqueado:"
+    "es": "Desbloqueado: "
   },
   {
     "id": "22399",
@@ -5422,7 +5422,7 @@
   {
     "id": "27117",
     "key": "artifact_yijiesuotianfu",
-    "es": "Talentos desbloqueados:"
+    "es": "Talentos desbloqueados: "
   },
   {
     "id": "31244",
@@ -5517,7 +5517,7 @@
   {
     "id": "27100",
     "key": "artifactShape_jinengshuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "27112",
@@ -10167,12 +10167,12 @@
   {
     "id": "35578",
     "key": "battle_staticAttack",
-    "es": "Seleccionar objetivo de ataque:"
+    "es": "Seleccionar objetivo de ataque: "
   },
   {
     "id": "35579",
     "key": "battle_staticDefend",
-    "es": "Seleccionar objetivo de defensa:"
+    "es": "Seleccionar objetivo de defensa: "
   },
   {
     "id": "14323",
@@ -13242,32 +13242,32 @@
   {
     "id": "20356",
     "key": "battleEnd_text3",
-    "es": "Batalla:"
+    "es": "Batalla: "
   },
   {
     "id": "20357",
     "key": "battleEnd_text4",
-    "es": "Sala:"
+    "es": "Sala: "
   },
   {
     "id": "20358",
     "key": "battleEnd_text5",
-    "es": "Daño recibido:"
+    "es": "Daño recibido: "
   },
   {
     "id": "20359",
     "key": "battleEnd_text6",
-    "es": "Golpes recibidos:"
+    "es": "Golpes recibidos: "
   },
   {
     "id": "20360",
     "key": "battleEnd_text7",
-    "es": "Daño causado:"
+    "es": "Daño causado: "
   },
   {
     "id": "20361",
     "key": "battleEnd_text8",
-    "es": "Enemigos:"
+    "es": "Enemigos: "
   },
   {
     "id": "20362",
@@ -13302,7 +13302,7 @@
   {
     "id": "14399",
     "key": "battleInfo_daojishi",
-    "es": "Cuenta atrás:"
+    "es": "Cuenta atrás: "
   },
   {
     "id": "17924",
@@ -13332,7 +13332,7 @@
   {
     "id": "18010",
     "key": "battleInfo_shengyuguaiwu",
-    "es": "Monstruos restantes:"
+    "es": "Monstruos restantes: "
   },
   {
     "id": "14881",
@@ -13412,7 +13412,7 @@
   {
     "id": "26639",
     "key": "battleRule_chiyou",
-    "es": "Tienes:"
+    "es": "Tienes: "
   },
   {
     "id": "26637",
@@ -14352,7 +14352,7 @@
   {
     "id": "20487",
     "key": "canwu_huisudian",
-    "es": "Pts de reversión:"
+    "es": "Pts de reversión: "
   },
   {
     "id": "20498",
@@ -16482,7 +16482,7 @@
   {
     "id": "11928",
     "key": "createPlayer_huode",
-    "es": "Obtenido:"
+    "es": "Obtenido: "
   },
   {
     "id": "26443",
@@ -16597,7 +16597,7 @@
   {
     "id": "50769",
     "key": "D_battleStore_jinengshuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "50715",
@@ -17667,7 +17667,7 @@
   {
     "id": "52233",
     "key": "D_store_chiyoulingshi",
-    "es": "Piedras Espirituales:"
+    "es": "Piedras Espirituales: "
   },
   {
     "id": "53565",
@@ -18842,7 +18842,7 @@
   {
     "id": "53331",
     "key": "dlcBook_kejiesuo",
-    "es": "Desbloqueado:"
+    "es": "Desbloqueado: "
   },
   {
     "id": "53334",
@@ -94702,7 +94702,7 @@
   {
     "id": "22995",
     "key": "dramakuafu_qiyun",
-    "es": "Destino:"
+    "es": "Destino: "
   },
   {
     "id": "11492",
@@ -99267,62 +99267,62 @@
   {
     "id": "12331",
     "key": "effect_value_desc_shwldao",
-    "es": "Poder de daño (Hoja):"
+    "es": "Poder de daño (Hoja): "
   },
   {
     "id": "12328",
     "key": "effect_value_desc_shwlfeng",
-    "es": "Poder de daño (viento):"
+    "es": "Poder de daño (viento): "
   },
   {
     "id": "12325",
     "key": "effect_value_desc_shwlhuo",
-    "es": "Poder de daño (fuego):"
+    "es": "Poder de daño (fuego): "
   },
   {
     "id": "12333",
     "key": "effect_value_desc_shwljian",
-    "es": "Poder de daño (espada):"
+    "es": "Poder de daño (espada): "
   },
   {
     "id": "12327",
     "key": "effect_value_desc_shwllei",
-    "es": "Poder de daño (trueno):"
+    "es": "Poder de daño (trueno): "
   },
   {
     "id": "12330",
     "key": "effect_value_desc_shwlmu",
-    "es": "Poder de daño (madera):"
+    "es": "Poder de daño (madera): "
   },
   {
     "id": "12332",
     "key": "effect_value_desc_shwlqiang",
-    "es": "Poder de daño (Lanza):"
+    "es": "Poder de daño (Lanza): "
   },
   {
     "id": "12334",
     "key": "effect_value_desc_shwlquan",
-    "es": "Poder de daño (puñetazo):"
+    "es": "Poder de daño (puñetazo): "
   },
   {
     "id": "12326",
     "key": "effect_value_desc_shwlshui",
-    "es": "Poder de daño (agua):"
+    "es": "Poder de daño (agua): "
   },
   {
     "id": "12329",
     "key": "effect_value_desc_shwltu",
-    "es": "Poder de daño (tierra):"
+    "es": "Poder de daño (tierra): "
   },
   {
     "id": "12335",
     "key": "effect_value_desc_shwlzhang",
-    "es": "Poder de daño (palma):"
+    "es": "Poder de daño (palma): "
   },
   {
     "id": "12336",
     "key": "effect_value_desc_shwlzhi",
-    "es": "Poder de daño (refiriéndose a):"
+    "es": "Poder de daño (refiriéndose a): "
   },
   {
     "id": "20525",
@@ -102142,7 +102142,7 @@
   {
     "id": "26789",
     "key": "fieldSkill_jinengshuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "26786",
@@ -104882,7 +104882,7 @@
   {
     "id": "50702",
     "key": "ganwu_title2",
-    "es": "Selecciona la habilidad del mismo tipo a consumir:"
+    "es": "Selecciona la habilidad del mismo tipo a consumir: "
   },
   {
     "id": "50703",
@@ -105722,7 +105722,7 @@
   {
     "id": "31293",
     "key": "ghostMountPillar_txtMatInfo2",
-    "es": "Tienes:"
+    "es": "Tienes: "
   },
   {
     "id": "31294",
@@ -107207,7 +107207,7 @@
   {
     "id": "14351",
     "key": "grade_chengonglv2",
-    "es": "Tasa de éxito:"
+    "es": "Tasa de éxito: "
   },
   {
     "id": "20216",
@@ -108277,12 +108277,12 @@
   {
     "id": "16158",
     "key": "honor_text6",
-    "es": "Nota global:"
+    "es": "Nota global: "
   },
   {
     "id": "16159",
     "key": "honor_text7",
-    "es": "Sostener:"
+    "es": "Sostener: "
   },
   {
     "id": "16160",
@@ -108317,7 +108317,7 @@
   {
     "id": "16176",
     "key": "honor_text14",
-    "es": "Calificación:"
+    "es": "Calificación: "
   },
   {
     "id": "16177",
@@ -108327,12 +108327,12 @@
   {
     "id": "16178",
     "key": "honor_text16",
-    "es": "Sostener:"
+    "es": "Sostener: "
   },
   {
     "id": "16179",
     "key": "honor_text17",
-    "es": "Etapa actual:"
+    "es": "Etapa actual: "
   },
   {
     "id": "16180",
@@ -108387,37 +108387,37 @@
   {
     "id": "16200",
     "key": "honor_text28",
-    "es": "Reino:"
+    "es": "Reino: "
   },
   {
     "id": "16201",
     "key": "honor_text29",
-    "es": "Cultivo:"
+    "es": "Cultivo: "
   },
   {
     "id": "16202",
     "key": "honor_text30",
-    "es": "Fuerza física:"
+    "es": "Fuerza física: "
   },
   {
     "id": "16203",
     "key": "honor_text31",
-    "es": "Defensa:"
+    "es": "Defensa: "
   },
   {
     "id": "16204",
     "key": "honor_text32",
-    "es": "Fuerza de las piernas:"
+    "es": "Fuerza de las piernas: "
   },
   {
     "id": "16205",
     "key": "honor_text33",
-    "es": "Intimidad:"
+    "es": "Intimidad: "
   },
   {
     "id": "16206",
     "key": "honor_text34",
-    "es": "Habilidad:"
+    "es": "Habilidad: "
   },
   {
     "id": "16207",
@@ -108472,7 +108472,7 @@
   {
     "id": "16218",
     "key": "honor_text45",
-    "es": "Estado actual:"
+    "es": "Estado actual: "
   },
   {
     "id": "16219",
@@ -108487,12 +108487,12 @@
   {
     "id": "16221",
     "key": "honor_text48",
-    "es": "Sostener:"
+    "es": "Sostener: "
   },
   {
     "id": "16222",
     "key": "honor_text49",
-    "es": "Regalos recibidos:"
+    "es": "Regalos recibidos: "
   },
   {
     "id": "16223",
@@ -109802,7 +109802,7 @@
   {
     "id": "26358",
     "key": "item_cangbaotutishi",
-    "es": "Ubicación marcada:"
+    "es": "Ubicación marcada: "
   },
   {
     "id": "4216",
@@ -126322,7 +126322,7 @@
   {
     "id": "13041",
     "key": "item_jiankang",
-    "es": "Salud:"
+    "es": "Salud: "
   },
   {
     "id": "21683",
@@ -126337,7 +126337,7 @@
   {
     "id": "11632",
     "key": "item_leixing",
-    "es": "Tipo:"
+    "es": "Tipo: "
   },
   {
     "id": "14910",
@@ -145637,12 +145637,12 @@
   {
     "id": "30966",
     "key": "lianqi_hexincailiao4",
-    "es": "Impurezas:"
+    "es": "Impurezas: "
   },
   {
     "id": "30967",
     "key": "lianqi_hexincailiao5",
-    "es": "Pureza:"
+    "es": "Pureza: "
   },
   {
     "id": "30968",
@@ -145677,12 +145677,12 @@
   {
     "id": "26850",
     "key": "lianqi_text3",
-    "es": "Atributo de forja:"
+    "es": "Atributo de forja: "
   },
   {
     "id": "26851",
     "key": "lianqi_text4",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "26852",
@@ -145692,12 +145692,12 @@
   {
     "id": "26853",
     "key": "lianqi_text6",
-    "es": "Añadido:"
+    "es": "Añadido: "
   },
   {
     "id": "26854",
     "key": "lianqi_text7",
-    "es": "Impurezas:"
+    "es": "Impurezas: "
   },
   {
     "id": "26855",
@@ -146157,7 +146157,7 @@
   {
     "id": "31233",
     "key": "LifeSkill_Cost",
-    "es": "Resistencia:"
+    "es": "Resistencia: "
   },
   {
     "id": "31237",
@@ -146167,17 +146167,17 @@
   {
     "id": "31235",
     "key": "LifeSkill_State",
-    "es": "Estado de la habilidad:"
+    "es": "Estado de la habilidad: "
   },
   {
     "id": "31234",
     "key": "LifeSkill_Time",
-    "es": "Enfriamiento:"
+    "es": "Enfriamiento: "
   },
   {
     "id": "31236",
     "key": "LifeSkill_Use",
-    "es": "Usa la habilidad para la vida:"
+    "es": "Usa la habilidad para la vida: "
   },
   {
     "id": "31225",
@@ -147807,7 +147807,7 @@
   {
     "id": "31383",
     "key": "maohao",
-    "es": ":"
+    "es": ": "
   },
   {
     "id": "7197",
@@ -147832,17 +147832,17 @@
   {
     "id": "21654",
     "key": "map_fangxiang1",
-    "es": " de"
+    "es": " del "
   },
   {
     "id": "21655",
     "key": "map_fangxiang2",
-    "es": "cuadrado"
+    "es": " hacia la Casilla"
   },
   {
     "id": "21656",
     "key": "map_fangxiang3",
-    "es": "Este"
+    "es": " Este"
   },
   {
     "id": "21657",
@@ -147862,7 +147862,7 @@
   {
     "id": "21660",
     "key": "map_fangxiang7",
-    "es": "Noreste"
+    "es": " Noreste"
   },
   {
     "id": "21661",
@@ -148007,12 +148007,12 @@
   {
     "id": "11744",
     "key": "map_lingshi",
-    "es": "Piedras Espirituales:"
+    "es": "Piedras Espirituales: "
   },
   {
     "id": "11747",
     "key": "map_modaozhiqi",
-    "es": "Aura demoníaca:"
+    "es": "Aura demoníaca: "
   },
   {
     "id": "31389",
@@ -148132,12 +148132,12 @@
   {
     "id": "11746",
     "key": "map_zhengdaozhiqi",
-    "es": "Aura justa:"
+    "es": "Aura justa: "
   },
   {
     "id": "11745",
     "key": "map_zongmengongxian",
-    "es": "Contribución de la Secta:"
+    "es": "Contribución de la Secta: "
   },
   {
     "id": "11932",
@@ -148162,17 +148162,17 @@
   {
     "id": "13026",
     "key": "mapBattle_boss",
-    "es": "Bestia demoníaca mayor:"
+    "es": "Bestia demoníaca mayor: "
   },
   {
     "id": "13024",
     "key": "mapBattle_direnshuliang",
-    "es": "Enemigos:"
+    "es": "Enemigos: "
   },
   {
     "id": "13025",
     "key": "mapBattle_jingjie",
-    "es": "Reino:"
+    "es": "Reino: "
   },
   {
     "id": "39571",
@@ -148637,7 +148637,7 @@
   {
     "id": "24129",
     "key": "mod_banbenhao",
-    "es": "Versión:"
+    "es": "Versión: "
   },
   {
     "id": "23522",
@@ -148697,12 +148697,12 @@
   {
     "id": "25788",
     "key": "mod_bendi4",
-    "es": "Nombre:"
+    "es": "Nombre: "
   },
   {
     "id": "25789",
     "key": "mod_bendi5",
-    "es": "Descripción:"
+    "es": "Descripción: "
   },
   {
     "id": "25790",
@@ -148802,7 +148802,7 @@
   {
     "id": "26236",
     "key": "mod_bianxiedaima4",
-    "es": "Espacio de nombres de código:"
+    "es": "Espacio de nombres de código: "
   },
   {
     "id": "26237",
@@ -149117,7 +149117,7 @@
   {
     "id": "25555",
     "key": "mod_chixushijian",
-    "es": "Duración:"
+    "es": "Duración: "
   },
   {
     "id": "24131",
@@ -149247,7 +149247,7 @@
   {
     "id": "24323",
     "key": "mod_chufatiaojian",
-    "es": "Condición de activación:"
+    "es": "Condición de activación: "
   },
   {
     "id": "25761",
@@ -149897,7 +149897,7 @@
   {
     "id": "26209",
     "key": "mod_gengxinriqi",
-    "es": "Fecha:"
+    "es": "Fecha: "
   },
   {
     "id": "25557",
@@ -150157,7 +150157,7 @@
   {
     "id": "26244",
     "key": "mod_jiazaimozutishi",
-    "es": "Este guardado ha usado los siguientes mods:"
+    "es": "Este guardado ha usado los siguientes mods: "
   },
   {
     "id": "25931",
@@ -150197,7 +150197,7 @@
   {
     "id": "47076",
     "key": "mod_jineng2",
-    "es": "ID de habilidad de depuración (de la tabla BattleSkillBase):"
+    "es": "ID de habilidad de depuración (de la tabla BattleSkillBase): "
   },
   {
     "id": "47077",
@@ -150287,7 +150287,7 @@
   {
     "id": "47094",
     "key": "mod_jineng20",
-    "es": "Escala de efectos:"
+    "es": "Escala de efectos: "
   },
   {
     "id": "47095",
@@ -150602,7 +150602,7 @@
   {
     "id": "24128",
     "key": "mod_miaoshu",
-    "es": "Descripción:"
+    "es": "Descripción: "
   },
   {
     "id": "23533",
@@ -150617,7 +150617,7 @@
   {
     "id": "24127",
     "key": "mod_mingcheng",
-    "es": "Nombre:"
+    "es": "Nombre: "
   },
   {
     "id": "24754",
@@ -150682,7 +150682,7 @@
   {
     "id": "26214",
     "key": "mod_mozuleixing1",
-    "es": "Tipo:"
+    "es": "Tipo: "
   },
   {
     "id": "26215",
@@ -150697,7 +150697,7 @@
   {
     "id": "26217",
     "key": "mod_mozuleixing4",
-    "es": "Ruta:"
+    "es": "Ruta: "
   },
   {
     "id": "26212",
@@ -151207,7 +151207,7 @@
   {
     "id": "23879",
     "key": "mod_qiyunxiaoguo",
-    "es": "Efecto del destino:"
+    "es": "Efecto del destino: "
   },
   {
     "id": "24801",
@@ -151642,12 +151642,12 @@
   {
     "id": "25226",
     "key": "mod_shangdian13",
-    "es": "Autor:"
+    "es": "Autor: "
   },
   {
     "id": "25227",
     "key": "mod_shangdian14",
-    "es": "Tamaño:"
+    "es": "Tamaño: "
   },
   {
     "id": "25228",
@@ -151672,12 +151672,12 @@
   {
     "id": "25232",
     "key": "mod_shangdian19",
-    "es": "Etiqueta:"
+    "es": "Etiqueta: "
   },
   {
     "id": "25233",
     "key": "mod_shangdian20",
-    "es": "Suscripciones:"
+    "es": "Suscripciones: "
   },
   {
     "id": "26207",
@@ -151687,7 +151687,7 @@
   {
     "id": "25669",
     "key": "mod_shenfen",
-    "es": "Posición:"
+    "es": "Posición: "
   },
   {
     "id": "24126",
@@ -151997,7 +151997,7 @@
   {
     "id": "25193",
     "key": "mod_tiaoshi2",
-    "es": "Se finalizo la depuración del Mod:"
+    "es": "Se finalizo la depuración del Mod: "
   },
   {
     "id": "25194",
@@ -152007,7 +152007,7 @@
   {
     "id": "25195",
     "key": "mod_tiaoshi4",
-    "es": "Ruta:"
+    "es": "Ruta: "
   },
   {
     "id": "25974",
@@ -152187,7 +152187,7 @@
   {
     "id": "25196",
     "key": "mod_xiangmulujing",
-    "es": "Ruta:"
+    "es": "Ruta: "
   },
   {
     "id": "24956",
@@ -152502,7 +152502,7 @@
   {
     "id": "26222",
     "key": "mod_xiugaipeizhi3",
-    "es": "ID de configuración actual:"
+    "es": "ID de configuración actual: "
   },
   {
     "id": "26223",
@@ -152612,7 +152612,7 @@
   {
     "id": "23878",
     "key": "mod_yeqian",
-    "es": "Pestaña:"
+    "es": "Pestaña: "
   },
   {
     "id": "24125",
@@ -152747,7 +152747,7 @@
   {
     "id": "25211",
     "key": "mod_yulantu3",
-    "es": "(Imagen de vista previa {0}):"
+    "es": "(Imagen de vista previa {0}): "
   },
   {
     "id": "25212",
@@ -153007,12 +153007,12 @@
   {
     "id": "25766",
     "key": "mod_zoqitexiao5",
-    "es": "Desplazamiento del efecto de montaje:"
+    "es": "Desplazamiento del efecto de montaje: "
   },
   {
     "id": "25767",
     "key": "mod_zoqitexiao6",
-    "es": "Zoom del efecto de montaje:"
+    "es": "Zoom del efecto de montaje: "
   },
   {
     "id": "25768",
@@ -153027,7 +153027,7 @@
   {
     "id": "25770",
     "key": "mod_zoqitexiao9",
-    "es": "Efecto:"
+    "es": "Efecto: "
   },
   {
     "id": "25771",
@@ -153052,12 +153052,12 @@
   {
     "id": "25775",
     "key": "mod_zoqitexiao14",
-    "es": "Desplazamiento del efecto de fondo:"
+    "es": "Desplazamiento del efecto de fondo: "
   },
   {
     "id": "25776",
     "key": "mod_zoqitexiao15",
-    "es": "Zoom del efecto de fondo:"
+    "es": "Zoom del efecto de fondo: "
   },
   {
     "id": "25777",
@@ -153257,17 +153257,17 @@
   {
     "id": "25743",
     "key": "mod_zuoqimoxing29",
-    "es": "Compensación del modelo de interfaz de usuario:"
+    "es": "Compensación del modelo de interfaz de usuario: "
   },
   {
     "id": "25744",
     "key": "mod_zuoqimoxing30",
-    "es": "Desplazamiento del modelo de montaje:"
+    "es": "Desplazamiento del modelo de montaje: "
   },
   {
     "id": "25745",
     "key": "mod_zuoqimoxing31",
-    "es": "Compensación del modelo del jugador:"
+    "es": "Compensación del modelo del jugador: "
   },
   {
     "id": "25746",
@@ -153282,12 +153282,12 @@
   {
     "id": "25748",
     "key": "mod_zuoqimoxing34",
-    "es": "Zoom del modelo de interfaz de usuario:"
+    "es": "Zoom del modelo de interfaz de usuario: "
   },
   {
     "id": "25749",
     "key": "mod_zuoqimoxing35",
-    "es": "Montar modelo Zoom:"
+    "es": "Montar modelo Zoom: "
   },
   {
     "id": "25750",
@@ -153317,7 +153317,7 @@
   {
     "id": "26190",
     "key": "mod_zuozhe1",
-    "es": "Autor:"
+    "es": "Autor: "
   },
   {
     "id": "26191",
@@ -164157,7 +164157,7 @@
   {
     "id": "15850",
     "key": "nitian_text5",
-    "es": "Desbloqueado:"
+    "es": "Desbloqueado: "
   },
   {
     "id": "15851",
@@ -164207,7 +164207,7 @@
   {
     "id": "15860",
     "key": "nitian_text15",
-    "es": "Cultivo:"
+    "es": "Cultivo: "
   },
   {
     "id": "15861",
@@ -164242,7 +164242,7 @@
   {
     "id": "15867",
     "key": "nitian_text22",
-    "es": "Tienes:"
+    "es": "Tienes: "
   },
   {
     "id": "15868",
@@ -168612,7 +168612,7 @@
   {
     "id": "14472",
     "key": "playerInfo_xuanzhe",
-    "es": "Selección:"
+    "es": "Selección: "
   },
   {
     "id": "7412",
@@ -171777,7 +171777,7 @@
   {
     "id": "12696",
     "key": "powerInfo_biaozhunzongweili",
-    "es": "Potencia total:"
+    "es": "Potencia total: "
   },
   {
     "id": "12698",
@@ -171787,22 +171787,22 @@
   {
     "id": "12697",
     "key": "powerInfo_jieduanweili",
-    "es": "Potencia actual:"
+    "es": "Potencia actual: "
   },
   {
     "id": "12701",
     "key": "powerInfo_shuxingweili",
-    "es": "Poder de atributo ({0}):"
+    "es": "Poder de atributo ({0}): "
   },
   {
     "id": "12700",
     "key": "powerInfo_wuliweili",
-    "es": "Poder físico ({0}):"
+    "es": "Poder físico ({0}): "
   },
   {
     "id": "12699",
     "key": "powerInfo_zongfahuiweili",
-    "es": "Poder total:"
+    "es": "Poder total: "
   },
   {
     "id": "51375",
@@ -177307,7 +177307,7 @@
   {
     "id": "21839",
     "key": "props_chiyou",
-    "es": "Tienes:"
+    "es": "Tienes: "
   },
   {
     "id": "14487",
@@ -177857,12 +177857,12 @@
   {
     "id": "14696",
     "key": "refineElixir_text3",
-    "es": "Capacidad de material:"
+    "es": "Capacidad de material: "
   },
   {
     "id": "14697",
     "key": "refineElixir_text4",
-    "es": "Durabilidad:"
+    "es": "Durabilidad: "
   },
   {
     "id": "14698",
@@ -177882,17 +177882,17 @@
   {
     "id": "14701",
     "key": "refineElixir_text8",
-    "es": "Vista previa del elixir:"
+    "es": "Vista previa del elixir: "
   },
   {
     "id": "14702",
     "key": "refineElixir_text9",
-    "es": "Competencia:"
+    "es": "Competencia: "
   },
   {
     "id": "14703",
     "key": "refineElixir_text10",
-    "es": "Resistencia:"
+    "es": "Resistencia: "
   },
   {
     "id": "14704",
@@ -177902,7 +177902,7 @@
   {
     "id": "14705",
     "key": "refineElixir_text12",
-    "es": "Materiales necesarios:"
+    "es": "Materiales necesarios: "
   },
   {
     "id": "14706",
@@ -178122,7 +178122,7 @@
   {
     "id": "14749",
     "key": "refineElixir_text56",
-    "es": "Durabilidad:"
+    "es": "Durabilidad: "
   },
   {
     "id": "45126",
@@ -202247,7 +202247,7 @@
   {
     "id": "33391",
     "key": "school_disCount",
-    "es": "Privilegio:"
+    "es": "Privilegio: "
   },
   {
     "id": "14852",
@@ -202347,7 +202347,7 @@
   {
     "id": "14024",
     "key": "school_hp",
-    "es": "Vida:"
+    "es": "Vida: "
   },
   {
     "id": "14903",
@@ -202362,7 +202362,7 @@
   {
     "id": "14022",
     "key": "school_jiankang",
-    "es": "Salud:"
+    "es": "Salud: "
   },
   {
     "id": "14831",
@@ -202422,7 +202422,7 @@
   {
     "id": "14023",
     "key": "school_jingli",
-    "es": "Resistencia:"
+    "es": "Resistencia: "
   },
   {
     "id": "14835",
@@ -202517,7 +202517,7 @@
   {
     "id": "20518",
     "key": "school_leijigongxian",
-    "es": "Contribución total:"
+    "es": "Contribución total: "
   },
   {
     "id": "20522",
@@ -202612,7 +202612,7 @@
   {
     "id": "14842",
     "key": "school_meinianfenglu",
-    "es": "Salario anual:"
+    "es": "Salario anual: "
   },
   {
     "id": "32367",
@@ -202662,7 +202662,7 @@
   {
     "id": "14025",
     "key": "school_mp",
-    "es": "Energía:"
+    "es": "Energía: "
   },
   {
     "id": "5394",
@@ -202777,82 +202777,82 @@
   {
     "id": "5410",
     "key": "school_name_second1",
-    "es": "Gui"
+    "es": " Gui"
   },
   {
     "id": "5411",
     "key": "school_name_second2",
-    "es": "Dao"
+    "es": " Dao"
   },
   {
     "id": "5412",
     "key": "school_name_second3",
-    "es": "Mo"
+    "es": " Mo"
   },
   {
     "id": "5413",
     "key": "school_name_second4",
-    "es": "Xin"
+    "es": " Xin"
   },
   {
     "id": "5414",
     "key": "school_name_second5",
-    "es": "An"
+    "es": " An"
   },
   {
     "id": "5415",
     "key": "school_name_second6",
-    "es": "Wang"
+    "es": " Wang"
   },
   {
     "id": "5416",
     "key": "school_name_second7",
-    "es": "Luo"
+    "es": " Luo"
   },
   {
     "id": "5417",
     "key": "school_name_second8",
-    "es": "Ming"
+    "es": " Ming"
   },
   {
     "id": "5418",
     "key": "school_name_second9",
-    "es": "Dao"
+    "es": " Dao"
   },
   {
     "id": "5419",
     "key": "school_name_second10",
-    "es": "Guang"
+    "es": " Guang"
   },
   {
     "id": "5420",
     "key": "school_name_second11",
-    "es": "Jian"
+    "es": " Jian"
   },
   {
     "id": "5421",
     "key": "school_name_second12",
-    "es": "Ying"
+    "es": " Ying"
   },
   {
     "id": "5422",
     "key": "school_name_second13",
-    "es": "Yin"
+    "es": " Yin"
   },
   {
     "id": "5423",
     "key": "school_name_second14",
-    "es": "Yang"
+    "es": " Yang"
   },
   {
     "id": "5424",
     "key": "school_name_second15",
-    "es": "Dou"
+    "es": " Dou"
   },
   {
     "id": "5425",
     "key": "school_name_second16",
-    "es": "Sheng"
+    "es": " Sheng"
   },
   {
     "id": "32790",
@@ -202892,7 +202892,7 @@
   {
     "id": "21677",
     "key": "school_qinmitishi1",
-    "es": "Afinidad de secta:"
+    "es": "Afinidad de secta: "
   },
   {
     "id": "21678",
@@ -202927,7 +202927,7 @@
   {
     "id": "11524",
     "key": "school_renwujiangli",
-    "es": "Recompensa:"
+    "es": "Recompensa: "
   },
   {
     "id": "11518",
@@ -202937,12 +202937,12 @@
   {
     "id": "11522",
     "key": "school_renwumubiao",
-    "es": "Objetivo:"
+    "es": "Objetivo: "
   },
   {
     "id": "11521",
     "key": "school_renwunandu",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "11527",
@@ -202982,7 +202982,7 @@
   {
     "id": "11520",
     "key": "school_renwushuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "11523",
@@ -203062,12 +203062,12 @@
   {
     "id": "14829",
     "key": "school_shengwang",
-    "es": "Reputación:"
+    "es": "Reputación: "
   },
   {
     "id": "20519",
     "key": "school_shengyugongxian",
-    "es": "Contribución restante:"
+    "es": "Contribución restante: "
   },
   {
     "id": "31897",
@@ -203087,7 +203087,7 @@
   {
     "id": "14026",
     "key": "school_sp",
-    "es": "Enfoque:"
+    "es": "Enfoque: "
   },
   {
     "id": "11500",
@@ -203252,7 +203252,7 @@
   {
     "id": "14818",
     "key": "school_wodezhiwei",
-    "es": "Mi puesto:"
+    "es": "Mi puesto: "
   },
   {
     "id": "14826",
@@ -203377,7 +203377,7 @@
   {
     "id": "14830",
     "key": "school_zhengmo",
-    "es": "Estado recto/demoníaco:"
+    "es": "Estado recto/demoníaco: "
   },
   {
     "id": "14900",
@@ -203392,7 +203392,7 @@
   {
     "id": "14819",
     "key": "school_zhiwei",
-    "es": "Posición:"
+    "es": "Posición: "
   },
   {
     "id": "14878",
@@ -203407,7 +203407,7 @@
   {
     "id": "11499",
     "key": "school_zhixu",
-    "es": "Estabilidad:"
+    "es": "Estabilidad: "
   },
   {
     "id": "14823",
@@ -204732,7 +204732,7 @@
   {
     "id": "34267",
     "key": "schoolGodBeast_baoshi",
-    "es": "Saciedad:"
+    "es": "Saciedad: "
   },
   {
     "id": "34271",
@@ -204797,7 +204797,7 @@
   {
     "id": "36613",
     "key": "schoolGodBeast_postType",
-    "es": "Función:"
+    "es": "Función: "
   },
   {
     "id": "35527",
@@ -205577,27 +205577,27 @@
   {
     "id": "14103",
     "key": "schoolMainHall_dazhanglao",
-    "es": "Grandes Ancianos:"
+    "es": "Grandes Ancianos: "
   },
   {
     "id": "14096",
     "key": "schoolMainHall_didui",
-    "es": "Sectas enemigas:"
+    "es": "Sectas enemigas: "
   },
   {
     "id": "14095",
     "key": "schoolMainHall_lichang",
-    "es": "Facción:"
+    "es": "Facción: "
   },
   {
     "id": "14098",
     "key": "schoolMainHall_lingdi",
-    "es": "Territorio de la secta:"
+    "es": "Territorio de la secta: "
   },
   {
     "id": "14093",
     "key": "schoolMainHall_mengui",
-    "es": "Reglas de la secta:"
+    "es": "Reglas de la secta: "
   },
   {
     "id": "14109",
@@ -205607,37 +205607,37 @@
   {
     "id": "14106",
     "key": "schoolMainHall_neimendizhi",
-    "es": "Discípulo:"
+    "es": "Discípulo: "
   },
   {
     "id": "14097",
     "key": "schoolMainHall_renshu",
-    "es": "Miembros:"
+    "es": "Miembros: "
   },
   {
     "id": "14101",
     "key": "schoolMainHall_shuliang",
-    "es": "Posiciones:"
+    "es": "Posiciones: "
   },
   {
     "id": "14107",
     "key": "schoolMainHall_waimendizhi",
-    "es": "Iniciar:"
+    "es": "Iniciar: "
   },
   {
     "id": "14099",
     "key": "schoolMainHall_weiwang",
-    "es": "Prestigio de la Secta:"
+    "es": "Prestigio de la Secta: "
   },
   {
     "id": "14104",
     "key": "schoolMainHall_zhanglao",
-    "es": "Ancianos:"
+    "es": "Ancianos: "
   },
   {
     "id": "14105",
     "key": "schoolMainHall_zhenchuandizhi",
-    "es": "Verdadero discípulo:"
+    "es": "Verdadero discípulo: "
   },
   {
     "id": "14108",
@@ -205647,17 +205647,17 @@
   {
     "id": "14100",
     "key": "schoolMainHall_zhixu",
-    "es": "Estabilidad:"
+    "es": "Estabilidad: "
   },
   {
     "id": "14094",
     "key": "schoolMainHall_zongzhi",
-    "es": "Propósito de la secta:"
+    "es": "Propósito de la secta: "
   },
   {
     "id": "14102",
     "key": "schoolMainHall_zongzhu",
-    "es": "Líder de secta:"
+    "es": "Líder de secta: "
   },
   {
     "id": "34953",
@@ -205727,7 +205727,7 @@
   {
     "id": "35496",
     "key": "SchoolMainLobby_mySchoolList",
-    "es": "Secta del mismo origen:"
+    "es": "Secta del mismo origen: "
   },
   {
     "id": "34767",
@@ -205867,7 +205867,7 @@
   {
     "id": "33401",
     "key": "schoolMap_celue",
-    "es": "Estrategia actual:"
+    "es": "Estrategia actual: "
   },
   {
     "id": "33398",
@@ -208012,12 +208012,12 @@
   {
     "id": "31928",
     "key": "schoolRelocate_qyfs_tip",
-    "es": "Selecciona el modo de reubicación:"
+    "es": "Selecciona el modo de reubicación: "
   },
   {
     "id": "31930",
     "key": "schoolRelocate_qylx_tip",
-    "es": "Selecciona el modo de reubicación de la secta:"
+    "es": "Selecciona el modo de reubicación de la secta: "
   },
   {
     "id": "31917",
@@ -208107,12 +208107,12 @@
   {
     "id": "31908",
     "key": "schoolRelocate_zzfj_tip1",
-    "es": "Se requieren los siguientes materiales:"
+    "es": "Se requieren los siguientes materiales: "
   },
   {
     "id": "31909",
     "key": "schoolRelocate_zzfj_tip2",
-    "es": "Actualmente tengo:"
+    "es": "Actualmente tengo: "
   },
   {
     "id": "31910",
@@ -209137,12 +209137,12 @@
   {
     "id": "14064",
     "key": "schoolTask_jiangli",
-    "es": "Recompensa:"
+    "es": "Recompensa: "
   },
   {
     "id": "14066",
     "key": "schoolTask_jindu",
-    "es": "Progreso:"
+    "es": "Progreso: "
   },
   {
     "id": "11511",
@@ -209172,7 +209172,7 @@
   {
     "id": "14063",
     "key": "schoolTask_nandu",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "14091",
@@ -209187,7 +209187,7 @@
   {
     "id": "14065",
     "key": "schoolTask_shijian",
-    "es": "Hora:"
+    "es": "Hora: "
   },
   {
     "id": "14071",
@@ -213847,7 +213847,7 @@
   {
     "id": "35470",
     "key": "schoolTaskLobby_allotStudentCount",
-    "es": "Discípulos que se pueden asignar:"
+    "es": "Discípulos que se pueden asignar: "
   },
   {
     "id": "32267",
@@ -213857,7 +213857,7 @@
   {
     "id": "32273",
     "key": "schoolTaskLobby_bigElderClassDescTitle",
-    "es": "{0} informe de la misión del mes pasado:"
+    "es": "{0} informe de la misión del mes pasado: "
   },
   {
     "id": "32269",
@@ -213867,7 +213867,7 @@
   {
     "id": "32272",
     "key": "schoolTaskLobby_bigElderDescTitle",
-    "es": "{0} informe total de la misión:"
+    "es": "{0} informe total de la misión: "
   },
   {
     "id": "53591",
@@ -213877,7 +213877,7 @@
   {
     "id": "32268",
     "key": "schoolTaskLobby_canAllotNum",
-    "es": "Discípulos disponibles:"
+    "es": "Discípulos disponibles: "
   },
   {
     "id": "32256",
@@ -214042,12 +214042,12 @@
   {
     "id": "32274",
     "key": "schoolTaskLobby_schoolAdd",
-    "es": "Beneficio de la secta:"
+    "es": "Beneficio de la secta: "
   },
   {
     "id": "32259",
     "key": "schoolTaskLobby_schoolGet",
-    "es": "Ganancias de la secta:"
+    "es": "Ganancias de la secta: "
   },
   {
     "id": "34281",
@@ -214062,7 +214062,7 @@
   {
     "id": "32260",
     "key": "schoolTaskLobby_studentAllot",
-    "es": "Asignación de discípulos:"
+    "es": "Asignación de discípulos: "
   },
   {
     "id": "32119",
@@ -214102,7 +214102,7 @@
   {
     "id": "32261",
     "key": "schoolTaskLobby_willGet",
-    "es": "Beneficio estimado:"
+    "es": "Beneficio estimado: "
   },
   {
     "id": "34282",
@@ -220242,7 +220242,7 @@
   {
     "id": "17983",
     "key": "skill_daodianxuqiu",
-    "es": "Puntos de habilidad requeridos:"
+    "es": "Puntos de habilidad requeridos: "
   },
   {
     "id": "6876",
@@ -220757,7 +220757,7 @@
   {
     "id": "11995",
     "key": "skill_entry_title_range",
-    "es": "Rango:"
+    "es": "Rango: "
   },
   {
     "id": "17971",
@@ -220947,7 +220947,7 @@
   {
     "id": "17975",
     "key": "skill_jinengshuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "7604",
@@ -220962,7 +220962,7 @@
   {
     "id": "17982",
     "key": "skill_juli",
-    "es": "Rango:"
+    "es": "Rango: "
   },
   {
     "id": "12704",
@@ -220972,7 +220972,7 @@
   {
     "id": "17979",
     "key": "skill_lengque",
-    "es": "Enfriamiento:"
+    "es": "Enfriamiento: "
   },
   {
     "id": "17972",
@@ -225627,7 +225627,7 @@
   {
     "id": "7641",
     "key": "skill_nuqixiaohao",
-    "es": "Consumo de rabia:{0}"
+    "es": "Consumo de rabia: {0}"
   },
   {
     "id": "7601",
@@ -225647,12 +225647,12 @@
   {
     "id": "17976",
     "key": "skill_shanghaiweili",
-    "es": "Daño:"
+    "es": "Daño: "
   },
   {
     "id": "17977",
     "key": "skill_shecheng",
-    "es": "Rango:"
+    "es": "Rango: "
   },
   {
     "id": "17974",
@@ -225682,7 +225682,7 @@
   {
     "id": "12018",
     "key": "skill_ui_chushoujiage",
-    "es": "Precio de venta:"
+    "es": "Precio de venta: "
   },
   {
     "id": "12017",
@@ -225702,7 +225702,7 @@
   {
     "id": "12011",
     "key": "skill_ui_lengque",
-    "es": "Enfriamiento:"
+    "es": "Enfriamiento: "
   },
   {
     "id": "12014",
@@ -225722,7 +225722,7 @@
   {
     "id": "12010",
     "key": "skill_ui_xiaohao",
-    "es": "Costo:"
+    "es": "Costo: "
   },
   {
     "id": "12016",
@@ -225737,17 +225737,17 @@
   {
     "id": "12015",
     "key": "skill_ui_xiulianzenjia",
-    "es": "Bonificación de atributos:"
+    "es": "Bonificación de atributos: "
   },
   {
     "id": "12012",
     "key": "skill_ui_zhandoulengque",
-    "es": "Enfriamiento en:"
+    "es": "Enfriamiento en: "
   },
   {
     "id": "12013",
     "key": "skill_ui_zhandouxiaohao",
-    "es": "Costo en combate:"
+    "es": "Costo en combate: "
   },
   {
     "id": "17999",
@@ -225767,12 +225767,12 @@
   {
     "id": "7642",
     "key": "skill_xiaoguofahui",
-    "es": "Efecto:{0}"
+    "es": "Efecto: {0}"
   },
   {
     "id": "17978",
     "key": "skill_xiaohao",
-    "es": "Costo:"
+    "es": "Costo: "
   },
   {
     "id": "17987",
@@ -225787,12 +225787,12 @@
   {
     "id": "17985",
     "key": "skill_xiulianzhiziyaoqiu",
-    "es": "Requisito:"
+    "es": "Requisito: "
   },
   {
     "id": "17986",
     "key": "skill_xiulianzhiziyaoqiu2",
-    "es": "Requisito:"
+    "es": "Requisito: "
   },
   {
     "id": "7602",
@@ -225837,117 +225837,117 @@
   {
     "id": "6601",
     "key": "skillCondition32111",
-    "es": "La Vida debe ser inferior a (%):"
+    "es": "El PV debe ser inferior a (%): "
   },
   {
     "id": "6602",
     "key": "skillCondition32112",
-    "es": "Pilas dominantes requeridas:"
+    "es": "Pilas dominantes requeridas: "
   },
   {
     "id": "6627",
     "key": "skillCondition33111",
-    "es": "Pilas de Alma de Dragón requeridas:"
+    "es": "Pilas de Alma de Dragón requeridas: "
   },
   {
     "id": "6628",
     "key": "skillCondition33112",
-    "es": "Pilas de Sombra de Lanza requeridas:"
+    "es": "Pilas de Sombra de Lanza requeridas: "
   },
   {
     "id": "6651",
     "key": "skillCondition34111",
-    "es": "Pilas de Sombra de Espada requeridas:"
+    "es": "Pilas de Sombra de Espada requeridas: "
   },
   {
     "id": "6652",
     "key": "skillCondition34112",
-    "es": "Pilas de alma de espada requeridas:"
+    "es": "Pilas de alma de espada requeridas: "
   },
   {
     "id": "6675",
     "key": "skillCondition35111",
-    "es": "Acumulaciones de sombra de escudo requeridas:"
+    "es": "Acumulaciones de sombra de escudo requeridas: "
   },
   {
     "id": "6676",
     "key": "skillCondition35112",
-    "es": "Pilas de sangre hirviendo necesarias:"
+    "es": "Pilas de sangre hirviendo necesarias: "
   },
   {
     "id": "6699",
     "key": "skillCondition36111",
-    "es": "Acumulaciones de Descanso Eterno requeridas:"
+    "es": "Acumulaciones de Descanso Eterno requeridas: "
   },
   {
     "id": "6700",
     "key": "skillCondition36112",
-    "es": "Marcas demoníacas requeridas:"
+    "es": "Marcas demoníacas requeridas: "
   },
   {
     "id": "6723",
     "key": "skillCondition37111",
-    "es": "Pilas de Explosión Espiritual requeridas:"
+    "es": "Pilas de Explosión Espiritual requeridas: "
   },
   {
     "id": "6724",
     "key": "skillCondition37112",
-    "es": "Pilas de pulsos requeridas:"
+    "es": "Pilas de pulsos requeridas: "
   },
   {
     "id": "6747",
     "key": "skillCondition61111",
-    "es": "Brasas requeridas:"
+    "es": "Brasas requeridas: "
   },
   {
     "id": "6748",
     "key": "skillCondition61112",
-    "es": "Pilas de Deidad del Fuego requeridas:"
+    "es": "Pilas de Deidad del Fuego requeridas: "
   },
   {
     "id": "6771",
     "key": "skillCondition62111",
-    "es": "Pilas de Ojo Helado necesarias:"
+    "es": "Pilas de Ojo Helado necesarias: "
   },
   {
     "id": "6772",
     "key": "skillCondition62112",
-    "es": "Estanques requeridos:"
+    "es": "Estanques requeridos: "
   },
   {
     "id": "6795",
     "key": "skillCondition63111",
-    "es": "Marcas de rayos requeridas:"
+    "es": "Marcas de rayos requeridas: "
   },
   {
     "id": "6796",
     "key": "skillCondition63112",
-    "es": "Acumulaciones de Castigo Rayo requeridas:"
+    "es": "Acumulaciones de Castigo Rayo requeridas: "
   },
   {
     "id": "6821",
     "key": "skillCondition64111",
-    "es": "Pilas requeridas del Dios del viento:"
+    "es": "Pilas requeridas del Dios del viento: "
   },
   {
     "id": "6822",
     "key": "skillCondition64112",
-    "es": "Pilas de Tiempo de Bala requeridas:"
+    "es": "Pilas de Tiempo de Bala requeridas: "
   },
   {
     "id": "6845",
     "key": "skillCondition65111",
-    "es": "Rocas espirituales requeridas:"
+    "es": "Rocas espirituales requeridas: "
   },
   {
     "id": "6884",
     "key": "skillCondition66111",
-    "es": "Pilas de veneno erosivo requeridas:"
+    "es": "Pilas de veneno erosivo requeridas: "
   },
   {
     "id": "6885",
     "key": "skillCondition66112",
-    "es": "Semillas de flores necesarias:"
+    "es": "Semillas de flores necesarias: "
   },
   {
     "id": "50790",
@@ -226262,7 +226262,7 @@
   {
     "id": "12708",
     "key": "skillInfo_biaozhunweili",
-    "es": "Potencia estándar:"
+    "es": "Potencia estándar: "
   },
   {
     "id": "11996",
@@ -226277,12 +226277,12 @@
   {
     "id": "12712",
     "key": "skillInfo_dangqianweili",
-    "es": "Potencia actual:"
+    "es": "Potencia actual: "
   },
   {
     "id": "12710",
     "key": "skillInfo_fahuixiaolv",
-    "es": "Se eficiente:"
+    "es": "Se eficiente: "
   },
   {
     "id": "12711",
@@ -226317,17 +226317,17 @@
   {
     "id": "12709",
     "key": "skillInfo_xiulianjieduan",
-    "es": "Etapa de formación:"
+    "es": "Etapa de formación: "
   },
   {
     "id": "11998",
     "key": "skillInfo_xiuliannandu",
-    "es": "Dificultad para actualizar:"
+    "es": "Dificultad para actualizar: "
   },
   {
     "id": "11997",
     "key": "skillInfo_xuexixiaohao",
-    "es": "Costo de aprendizaje:"
+    "es": "Costo de aprendizaje: "
   },
   {
     "id": "12958",
@@ -253677,7 +253677,7 @@
   {
     "id": "22016",
     "key": "startGameTipDesc175",
-    "es": "<size=25>【Versión 0.8.5001】</size> Actualización del 17 de enero de 2022, 21:00\n1. Se desbloqueó artefacto 'Ojo Celestial', con funciones: ampliar visión del mapa, ver más objetos en mochilas de NPC, aprender habilidades de bestias, retroceder tiempo al recibir daño letal y salir del combate.\n2. Se añadió evento 'Viento sobre el Loto' (tras completar misión principal 'Fuego').\n3. Se añadieron expresiones dinámicas en diálogos de NPC.\n4. Se optimizaron eventos de Villa Dragón.\n5. Se optimizó confirmación de opciones en eventos, diálogos y paso de mes (WASD + espacio).\n6. Se optimizó interfaz de compras en Edificio del Tesoro.\n7. Se optimizó visualización de barra de carga en habilidades.\n8. Se corrigió un error por el cual NPC pedían consejo en etapa inicial.\n9. Se añadió clasificación de objetos al regalar.\n10. Se añadió función de filtrado de edificios en minimapa.\n11. Se optimizó cambio de género en creación de personaje (redibujo aleatorio).\n12. Se corrigió un error en efectos de presión de títulos daoístas.\n13. Se corrigió un error en desafíos de títulos daoístas que bloqueaba cambio de técnicas.\n14. Se corrigió un error en consumo de objeto 'Talismán de Victoria'.\n15. Se añadió función de ajuste de permisos de población para grandes ancianos y ancianos.\n16. Se corrigió un error por el cual NPC de secta anterior seguían consultando tras abandonar.\n17. Se corrigió un error en fortuna 'Sabiduría Suprema' que reducía ánimo de forma distinta a lo descrito.\n18. Se optimizó descripción de talento de artefacto 'Jiang Lingge'.\n19. Se corrigió un error en proyectiles que podían infligir múltiples daños.\n20. Se corrigió un error por el cual NPC mostraban barra de carga al usar habilidades.\n21. Se corrigió un error por el cual tras entregar misiones desaparecían retratos superiores.\n22. Se corrigió un error en mazmorras donde jefes con técnicas acuáticas bloqueaban finalización.\n23. Se corrigió un error en aprendizaje de manuales que mostraba un progreso del 100% sin aprender la habilidad.\n24. Se añadió ajuste de volumen para voces de artefactos.\n25. Se optimizó función de reasignar teclas, añadiendo soporte para botones laterales del ratón.\n26. Se optimizó interfaz de estrategia de secta.\n"
+    "es": "<size=25>【Versión 0.8.5001】</size> Actualización del 17 de enero de 2022, 21:00\n1. Se desbloqueó el artefacto 'Ojo Celestial', con las siguientes funciones:\n　ampliar en una casilla la visión del mapa,\n　ver más objetos en las mochilas de los NPC,\n　aprender, con cierta probabilidad, las habilidades que usan las bestias demoníacas mayores en combate,\n　retroceder el tiempo al recibir daño letal y salir del combate.\n2. Se añadió evento 'Viento sobre el Loto' (tras completar misión principal 'Fuego').\n3. Se añadieron expresiones dinámicas en diálogos de NPC.\n4. Se optimizaron eventos de Villa Dragón.\n5. Se optimizó confirmación de opciones en eventos, diálogos y paso de mes (WASD + espacio).\n6. Se optimizó interfaz de compras en Edificio del Tesoro.\n7. Se optimizó visualización de barra de carga en habilidades.\n8. Se corrigió un error por el cual NPC pedían consejo en etapa inicial.\n9. Se añadió clasificación de objetos al regalar.\n10. Se añadió función de filtrado de edificios en minimapa.\n11. Se optimizó cambio de género en creación de personaje (redibujo aleatorio).\n12. Se corrigió un error en efectos de presión de títulos daoístas.\n13. Se corrigió un error en desafíos de títulos daoístas que bloqueaba cambio de técnicas.\n14. Se corrigió un error en consumo de objeto 'Talismán de Victoria'.\n15. Se añadió función de ajuste de permisos de población para grandes ancianos y ancianos.\n16. Se corrigió un error por el cual NPC de secta anterior seguían consultando tras abandonar.\n17. Se corrigió un error en fortuna 'Sabiduría Suprema' que reducía ánimo de forma distinta a lo descrito.\n18. Se optimizó descripción de talento de artefacto 'Jiang Lingge'.\n19. Se corrigió un error en proyectiles que podían infligir múltiples daños.\n20. Se corrigió un error por el cual NPC mostraban barra de carga al usar habilidades.\n21. Se corrigió un error por el cual tras entregar misiones desaparecían retratos superiores.\n22. Se corrigió un error en mazmorras donde jefes con técnicas acuáticas bloqueaban finalización.\n23. Se corrigió un error en aprendizaje de manuales que mostraba un progreso del 100% sin aprender la habilidad.\n24. Se añadió ajuste de volumen para voces de artefactos.\n25. Se optimizó función de reasignar teclas, añadiendo soporte para botones laterales del ratón.\n26. Se optimizó interfaz de estrategia de secta.\n"
   },
   {
     "id": "22017",
@@ -253997,7 +253997,7 @@
   {
     "id": "22080",
     "key": "startGameTipDesc239",
-    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 28 de septiembre de 2022, 15:00\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\n　　C:\\Users\\Usuario\\AppData\\LocalLow\\guigugame\\guigubahuang\\SteamMonster\\CacheData</r></size>\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n3. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n4. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n5. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n6. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta.\n7. Se optimizó rendimiento en combates para reducir lag."
+    "es": "<size=25>【Versión interna de prueba 092801】</size> Actualización del 28 de septiembre de 2022, 15:00\n<size=20>Versión de prueba: puede contener errores y cambios futuros. Reporta fallos o sugerencias para mejorar. Gracias por el apoyo.\n<r>Los archivos de prueba usan ruta separada y no afectan partidas oficiales. Al entrar por primera vez se copia el archivo oficial a:\n　　C:\\Users\\Usuario\\AppData\\LocalLow\\guigugame\\guigubahuang\\SteamMonster\\CacheData</r></size>\n1. Se desbloqueó el artefacto 'Calabaza Mítica', con las siguientes funciones:\n　tras derrotar a algunas bestias demoníacas mayores, absorberlas en la Calabaza Mítica y refinarlas para convertirlas en bestias calabaza,\n　asignar cualquier bestia calabaza como guardia para que ayude en combate,\n　hacer que la bestia calabaza asignada como guardia bloquee el ataque mortal y te ayude a escapar cuando seas derrotado en combate,\n　enviar bestias calabaza a vivir aventuras para obtener recompensas aleatorias de objetos.\n2. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n3. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n4. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n5. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n6. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta.\n7. Se optimizó rendimiento en combates para reducir lag."
   },
   {
     "id": "22081",
@@ -254062,7 +254062,7 @@
   {
     "id": "22093",
     "key": "startGameTipDesc252",
-    "es": "<size=25>【Versión 0.8.7001】</size> Actualización del 11 de octubre de 2022, 21:00\n1. Se desbloqueó artefacto 'Caldero de Refinación de Demonios' con funciones: absorber bestias debilitadas, invocar guardianes, proteger jugador y enviar a entrenar.\n2. Se optimizó profundamente el módulo de combate para mejorar rendimiento y fluidez (pueden surgir errores en efectos).\n3. Se añadieron nuevos recursos gráficos; algunos MOD que alteran atlas pueden causar errores visuales.\n4. Se añadió evento especial 'Verdadera Esencia del Dao de la Alquimia' (activable en Yongning).\n5. Se añadieron nuevas píldoras (Qiandu Xiang, Tiangang Wan, Juqi Dan, Huanxin Moxiang, Moyan Zhu, Yuanyang Dan).\n6. Se optimizaron requisitos de materiales en recetas de alquimia.\n7. Se optimizó jugabilidad y eficiencia en minijuego de alquimia.\n8. Se añadieron nuevas fortunas (Xuanhu Yao, Caldero Ilusorio nivel Cielo, Elixir Milagroso, Esencia de Alquimia, Jade Líquido).\n9. Se optimizaron efectos de varias fortunas (escudos de Xiaobao, Zhongbao, Dabao; registros del Emperador Verde; niveles de Espada Espiritual; niveles de Sacrificio de Sangre).\n10. Se añadieron dos nuevos sets de ilustraciones y piezas adicionales.\n11. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n12. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n13. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n14. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n15. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta."
+    "es": "<size=25>【Versión 0.8.7001】</size> Actualización del 11 de octubre de 2022, 21:00\n1. Se desbloqueó el artefacto 'Calabaza Mítica', con las siguientes funciones:\n　en combate, abrir la Calabaza Mítica cuando una bestia demoníaca mayor esté debilitada, con una probabilidad de absorberla y refinarla para convertirla en una bestia calabaza,\n　asignar cualquier bestia calabaza como guardia para que ayude en combate,\n　cuando seas derrotado en combate, hacer que la bestia calabaza asignada como guardia bloquee por ti el ataque mortal y te ayude a escapar,\n　enviar bestias calabaza a vivir aventuras; al terminar, pueden obtener cultivo y existe la posibilidad de que consigan objetos adicionales.\n2. Se optimizó profundamente el módulo de combate para mejorar rendimiento y fluidez (pueden surgir errores en efectos).\n3. Se añadieron nuevos recursos gráficos; algunos MOD que alteran atlas pueden causar errores visuales.\n4. Se añadió evento especial 'Verdadera Esencia del Dao de la Alquimia' (activable en Yongning).\n5. Se añadieron nuevas píldoras (Qiandu Xiang, Tiangang Wan, Juqi Dan, Huanxin Moxiang, Moyan Zhu, Yuanyang Dan).\n6. Se optimizaron requisitos de materiales en recetas de alquimia.\n7. Se optimizó jugabilidad y eficiencia en minijuego de alquimia.\n8. Se añadieron nuevas fortunas (Xuanhu Yao, Caldero Ilusorio nivel Cielo, Elixir Milagroso, Esencia de Alquimia, Jade Líquido).\n9. Se optimizaron efectos de varias fortunas (escudos de Xiaobao, Zhongbao, Dabao; registros del Emperador Verde; niveles de Espada Espiritual; niveles de Sacrificio de Sangre).\n10. Se añadieron dos nuevos sets de ilustraciones y piezas adicionales.\n11. Se añadió opción en pausa de mazmorras para ver habilidades de grandes bestias.\n12. Se corrigió un error en interfaz de mochila que permitía operar tras cerrarla.\n13. Se corrigió un error en técnica 'Ling Ying Zhi' que no activaba fortuna 'Shenhuo Tianxing'.\n14. Se optimizó filtrado de manuales en bibliotecas de sectas (recuerda preferencias).\n15. Se corrigió un error al usar objeto 'Hierba Fantasma Roja' que no atraía bestias de secta."
   },
   {
     "id": "22094",
@@ -254547,22 +254547,22 @@
   {
     "id": "12911",
     "key": "step_entry_title_1",
-    "es": "Distancia de parpadeo:"
+    "es": "Distancia de parpadeo: "
   },
   {
     "id": "12912",
     "key": "step_entry_title_2",
-    "es": "Distancia del guión:"
+    "es": "Distancia del guión: "
   },
   {
     "id": "12913",
     "key": "step_entry_title_3",
-    "es": "Duración del metro:"
+    "es": "Duración del metro: "
   },
   {
     "id": "12914",
     "key": "step_entry_title_4",
-    "es": "Duración de la invisibilidad:"
+    "es": "Duración de la invisibilidad: "
   },
   {
     "id": "6110",
@@ -257192,17 +257192,17 @@
   {
     "id": "11742",
     "key": "task_renwujiangli",
-    "es": "Recompensa:"
+    "es": "Recompensa: "
   },
   {
     "id": "11739",
     "key": "task_renwumubiao",
-    "es": "Objetivo:"
+    "es": "Objetivo: "
   },
   {
     "id": "11740",
     "key": "task_renwunandu",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "11728",
@@ -257277,7 +257277,7 @@
   {
     "id": "14114",
     "key": "task_zhu",
-    "es": "Marcar:"
+    "es": "Marcar: "
   },
   {
     "id": "14119",
@@ -258107,7 +258107,7 @@
   {
     "id": "13651",
     "key": "taskDesc1110002",
-    "es": "Ir a {destination}. Fina es una forma de viajar al mundo exterior."
+    "es": "Ir a {destination}. Viaja hacía allí en el mapa mundial."
   },
   {
     "id": "13652",
@@ -264342,7 +264342,7 @@
   {
     "id": "14224",
     "key": "town_baojia",
-    "es": "Oferta:"
+    "es": "Oferta: "
   },
   {
     "id": "14140",
@@ -264402,7 +264402,7 @@
   {
     "id": "20633",
     "key": "town_cankaodijia",
-    "es": "Precio de reserva recomendado:"
+    "es": "Precio de reserva recomendado: "
   },
   {
     "id": "14139",
@@ -264417,7 +264417,7 @@
   {
     "id": "14217",
     "key": "town_chujiabiao",
-    "es": "Ofertas:"
+    "es": "Ofertas: "
   },
   {
     "id": "14245",
@@ -264442,7 +264442,7 @@
   {
     "id": "20540",
     "key": "town_cunru",
-    "es": "Tienda"
+    "es": "Guardar"
   },
   {
     "id": "20561",
@@ -264457,7 +264457,7 @@
   {
     "id": "14222",
     "key": "town_dangqianbaojia",
-    "es": "Oferta actual:"
+    "es": "Oferta actual: "
   },
   {
     "id": "14239",
@@ -264477,7 +264477,7 @@
   {
     "id": "14146",
     "key": "town_dijia",
-    "es": "Precio de reserva:"
+    "es": "Precio de reserva: "
   },
   {
     "id": "20541",
@@ -264517,7 +264517,7 @@
   {
     "id": "14912",
     "key": "town_goumaidanfang",
-    "es": "Comprar receta de elixir:"
+    "es": "Comprar receta de elixir: "
   },
   {
     "id": "14914",
@@ -264537,7 +264537,7 @@
   {
     "id": "20209",
     "key": "town_hechengxiaohao",
-    "es": "Costo:"
+    "es": "Costo: "
   },
   {
     "id": "14235",
@@ -264612,7 +264612,7 @@
   {
     "id": "14138",
     "key": "town_kejipai",
-    "es": "Sólo se pueden subastar objetos de los siguientes reinos:"
+    "es": "Sólo se pueden subastar objetos de los siguientes reinos: "
   },
   {
     "id": "20542",
@@ -264657,7 +264657,7 @@
   {
     "id": "14913",
     "key": "town_lianzhixiaohao",
-    "es": "Costo del taller:"
+    "es": "Costo del taller: "
   },
   {
     "id": "14175",
@@ -264942,7 +264942,7 @@
   {
     "id": "14228",
     "key": "town_shoujia",
-    "es": "Precio:"
+    "es": "Precio: "
   },
   {
     "id": "20121",
@@ -265032,7 +265032,7 @@
   {
     "id": "14190",
     "key": "town_zongdijia",
-    "es": "Precio total de reserva:"
+    "es": "Precio total de reserva: "
   },
   {
     "id": "21665",
@@ -265042,7 +265042,7 @@
   {
     "id": "14189",
     "key": "town_zongjia",
-    "es": "Precio total:"
+    "es": "Precio total: "
   },
   {
     "id": "14223",
@@ -265622,322 +265622,322 @@
   {
     "id": "13958",
     "key": "townName101",
-    "es": "Ding"
+    "es": " Ding"
   },
   {
     "id": "13959",
     "key": "townName102",
-    "es": "Xin"
+    "es": " Xin"
   },
   {
     "id": "13960",
     "key": "townName103",
-    "es": "Zhou"
+    "es": " Zhou"
   },
   {
     "id": "13961",
     "key": "townName104",
-    "es": "Lian"
+    "es": " Lian"
   },
   {
     "id": "13962",
     "key": "townName105",
-    "es": "Jia"
+    "es": " Jia"
   },
   {
     "id": "13963",
     "key": "townName106",
-    "es": "Zhi"
+    "es": " Zhi"
   },
   {
     "id": "13964",
     "key": "townName107",
-    "es": "Yuan"
+    "es": " Yuan"
   },
   {
     "id": "13965",
     "key": "townName108",
-    "es": "Xiao"
+    "es": " Xiao"
   },
   {
     "id": "13966",
     "key": "townName109",
-    "es": "Shang"
+    "es": " Shang"
   },
   {
     "id": "13967",
     "key": "townName110",
-    "es": "Bao"
+    "es": " Bao"
   },
   {
     "id": "13968",
     "key": "townName111",
-    "es": "Zheng"
+    "es": " Zheng"
   },
   {
     "id": "13969",
     "key": "townName112",
-    "es": "Tong"
+    "es": " Tong"
   },
   {
     "id": "13970",
     "key": "townName113",
-    "es": "Yan"
+    "es": " Yan"
   },
   {
     "id": "13971",
     "key": "townName114",
-    "es": "Ze"
+    "es": " Ze"
   },
   {
     "id": "13972",
     "key": "townName115",
-    "es": "Lin"
+    "es": " Lin"
   },
   {
     "id": "13973",
     "key": "townName116",
-    "es": "Zhi"
+    "es": " Zhi"
   },
   {
     "id": "13974",
     "key": "townName117",
-    "es": "Ying"
+    "es": " Ying"
   },
   {
     "id": "13975",
     "key": "townName118",
-    "es": "Xian"
+    "es": " Xian"
   },
   {
     "id": "13976",
     "key": "townName119",
-    "es": "Jing"
+    "es": " Jing"
   },
   {
     "id": "13977",
     "key": "townName120",
-    "es": "Wei"
+    "es": " Wei"
   },
   {
     "id": "13978",
     "key": "townName121",
-    "es": "Xing"
+    "es": " Xing"
   },
   {
     "id": "13979",
     "key": "townName122",
-    "es": "Qian"
+    "es": " Qian"
   },
   {
     "id": "13980",
     "key": "townName123",
-    "es": "Bian"
+    "es": " Bian"
   },
   {
     "id": "13981",
     "key": "townName124",
-    "es": "Kou"
+    "es": " Kou"
   },
   {
     "id": "13982",
     "key": "townName125",
-    "es": "Shun"
+    "es": " Shun"
   },
   {
     "id": "13983",
     "key": "townName126",
-    "es": "Ji"
+    "es": " Ji"
   },
   {
     "id": "13984",
     "key": "townName127",
-    "es": "Xiu"
+    "es": " Xiu"
   },
   {
     "id": "13985",
     "key": "townName128",
-    "es": "Qu"
+    "es": " Qu"
   },
   {
     "id": "13986",
     "key": "townName129",
-    "es": "Yu"
+    "es": " Yu"
   },
   {
     "id": "13987",
     "key": "townName130",
-    "es": "Yu"
+    "es": " Yu"
   },
   {
     "id": "13988",
     "key": "townName131",
-    "es": "Tao"
+    "es": " Tao"
   },
   {
     "id": "13989",
     "key": "townName132",
-    "es": "Liang"
+    "es": " Liang"
   },
   {
     "id": "13990",
     "key": "townName133",
-    "es": "Rong"
+    "es": " Rong"
   },
   {
     "id": "13991",
     "key": "townName134",
-    "es": "Feng"
+    "es": " Feng"
   },
   {
     "id": "13992",
     "key": "townName135",
-    "es": "Qiu"
+    "es": " Qiu"
   },
   {
     "id": "13993",
     "key": "townName136",
-    "es": "Dong"
+    "es": " Dong"
   },
   {
     "id": "13994",
     "key": "townName137",
-    "es": "Feng"
+    "es": " Feng"
   },
   {
     "id": "13995",
     "key": "townName138",
-    "es": "Ming"
+    "es": " Ming"
   },
   {
     "id": "13996",
     "key": "townName139",
-    "es": "Kai"
+    "es": " Kai"
   },
   {
     "id": "13997",
     "key": "townName140",
-    "es": "Guang"
+    "es": " Guang"
   },
   {
     "id": "13998",
     "key": "townName141",
-    "es": "Da"
+    "es": " Da"
   },
   {
     "id": "13999",
     "key": "townName142",
-    "es": "Wang"
+    "es": " Wang"
   },
   {
     "id": "14000",
     "key": "townName143",
-    "es": "Xiang"
+    "es": " Xiang"
   },
   {
     "id": "14001",
     "key": "townName144",
-    "es": "Liu"
+    "es": " Liu"
   },
   {
     "id": "14002",
     "key": "townName145",
-    "es": "Xuan"
+    "es": " Xuan"
   },
   {
     "id": "14003",
     "key": "townName146",
-    "es": "Yi"
+    "es": " Yi"
   },
   {
     "id": "14004",
     "key": "townName147",
-    "es": "Shuang"
+    "es": " Shuang"
   },
   {
     "id": "14005",
     "key": "townName148",
-    "es": "Ta"
+    "es": " Ta"
   },
   {
     "id": "14006",
     "key": "townName149",
-    "es": "Jia"
+    "es": " Jia"
   },
   {
     "id": "14007",
     "key": "townName150",
-    "es": "Pinzas"
+    "es": " Pinzas"
   },
   {
     "id": "14008",
     "key": "townName201",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14009",
     "key": "townName202",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14010",
     "key": "townName203",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14011",
     "key": "townName204",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14012",
     "key": "townName205",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14013",
     "key": "townName206",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14014",
     "key": "townName207",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14015",
     "key": "townName208",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14016",
     "key": "townName209",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14017",
     "key": "townName210",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14018",
     "key": "townName211",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "14019",
     "key": "townName212",
-    "es": "← Ciudad"
+    "es": "← Ciudad "
   },
   {
     "id": "38932",
     "key": "townName213",
-    "es": "Cultivador"
+    "es": "← Cultivador"
   },
   {
     "id": "38933",
     "key": "townName214",
-    "es": "Alianza"
+    "es": "← Alianza"
   },
   {
     "id": "38934",
@@ -265952,12 +265952,12 @@
   {
     "id": "14205",
     "key": "transfer_didian",
-    "es": "Destino:"
+    "es": "Destino: "
   },
   {
     "id": "14206",
     "key": "transfer_jingjie",
-    "es": "Nivel del objeto en subasta:"
+    "es": "Nivel del objeto en subasta: "
   },
   {
     "id": "14208",
@@ -266596,12 +266596,12 @@
   {
     "id": "37545",
     "key": "ui_godEye_jinengmiaoshu",
-    "es": "Descripción de la habilidad:"
+    "es": "Descripción de la habilidad: "
   },
   {
     "id": "37546",
     "key": "ui_godEye_jinengtexing",
-    "es": "Propiedades del afijo:"
+    "es": "Propiedades del afijo: "
   },
   {
     "id": "37321",
@@ -266701,7 +266701,7 @@
   {
     "id": "37326",
     "key": "ui_godEye_xuyao",
-    "es": "Necesitas:"
+    "es": "Necesitas: "
   },
   {
     "id": "37322",
@@ -266936,7 +266936,7 @@
   {
     "id": "34567",
     "key": "ui_mibaoge_textDescTitle",
-    "es": "Jugabilidad del Tesoro:"
+    "es": "Jugabilidad del Tesoro: "
   },
   {
     "id": "34320",
@@ -266946,12 +266946,12 @@
   {
     "id": "34328",
     "key": "ui_mibaoge_textPropsTitle",
-    "es": "Objetos de propiedad:"
+    "es": "Objetos de propiedad: "
   },
   {
     "id": "34326",
     "key": "ui_mibaoge_textRemainsTitle",
-    "es": "PiedrasEspiritualesPoseídas:"
+    "es": "PiedrasEspiritualesPoseídas: "
   },
   {
     "id": "34568",
@@ -267486,7 +267486,7 @@
   {
     "id": "46667",
     "key": "ui_potmonList_titleDirection",
-    "es": "Aventuras:"
+    "es": "Aventuras: "
   },
   {
     "id": "44070",
@@ -267531,7 +267531,7 @@
   {
     "id": "44023",
     "key": "ui_potmonList_working2",
-    "es": "Aventuras:"
+    "es": "Aventuras: "
   },
   {
     "id": "44077",
@@ -267661,7 +267661,7 @@
   {
     "id": "53687",
     "key": "ui_propUsebasAttr_yixuanze",
-    "es": "Seleccionado:"
+    "es": "Seleccionado: "
   },
   {
     "id": "53685",
@@ -268206,7 +268206,7 @@
   {
     "id": "34341",
     "key": "ui_zmdbjfs_textPropsTitle",
-    "es": "{0} posee elementos:"
+    "es": "{0} posee elementos: "
   },
   {
     "id": "32928",
@@ -268416,7 +268416,7 @@
   {
     "id": "32937",
     "key": "ui_zmdbjfs_titleIntro",
-    "es": "Reglas de la carrera por puntos:"
+    "es": "Reglas de la carrera por puntos: "
   },
   {
     "id": "32923",
@@ -269161,7 +269161,7 @@
   {
     "id": "49977",
     "key": "uiCreatePlayer_textEmotionTitle",
-    "es": "Gesto actual:"
+    "es": "Gesto actual: "
   },
   {
     "id": "44187",
@@ -269336,7 +269336,7 @@
   {
     "id": "42875",
     "key": "uiFairyChickenFight_descCoinRemains",
-    "es": "Plumas:"
+    "es": "Plumas: "
   },
   {
     "id": "42876",
@@ -269456,7 +269456,7 @@
   {
     "id": "44127",
     "key": "uiFairyLeagueReward_curReward",
-    "es": "Contribución actual:"
+    "es": "Contribución actual: "
   },
   {
     "id": "42927",
@@ -269491,7 +269491,7 @@
   {
     "id": "42931",
     "key": "uifairyLeagueReward_targetName",
-    "es": "Nombre:"
+    "es": "Nombre: "
   },
   {
     "id": "42924",
@@ -269541,7 +269541,7 @@
   {
     "id": "41652",
     "key": "uiFairyLeagueTaskLobby_jindu",
-    "es": "Progreso:"
+    "es": "Progreso: "
   },
   {
     "id": "41648",
@@ -269646,7 +269646,7 @@
   {
     "id": "42900",
     "key": "uiherdInfo_killList",
-    "es": "Recientemente girado:"
+    "es": "Recientemente girado: "
   },
   {
     "id": "42897",
@@ -269716,7 +269716,7 @@
   {
     "id": "42006",
     "key": "uiHunt_textCaughtCount",
-    "es": "Capturas exitosas:"
+    "es": "Capturas exitosas: "
   },
   {
     "id": "42003",
@@ -269731,7 +269731,7 @@
   {
     "id": "42007",
     "key": "uiHunt_textRemainTime",
-    "es": "Tiempo restante:"
+    "es": "Tiempo restante: "
   },
   {
     "id": "42005",
@@ -270461,7 +270461,7 @@
   {
     "id": "38098",
     "key": "UIPropInfo_jianmuchiyou",
-    "es": "Almacenamiento de Bóveda del Árbol:"
+    "es": "Almacenamiento de Bóveda del Árbol: "
   },
   {
     "id": "49370",
@@ -270556,7 +270556,7 @@
   {
     "id": "34947",
     "key": "UISchoolHononr_schoolRank",
-    "es": "Ranking del partido:"
+    "es": "Ranking del partido: "
   },
   {
     "id": "34948",
@@ -270581,7 +270581,7 @@
   {
     "id": "34946",
     "key": "UISchoolHononr_schoolScore",
-    "es": "Puntuación de secta:"
+    "es": "Puntuación de secta: "
   },
   {
     "id": "47098",
@@ -274086,12 +274086,12 @@
   {
     "id": "20392",
     "key": "wuxue_daodianxiaohao",
-    "es": "Costo de puntos de habilidad:"
+    "es": "Costo de puntos: "
   },
   {
     "id": "20395",
     "key": "wuxue_dian",
-    "es": "Punto"
+    "es": "{#kong}"
   },
   {
     "id": "20426",
@@ -274101,12 +274101,12 @@
   {
     "id": "20388",
     "key": "wuxue_jinenglengque",
-    "es": "Enfriamiento:"
+    "es": "Enfriamiento: "
   },
   {
     "id": "20390",
     "key": "wuxue_jinengshuoming",
-    "es": "Detalles:"
+    "es": "Detalles: "
   },
   {
     "id": "20391",
@@ -274141,7 +274141,7 @@
   {
     "id": "20399",
     "key": "wuxue_mijinandu",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "20441",
@@ -274161,7 +274161,7 @@
   {
     "id": "20389",
     "key": "wuxue_shifaxiaoaho",
-    "es": "Costo:"
+    "es": "Costo: "
   },
   {
     "id": "20429",
@@ -274186,17 +274186,17 @@
   {
     "id": "20398",
     "key": "wuxue_wuxing",
-    "es": "Perspicacia:"
+    "es": "Perspicacia: "
   },
   {
     "id": "20422",
     "key": "wuxue_xiaohao",
-    "es": "Costo:"
+    "es": "Costo: "
   },
   {
     "id": "20397",
     "key": "wuxue_xinqing",
-    "es": "Humor:"
+    "es": "Humor: "
   },
   {
     "id": "20412",
@@ -274276,7 +274276,7 @@
   {
     "id": "20471",
     "key": "wuxue_xuexinandu",
-    "es": "Dificultad:"
+    "es": "Dificultad: "
   },
   {
     "id": "20386",
@@ -274446,17 +274446,17 @@
   {
     "id": "21667",
     "key": "xuexi_tishi1",
-    "es": "Perspicacia actual:"
+    "es": "Perspicacia actual: "
   },
   {
     "id": "21668",
     "key": "xuexi_tishi2",
-    "es": "Probabilidad de generar orbes de comprensión:"
+    "es": "Probabilidad de generar orbes de comprensión: "
   },
   {
     "id": "21669",
     "key": "xuexi_tishi3",
-    "es": "Velocidad de movimiento del orbe:"
+    "es": "Velocidad de movimiento del orbe: "
   },
   {
     "id": "21670",
@@ -274776,7 +274776,7 @@
   {
     "id": "20466",
     "key": "zhandouhuode",
-    "es": "Obtenido:"
+    "es": "Obtenido: "
   },
   {
     "id": "49950",

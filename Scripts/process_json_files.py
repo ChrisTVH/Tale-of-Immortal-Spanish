@@ -14,6 +14,40 @@ import tempfile
 from pathlib import Path
 
 
+_KNOWN_ESCAPES = {"n": "\n", "t": "\t", "\\": "\\", '"': '"'}
+
+
+def normalize_control_sequences(text):
+    """Normalize known over-escaped controls without decoding other syntax."""
+    if not isinstance(text, str):
+        raise TypeError("el texto debe ser una cadena")
+
+    normalized = []
+    index = 0
+
+    while index < len(text):
+        if text[index] != "\\":
+            normalized.append(text[index])
+            index += 1
+            continue
+
+        if index + 1 >= len(text):
+            normalized.append("\\")
+            index += 1
+            continue
+
+        escaped_character = text[index + 1]
+        if escaped_character in _KNOWN_ESCAPES:
+            normalized.append(_KNOWN_ESCAPES[escaped_character])
+            index += 2
+            continue
+
+        normalized.append("\\")
+        index += 1
+
+    return "".join(normalized)
+
+
 def natural_sort_key(text):
 
     def convert(part):
@@ -75,7 +109,7 @@ def process_local_text(data):
         new_item = {
             "id": item.get("id"),
             "key": item.get("key"),
-            "en": item.get("ch", ""),
+            "es": normalize_control_sequences(item.get("ch", "")),
         }
         processed.append(new_item)
 
@@ -96,7 +130,7 @@ def process_role_log_local(data):
         new_item = {
             "id": item.get("id"),
             "keyID": item.get("keyID"),
-            "en": item.get("ch", ""),
+            "es": normalize_control_sequences(item.get("ch", "")),
         }
         processed.append(new_item)
 
@@ -112,7 +146,10 @@ def process_npc_name_first(data):
     processed = []
 
     for item in data:
-        new_item = {"id": item.get("id"), "en": item.get("name", "")}
+        new_item = {
+            "id": item.get("id"),
+            "es": normalize_control_sequences(item.get("name", "")),
+        }
         processed.append(new_item)
 
     return processed
@@ -125,7 +162,10 @@ def process_npc_name_last(data):
     processed = []
 
     for item in data:
-        new_item = {"id": item.get("id"), "en": item.get("name", "")}
+        new_item = {
+            "id": item.get("id"),
+            "es": normalize_control_sequences(item.get("name", "")),
+        }
         processed.append(new_item)
 
     return processed
@@ -138,7 +178,10 @@ def process_herd_npc_name_first(data):
     processed = []
 
     for item in data:
-        new_item = {"id": item.get("id"), "en": item.get("name", "")}
+        new_item = {
+            "id": item.get("id"),
+            "es": normalize_control_sequences(item.get("name", "")),
+        }
         processed.append(new_item)
 
     return processed
@@ -153,7 +196,10 @@ def process_battle_skill_prefix_name(data):
     processed = []
 
     for item in data:
-        new_item = {"id": item.get("id"), "en": item.get("text", "")}
+        new_item = {
+            "id": item.get("id"),
+            "es": normalize_control_sequences(item.get("text", "")),
+        }
         processed.append(new_item)
 
     return processed
