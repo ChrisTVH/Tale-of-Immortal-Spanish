@@ -14362,7 +14362,7 @@
   {
     "id": "43056",
     "key": "canwu_huisuhongsecitiao",
-    "es": "Lista de afijos míticos obtenidos"
+    "es": "Lista de afijos"
   },
   {
     "id": "20489",
@@ -14377,7 +14377,7 @@
   {
     "id": "43057",
     "key": "canwu_jieshucanwu",
-    "es": "Confirmar y finalizar la comprensión"
+    "es": "Finalizar"
   },
   {
     "id": "20493",
@@ -14407,7 +14407,7 @@
   {
     "id": "43066",
     "key": "canwu_tishi3",
-    "es": "Guardar los afijos de esta comprensión"
+    "es": "Guardar los afijos"
   },
   {
     "id": "20500",
@@ -14437,7 +14437,7 @@
   {
     "id": "43055",
     "key": "canwu_zaicicanwu",
-    "es": "Comprender de nuevo"
+    "es": "Comprender"
   },
   {
     "id": "49865",
