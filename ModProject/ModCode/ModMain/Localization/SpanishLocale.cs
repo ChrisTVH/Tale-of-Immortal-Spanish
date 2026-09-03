@@ -24,6 +24,8 @@ namespace MOD_pzAi9g.Localization
             new Dictionary<int, string>();
         private static readonly Dictionary<int, string> prefixNameById =
             new Dictionary<int, string>();
+        private static readonly Dictionary<string, string> globalMetadataByText =
+            new Dictionary<string, string>(StringComparer.Ordinal);
 
         internal static bool Enabled { get; private set; } = true;
         internal static bool Selected { get; private set; }
@@ -43,6 +45,7 @@ namespace MOD_pzAi9g.Localization
             herdNpcNameFirstById.Clear();
             npcNameLastById.Clear();
             prefixNameById.Clear();
+            globalMetadataByText.Clear();
 
             LoadKeyedFile("LocalText.json", localTextByKey);
             LoadIdFile("RoleLogLocal.json", roleLogById);
@@ -50,6 +53,7 @@ namespace MOD_pzAi9g.Localization
             LoadIdFile("Npcs/NpcNameFirst.json", npcNameFirstById);
             LoadIdFile("Npcs/NpcNameLast.json", npcNameLastById);
             LoadIdFile("Prefixes/BattleSkillPrefixName.json", prefixNameById);
+            LoadGlobalMetadataFile("GlobalMetadata.runtime.json", globalMetadataByText);
 
             Debug.Log(
                 "[TL-Spanish] Loaded locale data: " +
@@ -58,7 +62,8 @@ namespace MOD_pzAi9g.Localization
                 npcNameFirstById.Count + " first names, " +
                 herdNpcNameFirstById.Count + " herd first names, " +
                 npcNameLastById.Count + " last names, " +
-                prefixNameById.Count + " prefixes.");
+                prefixNameById.Count + " prefixes, " +
+                globalMetadataByText.Count + " global metadata strings.");
         }
 
         internal static void Toggle()
@@ -150,6 +155,13 @@ namespace MOD_pzAi9g.Localization
             return Enabled && item != null && prefixNameById.TryGetValue(item.id, out value);
         }
 
+        internal static bool TryGlobalMetadata(string text, out string value)
+        {
+            value = null;
+            return Enabled && !string.IsNullOrEmpty(text) &&
+                globalMetadataByText.TryGetValue(text, out value);
+        }
+
         private static void LoadKeyedFile(string fileName, Dictionary<string, string> destination)
         {
             JArray entries = LoadArray(fileName);
@@ -176,6 +188,59 @@ namespace MOD_pzAi9g.Localization
                 string text = (string)entry["es"];
                 if (int.TryParse(idText, out id) && text != null)
                     destination[id] = text;
+            }
+        }
+
+        private static void LoadGlobalMetadataFile(
+            string fileName,
+            Dictionary<string, string> destination)
+        {
+            JArray entries = LoadArray(fileName);
+            if (entries == null) return;
+
+            HashSet<string> seenIds = new HashSet<string>(StringComparer.Ordinal);
+            foreach (JToken entry in entries)
+            {
+                JObject objectEntry = entry as JObject;
+                string sourceNamespace = objectEntry == null
+                    ? null
+                    : (string)objectEntry["source_namespace"];
+                string id = objectEntry == null ? null : (string)objectEntry["id"];
+                string text = objectEntry == null ? null : (string)objectEntry["text"];
+                string translation = objectEntry == null ? null : (string)objectEntry["es"];
+
+                if (
+                    sourceNamespace != "string_literal" ||
+                    string.IsNullOrEmpty(id) ||
+                    !int.TryParse(id, out _) ||
+                    string.IsNullOrEmpty(text) ||
+                    translation == null)
+                {
+                    Debug.LogError(
+                        "[TL-Spanish] Invalid GlobalMetadata entry in " + fileName + ".");
+                    continue;
+                }
+                if (!seenIds.Add(id))
+                {
+                    Debug.LogError(
+                        "[TL-Spanish] Duplicate GlobalMetadata id " + id + ".");
+                    continue;
+                }
+                if (string.IsNullOrEmpty(translation))
+                    continue;
+
+                string existing;
+                if (destination.TryGetValue(text, out existing))
+                {
+                    if (!string.Equals(existing, translation, StringComparison.Ordinal))
+                    {
+                        Debug.LogError(
+                            "[TL-Spanish] Conflicting GlobalMetadata translation for id " +
+                            id + ".");
+                    }
+                    continue;
+                }
+                destination.Add(text, translation);
             }
         }
 

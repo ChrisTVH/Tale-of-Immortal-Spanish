@@ -47,6 +47,9 @@
     <EmbeddedResource Include="Localization\Spanish\RoleLogLocal.json">
       <LogicalName>MOD_pzAi9g.Localization.Spanish.RoleLogLocal.json</LogicalName>
     </EmbeddedResource>
+    <EmbeddedResource Include="Localization\Spanish\GlobalMetadata.runtime.json">
+      <LogicalName>MOD_pzAi9g.Localization.Spanish.GlobalMetadata.runtime.json</LogicalName>
+    </EmbeddedResource>
     <EmbeddedResource Include="Localization\Spanish\Npcs\HerdNPCNameFirst.json">
       <LogicalName>MOD_pzAi9g.Localization.Spanish.Npcs.HerdNPCNameFirst.json</LogicalName>
     </EmbeddedResource>

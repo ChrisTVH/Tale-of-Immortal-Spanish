@@ -1,0 +1,2102 @@
+[
+  {
+    "source_namespace": "string_literal",
+    "id": "20",
+    "text": "\t\t可用道具：",
+    "es": "\t\tObjetos disponibles:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "31",
+    "text": "\t从2019年第一行代码开始，磕磕碰碰至今已四年，感谢全球各路道友的热情支持、建议、批评与指正。八荒修行的路途中，我们有共同的汗水与热血，再大的困难亦挡不住我等逆天改命之心。\n\t天元山的故事落下帷幕，现实中的故事才刚刚开始，我想，众多天命道友亦能在实际生活与工作中，克服困难，再创佳绩。",
+    "es": "\tDesde la primera línea de código escrita en 2019, han pasado cuatro años llenos de tropiezos y dificultades. Gracias a todos los compañeros cultivadores del mundo por su entusiasta apoyo, sugerencias, críticas y correcciones. En el camino del cultivo de los Ocho Yermos, hemos compartido sudor y sangre; ni las mayores dificultades pueden detener nuestro deseo de desafiar al Cielo y cambiar nuestro destino.\n\tLa historia de la Montaña Tian Yuan ha llegado a su fin, pero la historia en la vida real apenas comienza. Creo que muchos compañeros cultivadores elegidos por el destino también podrán superar las dificultades en su vida y trabajo, y lograr nuevos éxitos."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "32",
+    "text": "\t加载{0}耗时：{1}",
+    "es": "\tTiempo de carga de {0}: {1}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "33",
+    "text": "\t壶妖（{0}）获得{1}个{2}道具",
+    "es": "\tLa bestia calabaza ({0}) obtuvo {1} unidades de {2}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "35",
+    "text": "\t從2019年第一行代碼開始，磕磕碰碰至今已四年，感謝全球各路道友的熱情支持、建議、批評與指正。八荒修行的路途中，我們有共同的汗水與熱血，再大的困難亦擋不住我等逆天改命之心。\n\t天元山的故事落下帷幕，現實中的故事才剛剛開始，我想，眾多天命道友亦能在實際生活與工作中，克服困難，再創佳績。",
+    "es": "\tDesde la primera línea de código escrita en 2019, han pasado cuatro años llenos de tropiezos y dificultades. Gracias a todos los compañeros cultivadores del mundo por su entusiasta apoyo, sugerencias, críticas y correcciones. En el camino del cultivo de los Ocho Yermos, hemos compartido sudor y sangre; ni las mayores dificultades pueden detener nuestro deseo de desafiar al Cielo y cambiar nuestro destino.\n\tLa historia de la Montaña Tian Yuan ha llegado a su fin, pero la historia en la vida real apenas comienza. Creo que muchos compañeros cultivadores elegidos por el destino también podrán superar las dificultades en su vida y trabajo, y lograr nuevos éxitos."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "39",
+    "text": "\n\t\t怪物组：",
+    "es": "\n\t\tGrupo de monstruos:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "41",
+    "text": "\n\t第",
+    "es": "\n\tN.º"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "57",
+    "text": "\n1：本月时间不足\n4：灵石不足\n2：境界不足\n5：格子不足\n6：灵根资质不足",
+    "es": "\n1: Tiempo insuficiente este mes\n4: Piedras Espirituales insuficientes\n2: Reino de cultivo insuficiente\n5: Espacio insuficiente\n6: Aptitud de raíz espiritual insuficiente"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "83",
+    "text": "\n上次通关后境界变化：{0} --- {1}\n",
+    "es": "\nCambio de reino tras completar el nivel anterior: {0} --- {1}\n"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "84",
+    "text": "\n不过我可以阻止眼前的争端。此次为了“道一心环”，他们已经互相杀害对方很多成员了。\n这完全没有必要。我已经找到“道一心环”了。我只要将之交给道心阁，就能平息他们之间的争端。\n天玄长老其实早已从天一前辈处获知杀死“她”的法子，我也由此辗转找到天一前辈。",
+    "es": "\nPero puedo detener la disputa que tenemos delante. Esta vez, por el «Anillo del Corazón Único del Dao», ya han matado a muchos miembros del otro bando.\nEsto no era necesario en absoluto. Ya encontré el «Anillo del Corazón Único del Dao». Solo tengo que entregárselo al Pabellón del Corazón del Dao para poner fin a su disputa.\nEl anciano Tianxuan ya había aprendido de la superior Tianyi cómo matar a «ella»; así fue como, tras varios rodeos, encontré a la superior Tianyi."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "85",
+    "text": "\n不過我可以阻止眼前的爭端。此次為了「道一心環」，他們已經互相殺害對方很多成員了。\n這完全沒有必要。我已經找到「道一心環」了。我只要將之交給道心閣，就能平息他們之間的爭端。\n天玄長老其實早已從天一前輩處獲知殺死「她」的法子，我也由此輾轉找到天一前輩。",
+    "es": "\nPero puedo detener la disputa que tenemos delante. Esta vez, por el «Anillo del Corazón Único del Dao», ya han matado a muchos miembros del otro bando.\nEsto no era necesario en absoluto. Ya encontré el «Anillo del Corazón Único del Dao». Solo tengo que entregárselo al Pabellón del Corazón del Dao para poner fin a su disputa.\nEl anciano Tianxuan ya había aprendido de la superior Tianyi cómo matar a «ella»; así fue como, tras varios rodeos, encontré a la superior Tianyi."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "86",
+    "text": "\n个人势力评分：",
+    "es": "\nPuntuación de influencia personal:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "87",
+    "text": "\n亲密度评分：",
+    "es": "\nPuntuación de afinidad:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "88",
+    "text": "\n仇恨度得分：",
+    "es": "\nPuntuación de hostilidad:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "89",
+    "text": "\n仇恨度评分：",
+    "es": "\nPuntuación de hostilidad:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "90",
+    "text": "\n修改分舵名=",
+    "es": "\nCambiar nombre de la división="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "92",
+    "text": "\n关卡状态：{0} --- {1}",
+    "es": "\nEstado del nivel: {0} --- {1}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "95",
+    "text": "\n受到伤害：",
+    "es": "\nDaño recibido:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "96",
+    "text": "\n她，是蝶怨的手下。想必蝶怨也已掌握杀死我的法子。\n不过这没关系了，这次我要自己选一次。\n一定！",
+    "es": "\nElla es subordinada de Dieyuan. Seguramente, Dieyuan también conoce la forma de matarme.\nPero ya no importa; esta vez quiero tomar mi propia decisión.\n¡Sin duda!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "97",
+    "text": "\n她，是蝶怨的手下。想必蝶怨也已掌握殺死我的法子。\n不過這沒關係了，這次我要自己選一次。\n一定！",
+    "es": "\nElla es subordinada de Dieyuan. Seguramente, Dieyuan también conoce la forma de matarme.\nPero ya no importa; esta vez quiero tomar mi propia decisión.\n¡Sin duda!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "98",
+    "text": "\n宗门势力评分：",
+    "es": "\nPuntuación de influencia de la secta:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "99",
+    "text": "\n性别：",
+    "es": "\nGénero:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "100",
+    "text": "\n战力评分：",
+    "es": "\nPuntuación de poder de combate:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "101",
+    "text": "\n战斗时间：",
+    "es": "\nTiempo de combate:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "102",
+    "text": "\n执行目标：",
+    "es": "\nObjetivo de ejecución:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "104",
+    "text": "\n无神魂",
+    "es": "\nSin alma divina"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "105",
+    "text": "\n本次随机目标列表：\n身份：",
+    "es": "\nLista de objetivos aleatorios actual:\nIdentidad:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "106",
+    "text": "\n气运：",
+    "es": "\nFortuna:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "107",
+    "text": "\n特殊灵体数量：{0}",
+    "es": "\nCantidad de cuerpos espirituales especiales: {0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "108",
+    "text": "\n目标（身份）：",
+    "es": "\nObjetivo (identidad):"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "109",
+    "text": "\n目标：",
+    "es": "\nObjetivo:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "110",
+    "text": "\n社会关系的道具评分（索取方）：",
+    "es": "\nPuntuación de objetos para la relación social (solicitante):"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "111",
+    "text": "\n神魂：{0}={1}",
+    "es": "\nAlma divina: {0}={1}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "112",
+    "text": "\n精力评分：",
+    "es": "\nPuntuación de energía:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "113",
+    "text": "\n行为：",
+    "es": "\nComportamiento:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "114",
+    "text": "\n被掠夺:{0}\n剩余：{1}\n进攻人数：{2}\n防守人数：{3}",
+    "es": "\nSaqueado: {0}\nRestante: {1}\nAtacantes: {2}\nDefensores: {3}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "115",
+    "text": "\n词条标签：",
+    "es": "\nEtiqueta de atributo:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "116",
+    "text": "\n道具评分：",
+    "es": "\nPuntuación del objeto:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "147",
+    "text": "     交互次数：",
+    "es": "     Número de interacciones:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "148",
+    "text": "     区域 : ",
+    "es": "     Área : "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "149",
+    "text": "     是否关闭 ：",
+    "es": "     ¿Está cerrado? :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "150",
+    "text": "     是否激活 ：",
+    "es": "     ¿Está activado? :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "151",
+    "text": "     激活最小月份：",
+    "es": "     Mes mínimo de activación:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "152",
+    "text": "    ----{0}号城墙----\n",
+    "es": "    ----Muralla n.º {0}----\n"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "153",
+    "text": "    ----{0}號城牆----\n",
+    "es": "    ----Muralla n.º {0}----\n"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "160",
+    "text": "    剩余数量：",
+    "es": "    Cantidad restante:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "161",
+    "text": "    名字：",
+    "es": "    Nombre:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "162",
+    "text": "    阶段 ：",
+    "es": "    Etapa :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "170",
+    "text": "   功法：",
+    "es": "   Método de cultivo:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "171",
+    "text": "   当前月份=",
+    "es": "   Mes actual="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "172",
+    "text": "   正道宗门：",
+    "es": "   Secta del camino recto:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "173",
+    "text": "   还需要 ",
+    "es": "   Aún se necesitan "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "174",
+    "text": "   需要赔偿资源： ",
+    "es": "   Recursos necesarios para la compensación: "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "175",
+    "text": "   魅力值:",
+    "es": "   Carisma:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "177",
+    "text": "  --- 补充后 -- ",
+    "es": "  --- Después de reponer -- "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "178",
+    "text": "  --- 补充后 -- 100",
+    "es": "  --- Después de reponer -- 100"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "179",
+    "text": "  --- 补充后 -- 1000",
+    "es": "  --- Después de reponer -- 1000"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "209",
+    "text": "  人数：",
+    "es": "  Número de personas:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "210",
+    "text": "  兴趣：",
+    "es": "  Interés:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "211",
+    "text": "  再次开启次数:",
+    "es": "  Número de reaperturas:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "213",
+    "text": "  安定度--- ",
+    "es": "  Estabilidad--- "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "214",
+    "text": "  宗主境界:",
+    "es": "  Reino del líder de la secta:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "215",
+    "text": "  宗主所在区域",
+    "es": "  Área donde se encuentra el líder de la secta"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "216",
+    "text": "  宗门战进攻失败 ",
+    "es": "  Ataque fallido en la guerra de sectas "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "217",
+    "text": "  当前位置已存在地形",
+    "es": "  Ya existe un terreno en la posición actual"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "218",
+    "text": "  当前位置已存在建筑",
+    "es": "  Ya existe una construcción en la posición actual"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "219",
+    "text": "  忠诚度--- ",
+    "es": "  Lealtad--- "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "220",
+    "text": "  战力：",
+    "es": "  Poder de combate:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "221",
+    "text": "  支持功法=",
+    "es": "  Método de cultivo compatible="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "222",
+    "text": "  新路径：",
+    "es": "  Nuevo camino:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "223",
+    "text": "  灵石--- ",
+    "es": "  Piedras Espirituales--- "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "224",
+    "text": "  玩家进攻宗门 ",
+    "es": "  El jugador ataca la secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "225",
+    "text": "  监听点击按钮：",
+    "es": "  Escuchar el clic del botón:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "226",
+    "text": "  立场 ",
+    "es": "  Postura "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "227",
+    "text": "  耗时：",
+    "es": "  Tiempo transcurrido:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "228",
+    "text": "  资源点：",
+    "es": "  Punto de recursos:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "229",
+    "text": "  退出异空间时间至少增加 ",
+    "es": "  El tiempo para salir del espacio alternativo aumenta al menos "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "230",
+    "text": "  选择配置：",
+    "es": "  Seleccionar configuración:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "231",
+    "text": "  预测进入异空间时间",
+    "es": "  Tiempo previsto de entrada al espacio alternativo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "232",
+    "text": "  魔道宗门:",
+    "es": "  Secta del camino demoníaco:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "259",
+    "text": " 1无效 ",
+    "es": " 1 no válido "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "260",
+    "text": " 4无效 ",
+    "es": " 4 no válido "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "286",
+    "text": " >> 材质着色器不存在",
+    "es": " >> El sombreador de materiales no existe"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "287",
+    "text": " >> 非真传弟子，不符出战条件。",
+    "es": " >> No es un discípulo verdadero; no cumple las condiciones para combatir."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "461",
+    "text": " {0} 进攻 {1}  宗门战进攻胜利  是否灭宗{2}",
+    "es": " {0} ataca a {1}  Victoria del ataque en la guerra de sectas  ¿Destruir la secta?{2}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "465",
+    "text": " 一丝元魂  ",
+    "es": " Un rastro de alma primordial  "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "466",
+    "text": " 不存在 删除效果！",
+    "es": " ¡No existe el efecto de eliminación!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "468",
+    "text": " 不是心法词条或者道具词条",
+    "es": " No es un atributo de habilidad mental ni de objeto"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "469",
+    "text": " 主动执行行为: ",
+    "es": " Ejecutar acción activa: "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "470",
+    "text": " 互动单位",
+    "es": " Unidad de interacción"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "471",
+    "text": " 交互次数：",
+    "es": " Número de interacciones:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "473",
+    "text": " 产出 ",
+    "es": " Producción "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "474",
+    "text": " 产出 灵石 ",
+    "es": " Producción de Piedras Espirituales "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "475",
+    "text": " 产出 矿材 ",
+    "es": " Producción de materiales minerales "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "476",
+    "text": " 产出 药材 ",
+    "es": " Producción de materiales medicinales "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "477",
+    "text": " 人数超限 有问题 ",
+    "es": " El número de personas excede el límite; hay un problema "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "478",
+    "text": " 从 ",
+    "es": " Desde "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "479",
+    "text": " 仙力点触发器 ---   ",
+    "es": " Activador de puntos de poder inmortal ---   "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "481",
+    "text": " 但是显示散修",
+    "es": " Pero aparece como cultivador rebelde"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "482",
+    "text": " 但是显示散修，去掉玩家宗门",
+    "es": " Pero aparece como cultivador rebelde; se elimina la secta del jugador"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "483",
+    "text": " 使用当前资源可以填补所需资源  增加赔偿：",
+    "es": " Los recursos actuales pueden cubrir los recursos necesarios  Aumento de la compensación:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "484",
+    "text": " 倍",
+    "es": " veces"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "485",
+    "text": " 允许!",
+    "es": " ¡Permitido!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "486",
+    "text": " 决定出兵攻打资源点",
+    "es": " Decide enviar tropas para atacar el punto de recursos"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "487",
+    "text": " 决定对 ",
+    "es": " Decide atacar a "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "488",
+    "text": " 决定要进攻 ",
+    "es": " Decide atacar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "489",
+    "text": " 出征人数不足",
+    "es": " Número insuficiente de personas para la expedición"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "492",
+    "text": " 加入系统队列 等待检测宗门战",
+    "es": " Se añadió a la cola del sistema; espera la comprobación de la guerra de sectas"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "493",
+    "text": " 区域 :",
+    "es": " Área :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "494",
+    "text": " 单位 ",
+    "es": " Unidad "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "497",
+    "text": " 单位-",
+    "es": " Unidad-"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "498",
+    "text": " 单位不存在",
+    "es": " La unidad no existe"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "499",
+    "text": " 卸下玩家选择放弃的功法后，寻找是否有可装备的同类新功法 ",
+    "es": " Después de quitar el método de cultivo que el jugador eligió abandonar, buscar si existe un nuevo método de cultivo del mismo tipo que se pueda equipar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "501",
+    "text": " 原始名字",
+    "es": " Nombre original"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "502",
+    "text": " 参数1 ",
+    "es": " Parámetro 1 "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "503",
+    "text": " 参数2 ",
+    "es": " Parámetro 2 "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "505",
+    "text": " 发起了进攻宣言，结果：",
+    "es": " Emitió una declaración de ataque; resultado:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "506",
+    "text": " 召唤者:",
+    "es": " Invocador:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "507",
+    "text": " 合体效果=",
+    "es": " Efecto de fusión="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "509",
+    "text": " 器型",
+    "es": " tipo de artefacto"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "512",
+    "text": " 境界",
+    "es": " Reino"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "513",
+    "text": " 处理参战的宗主死亡  可能是代理宗主职位，也可能就是宗主 ",
+    "es": " Gestionar la muerte del líder de secta que participó en la guerra  Puede tratarse del puesto de líder de secta interino o del propio líder de secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "514",
+    "text": " 处理反攻",
+    "es": " Gestionar el contraataque"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "515",
+    "text": " 处理完了宗主离宗 等待不用处理退宗了 ",
+    "es": " Se completó la gestión de la salida del líder de secta; espera, ya no es necesario gestionar la salida de la secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "516",
+    "text": " 处理宗主指向的宗门被灭 宗主加入新的总舵做宗主  ",
+    "es": " Gestionar la destrucción de la secta señalada por el líder de secta; el líder se une a una nueva sede principal para convertirse en líder de secta  "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "517",
+    "text": " 处理总舵被灭 宗主无家可归",
+    "es": " Gestionar la destrucción de la sede principal; el líder de secta se queda sin hogar"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "518",
+    "text": " 天骄 ",
+    "es": " Elegido del Cielo "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "519",
+    "text": " 失败",
+    "es": " Fallo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "520",
+    "text": " 头像尺寸 ",
+    "es": " Tamaño del avatar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "522",
+    "text": " 子女是自身：",
+    "es": " El descendiente es la propia persona:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "523",
+    "text": " 存在气运 152 救人寻丹 效果的目标单位是 ",
+    "es": " La unidad objetivo del efecto de fortuna 152 «Salvar a una persona y buscar un elixir» es "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "524",
+    "text": " 宗主不在退宗列表中 ",
+    "es": " El líder de secta no está en la lista de abandono de la secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "526",
+    "text": " 宗门战结束处理弟子死亡 ",
+    "es": " Gestionar la muerte de discípulos al terminar la guerra de sectas "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "527",
+    "text": " 宗门战行动结束",
+    "es": " Terminó la acción de la guerra de sectas"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "528",
+    "text": " 宗门战进攻失败结算处理 ",
+    "es": " Gestionar la liquidación tras fracasar el ataque en la guerra de sectas "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "529",
+    "text": " 宗门被灭，待会加入其他舵 ",
+    "es": " La secta fue destruida; después se unirá a otra división "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "530",
+    "text": " 宗门：",
+    "es": " Secta:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "531",
+    "text": " 宣战宗门战 ",
+    "es": " Declarar la guerra de sectas "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "532",
+    "text": " 对单位：",
+    "es": " Unidad objetivo:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "534",
+    "text": " 属性变化：",
+    "es": " Cambio de atributo:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "535",
+    "text": " 平台：",
+    "es": " Plataforma:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "536",
+    "text": " 当前分配资源：",
+    "es": " Recursos asignados actualmente:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "537",
+    "text": " 形态=",
+    "es": " Forma="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "538",
+    "text": " 影响，准备 ",
+    "es": " Efecto, preparar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "539",
+    "text": " 快速装备 ",
+    "es": " Equipar rápidamente "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "540",
+    "text": " 思考",
+    "es": " Pensar"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "541",
+    "text": " 性别异常：",
+    "es": " Anomalía de género:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "543",
+    "text": " 成功",
+    "es": " Éxito"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "544",
+    "text": " 战斗结束：",
+    "es": " Fin del combate:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "545",
+    "text": " 打开剧情：",
+    "es": " Abrir historia:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "547",
+    "text": " 执行行为 ",
+    "es": " Ejecutar acción "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "548",
+    "text": " 技能=",
+    "es": " Habilidad="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "549",
+    "text": " 抓不到人",
+    "es": " No se puede encontrar a nadie"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "550",
+    "text": " 拥有七夕道具气运",
+    "es": " Tiene la fortuna de un objeto del Festival Qixi"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "551",
+    "text": " 接受!",
+    "es": " ¡Aceptar!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "552",
+    "text": " 插入数量=",
+    "es": " Cantidad insertada="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "553",
+    "text": " 攻击 ",
+    "es": " Atacar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "554",
+    "text": " 数值失败 因为单位：",
+    "es": " Error en el valor debido a la unidad:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "555",
+    "text": " 无效 ",
+    "es": " No válido "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "556",
+    "text": " 无法找到资源点！",
+    "es": " ¡No se puede encontrar el punto de recursos!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "557",
+    "text": " 是双玉佩绑定单位",
+    "es": " Es una unidad vinculada al Doble Pez"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "558",
+    "text": " 是否关闭 ：",
+    "es": " ¿Está cerrado? :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "559",
+    "text": " 是否有可消耗的界原石：",
+    "es": " Comprobar si hay una Piedra del Origen consumible:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "560",
+    "text": " 是否激活 ：",
+    "es": " ¿Está activado? :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "561",
+    "text": " 普通怪",
+    "es": " monstruo normal"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "562",
+    "text": " 期待数量：",
+    "es": " Cantidad esperada:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "563",
+    "text": " 权重加成{0}={1}*{2}",
+    "es": " Bonificación de peso{0}={1}*{2}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "564",
+    "text": " 格式错误",
+    "es": " Formato incorrecto"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "565",
+    "text": " 检查是否发生宗门战 ",
+    "es": " Comprobar si se produjo una guerra de sectas "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "566",
+    "text": " 检查是否宗门战进攻 开始",
+    "es": " Comprobar si comenzó el ataque de la guerra de sectas"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "567",
+    "text": " 检查是否宣战其他宗门 开始 ",
+    "es": " Comprobar si comenzó la declaración de guerra contra otra secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "568",
+    "text": " 检查是否被占领",
+    "es": " Comprobar si está ocupado"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "569",
+    "text": " 正在进攻其他宗门",
+    "es": " Atacando a otra secta"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "570",
+    "text": " 每年进攻次数",
+    "es": " Número de ataques anuales"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "571",
+    "text": " 求饶 杀人者",
+    "es": " Suplicar clemencia al asesino"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "572",
+    "text": " 没有宗主需要处理",
+    "es": " No hay ningún líder de secta que requiera atención"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "573",
+    "text": " 没有宗主需要处理 或者宗主已经没有宗门",
+    "es": " No hay ningún líder de secta que requiera atención o el líder de secta ya no tiene una secta"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "574",
+    "text": " 添加气运：8012114 不会被杀死",
+    "es": " Añadir fortuna: 8012114 no puede morir"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "575",
+    "text": " 游戏版本：",
+    "es": " Versión del juego:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "576",
+    "text": " 画布尺寸 ",
+    "es": " Tamaño del lienzo "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "577",
+    "text": " 的 ",
+    "es": " de "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "579",
+    "text": " 的历练经验配置",
+    "es": " configuración de EXP de aventura"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "580",
+    "text": " 的道具：",
+    "es": " objetos de:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "581",
+    "text": " 目标正在被打",
+    "es": " El objetivo está siendo atacado"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "582",
+    "text": " 目标警戒时间中",
+    "es": " El objetivo está en período de alerta"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "583",
+    "text": " 矿：",
+    "es": " Mina:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "584",
+    "text": " 突破到 ",
+    "es": " Avanzar a "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "586",
+    "text": " 精英怪",
+    "es": " monstruo de élite"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "587",
+    "text": " 结果：",
+    "es": " Resultado:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "588",
+    "text": " 结果：对方保护期 ",
+    "es": " Resultado: período de protección del oponente "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "589",
+    "text": " 缔结的关系",
+    "es": " relación establecida"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "590",
+    "text": " 药：",
+    "es": " Medicina:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "591",
+    "text": " 获取 ",
+    "es": " Obtener "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "593",
+    "text": " 获取不到烽火台",
+    "es": " No se puede obtener la torre de señales"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "595",
+    "text": " 行军消耗不足",
+    "es": " Recursos insuficientes para marchar"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "596",
+    "text": " 补充数量=",
+    "es": " Cantidad de reposición="
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "597",
+    "text": " 被占用",
+    "es": " Ocupado"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "598",
+    "text": " 被灭宗，处理宗主 ",
+    "es": " La secta fue destruida; gestionar al líder de secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "599",
+    "text": " 装备主动仙法",
+    "es": " Equipar técnica inmortal activa"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "601",
+    "text": " 装备被动仙法",
+    "es": " Equipar técnica inmortal pasiva"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "603",
+    "text": " 设置烽火台 ",
+    "es": " Configurar la torre de señales "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "604",
+    "text": " 资源点在宗门附近 ",
+    "es": " Hay un punto de recursos cerca de la secta "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "605",
+    "text": " 资源点附近资源点过多 ",
+    "es": " Hay demasiados puntos de recursos cerca del punto de recursos "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "606",
+    "text": " 进入光环 获得效果：",
+    "es": " Entrar en el aura; efecto obtenido:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "607",
+    "text": " 进攻 ",
+    "es": " Atacar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "608",
+    "text": " 进行 ",
+    "es": " Realizar "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "609",
+    "text": " 配置",
+    "es": " Configuración"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "610",
+    "text": " 钱：",
+    "es": " Dinero:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "611",
+    "text": " 阶段 ：",
+    "es": " Etapa :"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "612",
+    "text": " 领完道具 ",
+    "es": " Tras recoger todos los objetos "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "627",
+    "text": "!!!!冥妖-",
+    "es": "!!!!Demonio Abisal-"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "2057",
+    "text": "$s_xulishifa2$ &15113_xlsj&秒，向前方打出一道速度&15113_speed&的震天拳，对前方范围敌人造成威力&15113_dmg&的$s_quan$伤害。\n装备此技能后，每次进入一个新房间时，可为自己叠加&15112_cshd&点$s_hudun$。",
+    "es": "$s_xulishifa2$ &15113_xlsj& segundos, lanza hacia delante un Puño Explosivo del Cielo a velocidad &15113_speed&, que inflige daño de $s_quan$ con potencia &15113_dmg& a los enemigos del área frontal.\nDespués de equipar esta habilidad, cada vez que entres en una habitación nueva, puedes acumular &15112_cshd& puntos de $s_hudun$ para ti."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "2058",
+    "text": "$s_xulishifa2$ &15113_xlsj&秒，向前方打出一道速度&15113_speed&的震天拳，對前方範圍敵人造成威力&15113_dmg&的$s_quan$傷害。\n裝備此技能後，每次進入一個新房間時，可為自己疊加&15112_cshd&點$s_hudun$。",
+    "es": "$s_xulishifa2$ &15113_xlsj& segundos, lanza hacia delante un Puño Explosivo del Cielo a velocidad &15113_speed&, que inflige daño de $s_quan$ con potencia &15113_dmg& a los enemigos del área frontal.\nDespués de equipar esta habilidad, cada vez que entres en una habitación nueva, puedes acumular &15112_cshd& puntos de $s_hudun$ para ti."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "6614",
+    "text": "&31000012_cd&秒后，鲲鹏即可使用一次飘渺之力",
+    "es": "Después de &31000012_cd& segundos, Roc puede usar una vez el poder etéreo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "6615",
+    "text": "&31000012_cd&秒後，鯤鵬即可使用一次飄渺之力",
+    "es": "Después de &31000012_cd& segundos, Roc puede usar una vez el poder etéreo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "13739",
+    "text": "&80005_jnlq&秒后，青鸾即可使用一次飘渺之力",
+    "es": "Después de &80005_jnlq& segundos, el Pájaro Azul puede usar una vez el poder etéreo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "13740",
+    "text": "&80005_jnlq&秒後，青鸞即可使用一次飄渺之力",
+    "es": "Después de &80005_jnlq& segundos, el Pájaro Azul puede usar una vez el poder etéreo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18485",
+    "text": "(仙鸡彩蛋)您已拥有同类型仙鸡",
+    "es": "(Huevo de Pascua del pollo inmortal) Ya tienes un pollo inmortal del mismo tipo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18486",
+    "text": "(仙鸡彩蛋)成功复制仙鸡(",
+    "es": "(Huevo de Pascua del pollo inmortal) Se copió correctamente el pollo inmortal ("
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18487",
+    "text": "(仙鸡彩蛋)成功添加仙鸡到你背包了哦！",
+    "es": "(Huevo de Pascua del pollo inmortal) ¡El pollo inmortal se añadió correctamente a tu inventario!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18490",
+    "text": "(化解)",
+    "es": "(Resolver)"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18497",
+    "text": "(我方最强弟子{0}战力{1})，避其锋芒。",
+    "es": "(El discípulo más fuerte de nuestro bando {0}, con poder de combate {1}), evita su filo."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18755",
+    "text": ") >> 等待超时",
+    "es": ") >> Tiempo de espera agotado"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18760",
+    "text": ") 赠送给 ",
+    "es": ") entregado a "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18770",
+    "text": ")不存在宗门！",
+    "es": ") ¡No existe la secta!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18771",
+    "text": ")中的大长老",
+    "es": ") gran anciano de"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18772",
+    "text": ")中的宗主",
+    "es": ") líder de secta de"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18773",
+    "text": ")信息，右键粘贴分享给身边的小伙伴吧！",
+    "es": ") información, haz clic derecho para pegarla y compartirla con tus amigos."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18774",
+    "text": ")出战。",
+    "es": ") entra en combate."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18775",
+    "text": ")大比不存在这个宗门(",
+    "es": ") esta secta no existe en la gran competición ("
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18776",
+    "text": ")宗门不存在",
+    "es": ") la secta no existe"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18777",
+    "text": ")宗门与当前参战宗门不匹配",
+    "es": ") la secta no coincide con la secta que participa actualmente en la guerra"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18778",
+    "text": ")宗门数据异常：对象现宗门为",
+    "es": ") datos anómalos de la secta: la secta actual del objeto es"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18779",
+    "text": ")死亡模式触发判定失败，处理单位离场。",
+    "es": ") falló la comprobación de activación del modo de muerte; se retira la unidad procesada."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18780",
+    "text": ")没有任意符合创建条件",
+    "es": ") no hay ninguno que cumpla las condiciones de creación"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18781",
+    "text": ")购买秘宝 >> ",
+    "es": ") comprar tesoro secreto >> "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18782",
+    "text": ")转让仙鸡（",
+    "es": ") transferir el pollo inmortal ("
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18783",
+    "text": ")进行顶替。",
+    "es": ") realiza el reemplazo."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18784",
+    "text": ")进行顶替，临时督战权限转移：",
+    "es": ") realiza el reemplazo; se transfieren los permisos temporales de supervisión del combate:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18785",
+    "text": ")顶替",
+    "es": ") reemplaza"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18788",
+    "text": ")，宗门信息：",
+    "es": "), información de la secta:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18789",
+    "text": ")，魁首信息：",
+    "es": "), información del campeón:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18861",
+    "text": "*中列队*",
+    "es": "*en formación*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18862",
+    "text": "*中练历*",
+    "es": "*experiencia de entrenamiento intermedia*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18863",
+    "text": "*列队在未*",
+    "es": "*formación aún no*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18864",
+    "text": "*卫护*",
+    "es": "*proteger*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18865",
+    "text": "*李*洪*志*",
+    "es": "*Li*Hong*Zhi*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18866",
+    "text": "*李*洪*志*阿扁",
+    "es": "*Li*Hong*Zhi*A-Bian"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18867",
+    "text": "*法*輪*功*",
+    "es": "*Fa*Lun*Gong*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18868",
+    "text": "*法*輪*功*靠",
+    "es": "*Fa*Lun*Gong*depende de"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18869",
+    "text": "*法*轮*功*",
+    "es": "*Falun* *Gong*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18870",
+    "text": "*法*轮*功*靠",
+    "es": "*Falun* *Gong*depende de"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "18871",
+    "text": "*灵壶有所*",
+    "es": "*la calabaza espiritual tiene*"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19008",
+    "text": "+交涉者身份评分:{0}",
+    "es": "+Puntuación de identidad del negociador:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19009",
+    "text": "+大仇:{0}",
+    "es": "+Gran enemistad:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19010",
+    "text": "+对交涉者仇恨度评分:{0}",
+    "es": "+Puntuación de hostilidad hacia el negociador:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19011",
+    "text": "+对被杀者仇恨度评分:{0}",
+    "es": "+Puntuación de hostilidad hacia la persona asesinada:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19012",
+    "text": "+已拥有同流派技能时额外增加权重",
+    "es": "+Aumento adicional del peso al tener una habilidad de la misma escuela"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19013",
+    "text": "+性格评分:{0}",
+    "es": "+Puntuación de personalidad:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19014",
+    "text": "+战力差评分:{0}",
+    "es": "+Puntuación de diferencia de poder de combate:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19015",
+    "text": "+接受道具:{0}",
+    "es": "+Aceptación de objeto:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19016",
+    "text": "+杀人者和交涉者身份评分:{0}",
+    "es": "+Puntuación de identidad del asesino y del negociador:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19017",
+    "text": "+杀人者性格评分:{0}",
+    "es": "+Puntuación de personalidad del asesino:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19018",
+    "text": "+标签权重{0}",
+    "es": "+Peso de la etiqueta{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19019",
+    "text": "+相性评分:{0}={1} = {2}/{3} + {4}",
+    "es": "+Puntuación de compatibilidad:{0}={1} = {2}/{3} + {4}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19020",
+    "text": "+身份评分:{0}",
+    "es": "+Puntuación de identidad:{0}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19044",
+    "text": ", 不存在",
+    "es": ", no existe"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19045",
+    "text": ", 层: ",
+    "es": ", nivel: "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19046",
+    "text": ", 延迟时间: ",
+    "es": ", tiempo de retraso: "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19047",
+    "text": ", 获得1货币",
+    "es": ", obtuvo 1 moneda"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19063",
+    "text": ",区域：",
+    "es": ",región:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19118",
+    "text": "-----标签组 {0} 数量 {1}",
+    "es": "-----Grupo de etiquetas {0}, cantidad {1}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19119",
+    "text": "----标签 {0} 数量 {1} 组 {2}",
+    "es": "----Etiqueta {0}, cantidad {1}, grupo {2}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19135",
+    "text": "--不在同一个州--非正常操作",
+    "es": "--No están en la misma prefectura--operación no válida"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19136",
+    "text": "--当前州没有资源点--非正常操作 ",
+    "es": "--La prefectura actual no tiene puntos de recursos--operación no válida "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19137",
+    "text": "--进攻宗门或资源点不存在--非正常操作",
+    "es": "--La secta atacada o el punto de recursos atacado no existe--operación no válida"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19495",
+    "text": "-{0}，对玩家亲密度：{1}，性格：{2}",
+    "es": "-{0}, afinidad con el jugador: {1}, personalidad: {2}"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19498",
+    "text": "-可出战人员不足-",
+    "es": "-No hay suficientes combatientes-"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19499",
+    "text": "-已死亡 ",
+    "es": "-Ha muerto "
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19500",
+    "text": "-移动了位置",
+    "es": "-Cambió de posición"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "19873",
+    "text": "//这里输入你的代码",
+    "es": "//Introduce aquí tu código"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20006",
+    "text": "/导出的存档",
+    "es": "/Partida guardada exportada"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20252",
+    "text": "0-无\n1-宗主\n2-大长老\n3-长老\n4-真传弟子\n5-内门弟子\n6-外门弟子",
+    "es": "0-Ninguno\n1-líder de la secta\n2-gran anciano\n3-anciano\n4-discípulo verdadero\n5-discípulo interno\n6-discípulo externo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20283",
+    "text": "0-無\n1-宗主\n2-大長老\n3-長老\n4-真傳弟子\n5-內門弟子\n6-外門弟子",
+    "es": "0-Ninguno\n1-líder de la secta\n2-gran anciano\n3-anciano\n4-discípulo verdadero\n5-discípulo interno\n6-discípulo externo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20975",
+    "text": "1. 只可接取宗門更高級任務。\n2. 可發動掠奪戰及資源佔領戰。\n3. 可分配弟子任務。\n4. 可發動資源點爭奪戰。\n5. 可提議宗門戰。\n6. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Solo puede aceptar tareas de mayor nivel de la secta.\n2. Puede iniciar guerras de saqueo y guerras de ocupación de recursos.\n3. Puede asignar tareas a los discípulos.\n4. Puede iniciar guerras por la conquista de puntos de recursos.\n5. Puede proponer una guerra de sectas.\n6. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20976",
+    "text": "1. 只可接取宗门更高级任务。\n2. 可发动掠夺战及资源占领战。\n3. 可分配弟子任务。\n4. 可发动资源点争夺战。\n5. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Solo puede aceptar tareas de mayor nivel de la secta.\n2. Puede iniciar guerras de saqueo y guerras de ocupación de recursos.\n3. Puede asignar tareas a los discípulos.\n4. Puede iniciar guerras por la conquista de puntos de recursos.\n5. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20977",
+    "text": "1. 可发起宗门战。\n2. 达成成为宗主的需求可触发剧情开启宗门传承。\n3. 可获得宗门传承。\n4. 可免费获得宗门的资源。\n5. 可调配全宗弟子。\n6. 可分配全宗任务。\n7. 可迁移宗门。\n8. 可修改宗门主修功法。\n9. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Puede iniciar una guerra de sectas.\n2. Cumplir los requisitos para convertirse en líder de la secta puede activar una historia que desbloquee la herencia de la secta.\n3. Puede obtener la herencia de la secta.\n4. Puede obtener gratis los recursos de la secta.\n5. Puede asignar a todos los discípulos de la secta.\n6. Puede asignar todas las tareas de la secta.\n7. Puede trasladar la secta.\n8. Puede modificar el método de cultivo principal de la secta.\n9. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20978",
+    "text": "1. 可成為長老及以上職務宗門人員的徒弟。\n2. 可接取比內門弟子任務獎勵更豐厚的任務。\n3. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Puede convertirse en discípulo de miembros de la secta que ocupen el cargo de anciano o uno superior.\n2. Puede aceptar tareas con recompensas más generosas que las ofrecidas a los discípulos internos.\n3. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20979",
+    "text": "1. 可接取宗門高級任務。\n2. 可分配弟子任務。\n3. 可提議爭奪資源點。\n4. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Puede aceptar tareas avanzadas de la secta.\n2. Puede asignar tareas a los discípulos.\n3. Puede proponer disputar un punto de recursos.\n4. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20980",
+    "text": "1. 可接取宗门高级任务。\n2. 可分配弟子任务。\n3. 可提议争夺资源点。\n4. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Puede aceptar tareas avanzadas de la secta.\n2. Puede asignar tareas a los discípulos.\n3. Puede proponer disputar un punto de recursos.\n4. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20981",
+    "text": "1. 可接取比外門弟子獎勵更豐厚的任務。\n2. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Puede aceptar tareas con recompensas más generosas que las ofrecidas a los discípulos externos.\n2. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20982",
+    "text": "1. 可接取比外门弟子奖励更丰厚的任务。\n2. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Puede aceptar tareas con recompensas más generosas que las ofrecidas a los discípulos externos.\n2. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20983",
+    "text": "1. 可發起宗門戰。\n2. 達成成為宗主的需求可觸發劇情開啟宗門傳承。\n3. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Puede iniciar una guerra de sectas.\n2. Cumplir los requisitos para convertirse en líder de la secta puede activar una historia que desbloquee la herencia de la secta.\n3. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20984",
+    "text": "1. 可进入宗门建筑。\n2. 可接取外门弟子任务。\n3. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Puede entrar en los edificios de la secta.\n2. Puede aceptar tareas para discípulos externos.\n3. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20985",
+    "text": "1. 可進入宗門建築。\n2. 可接取外門弟子任務。\n3. 每月可獲得一定數量的靈石作為俸祿。",
+    "es": "1. Puede entrar en los edificios de la secta.\n2. Puede aceptar tareas para discípulos externos.\n3. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "20986",
+    "text": "1. 当不是长老的亲属时可成为长老的徒弟。\n2. 可接取比内门弟子任务奖励更丰厚的任务。\n3. 每月可获得一定数量的灵石作为俸禄。",
+    "es": "1. Cuando no se es pariente de un anciano, se puede ser su discípulo.\n2. Puede aceptar tareas con recompensas más generosas que las ofrecidas a los discípulos internos.\n3. Cada mes puede obtener cierta cantidad de Piedras Espirituales como estipendio."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21097",
+    "text": "1.<#e92828>擂台賽</color>所有弟子完成上擂或沒有其他宗門弟子可以上擂時，結束本次宗門大賽。\n2.<#e92828>宗門大比</color>最終的排名是根據積分賽得分和擂台賽得分總和來決出<#e6ac0e>前三名</color>。\n3.個人<#e6ac0e>得分最高</color>的弟子會獲得本次宗門大比的<#ff7800>魁首</color>。",
+    "es": "1.<#e92828>Partido de Desafío Abierto</color>La gran competición de la secta termina cuando todos los discípulos hayan participado o no haya otros discípulos de la secta que puedan participar en el Partido de Desafío Abierto.\n2.<#e92828>Gran competición de la secta</color>La clasificación final se determina según la suma de las puntuaciones de la competición por puntos y del Partido de Desafío Abierto, y se determinan los <#e6ac0e>tres primeros puestos</color>.\n3.El discípulo con la <#e6ac0e>puntuación personal más alta</color> obtiene el título de <#ff7800>campeón</color> de esta gran competición de la secta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21098",
+    "text": "1.<#e92828>擂台赛</color>所有弟子完成上擂或没有其他宗门弟子可以上擂时，结束本次宗门大赛。\n2.<#e92828>宗门大比</color>最终的排名是根据积分赛得分和擂台赛得分总和来决出<#e6ac0e>前三名</color>。\n3.个人<#e6ac0e>得分最高</color>的弟子会获得本次宗门大比的<#ff7800>魁首</color>。",
+    "es": "1.<#e92828>Partido de Desafío Abierto</color>La gran competición de la secta termina cuando todos los discípulos hayan participado o no haya otros discípulos de la secta que puedan participar en el Partido de Desafío Abierto.\n2.<#e92828>Gran competición de la secta</color>La clasificación final se determina según la suma de las puntuaciones de la competición por puntos y del Partido de Desafío Abierto, y se determinan los <#e6ac0e>tres primeros puestos</color>.\n3.El discípulo con la <#e6ac0e>puntuación personal más alta</color> obtiene el título de <#ff7800>campeón</color> de esta gran competición de la secta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21100",
+    "text": "1.先取走定岳旗。\n2.前往更高級的區域使用背包中的定岳旗在當前格子進行定位。\n3.回到這裡開始遷移。",
+    "es": "1.Primero, recoge la bandera de reubicación.\n2.Ve a una región de nivel superior y usa la bandera de reubicación de tu inventario para marcar la casilla actual.\n3.Regresa aquí para comenzar la migración."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21101",
+    "text": "1.先取走定岳旗。\n2.前往更高级的区域使用背包中的定岳旗在当前格子进行定位。\n3.回到这里开始迁移。",
+    "es": "1.Primero, recoge la bandera de reubicación.\n2.Ve a una región de nivel superior y usa la bandera de reubicación de tu inventario para marcar la casilla actual.\n3.Regresa aquí para comenzar la migración."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21102",
+    "text": "1.天元山版本：开放天元山功能。\n2.创意工坊2.0版本，开放玩家对游戏进行更复杂的设计与改进。\n3.开放画符功能。\n4.优化风水功能。",
+    "es": "1.Versión de la Montaña Tian Yuan: se desbloquea la función de la Montaña Tian Yuan.\n2.Versión 2.0 del Taller de Steam, que permite a los jugadores diseñar y mejorar el juego de forma más compleja.\n3.Se desbloquea la función de dibujo de talismanes.\n4.Se optimiza la función de geomancia."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21103",
+    "text": "1.天元山版本：開放天元山功能。\n2.創意工坊2.0版本，開放玩家對遊戲進行更複雜的設計與改進。\n3.開放畫符功能。\n4.優化風水功能。",
+    "es": "1.Versión de la Montaña Tian Yuan: se desbloquea la función de la Montaña Tian Yuan.\n2.Versión 2.0 del Taller de Steam, que permite a los jugadores diseñar y mejorar el juego de forma más compleja.\n3.Se desbloquea la función de dibujo de talismanes.\n4.Se optimiza la función de geomancia."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21104",
+    "text": "1.学习开始后，会不断有冥思从角色体内向外溢出，这些冥思有可能会变成【悟】或【魔】，并且在一段时间后会自动消失。\n2.按住左键到【悟】或【魔】旁边可收集，按住右键到【悟】或【魔】旁边可摧毁。\n3.角色需要收集【悟】和摧毁【魔】，未摧毁的【魔】在其消失时会侵入体内。\n4.收集的【悟】越多，则学习的效果越好，收集的【魔】则会影响学习的效果。\n5.角色的悟性越高，出现【悟】的概率越高。",
+    "es": "1.Después de comenzar el aprendizaje, las meditaciones seguirán emanando del interior del personaje; algunas pueden convertirse en 【Iluminación】 o 【Demonio】 y desaparecerán automáticamente al cabo de un tiempo.\n2.Mantén pulsado el botón izquierdo junto a 【Iluminación】 o 【Demonio】 para recogerlos, o mantén pulsado el botón derecho para destruirlos.\n3.El personaje debe recoger la 【Iluminación】 y destruir al 【Demonio】; los Demonios que no se destruyan invadirán su cuerpo al desaparecer.\n4.Cuanta más 【Iluminación】 se recoja, mejor será el efecto del aprendizaje; los 【Demonios】 recogidos afectarán al efecto del aprendizaje.\n5.Cuanto mayor sea la comprensión del personaje, mayor será la probabilidad de que aparezca 【Iluminación】."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21106",
+    "text": "1.學習開始後，會不斷有冥思從角色體內向外溢出，這些冥思有可能會變成【悟】或【魔】，並且在一段時間後會自動消失。\n2.按住左鍵到【悟】或【魔】旁邊可收集，按住右鍵到【悟】或【魔】旁邊可摧毀。\n3.角色需要收集【悟】和摧毀【魔】，未摧毀的【魔】在其消失時會侵入體內。\n4.收集的【悟】越多，則學習的效果越好，收集的【魔】則會影響學習的效果。\n5.角色的悟性越高，出現【悟】的概率越高。",
+    "es": "1.Después de comenzar el aprendizaje, las meditaciones seguirán emanando del interior del personaje; algunas pueden convertirse en 【Iluminación】 o 【Demonio】 y desaparecerán automáticamente al cabo de un tiempo.\n2.Mantén pulsado el botón izquierdo junto a 【Iluminación】 o 【Demonio】 para recogerlos, o mantén pulsado el botón derecho para destruirlos.\n3.El personaje debe recoger la 【Iluminación】 y destruir al 【Demonio】; los Demonios que no se destruyan invadirán su cuerpo al desaparecer.\n4.Cuanta más 【Iluminación】 se recoja, mejor será el efecto del aprendizaje; los 【Demonios】 recogidos afectarán al efecto del aprendizaje.\n5.Cuanto mayor sea la comprensión del personaje, mayor será la probabilidad de que aparezca 【Iluminación】."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21111",
+    "text": "1.投入灵石<#791515>催动莲台</color>生成3个秘宝。\n2.<#791515>取出</color>一个秘宝后其他的秘宝会消失。\n3.每次休整期可以<#791515>催动三次</color>莲台（擂台赛前六次）。\n4.离开秘宝阁后可以将秘宝赐予并<#309841>督战</color>指定弟子。\n5.在适当的时机可以指挥弟子使用秘宝，逆转战局。\n6.离开龙门后秘宝会自行<#791515>消失</color>。",
+    "es": "1.Invierte Piedras Espirituales para <#791515>activar</color> la plataforma de loto y generar 3 tesoros secretos.\n2.Después de <#791515>sacar</color> un tesoro secreto, los demás desaparecerán.\n3.Durante cada periodo de descanso puedes <#791515>activar</color> la plataforma de loto tres veces (seis veces antes del Partido de Desafío Abierto).\n4.Después de salir del Pabellón de Tesoros Secretos, puedes otorgar un tesoro secreto y <#309841>supervisar el combate</color> de un discípulo designado.\n5.En el momento adecuado, puedes ordenar al discípulo que use el tesoro secreto para cambiar el curso de la batalla.\n6.Después de salir de la Puerta del Dragón, los tesoros secretos <#791515>desaparecerán</color> por sí solos."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21112",
+    "text": "1.投入靈石<#791515>催動蓮台</color>生成3個秘寶。\n2.<#791515>取出</color>一個秘寶後其他的秘寶會消失。\n3.每次休整期可以<#791515>催動三次</color>蓮台（擂台賽前六次）。\n4.離開秘寶閣後可以將秘寶賜予並<#309841>督戰</color>指定弟子。\n5.在適當的時機可以指揮弟子使用秘寶，逆轉戰局。\n6.離開龍門後秘寶會自行<#791515>消失</color>。",
+    "es": "1.Invierte Piedras Espirituales para <#791515>activar</color> la plataforma de loto y generar 3 tesoros secretos.\n2.Después de <#791515>sacar</color> un tesoro secreto, los demás desaparecerán.\n3.Durante cada periodo de descanso puedes <#791515>activar</color> la plataforma de loto tres veces (seis veces antes del Partido de Desafío Abierto).\n4.Después de salir del Pabellón de Tesoros Secretos, puedes otorgar un tesoro secreto y <#309841>supervisar el combate</color> de un discípulo designado.\n5.En el momento adecuado, puedes ordenar al discípulo que use el tesoro secreto para cambiar el curso de la batalla.\n6.Después de salir de la Puerta del Dragón, los tesoros secretos <#791515>desaparecerán</color> por sí solos."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21113",
+    "text": "1.拍卖会每2年举办一次，所有人都可以参加竞拍，参加拍卖会不收取任何费用\n\n2.所有人均可在拍卖行中寄拍珍宝（品质较高的道具），寄拍时，拍卖行将会收取10%的底价费用。\n\n3.每个拍卖行所收集的道具境界不同，所有不同境界的道具需要到对应的拍卖行才可以寄拍。\n\n4.寄拍的道具会在下次拍卖会开启时进行竞拍，道具寄拍后不可直接取回。\n\n5.若道具在竞拍中流拍，则需要在一定时间内来拍卖行取回，否则将由拍卖行自行处理。\n\n6.竞拍成交后，拍卖行将会收取10%的成交费，寄拍者将可得到90%的成交价格。",
+    "es": "1.La subasta se celebra cada 2 años; cualquiera puede participar en las pujas y no se cobra ninguna tarifa por participar\n\n2.Cualquiera puede consignar tesoros (objetos de mayor calidad) en la casa de subastas. Al consignarlos, la casa de subastas cobrará una tarifa del 10% del precio base.\n\n3.Cada casa de subastas reúne objetos de reinos diferentes; los objetos de cada reino deben consignarse en la casa de subastas correspondiente.\n\n4.Los objetos consignados se subastarán cuando se abra la siguiente subasta; después de consignarlos no se pueden retirar directamente.\n\n5.Si un objeto no recibe ninguna puja, deberás retirarlo de la casa de subastas dentro de un plazo determinado; de lo contrario, la casa de subastas decidirá qué hacer con él.\n\n6.Cuando se complete una puja, la casa de subastas cobrará una tarifa de transacción del 10% y quien consignó el objeto recibirá el 90% del precio de venta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21114",
+    "text": "1.拍賣會每2年舉辦一次，所有人都可以參加競拍，參加拍賣會不收取任何費用\n\n2.所有人均可在拍賣行中寄拍珍寶（品質較高的道具），寄拍時，拍賣行將會收取10%的底價費用。\n\n3.每個拍賣行所收集的道具境界不同，所有不同境界的道具需要到對應的拍賣行才可以寄拍。\n\n4.寄拍的道具會在下次拍賣會開啟時進行競拍，道具寄拍後不可直接取回。\n\n5.若道具在競拍中流拍，則需要在一定時間內來拍賣行取回，否則將由拍賣行自行處理。\n\n6.競拍成交後，拍賣行將會收取10%的成交費，寄拍者將可得到90%的成交價格。",
+    "es": "1.La subasta se celebra cada 2 años; cualquiera puede participar en las pujas y no se cobra ninguna tarifa por participar\n\n2.Cualquiera puede consignar tesoros (objetos de mayor calidad) en la casa de subastas. Al consignarlos, la casa de subastas cobrará una tarifa del 10% del precio base.\n\n3.Cada casa de subastas reúne objetos de reinos diferentes; los objetos de cada reino deben consignarse en la casa de subastas correspondiente.\n\n4.Los objetos consignados se subastarán cuando se abra la siguiente subasta; después de consignarlos no se pueden retirar directamente.\n\n5.Si un objeto no recibe ninguna puja, deberás retirarlo de la casa de subastas dentro de un plazo determinado; de lo contrario, la casa de subastas decidirá qué hacer con él.\n\n6.Cuando se complete una puja, la casa de subastas cobrará una tarifa de transacción del 10% y quien consignó el objeto recibirá el 90% del precio de venta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21115",
+    "text": "1.挑战行为可能大幅度<r>降低</r>双方亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
+    "es": "1.La acción de desafiar puede <r>reducir</r> considerablemente la afinidad de ambas partes.\n2.Cada desafío requiere <r>consumir</r> {0} puntos de contribución de la secta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21116",
+    "text": "1.挑战行为可能大幅度<r>降低</r>对方及其真传弟子的亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
+    "es": "1.La acción de desafiar puede <r>reducir</r> considerablemente la afinidad de la otra persona y sus discípulos verdaderos.\n2.Cada desafío requiere <r>consumir</r> {0} puntos de contribución de la secta."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21123",
+    "text": "1.潛入聚寶仙樓可<r>盜取</r>物品。\n2.<r>隱匿時間</r>受建築禁制及自身是否被發現影響。\n3.每次盜取物品都會消耗一定的隱匿時間時間，花費的時間<r>超過</r>隱匿時間則有可能被宗門發現。\n4.時間<r>短暫</r>，請在時間結束前儘快行動。",
+    "es": "1.Infiltrarte en el Pabellón del Tesoro te permite <r>robar</r> objetos.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada robo consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21124",
+    "text": "1.潛入藏經閣可盜取秘籍。\n2.<r>隱匿時間</r>受建築禁制及自身是否被發現影響。\n3.每次盜取秘籍都會消耗一定的隱匿時間，花費的時間<r>超過</r>隱匿時間則有可能被宗門發現。\n4.時間<r>短暫</r>，請在時間結束前儘快行動。",
+    "es": "1.Infiltrarte en la Biblioteca de Manuales te permite robar manuales.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada robo de manuales consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21125",
+    "text": "1.潛入靈閣可<r>盜用</r>建築。\n2.<r>隱匿時間</r>受建築禁制及自身是否被發現影響。\n3.每次使用靈閣都會消耗一定的隱匿時間，花費的時間<r>超過</r>隱匿時間則有可能被宗門發現。\n4.強行吸卷靈閣中的靈氣後，此宗靈閣將靈氣凋敝，弟子數月內將無法提升修為，甚至在戰鬥中出現負面影響。\n5.時間<r>短暫</r>，請在時間結束前儘快行動。",
+    "es": "1.Infiltrarte en el Pabellón de los Espíritus te permite <r>usarlo indebidamente</r>.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada uso del Pabellón de los Espíritus consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.Tras absorber por la fuerza el Qi espiritual del Pabellón de los Espíritus, este quedará sin Qi espiritual; los discípulos no podrán aumentar su cultivo durante varios meses e incluso sufrirán efectos negativos en combate.\n5.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21126",
+    "text": "1.潜入灵阁可<r>盗用</r>建筑。\n2.<r>隐匿时间</r>受建筑禁制及自身是否被发现影响。\n3.每次使用灵阁都会消耗一定的隐匿时间，花费的时间<r>超过</r>隐匿时间则有可能被宗门发现。\n4.强行吸卷灵阁中的灵气后，此宗灵阁将灵气凋敝，弟子数月内将无法提升修为，甚至在战斗中出现负面影响。\n5.时间<r>短暂</r>，请在时间结束前尽快行动。",
+    "es": "1.Infiltrarte en el Pabellón de los Espíritus te permite <r>usarlo indebidamente</r>.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada uso del Pabellón de los Espíritus consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.Tras absorber por la fuerza el Qi espiritual del Pabellón de los Espíritus, este quedará sin Qi espiritual; los discípulos no podrán aumentar su cultivo durante varios meses e incluso sufrirán efectos negativos en combate.\n5.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21127",
+    "text": "1.潜入聚宝仙楼可<r>盗取</r>物品。\n2.<r>隐匿时间</r>受建筑禁制及自身是否被发现影响。\n3.每次盗取物品都会消耗一定的隐匿时间时间，花费的时间<r>超过</r>隐匿时间则有可能被宗门发现。\n4.时间<r>短暂</r>，请在时间结束前尽快行动。",
+    "es": "1.Infiltrarte en el Pabellón del Tesoro te permite <r>robar</r> objetos.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada robo consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21128",
+    "text": "1.潜入藏经阁可盗取秘籍。\n2.<r>隐匿时间</r>受建筑禁制及自身是否被发现影响。\n3.每次盗取秘籍都会消耗一定的隐匿时间，花费的时间<r>超过</r>隐匿时间则有可能被宗门发现。\n4.时间<r>短暂</r>，请在时间结束前尽快行动。",
+    "es": "1.Infiltrarte en la Biblioteca de Manuales te permite robar manuales.\n2.El <r>tiempo de ocultación</r> se ve afectado por las restricciones del edificio y por si te descubren.\n3.Cada robo de manuales consume cierta cantidad de tiempo de ocultación; si el tiempo invertido <r>supera</r> el tiempo de ocultación, la secta podría descubrirte.\n4.El tiempo es <r>corto</r>; actúa cuanto antes, antes de que se acabe."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21130",
+    "text": "1.炼妖壶版本，开放开局神器炼妖壶。支持玩家收集妖兽元魂，养成系统。\n2.优化炼丹功能，初步塑造出一个炼丹师路线（各种新的丹药将会逐步更新）。",
+    "es": "1.Versión de la Calabaza Mítica: se desbloquea la Calabaza Mítica como artefacto divino inicial. Permite a los jugadores recolectar almas primordiales de bestias demoníacas e incluye un sistema de desarrollo.\n2.Se optimiza la función de alquimia y se establece inicialmente una ruta de alquimista (se irán añadiendo nuevos elixires)."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21132",
+    "text": "1.煉妖壺版本，開放開局神器煉妖壺。支持玩家收集妖獸元魂，培養系統。\n2.優化煉丹功能，初步塑造出一個煉丹師路線（各種新的丹藥將會逐步更新）。",
+    "es": "1.Versión de la Calabaza Mítica: se desbloquea la Calabaza Mítica como artefacto divino inicial. Permite a los jugadores recolectar almas primordiales de bestias demoníacas e incluye un sistema de desarrollo.\n2.Se optimiza la función de alquimia y se establece inicialmente una ruta de alquimista (se irán añadiendo nuevos elixires)."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21133",
+    "text": "1.登仙每个境界都会获得一定的本源仙力。\n2.本源仙力可以用于装配仙法。\n3.每装配一个仙法都会消耗仙法对应的本源仙力，本源仙力不足时无法装配仙法。\n4.获得仙祠仙人的认可，便可参悟更多的本源仙力。",
+    "es": "1.En cada reino de la Ascensión se obtiene cierta cantidad de poder inmortal primordial.\n2.El poder inmortal primordial puede usarse para equipar técnicas inmortales.\n3.Equipar cada técnica inmortal consume la cantidad correspondiente de poder inmortal primordial; si no hay suficiente, no se pueden equipar técnicas inmortales.\n4.Al recibir el reconocimiento del inmortal del santuario inmortal, podrás comprender más poder inmortal primordial."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21134",
+    "text": "1.登仙每個境界都會獲得一定的本源仙力。\n2.本源仙力可以用於裝配仙法。\n3.每裝配一個仙法都會消耗仙法對應的本源仙力，本源仙力不足時無法裝配仙法。\n4.獲得仙祠仙人的認可，便可參悟更多的本源仙力。",
+    "es": "1.En cada reino de la Ascensión se obtiene cierta cantidad de poder inmortal primordial.\n2.El poder inmortal primordial puede usarse para equipar técnicas inmortales.\n3.Equipar cada técnica inmortal consume la cantidad correspondiente de poder inmortal primordial; si no hay suficiente, no se pueden equipar técnicas inmortales.\n4.Al recibir el reconocimiento del inmortal del santuario inmortal, podrás comprender más poder inmortal primordial."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21137",
+    "text": "1.若想要将宗门迁移至<b>{0}</b>，必须要先建造飞舟。\n2.取定岳旗，前往<b>{0}</b>寻找合适的位置并进行定位，便可以回到宗门开始进行迁移。",
+    "es": "1.Si quieres trasladar la secta a <b>{0}</b>, primero debes construir una nave voladora.\n2.Recoge la bandera de reubicación, ve a <b>{0}</b>, busca una ubicación adecuada y márcala; después podrás regresar a la secta para comenzar el traslado."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21138",
+    "text": "1.若想要將宗門遷移至<b>{0}</b>，必須要先建造飛舟。\n2.取定岳旗，前往<b>{0}</b>尋找合適的位置並進行定位，便可以回到宗門開始進行遷移。",
+    "es": "1.Si quieres trasladar la secta a <b>{0}</b>, primero debes construir una nave voladora.\n2.Recoge la bandera de reubicación, ve a <b>{0}</b>, busca una ubicación adecuada y márcala; después podrás regresar a la secta para comenzar el traslado."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21139",
+    "text": "1.跟屁龍系列逆天改命可以通過浸泡化不同級別的青鱗池獲得全新的效果。\n2.消耗一定的宗門資源可以升級青鱗池。\n3.青鱗池達到一定級別之後，會有神秘的特殊效果。\n4.在青鱗池中，可以點擊跟屁龍系列逆天改命進行互動促進感情，互動次數每2個月增加1次，最多可以累計3次互動次數。",
+    "es": "1.Las habilidades de desafiar al Cielo y cambiar el destino de la serie de Dragones Seguidores pueden obtener nuevos efectos al sumergirse en Estanques de Escama Verde de distintos niveles.\n2.Puedes mejorar el Estanque de Escama Verde consumiendo cierta cantidad de recursos de la secta.\n3.Cuando el Estanque de Escama Verde alcanza cierto nivel, obtiene efectos especiales misteriosos.\n4.En el Estanque de Escama Verde puedes hacer clic en las habilidades de desafiar al Cielo y cambiar el destino de la serie de Dragones Seguidores para interactuar y mejorar la relación. El número de interacciones aumenta en 1 cada 2 meses y se pueden acumular como máximo 3 interacciones."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21140",
+    "text": "1.跟屁龙系列逆天改命可以通过浸泡化不同级别的青鳞池获得全新的效果。\n2.消耗一定的宗门资源可以升级青鳞池。\n3.青鳞池达到一定级别之后，会有神秘的特殊效果。\n4.在青鳞池中，可以点击跟屁龙系列逆天改命进行互动促进感情，互动次数每2个月增加1次，最多可以累计3次互动次数。",
+    "es": "1.Las habilidades de desafiar al Cielo y cambiar el destino de la serie de Dragones Seguidores pueden obtener nuevos efectos al sumergirse en Estanques de Escama Verde de distintos niveles.\n2.Puedes mejorar el Estanque de Escama Verde consumiendo cierta cantidad de recursos de la secta.\n3.Cuando el Estanque de Escama Verde alcanza cierto nivel, obtiene efectos especiales misteriosos.\n4.En el Estanque de Escama Verde puedes hacer clic en las habilidades de desafiar al Cielo y cambiar el destino de la serie de Dragones Seguidores para interactuar y mejorar la relación. El número de interacciones aumenta en 1 cada 2 meses y se pueden acumular como máximo 3 interacciones."
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21199",
+    "text": "100\t身法沉默\t无法使用身法",
+    "es": "100\tSilencio de la técnica de movimiento\tNo se puede usar la técnica de movimiento"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21463",
+    "text": "100061\t蛇毒\t每0.5秒造成5点伤害",
+    "es": "100061\tVeneno de serpiente\tInflige 5 puntos de daño cada 0.5 segundos"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21465",
+    "text": "1000611\t蛇毒伤害\t造成5点固定伤害",
+    "es": "1000611\tDaño del veneno de serpiente\tInflige 5 puntos de daño fijo"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21469",
+    "text": "100071\t蜘蛛毒\t移速降低75%",
+    "es": "100071\tVeneno de araña\tReduce la velocidad de movimiento un 75%"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21486",
+    "text": "1001\t修改光环大小模板，发射器97使用\t",
+    "es": "1001\tModificar la plantilla del tamaño del aura, usada por el emisor 97\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21574",
+    "text": "1001死循环：",
+    "es": "1001 Bucle infinito:"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21577",
+    "text": "1002\t修改光环伤害模板，发射器97使用\t",
+    "es": "1002\tModificar la plantilla del daño del aura, usada por el emisor 97\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21607",
+    "text": "1003\t武技减速模板\t",
+    "es": "1003\tPlantilla de ralentización de técnica marcial\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21632",
+    "text": "10031111\t伤害增加\t",
+    "es": "10031111\tAumento de daño\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21633",
+    "text": "10031112\t受到伤害减少\t",
+    "es": "10031112\tReducción del daño recibido\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21634",
+    "text": "10031121\t伤害增加\t",
+    "es": "10031121\tAumento de daño\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21635",
+    "text": "10031122\t受到伤害减少\t",
+    "es": "10031122\tReducción del daño recibido\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21756",
+    "text": "100721\t树妖昊天眼效果\t减速",
+    "es": "100721\tEfecto de Ojo Haotian del demonio arbóreo\tRalentización"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21761",
+    "text": "100722\t树妖昊天眼效果\t对敌人造成伤害时，使敌人受到的伤害提升1%",
+    "es": "100722\tEfecto de Ojo Haotian del demonio arbóreo\tAl infligir daño a un enemigo, aumenta un 1% el daño que recibe"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21767",
+    "text": "100724\t树妖昊天眼效果\t使用昊天眼技能后，为自身施加效果",
+    "es": "100724\tEfecto de Ojo Haotian del demonio arbóreo\tDespués de usar la habilidad Ojo Haotian, se aplica a sí mismo un efecto"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21769",
+    "text": "1007241\t\t修改绝技威力万分比",
+    "es": "1007241\t\tModificar la proporción del poder de la técnica suprema en diezmilésimas"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21773",
+    "text": "100726\t老树回血\t每0.5秒回复0.1%的血量",
+    "es": "100726\tCuración del árbol anciano\tRecupera un 0.1% de los PV cada 0.5 segundos"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21775",
+    "text": "1007261\t回血效果\t回复0.1%的血量",
+    "es": "1007261\tEfecto de recuperación de PV\tRecupera un 0.1% de los PV"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21778",
+    "text": "1007271\t老树晕眩\t晕眩7秒",
+    "es": "1007271\tAturdimiento del árbol anciano\tAturde durante 7 segundos"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21779",
+    "text": "1007272\t老树虚弱\t受到伤害提升200%，持续7秒",
+    "es": "1007272\tDebilitamiento del árbol anciano\tEl daño recibido aumenta un 200% durante 7 segundos"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21868",
+    "text": "100次都没出词条：{0} 删档重来吧！！！！！！！",
+    "es": "Tras 100 intentos sigues sin obtener el atributo: {0}. ¡Borra el archivo y vuelve a empezar!"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "21870",
+    "text": "101\t无法死亡\t",
+    "es": "101\tNo se puede morir\t"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "22049",
+    "text": "1011161\t六品蓄力丹\t增加1攻击力",
+    "es": "1011161\tElixir de carga G6\tAumenta 1 punto de ATQ"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "22051",
+    "text": "1011162\t五品蓄力丹\t增加2攻击力",
+    "es": "1011162\tElixir de carga G5\tAumenta 2 puntos de ATQ"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "22053",
+    "text": "1011163\t四品蓄力丹\t增加3攻击力",
+    "es": "1011163\tElixir de carga G4\tAumenta 3 puntos de ATQ"
+  },
+  {
+    "source_namespace": "string_literal",
+    "id": "22055",
+    "text": "1011164\t三品蓄力丹\t增加4攻击力",
+    "es": "1011164\tElixir de carga G3\tAumenta 4 puntos de ATQ"
+  }
+]

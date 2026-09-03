@@ -1,4 +1,6 @@
 using HarmonyLib;
+using TMPro;
+using UnityEngine.UI;
 
 namespace MOD_pzAi9g.Localization
 {
@@ -97,6 +99,28 @@ namespace MOD_pzAi9g.Localization
             string value;
             if (SpanishLocale.TryPrefixName(item, out value))
                 __result = value;
+        }
+    }
+
+    [HarmonyPatch(typeof(Text), "set_text")]
+    internal static class UnityTextGlobalMetadataPatch
+    {
+        private static void Prefix(ref string value)
+        {
+            string translation;
+            if (SpanishLocale.TryGlobalMetadata(value, out translation))
+                value = SpanishLocaleTextFormatter.Format(translation);
+        }
+    }
+
+    [HarmonyPatch(typeof(TMP_Text), "set_text")]
+    internal static class TmpTextGlobalMetadataPatch
+    {
+        private static void Prefix(ref string value)
+        {
+            string translation;
+            if (SpanishLocale.TryGlobalMetadata(value, out translation))
+                value = SpanishLocaleTextFormatter.Format(translation);
         }
     }
 }

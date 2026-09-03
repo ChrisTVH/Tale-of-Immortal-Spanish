@@ -62,9 +62,14 @@ python3 Scripts/process_json_files.py
 
 python3 Scripts/update_project_files.py --dry-run
 python3 Scripts/update_project_files.py
+
+python3 Scripts/build_global_metadata_candidates.py --dry-run
+python3 Scripts/build_global_metadata_candidates.py
 ```
 
 `process_json_files.py` valida y transforma los archivos en `Scripts/Output/Processed/`. Después, `update_project_files.py` incorpora las entradas nuevas a `Localization/Spanish/`. Este último script no reemplaza automáticamente las traducciones existentes.
+
+`build_global_metadata_candidates.py` actualiza el catálogo editable `GlobalMetadata.json` con los literales chinos no vinculados a una tabla de configuración y genera `GlobalMetadata.runtime.json` con las entradas que ya tienen traducción. El mod solo incorpora este último recurso para no cargar candidatos pendientes en runtime.
 
 ## Compilar el mod
 
